@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-1BIN.cpp
+iostream
+-
+string
+-
+vector
+-
+
