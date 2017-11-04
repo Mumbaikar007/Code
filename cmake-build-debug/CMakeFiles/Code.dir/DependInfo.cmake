@@ -32,6 +32,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-1.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-1.cpp.o"
   "/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-1BIN.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-1BIN.cpp.o"
   "/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-2A.cpp.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2A.cpp.cpp.o"
+  "/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-2B.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2B.cpp.o"
   "/home/optimus/MEGA/Code/HackerEarth/Choosing the judges.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/HackerEarth/Choosing_the_judges.cpp.o"
   "/home/optimus/MEGA/Code/HackerEarth/Factorial.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/HackerEarth/Factorial.cpp.o"
   "/home/optimus/MEGA/Code/HackerEarth/Intelligent Girl.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/HackerEarth/Intelligent_Girl.cpp.o"

@@ -209,10 +209,13 @@
 			<Option target="Code"/>
 		</Unit>
 		<Unit filename="/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-1BIN.cpp">
-			<Option target="single_file_exe"/>
 			<Option target="Code"/>
 		</Unit>
 		<Unit filename="/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-2A.cpp.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-2B.cpp">
+			<Option target="single_file_exe"/>
 			<Option target="Code"/>
 		</Unit>
 		<Unit filename="/home/optimus/MEGA/Code/HackerEarth/Choosing the judges.cpp">

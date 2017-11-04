@@ -844,7 +844,6 @@ Cracking_the_Coding_Interview/Array_and_Strings/Q1-1BIN.o: Cracking_the_Coding_I
 
 # target to build an object file
 Cracking_the_Coding_Interview/Array_and_Strings/Q1-1BIN.cpp.o:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-1BIN.cpp.o
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-1BIN.cpp.o
 .PHONY : Cracking_the_Coding_Interview/Array_and_Strings/Q1-1BIN.cpp.o
 
@@ -854,7 +853,6 @@ Cracking_the_Coding_Interview/Array_and_Strings/Q1-1BIN.i: Cracking_the_Coding_I
 
 # target to preprocess a source file
 Cracking_the_Coding_Interview/Array_and_Strings/Q1-1BIN.cpp.i:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-1BIN.cpp.i
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-1BIN.cpp.i
 .PHONY : Cracking_the_Coding_Interview/Array_and_Strings/Q1-1BIN.cpp.i
 
@@ -864,7 +862,6 @@ Cracking_the_Coding_Interview/Array_and_Strings/Q1-1BIN.s: Cracking_the_Coding_I
 
 # target to generate assembly for a file
 Cracking_the_Coding_Interview/Array_and_Strings/Q1-1BIN.cpp.s:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-1BIN.cpp.s
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-1BIN.cpp.s
 .PHONY : Cracking_the_Coding_Interview/Array_and_Strings/Q1-1BIN.cpp.s
 
@@ -894,6 +891,36 @@ Cracking_the_Coding_Interview/Array_and_Strings/Q1-2A.cpp.s: Cracking_the_Coding
 Cracking_the_Coding_Interview/Array_and_Strings/Q1-2A.cpp.cpp.s:
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2A.cpp.cpp.s
 .PHONY : Cracking_the_Coding_Interview/Array_and_Strings/Q1-2A.cpp.cpp.s
+
+Cracking_the_Coding_Interview/Array_and_Strings/Q1-2B.o: Cracking_the_Coding_Interview/Array_and_Strings/Q1-2B.cpp.o
+
+.PHONY : Cracking_the_Coding_Interview/Array_and_Strings/Q1-2B.o
+
+# target to build an object file
+Cracking_the_Coding_Interview/Array_and_Strings/Q1-2B.cpp.o:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2B.cpp.o
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2B.cpp.o
+.PHONY : Cracking_the_Coding_Interview/Array_and_Strings/Q1-2B.cpp.o
+
+Cracking_the_Coding_Interview/Array_and_Strings/Q1-2B.i: Cracking_the_Coding_Interview/Array_and_Strings/Q1-2B.cpp.i
+
+.PHONY : Cracking_the_Coding_Interview/Array_and_Strings/Q1-2B.i
+
+# target to preprocess a source file
+Cracking_the_Coding_Interview/Array_and_Strings/Q1-2B.cpp.i:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2B.cpp.i
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2B.cpp.i
+.PHONY : Cracking_the_Coding_Interview/Array_and_Strings/Q1-2B.cpp.i
+
+Cracking_the_Coding_Interview/Array_and_Strings/Q1-2B.s: Cracking_the_Coding_Interview/Array_and_Strings/Q1-2B.cpp.s
+
+.PHONY : Cracking_the_Coding_Interview/Array_and_Strings/Q1-2B.s
+
+# target to generate assembly for a file
+Cracking_the_Coding_Interview/Array_and_Strings/Q1-2B.cpp.s:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2B.cpp.s
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2B.cpp.s
+.PHONY : Cracking_the_Coding_Interview/Array_and_Strings/Q1-2B.cpp.s
 
 HackerEarth/Choosing_the_judges.o: HackerEarth/Choosing_the_judges.cpp.o
 
@@ -1988,6 +2015,9 @@ help:
 	@echo "... Cracking_the_Coding_Interview/Array_and_Strings/Q1-2A.cpp.o"
 	@echo "... Cracking_the_Coding_Interview/Array_and_Strings/Q1-2A.cpp.i"
 	@echo "... Cracking_the_Coding_Interview/Array_and_Strings/Q1-2A.cpp.s"
+	@echo "... Cracking_the_Coding_Interview/Array_and_Strings/Q1-2B.o"
+	@echo "... Cracking_the_Coding_Interview/Array_and_Strings/Q1-2B.i"
+	@echo "... Cracking_the_Coding_Interview/Array_and_Strings/Q1-2B.s"
 	@echo "... HackerEarth/Choosing_the_judges.o"
 	@echo "... HackerEarth/Choosing_the_judges.i"
 	@echo "... HackerEarth/Choosing_the_judges.s"
