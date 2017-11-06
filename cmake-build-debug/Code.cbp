@@ -215,6 +215,12 @@
 			<Option target="Code"/>
 		</Unit>
 		<Unit filename="/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-2B.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-3.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-4.cpp">
 			<Option target="single_file_exe"/>
 			<Option target="Code"/>
 		</Unit>

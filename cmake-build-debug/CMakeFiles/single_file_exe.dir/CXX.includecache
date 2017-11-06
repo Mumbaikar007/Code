@@ -6,11 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-2B.cpp
+/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-4.cpp
 iostream
 -
 string
 -
-algorithm
+vector
+-
+iterator
 -
 

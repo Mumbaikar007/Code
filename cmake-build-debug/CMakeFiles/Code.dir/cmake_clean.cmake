@@ -65,6 +65,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/Code.dir/SPOJ/TETRA_-_Sphere_in_a_tetrahedron(SPOJ-16).cpp.o"
   "CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2A.cpp.cpp.o"
   "CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2B.cpp.o"
+  "CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-3.cpp.o"
+  "CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.cpp.o"
   "Code.pdb"
   "Code"
 )

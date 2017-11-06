@@ -1641,6 +1641,54 @@ CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2B.cpp.o.
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2B.cpp.o.provides.build: CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2B.cpp.o
 
 
+CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-3.cpp.o: CMakeFiles/Code.dir/flags.make
+CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-3.cpp.o: ../Cracking\ the\ Coding\ Interview/Array\ and\ Strings/Q1-3.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-3.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-3.cpp.o -c "/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-3.cpp"
+
+CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-3.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-3.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-3.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-3.cpp.i
+
+CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-3.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-3.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-3.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-3.cpp.s
+
+CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-3.cpp.o.requires:
+
+.PHONY : CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-3.cpp.o.requires
+
+CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-3.cpp.o.provides: CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-3.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-3.cpp.o.provides.build
+.PHONY : CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-3.cpp.o.provides
+
+CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-3.cpp.o.provides.build: CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-3.cpp.o
+
+
+CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.cpp.o: CMakeFiles/Code.dir/flags.make
+CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.cpp.o: ../Cracking\ the\ Coding\ Interview/Array\ and\ Strings/Q1-4.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.cpp.o -c "/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-4.cpp"
+
+CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-4.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.cpp.i
+
+CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-4.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.cpp.s
+
+CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.cpp.o.requires:
+
+.PHONY : CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.cpp.o.requires
+
+CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.cpp.o.provides: CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.cpp.o.provides.build
+.PHONY : CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.cpp.o.provides
+
+CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.cpp.o.provides.build: CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.cpp.o
+
+
 # Object files for target Code
 Code_OBJECTS = \
 "CMakeFiles/Code.dir/CLRS/Dynamic_Programming/Cut-Rod-Problem-Memorization-Top-Down.cpp.o" \
@@ -1708,7 +1756,9 @@ Code_OBJECTS = \
 "CMakeFiles/Code.dir/SPOJ/SAMER08F_-_Feynman(SPOJ-3410).cpp.o" \
 "CMakeFiles/Code.dir/SPOJ/TETRA_-_Sphere_in_a_tetrahedron(SPOJ-16).cpp.o" \
 "CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2A.cpp.cpp.o" \
-"CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2B.cpp.o"
+"CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2B.cpp.o" \
+"CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-3.cpp.o" \
+"CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.cpp.o"
 
 # External object files for target Code
 Code_EXTERNAL_OBJECTS =
@@ -1779,9 +1829,11 @@ Code: CMakeFiles/Code.dir/SPOJ/SAMER08F_-_Feynman(SPOJ-3410).cpp.o
 Code: CMakeFiles/Code.dir/SPOJ/TETRA_-_Sphere_in_a_tetrahedron(SPOJ-16).cpp.o
 Code: CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2A.cpp.cpp.o
 Code: CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2B.cpp.o
+Code: CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-3.cpp.o
+Code: CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.cpp.o
 Code: CMakeFiles/Code.dir/build.make
 Code: CMakeFiles/Code.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Linking CXX executable Code"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Linking CXX executable Code"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Code.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -1855,6 +1907,8 @@ CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/SPOJ/SAMER08F_-_Feynman(SPOJ-3
 CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/SPOJ/TETRA_-_Sphere_in_a_tetrahedron(SPOJ-16).cpp.o.requires
 CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2A.cpp.cpp.o.requires
 CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2B.cpp.o.requires
+CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-3.cpp.o.requires
+CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.cpp.o.requires
 
 .PHONY : CMakeFiles/Code.dir/requires
 
