@@ -649,6 +649,90 @@ CodeChef/MINPERM.cpp.s:
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/MINPERM.cpp.s
 .PHONY : CodeChef/MINPERM.cpp.s
 
+CodeChef/Novermber_Challenge_2017/CLRL.o: CodeChef/Novermber_Challenge_2017/CLRL.cpp.o
+
+.PHONY : CodeChef/Novermber_Challenge_2017/CLRL.o
+
+# target to build an object file
+CodeChef/Novermber_Challenge_2017/CLRL.cpp.o:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/CodeChef/Novermber_Challenge_2017/CLRL.cpp.o
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/CLRL.cpp.o
+.PHONY : CodeChef/Novermber_Challenge_2017/CLRL.cpp.o
+
+CodeChef/Novermber_Challenge_2017/CLRL.i: CodeChef/Novermber_Challenge_2017/CLRL.cpp.i
+
+.PHONY : CodeChef/Novermber_Challenge_2017/CLRL.i
+
+# target to preprocess a source file
+CodeChef/Novermber_Challenge_2017/CLRL.cpp.i:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/CodeChef/Novermber_Challenge_2017/CLRL.cpp.i
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/CLRL.cpp.i
+.PHONY : CodeChef/Novermber_Challenge_2017/CLRL.cpp.i
+
+CodeChef/Novermber_Challenge_2017/CLRL.s: CodeChef/Novermber_Challenge_2017/CLRL.cpp.s
+
+.PHONY : CodeChef/Novermber_Challenge_2017/CLRL.s
+
+# target to generate assembly for a file
+CodeChef/Novermber_Challenge_2017/CLRL.cpp.s:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/CodeChef/Novermber_Challenge_2017/CLRL.cpp.s
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/CLRL.cpp.s
+.PHONY : CodeChef/Novermber_Challenge_2017/CLRL.cpp.s
+
+CodeChef/Novermber_Challenge_2017/PERPALIN.o: CodeChef/Novermber_Challenge_2017/PERPALIN.cpp.o
+
+.PHONY : CodeChef/Novermber_Challenge_2017/PERPALIN.o
+
+# target to build an object file
+CodeChef/Novermber_Challenge_2017/PERPALIN.cpp.o:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/PERPALIN.cpp.o
+.PHONY : CodeChef/Novermber_Challenge_2017/PERPALIN.cpp.o
+
+CodeChef/Novermber_Challenge_2017/PERPALIN.i: CodeChef/Novermber_Challenge_2017/PERPALIN.cpp.i
+
+.PHONY : CodeChef/Novermber_Challenge_2017/PERPALIN.i
+
+# target to preprocess a source file
+CodeChef/Novermber_Challenge_2017/PERPALIN.cpp.i:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/PERPALIN.cpp.i
+.PHONY : CodeChef/Novermber_Challenge_2017/PERPALIN.cpp.i
+
+CodeChef/Novermber_Challenge_2017/PERPALIN.s: CodeChef/Novermber_Challenge_2017/PERPALIN.cpp.s
+
+.PHONY : CodeChef/Novermber_Challenge_2017/PERPALIN.s
+
+# target to generate assembly for a file
+CodeChef/Novermber_Challenge_2017/PERPALIN.cpp.s:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/PERPALIN.cpp.s
+.PHONY : CodeChef/Novermber_Challenge_2017/PERPALIN.cpp.s
+
+CodeChef/Novermber_Challenge_2017/VILTRIBE.o: CodeChef/Novermber_Challenge_2017/VILTRIBE.cpp.o
+
+.PHONY : CodeChef/Novermber_Challenge_2017/VILTRIBE.o
+
+# target to build an object file
+CodeChef/Novermber_Challenge_2017/VILTRIBE.cpp.o:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/VILTRIBE.cpp.o
+.PHONY : CodeChef/Novermber_Challenge_2017/VILTRIBE.cpp.o
+
+CodeChef/Novermber_Challenge_2017/VILTRIBE.i: CodeChef/Novermber_Challenge_2017/VILTRIBE.cpp.i
+
+.PHONY : CodeChef/Novermber_Challenge_2017/VILTRIBE.i
+
+# target to preprocess a source file
+CodeChef/Novermber_Challenge_2017/VILTRIBE.cpp.i:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/VILTRIBE.cpp.i
+.PHONY : CodeChef/Novermber_Challenge_2017/VILTRIBE.cpp.i
+
+CodeChef/Novermber_Challenge_2017/VILTRIBE.s: CodeChef/Novermber_Challenge_2017/VILTRIBE.cpp.s
+
+.PHONY : CodeChef/Novermber_Challenge_2017/VILTRIBE.s
+
+# target to generate assembly for a file
+CodeChef/Novermber_Challenge_2017/VILTRIBE.cpp.s:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/VILTRIBE.cpp.s
+.PHONY : CodeChef/Novermber_Challenge_2017/VILTRIBE.cpp.s
+
 CodeChef/RAINBOWA.o: CodeChef/RAINBOWA.cpp.o
 
 .PHONY : CodeChef/RAINBOWA.o
@@ -952,7 +1036,6 @@ Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.o: Cracking_the_Coding_Inte
 
 # target to build an object file
 Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.cpp.o:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.cpp.o
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.cpp.o
 .PHONY : Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.cpp.o
 
@@ -962,7 +1045,6 @@ Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.i: Cracking_the_Coding_Inte
 
 # target to preprocess a source file
 Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.cpp.i:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.cpp.i
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.cpp.i
 .PHONY : Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.cpp.i
 
@@ -972,7 +1054,6 @@ Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.s: Cracking_the_Coding_Inte
 
 # target to generate assembly for a file
 Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.cpp.s:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.cpp.s
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.cpp.s
 .PHONY : Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.cpp.s
 
@@ -2042,6 +2123,15 @@ help:
 	@echo "... CodeChef/MINPERM.o"
 	@echo "... CodeChef/MINPERM.i"
 	@echo "... CodeChef/MINPERM.s"
+	@echo "... CodeChef/Novermber_Challenge_2017/CLRL.o"
+	@echo "... CodeChef/Novermber_Challenge_2017/CLRL.i"
+	@echo "... CodeChef/Novermber_Challenge_2017/CLRL.s"
+	@echo "... CodeChef/Novermber_Challenge_2017/PERPALIN.o"
+	@echo "... CodeChef/Novermber_Challenge_2017/PERPALIN.i"
+	@echo "... CodeChef/Novermber_Challenge_2017/PERPALIN.s"
+	@echo "... CodeChef/Novermber_Challenge_2017/VILTRIBE.o"
+	@echo "... CodeChef/Novermber_Challenge_2017/VILTRIBE.i"
+	@echo "... CodeChef/Novermber_Challenge_2017/VILTRIBE.s"
 	@echo "... CodeChef/RAINBOWA.o"
 	@echo "... CodeChef/RAINBOWA.i"
 	@echo "... CodeChef/RAINBOWA.s"

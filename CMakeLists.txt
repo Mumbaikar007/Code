@@ -67,9 +67,9 @@ set(SOURCE_FILES
         "SPOJ/FCTRL2 - Small factorials(SPOJ-24).cpp"
         "SPOJ/NSTEPS - Number Steps (SPOJ-1112 ).cpp"
         "SPOJ/SAMER08F - Feynman(SPOJ-3410).cpp"
-        "SPOJ/TETRA - Sphere in a tetrahedron(SPOJ-16).cpp" "Cracking the Coding Interview/Array and Strings/Q1-2A.cpp.cpp" "Cracking the Coding Interview/Array and Strings/Q1-2B.cpp" "Cracking the Coding Interview/Array and Strings/Q1-3.cpp" "Cracking the Coding Interview/Array and Strings/Q1-4.cpp")
+        "SPOJ/TETRA - Sphere in a tetrahedron(SPOJ-16).cpp" "Cracking the Coding Interview/Array and Strings/Q1-2A.cpp.cpp" "Cracking the Coding Interview/Array and Strings/Q1-2B.cpp" "Cracking the Coding Interview/Array and Strings/Q1-3.cpp" "Cracking the Coding Interview/Array and Strings/Q1-4.cpp" "CodeChef/Novermber Challenge 2017/VILTRIBE.cpp" "CodeChef/Novermber Challenge 2017/CLRL.cpp" "CodeChef/Novermber Challenge 2017/PERPALIN.cpp")
 
 add_executable(Code ${SOURCE_FILES})
 
-add_executable(single_file_exe "Cracking the Coding Interview/Array and Strings/Q1-4.cpp")
-set_target_properties(single_file_exe PROPERTIES RUNTIME_OUTPUT_DIRECTORY "${CMAKE_CURRENT_SOURCE_DIR}/Cracking the Coding Interview/Array and Strings/")
+add_executable(single_file_exe "CodeChef/Novermber Challenge 2017/CLRL.cpp")
+set_target_properties(single_file_exe PROPERTIES RUNTIME_OUTPUT_DIRECTORY "${CMAKE_CURRENT_SOURCE_DIR}/CodeChef/Novermber Challenge 2017/")
