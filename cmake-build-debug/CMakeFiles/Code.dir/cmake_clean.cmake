@@ -70,6 +70,11 @@ file(REMOVE_RECURSE
   "CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/VILTRIBE.cpp.o"
   "CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/CLRL.cpp.o"
   "CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/PERPALIN.cpp.o"
+  "CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-5.cpp.cpp.o"
+  "CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-6.cpp.o"
+  "CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-7.cpp.o"
+  "CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-8.cpp.o"
+  "CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.cpp.o"
   "Code.pdb"
   "Code"
 )

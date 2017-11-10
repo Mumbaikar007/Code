@@ -7,28 +7,6 @@
 
 using namespace std;
 
-string permute( string str, int l, int r ){
-
-    if ( l == r ){
-
-        int palin = 1;
-        for ( int i = 0 ; i < str.size()/2 ; i ++){
-            if ( str[i] != str[str.size() - 1 - i]){
-                palin = 0;
-                break;
-            }
-        }
-        return ( palin ) ? str : "N";
-    }
-
-    else {
-        string aa = "ab";
-        for ( int i = 0 ; i < aa.size(); i ++){
-            swap ()
-        }
-    }
-
-}
 
 int main(){
 
@@ -40,7 +18,39 @@ int main(){
         int n, p;
         cin >> n >> p;
 
-        string pal =
+        if ( p <= 2 )
+            cout << "impossible" << endl;
+
+        else {
+
+            string op = "";
+
+            if ( p % 2 ){
+
+                string pal = "";
+                for ( int i = 0 ; i < p ; i ++)
+                    pal+= 'a';
+                pal[p/2] = 'b';
+
+                int d = n/p;
+                for ( int i = 0 ; i < d ; i ++)
+                    op += pal;
+            }
+
+            else {
+                string pal = "";
+                for ( int i = 0 ; i < p ; i ++)
+                    pal+= "a";
+                pal[p/2] = 'b';
+                pal[(p/2) - 1] = 'b';
+                int d = n/p;
+                for ( int i = 0 ; i < d ; i ++)
+                    op += pal;
+
+            }
+
+            cout << op << endl;
+        }
 
     }
 

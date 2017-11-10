@@ -655,7 +655,6 @@ CodeChef/Novermber_Challenge_2017/CLRL.o: CodeChef/Novermber_Challenge_2017/CLRL
 
 # target to build an object file
 CodeChef/Novermber_Challenge_2017/CLRL.cpp.o:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/CodeChef/Novermber_Challenge_2017/CLRL.cpp.o
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/CLRL.cpp.o
 .PHONY : CodeChef/Novermber_Challenge_2017/CLRL.cpp.o
 
@@ -665,7 +664,6 @@ CodeChef/Novermber_Challenge_2017/CLRL.i: CodeChef/Novermber_Challenge_2017/CLRL
 
 # target to preprocess a source file
 CodeChef/Novermber_Challenge_2017/CLRL.cpp.i:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/CodeChef/Novermber_Challenge_2017/CLRL.cpp.i
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/CLRL.cpp.i
 .PHONY : CodeChef/Novermber_Challenge_2017/CLRL.cpp.i
 
@@ -675,7 +673,6 @@ CodeChef/Novermber_Challenge_2017/CLRL.s: CodeChef/Novermber_Challenge_2017/CLRL
 
 # target to generate assembly for a file
 CodeChef/Novermber_Challenge_2017/CLRL.cpp.s:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/CodeChef/Novermber_Challenge_2017/CLRL.cpp.s
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/CLRL.cpp.s
 .PHONY : CodeChef/Novermber_Challenge_2017/CLRL.cpp.s
 
@@ -1056,6 +1053,144 @@ Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.s: Cracking_the_Coding_Inte
 Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.cpp.s:
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.cpp.s
 .PHONY : Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.cpp.s
+
+Cracking_the_Coding_Interview/Array_and_Strings/Q1-5.cpp.o: Cracking_the_Coding_Interview/Array_and_Strings/Q1-5.cpp.cpp.o
+
+.PHONY : Cracking_the_Coding_Interview/Array_and_Strings/Q1-5.cpp.o
+
+# target to build an object file
+Cracking_the_Coding_Interview/Array_and_Strings/Q1-5.cpp.cpp.o:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-5.cpp.cpp.o
+.PHONY : Cracking_the_Coding_Interview/Array_and_Strings/Q1-5.cpp.cpp.o
+
+Cracking_the_Coding_Interview/Array_and_Strings/Q1-5.cpp.i: Cracking_the_Coding_Interview/Array_and_Strings/Q1-5.cpp.cpp.i
+
+.PHONY : Cracking_the_Coding_Interview/Array_and_Strings/Q1-5.cpp.i
+
+# target to preprocess a source file
+Cracking_the_Coding_Interview/Array_and_Strings/Q1-5.cpp.cpp.i:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-5.cpp.cpp.i
+.PHONY : Cracking_the_Coding_Interview/Array_and_Strings/Q1-5.cpp.cpp.i
+
+Cracking_the_Coding_Interview/Array_and_Strings/Q1-5.cpp.s: Cracking_the_Coding_Interview/Array_and_Strings/Q1-5.cpp.cpp.s
+
+.PHONY : Cracking_the_Coding_Interview/Array_and_Strings/Q1-5.cpp.s
+
+# target to generate assembly for a file
+Cracking_the_Coding_Interview/Array_and_Strings/Q1-5.cpp.cpp.s:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-5.cpp.cpp.s
+.PHONY : Cracking_the_Coding_Interview/Array_and_Strings/Q1-5.cpp.cpp.s
+
+Cracking_the_Coding_Interview/Array_and_Strings/Q1-6.o: Cracking_the_Coding_Interview/Array_and_Strings/Q1-6.cpp.o
+
+.PHONY : Cracking_the_Coding_Interview/Array_and_Strings/Q1-6.o
+
+# target to build an object file
+Cracking_the_Coding_Interview/Array_and_Strings/Q1-6.cpp.o:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-6.cpp.o
+.PHONY : Cracking_the_Coding_Interview/Array_and_Strings/Q1-6.cpp.o
+
+Cracking_the_Coding_Interview/Array_and_Strings/Q1-6.i: Cracking_the_Coding_Interview/Array_and_Strings/Q1-6.cpp.i
+
+.PHONY : Cracking_the_Coding_Interview/Array_and_Strings/Q1-6.i
+
+# target to preprocess a source file
+Cracking_the_Coding_Interview/Array_and_Strings/Q1-6.cpp.i:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-6.cpp.i
+.PHONY : Cracking_the_Coding_Interview/Array_and_Strings/Q1-6.cpp.i
+
+Cracking_the_Coding_Interview/Array_and_Strings/Q1-6.s: Cracking_the_Coding_Interview/Array_and_Strings/Q1-6.cpp.s
+
+.PHONY : Cracking_the_Coding_Interview/Array_and_Strings/Q1-6.s
+
+# target to generate assembly for a file
+Cracking_the_Coding_Interview/Array_and_Strings/Q1-6.cpp.s:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-6.cpp.s
+.PHONY : Cracking_the_Coding_Interview/Array_and_Strings/Q1-6.cpp.s
+
+Cracking_the_Coding_Interview/Array_and_Strings/Q1-7.o: Cracking_the_Coding_Interview/Array_and_Strings/Q1-7.cpp.o
+
+.PHONY : Cracking_the_Coding_Interview/Array_and_Strings/Q1-7.o
+
+# target to build an object file
+Cracking_the_Coding_Interview/Array_and_Strings/Q1-7.cpp.o:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-7.cpp.o
+.PHONY : Cracking_the_Coding_Interview/Array_and_Strings/Q1-7.cpp.o
+
+Cracking_the_Coding_Interview/Array_and_Strings/Q1-7.i: Cracking_the_Coding_Interview/Array_and_Strings/Q1-7.cpp.i
+
+.PHONY : Cracking_the_Coding_Interview/Array_and_Strings/Q1-7.i
+
+# target to preprocess a source file
+Cracking_the_Coding_Interview/Array_and_Strings/Q1-7.cpp.i:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-7.cpp.i
+.PHONY : Cracking_the_Coding_Interview/Array_and_Strings/Q1-7.cpp.i
+
+Cracking_the_Coding_Interview/Array_and_Strings/Q1-7.s: Cracking_the_Coding_Interview/Array_and_Strings/Q1-7.cpp.s
+
+.PHONY : Cracking_the_Coding_Interview/Array_and_Strings/Q1-7.s
+
+# target to generate assembly for a file
+Cracking_the_Coding_Interview/Array_and_Strings/Q1-7.cpp.s:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-7.cpp.s
+.PHONY : Cracking_the_Coding_Interview/Array_and_Strings/Q1-7.cpp.s
+
+Cracking_the_Coding_Interview/Array_and_Strings/Q1-8.o: Cracking_the_Coding_Interview/Array_and_Strings/Q1-8.cpp.o
+
+.PHONY : Cracking_the_Coding_Interview/Array_and_Strings/Q1-8.o
+
+# target to build an object file
+Cracking_the_Coding_Interview/Array_and_Strings/Q1-8.cpp.o:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-8.cpp.o
+.PHONY : Cracking_the_Coding_Interview/Array_and_Strings/Q1-8.cpp.o
+
+Cracking_the_Coding_Interview/Array_and_Strings/Q1-8.i: Cracking_the_Coding_Interview/Array_and_Strings/Q1-8.cpp.i
+
+.PHONY : Cracking_the_Coding_Interview/Array_and_Strings/Q1-8.i
+
+# target to preprocess a source file
+Cracking_the_Coding_Interview/Array_and_Strings/Q1-8.cpp.i:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-8.cpp.i
+.PHONY : Cracking_the_Coding_Interview/Array_and_Strings/Q1-8.cpp.i
+
+Cracking_the_Coding_Interview/Array_and_Strings/Q1-8.s: Cracking_the_Coding_Interview/Array_and_Strings/Q1-8.cpp.s
+
+.PHONY : Cracking_the_Coding_Interview/Array_and_Strings/Q1-8.s
+
+# target to generate assembly for a file
+Cracking_the_Coding_Interview/Array_and_Strings/Q1-8.cpp.s:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-8.cpp.s
+.PHONY : Cracking_the_Coding_Interview/Array_and_Strings/Q1-8.cpp.s
+
+Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.o: Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.cpp.o
+
+.PHONY : Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.o
+
+# target to build an object file
+Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.cpp.o:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.cpp.o
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.cpp.o
+.PHONY : Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.cpp.o
+
+Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.i: Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.cpp.i
+
+.PHONY : Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.i
+
+# target to preprocess a source file
+Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.cpp.i:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.cpp.i
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.cpp.i
+.PHONY : Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.cpp.i
+
+Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.s: Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.cpp.s
+
+.PHONY : Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.s
+
+# target to generate assembly for a file
+Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.cpp.s:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.cpp.s
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.cpp.s
+.PHONY : Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.cpp.s
 
 HackerEarth/Choosing_the_judges.o: HackerEarth/Choosing_the_judges.cpp.o
 
@@ -2168,6 +2303,21 @@ help:
 	@echo "... Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.o"
 	@echo "... Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.i"
 	@echo "... Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.s"
+	@echo "... Cracking_the_Coding_Interview/Array_and_Strings/Q1-5.cpp.o"
+	@echo "... Cracking_the_Coding_Interview/Array_and_Strings/Q1-5.cpp.i"
+	@echo "... Cracking_the_Coding_Interview/Array_and_Strings/Q1-5.cpp.s"
+	@echo "... Cracking_the_Coding_Interview/Array_and_Strings/Q1-6.o"
+	@echo "... Cracking_the_Coding_Interview/Array_and_Strings/Q1-6.i"
+	@echo "... Cracking_the_Coding_Interview/Array_and_Strings/Q1-6.s"
+	@echo "... Cracking_the_Coding_Interview/Array_and_Strings/Q1-7.o"
+	@echo "... Cracking_the_Coding_Interview/Array_and_Strings/Q1-7.i"
+	@echo "... Cracking_the_Coding_Interview/Array_and_Strings/Q1-7.s"
+	@echo "... Cracking_the_Coding_Interview/Array_and_Strings/Q1-8.o"
+	@echo "... Cracking_the_Coding_Interview/Array_and_Strings/Q1-8.i"
+	@echo "... Cracking_the_Coding_Interview/Array_and_Strings/Q1-8.s"
+	@echo "... Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.o"
+	@echo "... Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.i"
+	@echo "... Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.s"
 	@echo "... HackerEarth/Choosing_the_judges.o"
 	@echo "... HackerEarth/Choosing_the_judges.i"
 	@echo "... HackerEarth/Choosing_the_judges.s"
