@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.cpp.o  -o "../Cracking the Coding Interview/Array and Strings/single_file_exe" 
+/usr/bin/cc -g   CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Linked_List/LinkedListBaasics.c.o  -o "../Cracking the Coding Interview/Linked List/single_file_exe" 
