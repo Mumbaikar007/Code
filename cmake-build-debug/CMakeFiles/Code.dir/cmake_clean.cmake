@@ -75,11 +75,13 @@ file(REMOVE_RECURSE
   "CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-7.cpp.o"
   "CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-8.cpp.o"
   "CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.cpp.o"
+  "CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q2-1.cpp.o"
+  "CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/LinkedListBaasics.c.o"
   "Code.pdb"
   "Code"
 )
 
 # Per-language clean rules from dependency scanning.
-foreach(lang CXX)
+foreach(lang C CXX)
   include(CMakeFiles/Code.dir/cmake_clean_${lang}.cmake OPTIONAL)
 endforeach()

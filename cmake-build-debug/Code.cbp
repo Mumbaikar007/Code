@@ -38,7 +38,7 @@
 				</MakeCommands>
 			</Target>
 			<Target title="single_file_exe">
-				<Option output="/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/single_file_exe" prefix_auto="0" extension_auto="0"/>
+				<Option output="/home/optimus/MEGA/Code/Cracking the Coding Interview/Linked List/single_file_exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/optimus/MEGA/Code/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -61,7 +61,7 @@
 				</MakeCommands>
 			</Target>
 			<Target title="single_file_exe/fast">
-				<Option output="/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/single_file_exe" prefix_auto="0" extension_auto="0"/>
+				<Option output="/home/optimus/MEGA/Code/Cracking the Coding Interview/Linked List/single_file_exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/optimus/MEGA/Code/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -245,7 +245,13 @@
 			<Option target="Code"/>
 		</Unit>
 		<Unit filename="/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-9.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/optimus/MEGA/Code/Cracking the Coding Interview/Linked List/LinkedListBaasics.c">
 			<Option target="single_file_exe"/>
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/optimus/MEGA/Code/Cracking the Coding Interview/Linked List/Q2-1.cpp">
 			<Option target="Code"/>
 		</Unit>
 		<Unit filename="/home/optimus/MEGA/Code/HackerEarth/Choosing the judges.cpp">

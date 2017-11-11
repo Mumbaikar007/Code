@@ -1168,7 +1168,6 @@ Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.o: Cracking_the_Coding_Inte
 
 # target to build an object file
 Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.cpp.o:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.cpp.o
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.cpp.o
 .PHONY : Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.cpp.o
 
@@ -1178,7 +1177,6 @@ Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.i: Cracking_the_Coding_Inte
 
 # target to preprocess a source file
 Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.cpp.i:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.cpp.i
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.cpp.i
 .PHONY : Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.cpp.i
 
@@ -1188,9 +1186,65 @@ Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.s: Cracking_the_Coding_Inte
 
 # target to generate assembly for a file
 Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.cpp.s:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.cpp.s
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.cpp.s
 .PHONY : Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.cpp.s
+
+Cracking_the_Coding_Interview/Linked_List/LinkedListBaasics.o: Cracking_the_Coding_Interview/Linked_List/LinkedListBaasics.c.o
+
+.PHONY : Cracking_the_Coding_Interview/Linked_List/LinkedListBaasics.o
+
+# target to build an object file
+Cracking_the_Coding_Interview/Linked_List/LinkedListBaasics.c.o:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Linked_List/LinkedListBaasics.c.o
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/LinkedListBaasics.c.o
+.PHONY : Cracking_the_Coding_Interview/Linked_List/LinkedListBaasics.c.o
+
+Cracking_the_Coding_Interview/Linked_List/LinkedListBaasics.i: Cracking_the_Coding_Interview/Linked_List/LinkedListBaasics.c.i
+
+.PHONY : Cracking_the_Coding_Interview/Linked_List/LinkedListBaasics.i
+
+# target to preprocess a source file
+Cracking_the_Coding_Interview/Linked_List/LinkedListBaasics.c.i:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Linked_List/LinkedListBaasics.c.i
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/LinkedListBaasics.c.i
+.PHONY : Cracking_the_Coding_Interview/Linked_List/LinkedListBaasics.c.i
+
+Cracking_the_Coding_Interview/Linked_List/LinkedListBaasics.s: Cracking_the_Coding_Interview/Linked_List/LinkedListBaasics.c.s
+
+.PHONY : Cracking_the_Coding_Interview/Linked_List/LinkedListBaasics.s
+
+# target to generate assembly for a file
+Cracking_the_Coding_Interview/Linked_List/LinkedListBaasics.c.s:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Linked_List/LinkedListBaasics.c.s
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/LinkedListBaasics.c.s
+.PHONY : Cracking_the_Coding_Interview/Linked_List/LinkedListBaasics.c.s
+
+Cracking_the_Coding_Interview/Linked_List/Q2-1.o: Cracking_the_Coding_Interview/Linked_List/Q2-1.cpp.o
+
+.PHONY : Cracking_the_Coding_Interview/Linked_List/Q2-1.o
+
+# target to build an object file
+Cracking_the_Coding_Interview/Linked_List/Q2-1.cpp.o:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q2-1.cpp.o
+.PHONY : Cracking_the_Coding_Interview/Linked_List/Q2-1.cpp.o
+
+Cracking_the_Coding_Interview/Linked_List/Q2-1.i: Cracking_the_Coding_Interview/Linked_List/Q2-1.cpp.i
+
+.PHONY : Cracking_the_Coding_Interview/Linked_List/Q2-1.i
+
+# target to preprocess a source file
+Cracking_the_Coding_Interview/Linked_List/Q2-1.cpp.i:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q2-1.cpp.i
+.PHONY : Cracking_the_Coding_Interview/Linked_List/Q2-1.cpp.i
+
+Cracking_the_Coding_Interview/Linked_List/Q2-1.s: Cracking_the_Coding_Interview/Linked_List/Q2-1.cpp.s
+
+.PHONY : Cracking_the_Coding_Interview/Linked_List/Q2-1.s
+
+# target to generate assembly for a file
+Cracking_the_Coding_Interview/Linked_List/Q2-1.cpp.s:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q2-1.cpp.s
+.PHONY : Cracking_the_Coding_Interview/Linked_List/Q2-1.cpp.s
 
 HackerEarth/Choosing_the_judges.o: HackerEarth/Choosing_the_judges.cpp.o
 
@@ -2318,6 +2372,12 @@ help:
 	@echo "... Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.o"
 	@echo "... Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.i"
 	@echo "... Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.s"
+	@echo "... Cracking_the_Coding_Interview/Linked_List/LinkedListBaasics.o"
+	@echo "... Cracking_the_Coding_Interview/Linked_List/LinkedListBaasics.i"
+	@echo "... Cracking_the_Coding_Interview/Linked_List/LinkedListBaasics.s"
+	@echo "... Cracking_the_Coding_Interview/Linked_List/Q2-1.o"
+	@echo "... Cracking_the_Coding_Interview/Linked_List/Q2-1.i"
+	@echo "... Cracking_the_Coding_Interview/Linked_List/Q2-1.s"
 	@echo "... HackerEarth/Choosing_the_judges.o"
 	@echo "... HackerEarth/Choosing_the_judges.i"
 	@echo "... HackerEarth/Choosing_the_judges.s"
