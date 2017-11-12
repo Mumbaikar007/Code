@@ -5,7 +5,7 @@
 # include <stdio.h>
 # include <stdlib.h>
 
-struct Node {
+typedef struct Node {
     int data;
     Node *next;
 
