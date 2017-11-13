@@ -3,11 +3,32 @@
 //
 
 # include <iostream>
-# include <stack>
+
 # define SIZE 10
 
 
 using namespace std;
+
+void push ( int array[10], int top[3], int rank, int element){
+
+    if ( top[rank] == rank + SIZE/3)
+        cout << "stack " << rank << " is full !"<< endl;
+
+    array[top[rank]++] = element;
+
+}
+
+void pop ( int top[3], int rank){
+
+    if ( top[rank] == rank * SIZE/3)
+        cout << "Empty stack !! \n";
+
+    --top[rank];
+}
+
+void Ftop(int array[10], int top[3], int rank){
+    cout << "Stack " << rank << " top is " << array[top[rank]] << endl;
+}
 
 int main(){
 
@@ -22,23 +43,27 @@ int main(){
 
 
     int choice = 0;
-    while (choice != 4){
+    while (choice < 4){
 
-        int action;
+        int action, element;
 
-        cin >> choice >> action;
+
+        cin >> choice >> action >> element;
         switch (choice){
 
-            case 1:
+            case 1: (action == 1) ? push( array, top, 0, element) : pop (top, 0);
+                    Ftop( array, top, 0);
                     break;
 
-            case 2:
+            case 2: (action == 1) ? push( array, top, 1, element) : pop (top, 1);
+                    Ftop( array, top, 1);
                     break;
 
-            case 3:
+            case 3: (action == 1) ? push( array, top, 2, element) : pop (top, 2);
+                    Ftop( array, top, 2);
                     break;
 
-            case 4:
+            default: cout << "Ending ... \n" << endl;
 
         }
 

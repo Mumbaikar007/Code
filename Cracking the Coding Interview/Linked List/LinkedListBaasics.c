@@ -7,9 +7,9 @@
 
 typedef struct Node {
     int data;
-    Node *next;
+    struct Node *next;
 
-};
+} Node ;
 
 struct Node *InsertTail ( Node *head, int data ){
 
@@ -17,6 +17,8 @@ struct Node *InsertTail ( Node *head, int data ){
 
     newNode -> data = data;
     newNode -> next = NULL;
+
+    printf ("%d ", newNode->data) ;
 
     Node *traverse = head;
     while ( traverse->next != NULL){
