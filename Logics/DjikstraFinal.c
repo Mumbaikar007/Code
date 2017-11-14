@@ -5,7 +5,7 @@ int main(){
 	
 
 
-
+	
 	const int MAX_INT = 1000, X = 25;
     int i, j, k, min_index, opposite[X];
     int distance[X], visited[X], previous[X];

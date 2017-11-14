@@ -1,17 +1,17 @@
 //
-// Created by optimus on 11/11/17.
+// Created by optimus on 14/11/17.
 //
 
 # include <iostream>
-
+# include <set>
+# include <iterator>
 using namespace std;
 
 typedef struct Node {
-
     int data;
     Node *next;
-
 };
+
 
 Node *InsertTail ( Node *head, int data ){
 
@@ -25,6 +25,7 @@ Node *InsertTail ( Node *head, int data ){
         return newNode;
     }
     else {
+
         while (traverse->next != NULL) {
             traverse = traverse->next;
             //printf("%d ", traverse->data);
@@ -39,23 +40,48 @@ Node *InsertTail ( Node *head, int data ){
 
 int main(){
 
+
     Node *head = NULL;
 
 
-    head = InsertTail( head, 5);
-    head = InsertTail( head, 25);
-    head = InsertTail( head, 125);
-    head = InsertTail( head, 625);
-
+    int number;
+    cout << "Enter 10 elements ... \n";
+    for ( int i = 0 ;i < 10 ; i ++){
+        cin >> number;
+        head = InsertTail( head, number);
+    }
 
     Node *traverse = head;
-
-    while ( traverse->next != NULL){
-        printf("%d ", traverse->data );
+    cout << "The List \n";
+    while ( traverse != NULL ) {
+        cout << traverse->data << " ";
         traverse = traverse->next;
     }
-    printf("%d ", traverse->data);
+    cout << "\n";
+    // To remove Duplicates
+    set <int> myset;
+    Node *previous = NULL;
+
+    traverse = head;
+    while ( traverse != NULL){
+        if (myset.count(traverse->data) ) {
+            previous->next = traverse->next;
+        }
+        else{
+            myset.insert(traverse->data);
+            previous = traverse;
+        }
+        traverse = traverse->next;
+
+    }
+
+    traverse = head;
+    cout << "Duplicates removed ... \n";
+    while ( traverse != NULL ) {
+        cout << traverse->data << " ";
+        traverse = traverse->next;
+    }
+
 
     return 0;
 }
-

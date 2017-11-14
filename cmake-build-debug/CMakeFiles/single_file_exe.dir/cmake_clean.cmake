@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Linked_List/Q2-1.cpp.o"
+  "CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Linked_List/Q1-3.cpp.o"
   "../Cracking the Coding Interview/Linked List/single_file_exe.pdb"
   "../Cracking the Coding Interview/Linked List/single_file_exe"
 )
