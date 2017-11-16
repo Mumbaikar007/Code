@@ -57,6 +57,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/optimus/MEGA/Code/Cracking the Coding Interview/Linked List/Q1-2.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q1-2.cpp.o"
   "/home/optimus/MEGA/Code/Cracking the Coding Interview/Linked List/Q1-3.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q1-3.cpp.o"
   "/home/optimus/MEGA/Code/Cracking the Coding Interview/Linked List/Q2-1.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q2-1.cpp.o"
+  "/home/optimus/MEGA/Code/Cracking the Coding Interview/Linked List/Q2-6.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q2-6.cpp.o"
   "/home/optimus/MEGA/Code/Cracking the Coding Interview/Stacks/Q3-1.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-1.cpp.o"
   "/home/optimus/MEGA/Code/Cracking the Coding Interview/Stacks/Q3-2.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-2.cpp.o"
   "/home/optimus/MEGA/Code/HackerEarth/Choosing the judges.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/HackerEarth/Choosing_the_judges.cpp.o"

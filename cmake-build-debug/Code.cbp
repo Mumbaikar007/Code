@@ -260,10 +260,13 @@
 			<Option target="Code"/>
 		</Unit>
 		<Unit filename="/home/optimus/MEGA/Code/Cracking the Coding Interview/Linked List/Q1-3.cpp">
-			<Option target="single_file_exe"/>
 			<Option target="Code"/>
 		</Unit>
 		<Unit filename="/home/optimus/MEGA/Code/Cracking the Coding Interview/Linked List/Q2-1.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/optimus/MEGA/Code/Cracking the Coding Interview/Linked List/Q2-6.cpp">
+			<Option target="single_file_exe"/>
 			<Option target="Code"/>
 		</Unit>
 		<Unit filename="/home/optimus/MEGA/Code/Cracking the Coding Interview/Stacks/Q3-1.cpp">

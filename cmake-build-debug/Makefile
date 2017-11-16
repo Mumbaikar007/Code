@@ -1303,7 +1303,6 @@ Cracking_the_Coding_Interview/Linked_List/Q1-3.o: Cracking_the_Coding_Interview/
 
 # target to build an object file
 Cracking_the_Coding_Interview/Linked_List/Q1-3.cpp.o:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Linked_List/Q1-3.cpp.o
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q1-3.cpp.o
 .PHONY : Cracking_the_Coding_Interview/Linked_List/Q1-3.cpp.o
 
@@ -1313,7 +1312,6 @@ Cracking_the_Coding_Interview/Linked_List/Q1-3.i: Cracking_the_Coding_Interview/
 
 # target to preprocess a source file
 Cracking_the_Coding_Interview/Linked_List/Q1-3.cpp.i:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Linked_List/Q1-3.cpp.i
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q1-3.cpp.i
 .PHONY : Cracking_the_Coding_Interview/Linked_List/Q1-3.cpp.i
 
@@ -1323,7 +1321,6 @@ Cracking_the_Coding_Interview/Linked_List/Q1-3.s: Cracking_the_Coding_Interview/
 
 # target to generate assembly for a file
 Cracking_the_Coding_Interview/Linked_List/Q1-3.cpp.s:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Linked_List/Q1-3.cpp.s
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q1-3.cpp.s
 .PHONY : Cracking_the_Coding_Interview/Linked_List/Q1-3.cpp.s
 
@@ -1353,6 +1350,36 @@ Cracking_the_Coding_Interview/Linked_List/Q2-1.s: Cracking_the_Coding_Interview/
 Cracking_the_Coding_Interview/Linked_List/Q2-1.cpp.s:
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q2-1.cpp.s
 .PHONY : Cracking_the_Coding_Interview/Linked_List/Q2-1.cpp.s
+
+Cracking_the_Coding_Interview/Linked_List/Q2-6.o: Cracking_the_Coding_Interview/Linked_List/Q2-6.cpp.o
+
+.PHONY : Cracking_the_Coding_Interview/Linked_List/Q2-6.o
+
+# target to build an object file
+Cracking_the_Coding_Interview/Linked_List/Q2-6.cpp.o:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Linked_List/Q2-6.cpp.o
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q2-6.cpp.o
+.PHONY : Cracking_the_Coding_Interview/Linked_List/Q2-6.cpp.o
+
+Cracking_the_Coding_Interview/Linked_List/Q2-6.i: Cracking_the_Coding_Interview/Linked_List/Q2-6.cpp.i
+
+.PHONY : Cracking_the_Coding_Interview/Linked_List/Q2-6.i
+
+# target to preprocess a source file
+Cracking_the_Coding_Interview/Linked_List/Q2-6.cpp.i:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Linked_List/Q2-6.cpp.i
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q2-6.cpp.i
+.PHONY : Cracking_the_Coding_Interview/Linked_List/Q2-6.cpp.i
+
+Cracking_the_Coding_Interview/Linked_List/Q2-6.s: Cracking_the_Coding_Interview/Linked_List/Q2-6.cpp.s
+
+.PHONY : Cracking_the_Coding_Interview/Linked_List/Q2-6.s
+
+# target to generate assembly for a file
+Cracking_the_Coding_Interview/Linked_List/Q2-6.cpp.s:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Linked_List/Q2-6.cpp.s
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q2-6.cpp.s
+.PHONY : Cracking_the_Coding_Interview/Linked_List/Q2-6.cpp.s
 
 Cracking_the_Coding_Interview/Stacks/Q3-1.o: Cracking_the_Coding_Interview/Stacks/Q3-1.cpp.o
 
@@ -2552,6 +2579,9 @@ help:
 	@echo "... Cracking_the_Coding_Interview/Linked_List/Q2-1.o"
 	@echo "... Cracking_the_Coding_Interview/Linked_List/Q2-1.i"
 	@echo "... Cracking_the_Coding_Interview/Linked_List/Q2-1.s"
+	@echo "... Cracking_the_Coding_Interview/Linked_List/Q2-6.o"
+	@echo "... Cracking_the_Coding_Interview/Linked_List/Q2-6.i"
+	@echo "... Cracking_the_Coding_Interview/Linked_List/Q2-6.s"
 	@echo "... Cracking_the_Coding_Interview/Stacks/Q3-1.o"
 	@echo "... Cracking_the_Coding_Interview/Stacks/Q3-1.i"
 	@echo "... Cracking_the_Coding_Interview/Stacks/Q3-1.s"
