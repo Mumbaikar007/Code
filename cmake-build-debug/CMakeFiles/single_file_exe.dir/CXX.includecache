@@ -6,7 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/home/optimus/MEGA/Code/Cracking the Coding Interview/Linked List/Q1-3.cpp
+/home/optimus/MEGA/Code/Cracking the Coding Interview/Stacks/Q3-4.cpp
 iostream
+-
+stack
 -
 
