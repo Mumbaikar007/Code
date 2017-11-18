@@ -275,6 +275,9 @@
 			<Option target="Code"/>
 		</Unit>
 		<Unit filename="/home/optimus/MEGA/Code/Cracking the Coding Interview/Stacks/Q3-4.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/optimus/MEGA/Code/Cracking the Coding Interview/Stacks/Q3-5.cpp">
 			<Option target="single_file_exe"/>
 			<Option target="Code"/>
 		</Unit>
