@@ -6,9 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/home/optimus/MEGA/Code/Cracking the Coding Interview/Stacks/Q3-5.cpp
-iostream
+/home/optimus/MEGA/Code/Cracking the Coding Interview/Linked List/LinkedListBaasics.c
+stdio.h
 -
-stack
+stdlib.h
 -
 
