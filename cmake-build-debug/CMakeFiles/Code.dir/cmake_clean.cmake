@@ -86,6 +86,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q2-6.cpp.o"
   "CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-4.cpp.o"
   "CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-5.cpp.o"
+  "CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.cpp.o"
   "Code.pdb"
   "Code"
 )

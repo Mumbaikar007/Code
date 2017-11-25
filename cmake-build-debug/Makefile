@@ -1465,7 +1465,6 @@ Cracking_the_Coding_Interview/Stacks/Q3-5.o: Cracking_the_Coding_Interview/Stack
 
 # target to build an object file
 Cracking_the_Coding_Interview/Stacks/Q3-5.cpp.o:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Stacks/Q3-5.cpp.o
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-5.cpp.o
 .PHONY : Cracking_the_Coding_Interview/Stacks/Q3-5.cpp.o
 
@@ -1475,7 +1474,6 @@ Cracking_the_Coding_Interview/Stacks/Q3-5.i: Cracking_the_Coding_Interview/Stack
 
 # target to preprocess a source file
 Cracking_the_Coding_Interview/Stacks/Q3-5.cpp.i:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Stacks/Q3-5.cpp.i
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-5.cpp.i
 .PHONY : Cracking_the_Coding_Interview/Stacks/Q3-5.cpp.i
 
@@ -1485,9 +1483,38 @@ Cracking_the_Coding_Interview/Stacks/Q3-5.s: Cracking_the_Coding_Interview/Stack
 
 # target to generate assembly for a file
 Cracking_the_Coding_Interview/Stacks/Q3-5.cpp.s:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Stacks/Q3-5.cpp.s
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-5.cpp.s
 .PHONY : Cracking_the_Coding_Interview/Stacks/Q3-5.cpp.s
+
+Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.o: Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.cpp.o
+
+.PHONY : Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.o
+
+# target to build an object file
+Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.cpp.o:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.cpp.o
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.cpp.o
+.PHONY : Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.cpp.o
+
+Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.i: Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.cpp.i
+
+.PHONY : Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.i
+
+# target to preprocess a source file
+Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.cpp.i:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.cpp.i
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.cpp.i
+.PHONY : Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.cpp.i
+
+Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.s: Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.cpp.s
+
+.PHONY : Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.s
+
+# target to generate assembly for a file
+Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.cpp.s:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.cpp.s
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.cpp.s
+.PHONY : Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.cpp.s
 
 HackerEarth/Choosing_the_judges.o: HackerEarth/Choosing_the_judges.cpp.o
 
@@ -2648,6 +2675,9 @@ help:
 	@echo "... Cracking_the_Coding_Interview/Stacks/Q3-5.o"
 	@echo "... Cracking_the_Coding_Interview/Stacks/Q3-5.i"
 	@echo "... Cracking_the_Coding_Interview/Stacks/Q3-5.s"
+	@echo "... Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.o"
+	@echo "... Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.i"
+	@echo "... Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.s"
 	@echo "... HackerEarth/Choosing_the_judges.o"
 	@echo "... HackerEarth/Choosing_the_judges.i"
 	@echo "... HackerEarth/Choosing_the_judges.s"
