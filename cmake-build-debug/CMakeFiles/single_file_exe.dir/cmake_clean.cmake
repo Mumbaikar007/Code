@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Stacks/Q3-5.cpp.o"
-  "../Cracking the Coding Interview/Stacks/single_file_exe.pdb"
-  "../Cracking the Coding Interview/Stacks/single_file_exe"
+  "CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.cpp.o"
+  "../Cracking the Coding Interview/Trees and graphs/single_file_exe.pdb"
+  "../Cracking the Coding Interview/Trees and graphs/single_file_exe"
 )
 
 # Per-language clean rules from dependency scanning.
