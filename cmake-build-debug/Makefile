@@ -1543,6 +1543,33 @@ Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.s:
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.s
 .PHONY : Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.s
 
+Cracking_the_Coding_Interview/Trees_and_graphs/Tree_Practice.o: Cracking_the_Coding_Interview/Trees_and_graphs/Tree_Practice.cpp.o
+
+.PHONY : Cracking_the_Coding_Interview/Trees_and_graphs/Tree_Practice.o
+
+# target to build an object file
+Cracking_the_Coding_Interview/Trees_and_graphs/Tree_Practice.cpp.o:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Tree_Practice.cpp.o
+.PHONY : Cracking_the_Coding_Interview/Trees_and_graphs/Tree_Practice.cpp.o
+
+Cracking_the_Coding_Interview/Trees_and_graphs/Tree_Practice.i: Cracking_the_Coding_Interview/Trees_and_graphs/Tree_Practice.cpp.i
+
+.PHONY : Cracking_the_Coding_Interview/Trees_and_graphs/Tree_Practice.i
+
+# target to preprocess a source file
+Cracking_the_Coding_Interview/Trees_and_graphs/Tree_Practice.cpp.i:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Tree_Practice.cpp.i
+.PHONY : Cracking_the_Coding_Interview/Trees_and_graphs/Tree_Practice.cpp.i
+
+Cracking_the_Coding_Interview/Trees_and_graphs/Tree_Practice.s: Cracking_the_Coding_Interview/Trees_and_graphs/Tree_Practice.cpp.s
+
+.PHONY : Cracking_the_Coding_Interview/Trees_and_graphs/Tree_Practice.s
+
+# target to generate assembly for a file
+Cracking_the_Coding_Interview/Trees_and_graphs/Tree_Practice.cpp.s:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Tree_Practice.cpp.s
+.PHONY : Cracking_the_Coding_Interview/Trees_and_graphs/Tree_Practice.cpp.s
+
 HackerEarth/Choosing_the_judges.o: HackerEarth/Choosing_the_judges.cpp.o
 
 .PHONY : HackerEarth/Choosing_the_judges.o
@@ -2708,6 +2735,9 @@ help:
 	@echo "... Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.o"
 	@echo "... Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.i"
 	@echo "... Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.s"
+	@echo "... Cracking_the_Coding_Interview/Trees_and_graphs/Tree_Practice.o"
+	@echo "... Cracking_the_Coding_Interview/Trees_and_graphs/Tree_Practice.i"
+	@echo "... Cracking_the_Coding_Interview/Trees_and_graphs/Tree_Practice.s"
 	@echo "... HackerEarth/Choosing_the_judges.o"
 	@echo "... HackerEarth/Choosing_the_judges.i"
 	@echo "... HackerEarth/Choosing_the_judges.s"
