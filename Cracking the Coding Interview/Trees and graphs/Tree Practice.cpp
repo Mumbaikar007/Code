@@ -19,13 +19,14 @@ struct Tree *InsertTail ( Tree *head, int data ){
     newTree -> data = data;
     newTree -> left = newTree->right =  NULL;
 
-    printf ("%d ", newTree->data) ;
+    //printf ("%d ", newTree->data) ;
 
     if (head == NULL)
         return newTree;
 
     Tree *traverse = head;
     while ( traverse != NULL){
+
         traverse = ( data < traverse->data ) ? traverse->left : traverse->right;
     }
 
@@ -33,20 +34,35 @@ struct Tree *InsertTail ( Tree *head, int data ){
     return head;
 }
 
-//preorder left
+void preorder ( Tree *node){
+
+    if ( node == NULL)
+        return;
+
+    if (node->left != NULL)
+        preorder(node->left);
+
+    printf("%d ", node->data);
+
+    if (node->right != NULL)
+        preorder(node->right);
+
+}
 
 int main(){
 
     Tree *head = NULL;
 
     head = InsertTail( head, 5);
+    head = InsertTail( head, 4);
+    head = InsertTail( head, 6);
 
 
     Tree *traverse = head;
 
+    preorder(head);
 
 
-    printf("%d ", traverse->data);
 
     return 0;
 }
