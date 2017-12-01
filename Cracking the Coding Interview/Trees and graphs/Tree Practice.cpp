@@ -24,28 +24,33 @@ struct Tree *InsertTail ( Tree *head, int data ){
     if (head == NULL)
         return newTree;
 
-    Tree *traverse = head;
+    Tree *traverse = head, *behind = head;
     while ( traverse != NULL){
-
+        behind = traverse;
         traverse = ( data < traverse->data ) ? traverse->left : traverse->right;
     }
 
-    traverse = newTree;
+    if ( data < behind->data){
+        behind->left = newTree;
+    }
+    else{
+        behind->right = newTree;
+    }
     return head;
 }
 
-void preorder ( Tree *node){
+void inorder ( Tree *node){
 
     if ( node == NULL)
         return;
 
     if (node->left != NULL)
-        preorder(node->left);
+        inorder(node->left);
 
     printf("%d ", node->data);
 
     if (node->right != NULL)
-        preorder(node->right);
+        inorder(node->right);
 
 }
 
@@ -60,7 +65,7 @@ int main(){
 
     Tree *traverse = head;
 
-    preorder(head);
+    inorder(head);
 
 
 

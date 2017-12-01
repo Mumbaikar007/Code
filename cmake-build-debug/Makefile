@@ -1492,7 +1492,6 @@ Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.o: Cracking_the_Coding_Inter
 
 # target to build an object file
 Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.cpp.o:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.cpp.o
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.cpp.o
 .PHONY : Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.cpp.o
 
@@ -1502,7 +1501,6 @@ Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.i: Cracking_the_Coding_Inter
 
 # target to preprocess a source file
 Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.cpp.i:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.cpp.i
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.cpp.i
 .PHONY : Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.cpp.i
 
@@ -1512,7 +1510,6 @@ Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.s: Cracking_the_Coding_Inter
 
 # target to generate assembly for a file
 Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.cpp.s:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.cpp.s
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.cpp.s
 .PHONY : Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.cpp.s
 
@@ -1522,6 +1519,7 @@ Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.o: Cracking_the_Coding_Inter
 
 # target to build an object file
 Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.o:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.o
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.o
 .PHONY : Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.o
 
@@ -1531,6 +1529,7 @@ Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.i: Cracking_the_Coding_Inter
 
 # target to preprocess a source file
 Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.i:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.i
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.i
 .PHONY : Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.i
 
@@ -1540,6 +1539,7 @@ Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.s: Cracking_the_Coding_Inter
 
 # target to generate assembly for a file
 Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.s:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.s
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.s
 .PHONY : Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.s
 

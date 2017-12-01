@@ -71,5 +71,5 @@ set(SOURCE_FILES
 
 add_executable(Code ${SOURCE_FILES})
 
-add_executable(single_file_exe "Cracking the Coding Interview/Trees and graphs/Tree Practice.cpp")
+add_executable(single_file_exe "Cracking the Coding Interview/Trees and graphs/Q4-2.cpp")
 set_target_properties(single_file_exe PROPERTIES RUNTIME_OUTPUT_DIRECTORY "${CMAKE_CURRENT_SOURCE_DIR}/Cracking the Coding Interview/Trees and graphs/")
