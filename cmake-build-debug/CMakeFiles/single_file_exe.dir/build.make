@@ -57,49 +57,49 @@ include CMakeFiles/single_file_exe.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/single_file_exe.dir/flags.make
 
-CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.o: CMakeFiles/single_file_exe.dir/flags.make
-CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.o: ../Cracking\ the\ Coding\ Interview/Trees\ and\ graphs/Q4-2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.o -c "/home/optimus/MEGA/Code/Cracking the Coding Interview/Trees and graphs/Q4-2.cpp"
+CMakeFiles/single_file_exe.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.o: CMakeFiles/single_file_exe.dir/flags.make
+CMakeFiles/single_file_exe.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.o: ../HackerRank/Floyd\ :\ City\ of\ Blinding\ Lights.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/single_file_exe.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/single_file_exe.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.o -c "/home/optimus/MEGA/Code/HackerRank/Floyd : City of Blinding Lights.cpp"
 
-CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/Cracking the Coding Interview/Trees and graphs/Q4-2.cpp" > CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.i
+CMakeFiles/single_file_exe.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/single_file_exe.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/HackerRank/Floyd : City of Blinding Lights.cpp" > CMakeFiles/single_file_exe.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.i
 
-CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/Cracking the Coding Interview/Trees and graphs/Q4-2.cpp" -o CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.s
+CMakeFiles/single_file_exe.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/single_file_exe.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/HackerRank/Floyd : City of Blinding Lights.cpp" -o CMakeFiles/single_file_exe.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.s
 
-CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.o.requires:
+CMakeFiles/single_file_exe.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.o.requires:
 
-.PHONY : CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.o.requires
+.PHONY : CMakeFiles/single_file_exe.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.o.requires
 
-CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.o.provides: CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.o.requires
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.o.provides.build
-.PHONY : CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.o.provides
+CMakeFiles/single_file_exe.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.o.provides: CMakeFiles/single_file_exe.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.o.requires
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.o.provides.build
+.PHONY : CMakeFiles/single_file_exe.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.o.provides
 
-CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.o.provides.build: CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.o
+CMakeFiles/single_file_exe.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.o.provides.build: CMakeFiles/single_file_exe.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.o
 
 
 # Object files for target single_file_exe
 single_file_exe_OBJECTS = \
-"CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.o"
+"CMakeFiles/single_file_exe.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.o"
 
 # External object files for target single_file_exe
 single_file_exe_EXTERNAL_OBJECTS =
 
-../Cracking\ the\ Coding\ Interview/Trees\ and\ graphs/single_file_exe: CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.o
-../Cracking\ the\ Coding\ Interview/Trees\ and\ graphs/single_file_exe: CMakeFiles/single_file_exe.dir/build.make
-../Cracking\ the\ Coding\ Interview/Trees\ and\ graphs/single_file_exe: CMakeFiles/single_file_exe.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable \"../Cracking the Coding Interview/Trees and graphs/single_file_exe\""
+../HackerRank/single_file_exe: CMakeFiles/single_file_exe.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.o
+../HackerRank/single_file_exe: CMakeFiles/single_file_exe.dir/build.make
+../HackerRank/single_file_exe: CMakeFiles/single_file_exe.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable ../HackerRank/single_file_exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/single_file_exe.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-CMakeFiles/single_file_exe.dir/build: ../Cracking\ the\ Coding\ Interview/Trees\ and\ graphs/single_file_exe
+CMakeFiles/single_file_exe.dir/build: ../HackerRank/single_file_exe
 
 .PHONY : CMakeFiles/single_file_exe.dir/build
 
-CMakeFiles/single_file_exe.dir/requires: CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.o.requires
+CMakeFiles/single_file_exe.dir/requires: CMakeFiles/single_file_exe.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.o.requires
 
 .PHONY : CMakeFiles/single_file_exe.dir/requires
 

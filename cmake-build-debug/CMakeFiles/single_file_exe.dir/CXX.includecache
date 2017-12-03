@@ -6,9 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/home/optimus/MEGA/Code/Cracking the Coding Interview/Trees and graphs/Q4-2.cpp
-iostream
+/home/optimus/MEGA/Code/Cracking the Coding Interview/Trees and graphs/Tree Practice.cpp
+stdio.h
 -
-vector
+stdlib.h
 -
 

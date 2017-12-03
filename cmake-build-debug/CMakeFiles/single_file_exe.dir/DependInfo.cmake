@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/optimus/MEGA/Code/Cracking the Coding Interview/Trees and graphs/Q4-2.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.o"
+  "/home/optimus/MEGA/Code/HackerRank/Floyd : City of Blinding Lights.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/single_file_exe.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -1519,7 +1519,6 @@ Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.o: Cracking_the_Coding_Inter
 
 # target to build an object file
 Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.o:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.o
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.o
 .PHONY : Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.o
 
@@ -1529,7 +1528,6 @@ Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.i: Cracking_the_Coding_Inter
 
 # target to preprocess a source file
 Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.i:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.i
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.i
 .PHONY : Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.i
 
@@ -1539,9 +1537,62 @@ Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.s: Cracking_the_Coding_Inter
 
 # target to generate assembly for a file
 Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.s:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.s
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.s
 .PHONY : Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.s
+
+Cracking_the_Coding_Interview/Trees_and_graphs/Q4-3.o: Cracking_the_Coding_Interview/Trees_and_graphs/Q4-3.cpp.o
+
+.PHONY : Cracking_the_Coding_Interview/Trees_and_graphs/Q4-3.o
+
+# target to build an object file
+Cracking_the_Coding_Interview/Trees_and_graphs/Q4-3.cpp.o:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-3.cpp.o
+.PHONY : Cracking_the_Coding_Interview/Trees_and_graphs/Q4-3.cpp.o
+
+Cracking_the_Coding_Interview/Trees_and_graphs/Q4-3.i: Cracking_the_Coding_Interview/Trees_and_graphs/Q4-3.cpp.i
+
+.PHONY : Cracking_the_Coding_Interview/Trees_and_graphs/Q4-3.i
+
+# target to preprocess a source file
+Cracking_the_Coding_Interview/Trees_and_graphs/Q4-3.cpp.i:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-3.cpp.i
+.PHONY : Cracking_the_Coding_Interview/Trees_and_graphs/Q4-3.cpp.i
+
+Cracking_the_Coding_Interview/Trees_and_graphs/Q4-3.s: Cracking_the_Coding_Interview/Trees_and_graphs/Q4-3.cpp.s
+
+.PHONY : Cracking_the_Coding_Interview/Trees_and_graphs/Q4-3.s
+
+# target to generate assembly for a file
+Cracking_the_Coding_Interview/Trees_and_graphs/Q4-3.cpp.s:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-3.cpp.s
+.PHONY : Cracking_the_Coding_Interview/Trees_and_graphs/Q4-3.cpp.s
+
+Cracking_the_Coding_Interview/Trees_and_graphs/ReadyTree.o: Cracking_the_Coding_Interview/Trees_and_graphs/ReadyTree.cpp.o
+
+.PHONY : Cracking_the_Coding_Interview/Trees_and_graphs/ReadyTree.o
+
+# target to build an object file
+Cracking_the_Coding_Interview/Trees_and_graphs/ReadyTree.cpp.o:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/ReadyTree.cpp.o
+.PHONY : Cracking_the_Coding_Interview/Trees_and_graphs/ReadyTree.cpp.o
+
+Cracking_the_Coding_Interview/Trees_and_graphs/ReadyTree.i: Cracking_the_Coding_Interview/Trees_and_graphs/ReadyTree.cpp.i
+
+.PHONY : Cracking_the_Coding_Interview/Trees_and_graphs/ReadyTree.i
+
+# target to preprocess a source file
+Cracking_the_Coding_Interview/Trees_and_graphs/ReadyTree.cpp.i:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/ReadyTree.cpp.i
+.PHONY : Cracking_the_Coding_Interview/Trees_and_graphs/ReadyTree.cpp.i
+
+Cracking_the_Coding_Interview/Trees_and_graphs/ReadyTree.s: Cracking_the_Coding_Interview/Trees_and_graphs/ReadyTree.cpp.s
+
+.PHONY : Cracking_the_Coding_Interview/Trees_and_graphs/ReadyTree.s
+
+# target to generate assembly for a file
+Cracking_the_Coding_Interview/Trees_and_graphs/ReadyTree.cpp.s:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/ReadyTree.cpp.s
+.PHONY : Cracking_the_Coding_Interview/Trees_and_graphs/ReadyTree.cpp.s
 
 Cracking_the_Coding_Interview/Trees_and_graphs/Tree_Practice.o: Cracking_the_Coding_Interview/Trees_and_graphs/Tree_Practice.cpp.o
 
@@ -1677,6 +1728,36 @@ HackerRank/ClimbingLeaderboard.s: HackerRank/ClimbingLeaderboard.cpp.s
 HackerRank/ClimbingLeaderboard.cpp.s:
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/HackerRank/ClimbingLeaderboard.cpp.s
 .PHONY : HackerRank/ClimbingLeaderboard.cpp.s
+
+HackerRank/Floyd___City_of_Blinding_Lights.o: HackerRank/Floyd___City_of_Blinding_Lights.cpp.o
+
+.PHONY : HackerRank/Floyd___City_of_Blinding_Lights.o
+
+# target to build an object file
+HackerRank/Floyd___City_of_Blinding_Lights.cpp.o:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.o
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.o
+.PHONY : HackerRank/Floyd___City_of_Blinding_Lights.cpp.o
+
+HackerRank/Floyd___City_of_Blinding_Lights.i: HackerRank/Floyd___City_of_Blinding_Lights.cpp.i
+
+.PHONY : HackerRank/Floyd___City_of_Blinding_Lights.i
+
+# target to preprocess a source file
+HackerRank/Floyd___City_of_Blinding_Lights.cpp.i:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.i
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.i
+.PHONY : HackerRank/Floyd___City_of_Blinding_Lights.cpp.i
+
+HackerRank/Floyd___City_of_Blinding_Lights.s: HackerRank/Floyd___City_of_Blinding_Lights.cpp.s
+
+.PHONY : HackerRank/Floyd___City_of_Blinding_Lights.s
+
+# target to generate assembly for a file
+HackerRank/Floyd___City_of_Blinding_Lights.cpp.s:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.s
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.s
+.PHONY : HackerRank/Floyd___City_of_Blinding_Lights.cpp.s
 
 HackerRank/MagicSquare.o: HackerRank/MagicSquare.cpp.o
 
@@ -2735,6 +2816,12 @@ help:
 	@echo "... Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.o"
 	@echo "... Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.i"
 	@echo "... Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.s"
+	@echo "... Cracking_the_Coding_Interview/Trees_and_graphs/Q4-3.o"
+	@echo "... Cracking_the_Coding_Interview/Trees_and_graphs/Q4-3.i"
+	@echo "... Cracking_the_Coding_Interview/Trees_and_graphs/Q4-3.s"
+	@echo "... Cracking_the_Coding_Interview/Trees_and_graphs/ReadyTree.o"
+	@echo "... Cracking_the_Coding_Interview/Trees_and_graphs/ReadyTree.i"
+	@echo "... Cracking_the_Coding_Interview/Trees_and_graphs/ReadyTree.s"
 	@echo "... Cracking_the_Coding_Interview/Trees_and_graphs/Tree_Practice.o"
 	@echo "... Cracking_the_Coding_Interview/Trees_and_graphs/Tree_Practice.i"
 	@echo "... Cracking_the_Coding_Interview/Trees_and_graphs/Tree_Practice.s"
@@ -2750,6 +2837,9 @@ help:
 	@echo "... HackerRank/ClimbingLeaderboard.o"
 	@echo "... HackerRank/ClimbingLeaderboard.i"
 	@echo "... HackerRank/ClimbingLeaderboard.s"
+	@echo "... HackerRank/Floyd___City_of_Blinding_Lights.o"
+	@echo "... HackerRank/Floyd___City_of_Blinding_Lights.i"
+	@echo "... HackerRank/Floyd___City_of_Blinding_Lights.s"
 	@echo "... HackerRank/MagicSquare.o"
 	@echo "... HackerRank/MagicSquare.i"
 	@echo "... HackerRank/MagicSquare.s"
