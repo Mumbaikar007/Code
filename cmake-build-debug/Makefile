@@ -352,6 +352,63 @@ CodeChef/CIELRCPT.cpp.s:
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/CIELRCPT.cpp.s
 .PHONY : CodeChef/CIELRCPT.cpp.s
 
+CodeChef/December_Challenge_2017/CPLAY.o: CodeChef/December_Challenge_2017/CPLAY.cpp.o
+
+.PHONY : CodeChef/December_Challenge_2017/CPLAY.o
+
+# target to build an object file
+CodeChef/December_Challenge_2017/CPLAY.cpp.o:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/CodeChef/December_Challenge_2017/CPLAY.cpp.o
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/CPLAY.cpp.o
+.PHONY : CodeChef/December_Challenge_2017/CPLAY.cpp.o
+
+CodeChef/December_Challenge_2017/CPLAY.i: CodeChef/December_Challenge_2017/CPLAY.cpp.i
+
+.PHONY : CodeChef/December_Challenge_2017/CPLAY.i
+
+# target to preprocess a source file
+CodeChef/December_Challenge_2017/CPLAY.cpp.i:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/CodeChef/December_Challenge_2017/CPLAY.cpp.i
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/CPLAY.cpp.i
+.PHONY : CodeChef/December_Challenge_2017/CPLAY.cpp.i
+
+CodeChef/December_Challenge_2017/CPLAY.s: CodeChef/December_Challenge_2017/CPLAY.cpp.s
+
+.PHONY : CodeChef/December_Challenge_2017/CPLAY.s
+
+# target to generate assembly for a file
+CodeChef/December_Challenge_2017/CPLAY.cpp.s:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/CodeChef/December_Challenge_2017/CPLAY.cpp.s
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/CPLAY.cpp.s
+.PHONY : CodeChef/December_Challenge_2017/CPLAY.cpp.s
+
+CodeChef/December_Challenge_2017/GIT01.o: CodeChef/December_Challenge_2017/GIT01.cpp.o
+
+.PHONY : CodeChef/December_Challenge_2017/GIT01.o
+
+# target to build an object file
+CodeChef/December_Challenge_2017/GIT01.cpp.o:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/GIT01.cpp.o
+.PHONY : CodeChef/December_Challenge_2017/GIT01.cpp.o
+
+CodeChef/December_Challenge_2017/GIT01.i: CodeChef/December_Challenge_2017/GIT01.cpp.i
+
+.PHONY : CodeChef/December_Challenge_2017/GIT01.i
+
+# target to preprocess a source file
+CodeChef/December_Challenge_2017/GIT01.cpp.i:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/GIT01.cpp.i
+.PHONY : CodeChef/December_Challenge_2017/GIT01.cpp.i
+
+CodeChef/December_Challenge_2017/GIT01.s: CodeChef/December_Challenge_2017/GIT01.cpp.s
+
+.PHONY : CodeChef/December_Challenge_2017/GIT01.s
+
+# target to generate assembly for a file
+CodeChef/December_Challenge_2017/GIT01.cpp.s:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/GIT01.cpp.s
+.PHONY : CodeChef/December_Challenge_2017/GIT01.cpp.s
+
 CodeChef/FCTRL.o: CodeChef/FCTRL.cpp.o
 
 .PHONY : CodeChef/FCTRL.o
@@ -1762,7 +1819,6 @@ HackerRank/Floyd___City_of_Blinding_Lights.o: HackerRank/Floyd___City_of_Blindin
 
 # target to build an object file
 HackerRank/Floyd___City_of_Blinding_Lights.cpp.o:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.o
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.o
 .PHONY : HackerRank/Floyd___City_of_Blinding_Lights.cpp.o
 
@@ -1772,7 +1828,6 @@ HackerRank/Floyd___City_of_Blinding_Lights.i: HackerRank/Floyd___City_of_Blindin
 
 # target to preprocess a source file
 HackerRank/Floyd___City_of_Blinding_Lights.cpp.i:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.i
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.i
 .PHONY : HackerRank/Floyd___City_of_Blinding_Lights.cpp.i
 
@@ -1782,7 +1837,6 @@ HackerRank/Floyd___City_of_Blinding_Lights.s: HackerRank/Floyd___City_of_Blindin
 
 # target to generate assembly for a file
 HackerRank/Floyd___City_of_Blinding_Lights.cpp.s:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.s
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.s
 .PHONY : HackerRank/Floyd___City_of_Blinding_Lights.cpp.s
 
@@ -2711,6 +2765,12 @@ help:
 	@echo "... CodeChef/CIELRCPT.o"
 	@echo "... CodeChef/CIELRCPT.i"
 	@echo "... CodeChef/CIELRCPT.s"
+	@echo "... CodeChef/December_Challenge_2017/CPLAY.o"
+	@echo "... CodeChef/December_Challenge_2017/CPLAY.i"
+	@echo "... CodeChef/December_Challenge_2017/CPLAY.s"
+	@echo "... CodeChef/December_Challenge_2017/GIT01.o"
+	@echo "... CodeChef/December_Challenge_2017/GIT01.i"
+	@echo "... CodeChef/December_Challenge_2017/GIT01.s"
 	@echo "... CodeChef/FCTRL.o"
 	@echo "... CodeChef/FCTRL.i"
 	@echo "... CodeChef/FCTRL.s"

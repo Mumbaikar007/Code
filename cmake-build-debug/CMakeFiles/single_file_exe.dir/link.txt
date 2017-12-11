@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/single_file_exe.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.o  -o ../HackerRank/single_file_exe 
+/usr/bin/c++  -g   CMakeFiles/single_file_exe.dir/CodeChef/December_Challenge_2017/CPLAY.cpp.o  -o "../CodeChef/December Challenge 2017/single_file_exe" 

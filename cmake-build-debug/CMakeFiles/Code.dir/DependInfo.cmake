@@ -21,6 +21,8 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/optimus/MEGA/Code/CodeChef/CHEFSUM.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/CodeChef/CHEFSUM.cpp.o"
   "/home/optimus/MEGA/Code/CodeChef/CIELAB.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/CodeChef/CIELAB.cpp.o"
   "/home/optimus/MEGA/Code/CodeChef/CIELRCPT.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/CodeChef/CIELRCPT.cpp.o"
+  "/home/optimus/MEGA/Code/CodeChef/December Challenge 2017/CPLAY.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/CPLAY.cpp.o"
+  "/home/optimus/MEGA/Code/CodeChef/December Challenge 2017/GIT01.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/GIT01.cpp.o"
   "/home/optimus/MEGA/Code/CodeChef/FCTRL.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/CodeChef/FCTRL.cpp.o"
   "/home/optimus/MEGA/Code/CodeChef/FLOW001.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/CodeChef/FLOW001.cpp.o"
   "/home/optimus/MEGA/Code/CodeChef/FLOW002.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/CodeChef/FLOW002.cpp.o"
