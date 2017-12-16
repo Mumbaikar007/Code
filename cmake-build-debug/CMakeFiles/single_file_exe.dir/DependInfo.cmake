@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/optimus/MEGA/Code/CodeChef/December Challenge 2017/CPLAY.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/single_file_exe.dir/CodeChef/December_Challenge_2017/CPLAY.cpp.o"
+  "/home/optimus/MEGA/Code/Cracking the Coding Interview/Bit Manipulation/Q5-1.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

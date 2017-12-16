@@ -95,6 +95,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-4.cpp.o"
   "CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/GIT01.cpp.o"
   "CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/CPLAY.cpp.o"
+  "CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.cpp.o"
   "Code.pdb"
   "Code"
 )

@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/single_file_exe.dir/CodeChef/December_Challenge_2017/CPLAY.cpp.o  -o "../CodeChef/December Challenge 2017/single_file_exe" 
+/usr/bin/c++  -g   CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.cpp.o  -o "../Cracking the Coding Interview/Bit Manipulation/single_file_exe" 

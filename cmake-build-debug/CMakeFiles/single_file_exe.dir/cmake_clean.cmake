@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/single_file_exe.dir/CodeChef/December_Challenge_2017/CPLAY.cpp.o"
-  "../CodeChef/December Challenge 2017/single_file_exe.pdb"
-  "../CodeChef/December Challenge 2017/single_file_exe"
+  "CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.cpp.o"
+  "../Cracking the Coding Interview/Bit Manipulation/single_file_exe.pdb"
+  "../Cracking the Coding Interview/Bit Manipulation/single_file_exe"
 )
 
 # Per-language clean rules from dependency scanning.
