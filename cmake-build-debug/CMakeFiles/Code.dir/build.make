@@ -2265,33 +2265,9 @@ CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/ReadyTree.cpp
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/ReadyTree.cpp.o.provides.build: CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/ReadyTree.cpp.o
 
 
-CMakeFiles/Code.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.o: CMakeFiles/Code.dir/flags.make
-CMakeFiles/Code.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.o: ../HackerRank/Floyd\ :\ City\ of\ Blinding\ Lights.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_93) "Building CXX object CMakeFiles/Code.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.o -c "/home/optimus/MEGA/Code/HackerRank/Floyd : City of Blinding Lights.cpp"
-
-CMakeFiles/Code.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/HackerRank/Floyd : City of Blinding Lights.cpp" > CMakeFiles/Code.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.i
-
-CMakeFiles/Code.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/HackerRank/Floyd : City of Blinding Lights.cpp" -o CMakeFiles/Code.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.s
-
-CMakeFiles/Code.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.o.requires:
-
-.PHONY : CMakeFiles/Code.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.o.requires
-
-CMakeFiles/Code.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.o.provides: CMakeFiles/Code.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.o.requires
-	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.o.provides.build
-.PHONY : CMakeFiles/Code.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.o.provides
-
-CMakeFiles/Code.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.o.provides.build: CMakeFiles/Code.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.o
-
-
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-4.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-4.cpp.o: ../Cracking\ the\ Coding\ Interview/Trees\ and\ graphs/Q4-4.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_94) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-4.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_93) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-4.cpp.o"
 	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-4.cpp.o -c "/home/optimus/MEGA/Code/Cracking the Coding Interview/Trees and graphs/Q4-4.cpp"
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-4.cpp.i: cmake_force
@@ -2315,7 +2291,7 @@ CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-4.cpp.o.pr
 
 CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/GIT01.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/GIT01.cpp.o: ../CodeChef/December\ Challenge\ 2017/GIT01.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_95) "Building CXX object CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/GIT01.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_94) "Building CXX object CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/GIT01.cpp.o"
 	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/GIT01.cpp.o -c "/home/optimus/MEGA/Code/CodeChef/December Challenge 2017/GIT01.cpp"
 
 CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/GIT01.cpp.i: cmake_force
@@ -2339,7 +2315,7 @@ CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/GIT01.cpp.o.provides.build:
 
 CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/CPLAY.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/CPLAY.cpp.o: ../CodeChef/December\ Challenge\ 2017/CPLAY.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_96) "Building CXX object CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/CPLAY.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_95) "Building CXX object CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/CPLAY.cpp.o"
 	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/CPLAY.cpp.o -c "/home/optimus/MEGA/Code/CodeChef/December Challenge 2017/CPLAY.cpp"
 
 CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/CPLAY.cpp.i: cmake_force
@@ -2363,7 +2339,7 @@ CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/CPLAY.cpp.o.provides.build:
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.cpp.o: ../Cracking\ the\ Coding\ Interview/Bit\ Manipulation/Q5-1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_97) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_96) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.cpp.o"
 	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.cpp.o -c "/home/optimus/MEGA/Code/Cracking the Coding Interview/Bit Manipulation/Q5-1.cpp"
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.cpp.i: cmake_force
@@ -2383,6 +2359,30 @@ CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.cpp.o.pr
 .PHONY : CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.cpp.o.provides
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.cpp.o.provides.build: CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.cpp.o
+
+
+CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.o: CMakeFiles/Code.dir/flags.make
+CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.o: ../Cracking\ the\ Coding\ Interview/Bit\ Manipulation/Q5-3.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_97) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.o -c "/home/optimus/MEGA/Code/Cracking the Coding Interview/Bit Manipulation/Q5-3.cpp"
+
+CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/Cracking the Coding Interview/Bit Manipulation/Q5-3.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.i
+
+CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/Cracking the Coding Interview/Bit Manipulation/Q5-3.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.s
+
+CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.o.requires:
+
+.PHONY : CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.o.requires
+
+CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.o.provides: CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.o.provides.build
+.PHONY : CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.o.provides
+
+CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.o.provides.build: CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.o
 
 
 # Object files for target Code
@@ -2479,11 +2479,11 @@ Code_OBJECTS = \
 "CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Tree_Practice.cpp.o" \
 "CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-3.cpp.o" \
 "CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/ReadyTree.cpp.o" \
-"CMakeFiles/Code.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.o" \
 "CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-4.cpp.o" \
 "CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/GIT01.cpp.o" \
 "CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/CPLAY.cpp.o" \
-"CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.cpp.o"
+"CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.cpp.o" \
+"CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.o"
 
 # External object files for target Code
 Code_EXTERNAL_OBJECTS =
@@ -2580,11 +2580,11 @@ Code: CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cp
 Code: CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Tree_Practice.cpp.o
 Code: CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-3.cpp.o
 Code: CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/ReadyTree.cpp.o
-Code: CMakeFiles/Code.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.o
 Code: CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-4.cpp.o
 Code: CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/GIT01.cpp.o
 Code: CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/CPLAY.cpp.o
 Code: CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.cpp.o
+Code: CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.o
 Code: CMakeFiles/Code.dir/build.make
 Code: CMakeFiles/Code.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_98) "Linking CXX executable Code"
@@ -2687,11 +2687,11 @@ CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/Cracking_the_Coding_Interview/
 CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Tree_Practice.cpp.o.requires
 CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-3.cpp.o.requires
 CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/ReadyTree.cpp.o.requires
-CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.o.requires
 CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-4.cpp.o.requires
 CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/GIT01.cpp.o.requires
 CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/CPLAY.cpp.o.requires
 CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.cpp.o.requires
+CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.o.requires
 
 .PHONY : CMakeFiles/Code.dir/requires
 

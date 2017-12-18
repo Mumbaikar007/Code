@@ -1249,7 +1249,6 @@ Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.o: Cracking_the_Coding_Inter
 
 # target to build an object file
 Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.cpp.o:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.cpp.o
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.cpp.o
 .PHONY : Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.cpp.o
 
@@ -1259,7 +1258,6 @@ Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.i: Cracking_the_Coding_Inter
 
 # target to preprocess a source file
 Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.cpp.i:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.cpp.i
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.cpp.i
 .PHONY : Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.cpp.i
 
@@ -1269,9 +1267,38 @@ Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.s: Cracking_the_Coding_Inter
 
 # target to generate assembly for a file
 Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.cpp.s:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.cpp.s
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.cpp.s
 .PHONY : Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.cpp.s
+
+Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.o: Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.o
+
+.PHONY : Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.o
+
+# target to build an object file
+Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.o:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.o
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.o
+.PHONY : Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.o
+
+Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.i: Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.i
+
+.PHONY : Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.i
+
+# target to preprocess a source file
+Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.i:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.i
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.i
+.PHONY : Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.i
+
+Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.s: Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.s
+
+.PHONY : Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.s
+
+# target to generate assembly for a file
+Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.s:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.s
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.s
+.PHONY : Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.s
 
 Cracking_the_Coding_Interview/Linked_List/Experiment.o: Cracking_the_Coding_Interview/Linked_List/Experiment.cpp.o
 
@@ -1839,33 +1866,6 @@ HackerRank/ClimbingLeaderboard.s: HackerRank/ClimbingLeaderboard.cpp.s
 HackerRank/ClimbingLeaderboard.cpp.s:
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/HackerRank/ClimbingLeaderboard.cpp.s
 .PHONY : HackerRank/ClimbingLeaderboard.cpp.s
-
-HackerRank/Floyd___City_of_Blinding_Lights.o: HackerRank/Floyd___City_of_Blinding_Lights.cpp.o
-
-.PHONY : HackerRank/Floyd___City_of_Blinding_Lights.o
-
-# target to build an object file
-HackerRank/Floyd___City_of_Blinding_Lights.cpp.o:
-	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.o
-.PHONY : HackerRank/Floyd___City_of_Blinding_Lights.cpp.o
-
-HackerRank/Floyd___City_of_Blinding_Lights.i: HackerRank/Floyd___City_of_Blinding_Lights.cpp.i
-
-.PHONY : HackerRank/Floyd___City_of_Blinding_Lights.i
-
-# target to preprocess a source file
-HackerRank/Floyd___City_of_Blinding_Lights.cpp.i:
-	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.i
-.PHONY : HackerRank/Floyd___City_of_Blinding_Lights.cpp.i
-
-HackerRank/Floyd___City_of_Blinding_Lights.s: HackerRank/Floyd___City_of_Blinding_Lights.cpp.s
-
-.PHONY : HackerRank/Floyd___City_of_Blinding_Lights.s
-
-# target to generate assembly for a file
-HackerRank/Floyd___City_of_Blinding_Lights.cpp.s:
-	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/HackerRank/Floyd___City_of_Blinding_Lights.cpp.s
-.PHONY : HackerRank/Floyd___City_of_Blinding_Lights.cpp.s
 
 HackerRank/MagicSquare.o: HackerRank/MagicSquare.cpp.o
 
@@ -2894,6 +2894,9 @@ help:
 	@echo "... Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.o"
 	@echo "... Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.i"
 	@echo "... Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.s"
+	@echo "... Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.o"
+	@echo "... Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.i"
+	@echo "... Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.s"
 	@echo "... Cracking_the_Coding_Interview/Linked_List/Experiment.o"
 	@echo "... Cracking_the_Coding_Interview/Linked_List/Experiment.i"
 	@echo "... Cracking_the_Coding_Interview/Linked_List/Experiment.s"
@@ -2957,9 +2960,6 @@ help:
 	@echo "... HackerRank/ClimbingLeaderboard.o"
 	@echo "... HackerRank/ClimbingLeaderboard.i"
 	@echo "... HackerRank/ClimbingLeaderboard.s"
-	@echo "... HackerRank/Floyd___City_of_Blinding_Lights.o"
-	@echo "... HackerRank/Floyd___City_of_Blinding_Lights.i"
-	@echo "... HackerRank/Floyd___City_of_Blinding_Lights.s"
 	@echo "... HackerRank/MagicSquare.o"
 	@echo "... HackerRank/MagicSquare.i"
 	@echo "... HackerRank/MagicSquare.s"

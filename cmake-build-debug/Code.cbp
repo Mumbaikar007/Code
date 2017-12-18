@@ -254,6 +254,9 @@
 			<Option target="Code"/>
 		</Unit>
 		<Unit filename="/home/optimus/MEGA/Code/Cracking the Coding Interview/Bit Manipulation/Q5-1.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/optimus/MEGA/Code/Cracking the Coding Interview/Bit Manipulation/Q5-3.cpp">
 			<Option target="single_file_exe"/>
 			<Option target="Code"/>
 		</Unit>
@@ -318,9 +321,6 @@
 			<Option target="Code"/>
 		</Unit>
 		<Unit filename="/home/optimus/MEGA/Code/HackerRank/ClimbingLeaderboard.cpp">
-			<Option target="Code"/>
-		</Unit>
-		<Unit filename="/home/optimus/MEGA/Code/HackerRank/Floyd : City of Blinding Lights.cpp">
 			<Option target="Code"/>
 		</Unit>
 		<Unit filename="/home/optimus/MEGA/Code/HackerRank/MagicSquare.cpp">
