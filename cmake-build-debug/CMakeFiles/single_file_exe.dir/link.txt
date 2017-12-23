@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.o  -o "../Cracking the Coding Interview/Bit Manipulation/single_file_exe" 
+/usr/bin/c++  -g   CMakeFiles/single_file_exe.dir/CodeForces/BFS/Cycle_In_Maze.cpp.o  -o ../CodeForces/BFS/single_file_exe 

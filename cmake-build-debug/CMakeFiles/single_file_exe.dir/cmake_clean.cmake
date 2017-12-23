@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.o"
-  "../Cracking the Coding Interview/Bit Manipulation/single_file_exe.pdb"
-  "../Cracking the Coding Interview/Bit Manipulation/single_file_exe"
+  "CMakeFiles/single_file_exe.dir/CodeForces/BFS/Cycle_In_Maze.cpp.o"
+  "../CodeForces/BFS/single_file_exe.pdb"
+  "../CodeForces/BFS/single_file_exe"
 )
 
 # Per-language clean rules from dependency scanning.

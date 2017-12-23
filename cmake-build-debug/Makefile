@@ -946,6 +946,144 @@ CodeChef/TLG.cpp.s:
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/TLG.cpp.s
 .PHONY : CodeChef/TLG.cpp.s
 
+CodeForces/BFS/Cycle_In_Maze.o: CodeForces/BFS/Cycle_In_Maze.cpp.o
+
+.PHONY : CodeForces/BFS/Cycle_In_Maze.o
+
+# target to build an object file
+CodeForces/BFS/Cycle_In_Maze.cpp.o:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/CodeForces/BFS/Cycle_In_Maze.cpp.o
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeForces/BFS/Cycle_In_Maze.cpp.o
+.PHONY : CodeForces/BFS/Cycle_In_Maze.cpp.o
+
+CodeForces/BFS/Cycle_In_Maze.i: CodeForces/BFS/Cycle_In_Maze.cpp.i
+
+.PHONY : CodeForces/BFS/Cycle_In_Maze.i
+
+# target to preprocess a source file
+CodeForces/BFS/Cycle_In_Maze.cpp.i:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/CodeForces/BFS/Cycle_In_Maze.cpp.i
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeForces/BFS/Cycle_In_Maze.cpp.i
+.PHONY : CodeForces/BFS/Cycle_In_Maze.cpp.i
+
+CodeForces/BFS/Cycle_In_Maze.s: CodeForces/BFS/Cycle_In_Maze.cpp.s
+
+.PHONY : CodeForces/BFS/Cycle_In_Maze.s
+
+# target to generate assembly for a file
+CodeForces/BFS/Cycle_In_Maze.cpp.s:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/CodeForces/BFS/Cycle_In_Maze.cpp.s
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeForces/BFS/Cycle_In_Maze.cpp.s
+.PHONY : CodeForces/BFS/Cycle_In_Maze.cpp.s
+
+CodeForces/BFS/Police_Station.o: CodeForces/BFS/Police_Station.cpp.o
+
+.PHONY : CodeForces/BFS/Police_Station.o
+
+# target to build an object file
+CodeForces/BFS/Police_Station.cpp.o:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeForces/BFS/Police_Station.cpp.o
+.PHONY : CodeForces/BFS/Police_Station.cpp.o
+
+CodeForces/BFS/Police_Station.i: CodeForces/BFS/Police_Station.cpp.i
+
+.PHONY : CodeForces/BFS/Police_Station.i
+
+# target to preprocess a source file
+CodeForces/BFS/Police_Station.cpp.i:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeForces/BFS/Police_Station.cpp.i
+.PHONY : CodeForces/BFS/Police_Station.cpp.i
+
+CodeForces/BFS/Police_Station.s: CodeForces/BFS/Police_Station.cpp.s
+
+.PHONY : CodeForces/BFS/Police_Station.s
+
+# target to generate assembly for a file
+CodeForces/BFS/Police_Station.cpp.s:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeForces/BFS/Police_Station.cpp.s
+.PHONY : CodeForces/BFS/Police_Station.cpp.s
+
+CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.o: CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.cpp.o
+
+.PHONY : CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.o
+
+# target to build an object file
+CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.cpp.o:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.cpp.o
+.PHONY : CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.cpp.o
+
+CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.i: CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.cpp.i
+
+.PHONY : CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.i
+
+# target to preprocess a source file
+CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.cpp.i:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.cpp.i
+.PHONY : CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.cpp.i
+
+CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.s: CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.cpp.s
+
+.PHONY : CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.s
+
+# target to generate assembly for a file
+CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.cpp.s:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.cpp.s
+.PHONY : CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.cpp.s
+
+CodeForces/DFS/Test.o: CodeForces/DFS/Test.cpp.o
+
+.PHONY : CodeForces/DFS/Test.o
+
+# target to build an object file
+CodeForces/DFS/Test.cpp.o:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeForces/DFS/Test.cpp.o
+.PHONY : CodeForces/DFS/Test.cpp.o
+
+CodeForces/DFS/Test.i: CodeForces/DFS/Test.cpp.i
+
+.PHONY : CodeForces/DFS/Test.i
+
+# target to preprocess a source file
+CodeForces/DFS/Test.cpp.i:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeForces/DFS/Test.cpp.i
+.PHONY : CodeForces/DFS/Test.cpp.i
+
+CodeForces/DFS/Test.s: CodeForces/DFS/Test.cpp.s
+
+.PHONY : CodeForces/DFS/Test.s
+
+# target to generate assembly for a file
+CodeForces/DFS/Test.cpp.s:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeForces/DFS/Test.cpp.s
+.PHONY : CodeForces/DFS/Test.cpp.s
+
+CodeForces/DFS/VariationOne.o: CodeForces/DFS/VariationOne.cpp.o
+
+.PHONY : CodeForces/DFS/VariationOne.o
+
+# target to build an object file
+CodeForces/DFS/VariationOne.cpp.o:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeForces/DFS/VariationOne.cpp.o
+.PHONY : CodeForces/DFS/VariationOne.cpp.o
+
+CodeForces/DFS/VariationOne.i: CodeForces/DFS/VariationOne.cpp.i
+
+.PHONY : CodeForces/DFS/VariationOne.i
+
+# target to preprocess a source file
+CodeForces/DFS/VariationOne.cpp.i:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeForces/DFS/VariationOne.cpp.i
+.PHONY : CodeForces/DFS/VariationOne.cpp.i
+
+CodeForces/DFS/VariationOne.s: CodeForces/DFS/VariationOne.cpp.s
+
+.PHONY : CodeForces/DFS/VariationOne.s
+
+# target to generate assembly for a file
+CodeForces/DFS/VariationOne.cpp.s:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeForces/DFS/VariationOne.cpp.s
+.PHONY : CodeForces/DFS/VariationOne.cpp.s
+
 Cracking_the_Coding_Interview/Array_and_Strings/Q1-1.o: Cracking_the_Coding_Interview/Array_and_Strings/Q1-1.cpp.o
 
 .PHONY : Cracking_the_Coding_Interview/Array_and_Strings/Q1-1.o
@@ -1276,7 +1414,6 @@ Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.o: Cracking_the_Coding_Inter
 
 # target to build an object file
 Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.o:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.o
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.o
 .PHONY : Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.o
 
@@ -1286,7 +1423,6 @@ Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.i: Cracking_the_Coding_Inter
 
 # target to preprocess a source file
 Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.i:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.i
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.i
 .PHONY : Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.i
 
@@ -1296,7 +1432,6 @@ Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.s: Cracking_the_Coding_Inter
 
 # target to generate assembly for a file
 Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.s:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.s
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.s
 .PHONY : Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.s
 
@@ -2858,6 +2993,21 @@ help:
 	@echo "... CodeChef/TLG.o"
 	@echo "... CodeChef/TLG.i"
 	@echo "... CodeChef/TLG.s"
+	@echo "... CodeForces/BFS/Cycle_In_Maze.o"
+	@echo "... CodeForces/BFS/Cycle_In_Maze.i"
+	@echo "... CodeForces/BFS/Cycle_In_Maze.s"
+	@echo "... CodeForces/BFS/Police_Station.o"
+	@echo "... CodeForces/BFS/Police_Station.i"
+	@echo "... CodeForces/BFS/Police_Station.s"
+	@echo "... CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.o"
+	@echo "... CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.i"
+	@echo "... CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.s"
+	@echo "... CodeForces/DFS/Test.o"
+	@echo "... CodeForces/DFS/Test.i"
+	@echo "... CodeForces/DFS/Test.s"
+	@echo "... CodeForces/DFS/VariationOne.o"
+	@echo "... CodeForces/DFS/VariationOne.i"
+	@echo "... CodeForces/DFS/VariationOne.s"
 	@echo "... Cracking_the_Coding_Interview/Array_and_Strings/Q1-1.o"
 	@echo "... Cracking_the_Coding_Interview/Array_and_Strings/Q1-1.i"
 	@echo "... Cracking_the_Coding_Interview/Array_and_Strings/Q1-1.s"

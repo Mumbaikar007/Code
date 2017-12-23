@@ -38,7 +38,7 @@
 				</MakeCommands>
 			</Target>
 			<Target title="single_file_exe">
-				<Option output="/home/optimus/MEGA/Code/Cracking the Coding Interview/Bit Manipulation/single_file_exe" prefix_auto="0" extension_auto="0"/>
+				<Option output="/home/optimus/MEGA/Code/CodeForces/BFS/single_file_exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/optimus/MEGA/Code/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -61,7 +61,7 @@
 				</MakeCommands>
 			</Target>
 			<Target title="single_file_exe/fast">
-				<Option output="/home/optimus/MEGA/Code/Cracking the Coding Interview/Bit Manipulation/single_file_exe" prefix_auto="0" extension_auto="0"/>
+				<Option output="/home/optimus/MEGA/Code/CodeForces/BFS/single_file_exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/optimus/MEGA/Code/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -220,6 +220,22 @@
 		<Unit filename="/home/optimus/MEGA/Code/CodeChef/TLG.cpp">
 			<Option target="Code"/>
 		</Unit>
+		<Unit filename="/home/optimus/MEGA/Code/CodeForces/BFS/Cycle In Maze.cpp">
+			<Option target="single_file_exe"/>
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/optimus/MEGA/Code/CodeForces/BFS/Police Station.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/optimus/MEGA/Code/CodeForces/DFS/E. Bear and Forgotten Tree 2.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/optimus/MEGA/Code/CodeForces/DFS/Test.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/optimus/MEGA/Code/CodeForces/DFS/VariationOne.cpp">
+			<Option target="Code"/>
+		</Unit>
 		<Unit filename="/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-1.cpp">
 			<Option target="Code"/>
 		</Unit>
@@ -257,7 +273,6 @@
 			<Option target="Code"/>
 		</Unit>
 		<Unit filename="/home/optimus/MEGA/Code/Cracking the Coding Interview/Bit Manipulation/Q5-3.cpp">
-			<Option target="single_file_exe"/>
 			<Option target="Code"/>
 		</Unit>
 		<Unit filename="/home/optimus/MEGA/Code/Cracking the Coding Interview/Linked List/Experiment.cpp">

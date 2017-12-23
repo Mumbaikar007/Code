@@ -2385,6 +2385,126 @@ CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.o.pr
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.o.provides.build: CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.o
 
 
+CMakeFiles/Code.dir/CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.cpp.o: CMakeFiles/Code.dir/flags.make
+CMakeFiles/Code.dir/CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.cpp.o: ../CodeForces/DFS/E.\ Bear\ and\ Forgotten\ Tree\ 2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_98) "Building CXX object CMakeFiles/Code.dir/CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.cpp.o -c "/home/optimus/MEGA/Code/CodeForces/DFS/E. Bear and Forgotten Tree 2.cpp"
+
+CMakeFiles/Code.dir/CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/CodeForces/DFS/E. Bear and Forgotten Tree 2.cpp" > CMakeFiles/Code.dir/CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.cpp.i
+
+CMakeFiles/Code.dir/CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/CodeForces/DFS/E. Bear and Forgotten Tree 2.cpp" -o CMakeFiles/Code.dir/CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.cpp.s
+
+CMakeFiles/Code.dir/CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.cpp.o.requires:
+
+.PHONY : CMakeFiles/Code.dir/CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.cpp.o.requires
+
+CMakeFiles/Code.dir/CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.cpp.o.provides: CMakeFiles/Code.dir/CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.cpp.o.provides.build
+.PHONY : CMakeFiles/Code.dir/CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.cpp.o.provides
+
+CMakeFiles/Code.dir/CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.cpp.o.provides.build: CMakeFiles/Code.dir/CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.cpp.o
+
+
+CMakeFiles/Code.dir/CodeForces/DFS/VariationOne.cpp.o: CMakeFiles/Code.dir/flags.make
+CMakeFiles/Code.dir/CodeForces/DFS/VariationOne.cpp.o: ../CodeForces/DFS/VariationOne.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_99) "Building CXX object CMakeFiles/Code.dir/CodeForces/DFS/VariationOne.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeForces/DFS/VariationOne.cpp.o -c /home/optimus/MEGA/Code/CodeForces/DFS/VariationOne.cpp
+
+CMakeFiles/Code.dir/CodeForces/DFS/VariationOne.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/CodeForces/DFS/VariationOne.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/MEGA/Code/CodeForces/DFS/VariationOne.cpp > CMakeFiles/Code.dir/CodeForces/DFS/VariationOne.cpp.i
+
+CMakeFiles/Code.dir/CodeForces/DFS/VariationOne.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/CodeForces/DFS/VariationOne.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/MEGA/Code/CodeForces/DFS/VariationOne.cpp -o CMakeFiles/Code.dir/CodeForces/DFS/VariationOne.cpp.s
+
+CMakeFiles/Code.dir/CodeForces/DFS/VariationOne.cpp.o.requires:
+
+.PHONY : CMakeFiles/Code.dir/CodeForces/DFS/VariationOne.cpp.o.requires
+
+CMakeFiles/Code.dir/CodeForces/DFS/VariationOne.cpp.o.provides: CMakeFiles/Code.dir/CodeForces/DFS/VariationOne.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeForces/DFS/VariationOne.cpp.o.provides.build
+.PHONY : CMakeFiles/Code.dir/CodeForces/DFS/VariationOne.cpp.o.provides
+
+CMakeFiles/Code.dir/CodeForces/DFS/VariationOne.cpp.o.provides.build: CMakeFiles/Code.dir/CodeForces/DFS/VariationOne.cpp.o
+
+
+CMakeFiles/Code.dir/CodeForces/DFS/Test.cpp.o: CMakeFiles/Code.dir/flags.make
+CMakeFiles/Code.dir/CodeForces/DFS/Test.cpp.o: ../CodeForces/DFS/Test.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_100) "Building CXX object CMakeFiles/Code.dir/CodeForces/DFS/Test.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeForces/DFS/Test.cpp.o -c /home/optimus/MEGA/Code/CodeForces/DFS/Test.cpp
+
+CMakeFiles/Code.dir/CodeForces/DFS/Test.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/CodeForces/DFS/Test.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/MEGA/Code/CodeForces/DFS/Test.cpp > CMakeFiles/Code.dir/CodeForces/DFS/Test.cpp.i
+
+CMakeFiles/Code.dir/CodeForces/DFS/Test.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/CodeForces/DFS/Test.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/MEGA/Code/CodeForces/DFS/Test.cpp -o CMakeFiles/Code.dir/CodeForces/DFS/Test.cpp.s
+
+CMakeFiles/Code.dir/CodeForces/DFS/Test.cpp.o.requires:
+
+.PHONY : CMakeFiles/Code.dir/CodeForces/DFS/Test.cpp.o.requires
+
+CMakeFiles/Code.dir/CodeForces/DFS/Test.cpp.o.provides: CMakeFiles/Code.dir/CodeForces/DFS/Test.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeForces/DFS/Test.cpp.o.provides.build
+.PHONY : CMakeFiles/Code.dir/CodeForces/DFS/Test.cpp.o.provides
+
+CMakeFiles/Code.dir/CodeForces/DFS/Test.cpp.o.provides.build: CMakeFiles/Code.dir/CodeForces/DFS/Test.cpp.o
+
+
+CMakeFiles/Code.dir/CodeForces/BFS/Cycle_In_Maze.cpp.o: CMakeFiles/Code.dir/flags.make
+CMakeFiles/Code.dir/CodeForces/BFS/Cycle_In_Maze.cpp.o: ../CodeForces/BFS/Cycle\ In\ Maze.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_101) "Building CXX object CMakeFiles/Code.dir/CodeForces/BFS/Cycle_In_Maze.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeForces/BFS/Cycle_In_Maze.cpp.o -c "/home/optimus/MEGA/Code/CodeForces/BFS/Cycle In Maze.cpp"
+
+CMakeFiles/Code.dir/CodeForces/BFS/Cycle_In_Maze.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/CodeForces/BFS/Cycle_In_Maze.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/CodeForces/BFS/Cycle In Maze.cpp" > CMakeFiles/Code.dir/CodeForces/BFS/Cycle_In_Maze.cpp.i
+
+CMakeFiles/Code.dir/CodeForces/BFS/Cycle_In_Maze.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/CodeForces/BFS/Cycle_In_Maze.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/CodeForces/BFS/Cycle In Maze.cpp" -o CMakeFiles/Code.dir/CodeForces/BFS/Cycle_In_Maze.cpp.s
+
+CMakeFiles/Code.dir/CodeForces/BFS/Cycle_In_Maze.cpp.o.requires:
+
+.PHONY : CMakeFiles/Code.dir/CodeForces/BFS/Cycle_In_Maze.cpp.o.requires
+
+CMakeFiles/Code.dir/CodeForces/BFS/Cycle_In_Maze.cpp.o.provides: CMakeFiles/Code.dir/CodeForces/BFS/Cycle_In_Maze.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeForces/BFS/Cycle_In_Maze.cpp.o.provides.build
+.PHONY : CMakeFiles/Code.dir/CodeForces/BFS/Cycle_In_Maze.cpp.o.provides
+
+CMakeFiles/Code.dir/CodeForces/BFS/Cycle_In_Maze.cpp.o.provides.build: CMakeFiles/Code.dir/CodeForces/BFS/Cycle_In_Maze.cpp.o
+
+
+CMakeFiles/Code.dir/CodeForces/BFS/Police_Station.cpp.o: CMakeFiles/Code.dir/flags.make
+CMakeFiles/Code.dir/CodeForces/BFS/Police_Station.cpp.o: ../CodeForces/BFS/Police\ Station.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_102) "Building CXX object CMakeFiles/Code.dir/CodeForces/BFS/Police_Station.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeForces/BFS/Police_Station.cpp.o -c "/home/optimus/MEGA/Code/CodeForces/BFS/Police Station.cpp"
+
+CMakeFiles/Code.dir/CodeForces/BFS/Police_Station.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/CodeForces/BFS/Police_Station.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/CodeForces/BFS/Police Station.cpp" > CMakeFiles/Code.dir/CodeForces/BFS/Police_Station.cpp.i
+
+CMakeFiles/Code.dir/CodeForces/BFS/Police_Station.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/CodeForces/BFS/Police_Station.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/CodeForces/BFS/Police Station.cpp" -o CMakeFiles/Code.dir/CodeForces/BFS/Police_Station.cpp.s
+
+CMakeFiles/Code.dir/CodeForces/BFS/Police_Station.cpp.o.requires:
+
+.PHONY : CMakeFiles/Code.dir/CodeForces/BFS/Police_Station.cpp.o.requires
+
+CMakeFiles/Code.dir/CodeForces/BFS/Police_Station.cpp.o.provides: CMakeFiles/Code.dir/CodeForces/BFS/Police_Station.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeForces/BFS/Police_Station.cpp.o.provides.build
+.PHONY : CMakeFiles/Code.dir/CodeForces/BFS/Police_Station.cpp.o.provides
+
+CMakeFiles/Code.dir/CodeForces/BFS/Police_Station.cpp.o.provides.build: CMakeFiles/Code.dir/CodeForces/BFS/Police_Station.cpp.o
+
+
 # Object files for target Code
 Code_OBJECTS = \
 "CMakeFiles/Code.dir/CLRS/Dynamic_Programming/Cut-Rod-Problem-Memorization-Top-Down.cpp.o" \
@@ -2483,7 +2603,12 @@ Code_OBJECTS = \
 "CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/GIT01.cpp.o" \
 "CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/CPLAY.cpp.o" \
 "CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.cpp.o" \
-"CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.o"
+"CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.o" \
+"CMakeFiles/Code.dir/CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.cpp.o" \
+"CMakeFiles/Code.dir/CodeForces/DFS/VariationOne.cpp.o" \
+"CMakeFiles/Code.dir/CodeForces/DFS/Test.cpp.o" \
+"CMakeFiles/Code.dir/CodeForces/BFS/Cycle_In_Maze.cpp.o" \
+"CMakeFiles/Code.dir/CodeForces/BFS/Police_Station.cpp.o"
 
 # External object files for target Code
 Code_EXTERNAL_OBJECTS =
@@ -2585,9 +2710,14 @@ Code: CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/GIT01.cpp.o
 Code: CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/CPLAY.cpp.o
 Code: CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.cpp.o
 Code: CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.o
+Code: CMakeFiles/Code.dir/CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.cpp.o
+Code: CMakeFiles/Code.dir/CodeForces/DFS/VariationOne.cpp.o
+Code: CMakeFiles/Code.dir/CodeForces/DFS/Test.cpp.o
+Code: CMakeFiles/Code.dir/CodeForces/BFS/Cycle_In_Maze.cpp.o
+Code: CMakeFiles/Code.dir/CodeForces/BFS/Police_Station.cpp.o
 Code: CMakeFiles/Code.dir/build.make
 Code: CMakeFiles/Code.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_98) "Linking CXX executable Code"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_103) "Linking CXX executable Code"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Code.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -2692,6 +2822,11 @@ CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/CodeChef/December_Challenge_20
 CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/CPLAY.cpp.o.requires
 CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.cpp.o.requires
 CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.o.requires
+CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.cpp.o.requires
+CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/CodeForces/DFS/VariationOne.cpp.o.requires
+CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/CodeForces/DFS/Test.cpp.o.requires
+CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/CodeForces/BFS/Cycle_In_Maze.cpp.o.requires
+CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/CodeForces/BFS/Police_Station.cpp.o.requires
 
 .PHONY : CMakeFiles/Code.dir/requires
 

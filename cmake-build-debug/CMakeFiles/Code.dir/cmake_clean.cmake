@@ -96,6 +96,11 @@ file(REMOVE_RECURSE
   "CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/CPLAY.cpp.o"
   "CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.cpp.o"
   "CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.o"
+  "CMakeFiles/Code.dir/CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.cpp.o"
+  "CMakeFiles/Code.dir/CodeForces/DFS/VariationOne.cpp.o"
+  "CMakeFiles/Code.dir/CodeForces/DFS/Test.cpp.o"
+  "CMakeFiles/Code.dir/CodeForces/BFS/Cycle_In_Maze.cpp.o"
+  "CMakeFiles/Code.dir/CodeForces/BFS/Police_Station.cpp.o"
   "Code.pdb"
   "Code"
 )
