@@ -952,7 +952,6 @@ CodeForces/BFS/Cycle_In_Maze.o: CodeForces/BFS/Cycle_In_Maze.cpp.o
 
 # target to build an object file
 CodeForces/BFS/Cycle_In_Maze.cpp.o:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/CodeForces/BFS/Cycle_In_Maze.cpp.o
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeForces/BFS/Cycle_In_Maze.cpp.o
 .PHONY : CodeForces/BFS/Cycle_In_Maze.cpp.o
 
@@ -962,7 +961,6 @@ CodeForces/BFS/Cycle_In_Maze.i: CodeForces/BFS/Cycle_In_Maze.cpp.i
 
 # target to preprocess a source file
 CodeForces/BFS/Cycle_In_Maze.cpp.i:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/CodeForces/BFS/Cycle_In_Maze.cpp.i
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeForces/BFS/Cycle_In_Maze.cpp.i
 .PHONY : CodeForces/BFS/Cycle_In_Maze.cpp.i
 
@@ -972,7 +970,6 @@ CodeForces/BFS/Cycle_In_Maze.s: CodeForces/BFS/Cycle_In_Maze.cpp.s
 
 # target to generate assembly for a file
 CodeForces/BFS/Cycle_In_Maze.cpp.s:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/CodeForces/BFS/Cycle_In_Maze.cpp.s
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeForces/BFS/Cycle_In_Maze.cpp.s
 .PHONY : CodeForces/BFS/Cycle_In_Maze.cpp.s
 
@@ -1434,6 +1431,60 @@ Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.s: Cracking_the_Coding_Inter
 Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.s:
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.s
 .PHONY : Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.s
+
+Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.o: Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.cpp.o
+
+.PHONY : Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.o
+
+# target to build an object file
+Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.cpp.o:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.cpp.o
+.PHONY : Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.cpp.o
+
+Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.i: Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.cpp.i
+
+.PHONY : Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.i
+
+# target to preprocess a source file
+Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.cpp.i:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.cpp.i
+.PHONY : Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.cpp.i
+
+Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.s: Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.cpp.s
+
+.PHONY : Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.s
+
+# target to generate assembly for a file
+Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.cpp.s:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.cpp.s
+.PHONY : Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.cpp.s
+
+Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.o: Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.cpp.o
+
+.PHONY : Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.o
+
+# target to build an object file
+Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.cpp.o:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.cpp.o
+.PHONY : Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.cpp.o
+
+Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.i: Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.cpp.i
+
+.PHONY : Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.i
+
+# target to preprocess a source file
+Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.cpp.i:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.cpp.i
+.PHONY : Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.cpp.i
+
+Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.s: Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.cpp.s
+
+.PHONY : Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.s
+
+# target to generate assembly for a file
+Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.cpp.s:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.cpp.s
+.PHONY : Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.cpp.s
 
 Cracking_the_Coding_Interview/Linked_List/Experiment.o: Cracking_the_Coding_Interview/Linked_List/Experiment.cpp.o
 
@@ -2082,6 +2133,36 @@ HackerRank/Weighted_UniformSubstrings.s: HackerRank/Weighted_UniformSubstrings.c
 HackerRank/Weighted_UniformSubstrings.cpp.s:
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/HackerRank/Weighted_UniformSubstrings.cpp.s
 .PHONY : HackerRank/Weighted_UniformSubstrings.cpp.s
+
+HackerRank/_Real_Estate_Broker_.o: HackerRank/_Real_Estate_Broker_.cpp.o
+
+.PHONY : HackerRank/_Real_Estate_Broker_.o
+
+# target to build an object file
+HackerRank/_Real_Estate_Broker_.cpp.o:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/HackerRank/_Real_Estate_Broker_.cpp.o
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/HackerRank/_Real_Estate_Broker_.cpp.o
+.PHONY : HackerRank/_Real_Estate_Broker_.cpp.o
+
+HackerRank/_Real_Estate_Broker_.i: HackerRank/_Real_Estate_Broker_.cpp.i
+
+.PHONY : HackerRank/_Real_Estate_Broker_.i
+
+# target to preprocess a source file
+HackerRank/_Real_Estate_Broker_.cpp.i:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/HackerRank/_Real_Estate_Broker_.cpp.i
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/HackerRank/_Real_Estate_Broker_.cpp.i
+.PHONY : HackerRank/_Real_Estate_Broker_.cpp.i
+
+HackerRank/_Real_Estate_Broker_.s: HackerRank/_Real_Estate_Broker_.cpp.s
+
+.PHONY : HackerRank/_Real_Estate_Broker_.s
+
+# target to generate assembly for a file
+HackerRank/_Real_Estate_Broker_.cpp.s:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/HackerRank/_Real_Estate_Broker_.cpp.s
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/HackerRank/_Real_Estate_Broker_.cpp.s
+.PHONY : HackerRank/_Real_Estate_Broker_.cpp.s
 
 HackerRank/eruptingVolcanos.o: HackerRank/eruptingVolcanos.cpp.o
 
@@ -3047,6 +3128,12 @@ help:
 	@echo "... Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.o"
 	@echo "... Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.i"
 	@echo "... Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.s"
+	@echo "... Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.o"
+	@echo "... Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.i"
+	@echo "... Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.s"
+	@echo "... Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.o"
+	@echo "... Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.i"
+	@echo "... Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.s"
 	@echo "... Cracking_the_Coding_Interview/Linked_List/Experiment.o"
 	@echo "... Cracking_the_Coding_Interview/Linked_List/Experiment.i"
 	@echo "... Cracking_the_Coding_Interview/Linked_List/Experiment.s"
@@ -3119,6 +3206,9 @@ help:
 	@echo "... HackerRank/Weighted_UniformSubstrings.o"
 	@echo "... HackerRank/Weighted_UniformSubstrings.i"
 	@echo "... HackerRank/Weighted_UniformSubstrings.s"
+	@echo "... HackerRank/_Real_Estate_Broker_.o"
+	@echo "... HackerRank/_Real_Estate_Broker_.i"
+	@echo "... HackerRank/_Real_Estate_Broker_.s"
 	@echo "... HackerRank/eruptingVolcanos.o"
 	@echo "... HackerRank/eruptingVolcanos.i"
 	@echo "... HackerRank/eruptingVolcanos.s"

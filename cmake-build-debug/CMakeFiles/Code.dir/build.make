@@ -2505,6 +2505,78 @@ CMakeFiles/Code.dir/CodeForces/BFS/Police_Station.cpp.o.provides: CMakeFiles/Cod
 CMakeFiles/Code.dir/CodeForces/BFS/Police_Station.cpp.o.provides.build: CMakeFiles/Code.dir/CodeForces/BFS/Police_Station.cpp.o
 
 
+CMakeFiles/Code.dir/HackerRank/_Real_Estate_Broker_.cpp.o: CMakeFiles/Code.dir/flags.make
+CMakeFiles/Code.dir/HackerRank/_Real_Estate_Broker_.cpp.o: ../HackerRank/\ Real\ Estate\ Broker\ .cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_103) "Building CXX object CMakeFiles/Code.dir/HackerRank/_Real_Estate_Broker_.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/HackerRank/_Real_Estate_Broker_.cpp.o -c "/home/optimus/MEGA/Code/HackerRank/ Real Estate Broker .cpp"
+
+CMakeFiles/Code.dir/HackerRank/_Real_Estate_Broker_.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/HackerRank/_Real_Estate_Broker_.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/HackerRank/ Real Estate Broker .cpp" > CMakeFiles/Code.dir/HackerRank/_Real_Estate_Broker_.cpp.i
+
+CMakeFiles/Code.dir/HackerRank/_Real_Estate_Broker_.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/HackerRank/_Real_Estate_Broker_.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/HackerRank/ Real Estate Broker .cpp" -o CMakeFiles/Code.dir/HackerRank/_Real_Estate_Broker_.cpp.s
+
+CMakeFiles/Code.dir/HackerRank/_Real_Estate_Broker_.cpp.o.requires:
+
+.PHONY : CMakeFiles/Code.dir/HackerRank/_Real_Estate_Broker_.cpp.o.requires
+
+CMakeFiles/Code.dir/HackerRank/_Real_Estate_Broker_.cpp.o.provides: CMakeFiles/Code.dir/HackerRank/_Real_Estate_Broker_.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/HackerRank/_Real_Estate_Broker_.cpp.o.provides.build
+.PHONY : CMakeFiles/Code.dir/HackerRank/_Real_Estate_Broker_.cpp.o.provides
+
+CMakeFiles/Code.dir/HackerRank/_Real_Estate_Broker_.cpp.o.provides.build: CMakeFiles/Code.dir/HackerRank/_Real_Estate_Broker_.cpp.o
+
+
+CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.cpp.o: CMakeFiles/Code.dir/flags.make
+CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.cpp.o: ../Cracking\ the\ Coding\ Interview/Bit\ Manipulation/Q5-4.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_104) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.cpp.o -c "/home/optimus/MEGA/Code/Cracking the Coding Interview/Bit Manipulation/Q5-4.cpp"
+
+CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/Cracking the Coding Interview/Bit Manipulation/Q5-4.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.cpp.i
+
+CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/Cracking the Coding Interview/Bit Manipulation/Q5-4.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.cpp.s
+
+CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.cpp.o.requires:
+
+.PHONY : CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.cpp.o.requires
+
+CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.cpp.o.provides: CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.cpp.o.provides.build
+.PHONY : CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.cpp.o.provides
+
+CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.cpp.o.provides.build: CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.cpp.o
+
+
+CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.cpp.o: CMakeFiles/Code.dir/flags.make
+CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.cpp.o: ../Cracking\ the\ Coding\ Interview/Bit\ Manipulation/Q5-7.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_105) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.cpp.o -c "/home/optimus/MEGA/Code/Cracking the Coding Interview/Bit Manipulation/Q5-7.cpp"
+
+CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/Cracking the Coding Interview/Bit Manipulation/Q5-7.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.cpp.i
+
+CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/Cracking the Coding Interview/Bit Manipulation/Q5-7.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.cpp.s
+
+CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.cpp.o.requires:
+
+.PHONY : CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.cpp.o.requires
+
+CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.cpp.o.provides: CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.cpp.o.provides.build
+.PHONY : CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.cpp.o.provides
+
+CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.cpp.o.provides.build: CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.cpp.o
+
+
 # Object files for target Code
 Code_OBJECTS = \
 "CMakeFiles/Code.dir/CLRS/Dynamic_Programming/Cut-Rod-Problem-Memorization-Top-Down.cpp.o" \
@@ -2608,7 +2680,10 @@ Code_OBJECTS = \
 "CMakeFiles/Code.dir/CodeForces/DFS/VariationOne.cpp.o" \
 "CMakeFiles/Code.dir/CodeForces/DFS/Test.cpp.o" \
 "CMakeFiles/Code.dir/CodeForces/BFS/Cycle_In_Maze.cpp.o" \
-"CMakeFiles/Code.dir/CodeForces/BFS/Police_Station.cpp.o"
+"CMakeFiles/Code.dir/CodeForces/BFS/Police_Station.cpp.o" \
+"CMakeFiles/Code.dir/HackerRank/_Real_Estate_Broker_.cpp.o" \
+"CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.cpp.o" \
+"CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.cpp.o"
 
 # External object files for target Code
 Code_EXTERNAL_OBJECTS =
@@ -2715,9 +2790,12 @@ Code: CMakeFiles/Code.dir/CodeForces/DFS/VariationOne.cpp.o
 Code: CMakeFiles/Code.dir/CodeForces/DFS/Test.cpp.o
 Code: CMakeFiles/Code.dir/CodeForces/BFS/Cycle_In_Maze.cpp.o
 Code: CMakeFiles/Code.dir/CodeForces/BFS/Police_Station.cpp.o
+Code: CMakeFiles/Code.dir/HackerRank/_Real_Estate_Broker_.cpp.o
+Code: CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.cpp.o
+Code: CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.cpp.o
 Code: CMakeFiles/Code.dir/build.make
 Code: CMakeFiles/Code.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_103) "Linking CXX executable Code"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_106) "Linking CXX executable Code"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Code.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -2827,6 +2905,9 @@ CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/CodeForces/DFS/VariationOne.cp
 CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/CodeForces/DFS/Test.cpp.o.requires
 CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/CodeForces/BFS/Cycle_In_Maze.cpp.o.requires
 CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/CodeForces/BFS/Police_Station.cpp.o.requires
+CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/HackerRank/_Real_Estate_Broker_.cpp.o.requires
+CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.cpp.o.requires
+CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.cpp.o.requires
 
 .PHONY : CMakeFiles/Code.dir/requires
 

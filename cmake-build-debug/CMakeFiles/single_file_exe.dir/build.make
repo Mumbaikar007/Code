@@ -57,49 +57,49 @@ include CMakeFiles/single_file_exe.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/single_file_exe.dir/flags.make
 
-CMakeFiles/single_file_exe.dir/CodeForces/BFS/Cycle_In_Maze.cpp.o: CMakeFiles/single_file_exe.dir/flags.make
-CMakeFiles/single_file_exe.dir/CodeForces/BFS/Cycle_In_Maze.cpp.o: ../CodeForces/BFS/Cycle\ In\ Maze.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/single_file_exe.dir/CodeForces/BFS/Cycle_In_Maze.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/single_file_exe.dir/CodeForces/BFS/Cycle_In_Maze.cpp.o -c "/home/optimus/MEGA/Code/CodeForces/BFS/Cycle In Maze.cpp"
+CMakeFiles/single_file_exe.dir/HackerRank/_Real_Estate_Broker_.cpp.o: CMakeFiles/single_file_exe.dir/flags.make
+CMakeFiles/single_file_exe.dir/HackerRank/_Real_Estate_Broker_.cpp.o: ../HackerRank/\ Real\ Estate\ Broker\ .cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/single_file_exe.dir/HackerRank/_Real_Estate_Broker_.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/single_file_exe.dir/HackerRank/_Real_Estate_Broker_.cpp.o -c "/home/optimus/MEGA/Code/HackerRank/ Real Estate Broker .cpp"
 
-CMakeFiles/single_file_exe.dir/CodeForces/BFS/Cycle_In_Maze.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/single_file_exe.dir/CodeForces/BFS/Cycle_In_Maze.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/CodeForces/BFS/Cycle In Maze.cpp" > CMakeFiles/single_file_exe.dir/CodeForces/BFS/Cycle_In_Maze.cpp.i
+CMakeFiles/single_file_exe.dir/HackerRank/_Real_Estate_Broker_.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/single_file_exe.dir/HackerRank/_Real_Estate_Broker_.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/HackerRank/ Real Estate Broker .cpp" > CMakeFiles/single_file_exe.dir/HackerRank/_Real_Estate_Broker_.cpp.i
 
-CMakeFiles/single_file_exe.dir/CodeForces/BFS/Cycle_In_Maze.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/single_file_exe.dir/CodeForces/BFS/Cycle_In_Maze.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/CodeForces/BFS/Cycle In Maze.cpp" -o CMakeFiles/single_file_exe.dir/CodeForces/BFS/Cycle_In_Maze.cpp.s
+CMakeFiles/single_file_exe.dir/HackerRank/_Real_Estate_Broker_.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/single_file_exe.dir/HackerRank/_Real_Estate_Broker_.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/HackerRank/ Real Estate Broker .cpp" -o CMakeFiles/single_file_exe.dir/HackerRank/_Real_Estate_Broker_.cpp.s
 
-CMakeFiles/single_file_exe.dir/CodeForces/BFS/Cycle_In_Maze.cpp.o.requires:
+CMakeFiles/single_file_exe.dir/HackerRank/_Real_Estate_Broker_.cpp.o.requires:
 
-.PHONY : CMakeFiles/single_file_exe.dir/CodeForces/BFS/Cycle_In_Maze.cpp.o.requires
+.PHONY : CMakeFiles/single_file_exe.dir/HackerRank/_Real_Estate_Broker_.cpp.o.requires
 
-CMakeFiles/single_file_exe.dir/CodeForces/BFS/Cycle_In_Maze.cpp.o.provides: CMakeFiles/single_file_exe.dir/CodeForces/BFS/Cycle_In_Maze.cpp.o.requires
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/CodeForces/BFS/Cycle_In_Maze.cpp.o.provides.build
-.PHONY : CMakeFiles/single_file_exe.dir/CodeForces/BFS/Cycle_In_Maze.cpp.o.provides
+CMakeFiles/single_file_exe.dir/HackerRank/_Real_Estate_Broker_.cpp.o.provides: CMakeFiles/single_file_exe.dir/HackerRank/_Real_Estate_Broker_.cpp.o.requires
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/HackerRank/_Real_Estate_Broker_.cpp.o.provides.build
+.PHONY : CMakeFiles/single_file_exe.dir/HackerRank/_Real_Estate_Broker_.cpp.o.provides
 
-CMakeFiles/single_file_exe.dir/CodeForces/BFS/Cycle_In_Maze.cpp.o.provides.build: CMakeFiles/single_file_exe.dir/CodeForces/BFS/Cycle_In_Maze.cpp.o
+CMakeFiles/single_file_exe.dir/HackerRank/_Real_Estate_Broker_.cpp.o.provides.build: CMakeFiles/single_file_exe.dir/HackerRank/_Real_Estate_Broker_.cpp.o
 
 
 # Object files for target single_file_exe
 single_file_exe_OBJECTS = \
-"CMakeFiles/single_file_exe.dir/CodeForces/BFS/Cycle_In_Maze.cpp.o"
+"CMakeFiles/single_file_exe.dir/HackerRank/_Real_Estate_Broker_.cpp.o"
 
 # External object files for target single_file_exe
 single_file_exe_EXTERNAL_OBJECTS =
 
-../CodeForces/BFS/single_file_exe: CMakeFiles/single_file_exe.dir/CodeForces/BFS/Cycle_In_Maze.cpp.o
-../CodeForces/BFS/single_file_exe: CMakeFiles/single_file_exe.dir/build.make
-../CodeForces/BFS/single_file_exe: CMakeFiles/single_file_exe.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable ../CodeForces/BFS/single_file_exe"
+../HackerRank/single_file_exe: CMakeFiles/single_file_exe.dir/HackerRank/_Real_Estate_Broker_.cpp.o
+../HackerRank/single_file_exe: CMakeFiles/single_file_exe.dir/build.make
+../HackerRank/single_file_exe: CMakeFiles/single_file_exe.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable ../HackerRank/single_file_exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/single_file_exe.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-CMakeFiles/single_file_exe.dir/build: ../CodeForces/BFS/single_file_exe
+CMakeFiles/single_file_exe.dir/build: ../HackerRank/single_file_exe
 
 .PHONY : CMakeFiles/single_file_exe.dir/build
 
-CMakeFiles/single_file_exe.dir/requires: CMakeFiles/single_file_exe.dir/CodeForces/BFS/Cycle_In_Maze.cpp.o.requires
+CMakeFiles/single_file_exe.dir/requires: CMakeFiles/single_file_exe.dir/HackerRank/_Real_Estate_Broker_.cpp.o.requires
 
 .PHONY : CMakeFiles/single_file_exe.dir/requires
 

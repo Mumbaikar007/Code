@@ -5,57 +5,46 @@
 # include <iostream>
 #include <vector>
 # include <queue>
+
+struct Constrains {
+    int dist, next, road;
+};
+
 using namespace std;
 
-int n, k, d;
-vector <int> visited;
+int main() {
 
-void  BFS ( queue < pair < int, int> > &q, vector < vector <pair<int,int>> > &roads, vector <int> &needed){
-    pair<int,int> p = q.front();
+    int n, m, k;
 
-    if ( p.second != 0){
-        for ( auto i : roads[p.first]){
-            if (! visited[i.first]){
-                needed[i.second]= 1;
-                q.push ( make_pair( i.first, p.second-1));
+    cin >> n >> m >> k ;
 
-            }
-        }
-    }
-
-
-}
-
-int main(){
-
-    cin >> n >> k >> d;
-    visited.resize(n);
-
-    queue < pair < int, int> > q;
-    vector < int> needed (n-1);
+    vector < vector<pair <int,int> > adjList (n+1);
+    vector <int> visited (n+1), edges(k+1), police(k) ;
+    int nodes = n;
     int a;
-    for ( int i = 0 ; i < k ; i ++){
+    for ( int i = 0 ; i < m ; i ++ ){
         cin >> a;
-        a--;
-        visited [a] = 1;
-        q.push( make_pair( a, d));
+        police.push_back(a);
+        visited[a] = 1;
+        nodes --;
     }
 
     int b;
-    vector < vector < pair<int,int>> > roads (n);
-
-
-    for ( int i = 0 ; i < n-1; i ++){
+    for ( int i = 1 ; i <= n ; i ++){
         cin >> a >> b;
-        a--; b--;
-        roads[a].push_back(make_pair(b, i));
-        roads[b].push_back(make_pair(a, i));
+        adjList[a].push_back(make_pair(i,b));
+        adjList[b].push_back(make_pair(i,a));
     }
 
-    while ( !q.empty() ){
-        BFS( q, roads, needed );
-        q.pop();
+    queue<int> q;
+    for ( int i = 0 ; i < m && nodes; i ++){
+        q.push(police[i]);
+
+        while ( !q.empty() && nodes ){
+
+        }
     }
+
 
     return 0;
 }

@@ -2,8 +2,8 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
     <generated>
-      <config projectName="Code" targetName="Code" />
       <config projectName="Code" targetName="single_file_exe" />
+      <config projectName="Code" targetName="Code" />
     </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
@@ -13,22 +13,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6a461d7-8a92-4d3b-921f-cfee8d3c07c2" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/CodeForces/BFS/Cycle In Maze.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/CodeForces/BFS/Police Station.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/CodeForces/BFS/single_file_exe" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/CodeForces/DFS/E. Bear and Forgotten Tree 2.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/CodeForces/DFS/Test.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/CodeForces/DFS/VariationOne.cpp" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/CodeForces/DFS/single_file_exe" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/CodeForces/single_file_exe" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Cracking the Coding Interview/Bit Manipulation/single_file_exe" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Cracking the Coding Interview/Bit Manipulation/Q5-4.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Cracking the Coding Interview/Bit Manipulation/Q5-7.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/HackerRank/ Real Estate Broker .cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/HackerRank/single_file_exe" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
+      <change beforePath="$PROJECT_DIR$/CodeForces/BFS/Police Station.cpp" afterPath="$PROJECT_DIR$/CodeForces/BFS/Police Station.cpp" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/DependInfo.cmake" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/build.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/build.make" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/cmake_clean.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/cmake_clean.cmake" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/link.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/link.txt" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/progress.make" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/single_file_exe.dir/CXX.includecache" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/single_file_exe.dir/CXX.includecache" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/single_file_exe.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/single_file_exe.dir/DependInfo.cmake" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/single_file_exe.dir/build.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/single_file_exe.dir/build.make" />
@@ -63,26 +63,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Cycle In Maze.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodeForces/BFS/Cycle In Maze.cpp">
+      <file leaf-file-name="Q5-3.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Cracking the Coding Interview/Bit Manipulation/Q5-3.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1638">
-              <caret line="91" column="9" lean-forward="false" selection-start-line="91" selection-start-column="9" selection-end-line="91" selection-end-column="9" />
-              <folding>
-                <element signature="e#42#62#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="360">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Police Station.cpp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodeForces/BFS/Police Station.cpp">
+      <file leaf-file-name="Q5-4.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Cracking the Coding Interview/Bit Manipulation/Q5-4.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="50" column="16" lean-forward="false" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="16" />
-              <folding>
-                <element signature="e#42#62#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="360">
+              <caret line="20" column="1" lean-forward="false" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Q5-7.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Cracking the Coding Interview/Bit Manipulation/Q5-7.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -151,6 +157,9 @@
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/CodeForces/BFS/Cycle In Maze.cpp" />
         <option value="$PROJECT_DIR$/CodeForces/BFS/Police Station.cpp" />
+        <option value="$PROJECT_DIR$/HackerRank/ Real Estate Broker .cpp" />
+        <option value="$PROJECT_DIR$/Cracking the Coding Interview/Bit Manipulation/Q5-4.cpp" />
+        <option value="$PROJECT_DIR$/Cracking the Coding Interview/Bit Manipulation/Q5-7.cpp" />
       </list>
     </option>
   </component>
@@ -161,10 +170,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-14" />
-    <option name="y" value="-4" />
-    <option name="width" value="1344" />
-    <option name="height" value="654" />
+    <option name="x" value="-1" />
+    <option name="y" value="-11" />
+    <option name="width" value="1368" />
+    <option name="height" value="780" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -194,13 +203,13 @@
             <path>
               <item name="Code" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
               <item name="Code" type="462c0819:PsiDirectoryNode" />
-              <item name="CodeForces" type="462c0819:PsiDirectoryNode" />
+              <item name="Cracking the Coding Interview" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Code" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
               <item name="Code" type="462c0819:PsiDirectoryNode" />
-              <item name="CodeForces" type="462c0819:PsiDirectoryNode" />
-              <item name="BFS" type="462c0819:PsiDirectoryNode" />
+              <item name="Cracking the Coding Interview" type="462c0819:PsiDirectoryNode" />
+              <item name="Bit Manipulation" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -316,7 +325,12 @@
       <workItem from="1513957970754" duration="4317000" />
       <workItem from="1514006878759" duration="6860000" />
       <workItem from="1514025317808" duration="14000" />
-      <workItem from="1514045675371" duration="21000" />
+      <workItem from="1514045675371" duration="810000" />
+      <workItem from="1514285358365" duration="2048000" />
+      <workItem from="1514290024592" duration="689000" />
+      <workItem from="1514298630887" duration="1966000" />
+      <workItem from="1514461926068" duration="80000" />
+      <workItem from="1514462043306" duration="619000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit from CLion">
       <created>1509817264792</created>
@@ -458,11 +472,18 @@
       <option name="project" value="LOCAL" />
       <updated>1513607554912</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="TLE ... TLE Everywhere">
+      <created>1514045762939</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1514045762939</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91292000" />
+    <option name="totallyTimeSpent" value="97483000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -474,9 +495,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-14" y="-4" width="1368" height="780" extended-state="6" />
+    <frame x="-1" y="-11" width="1368" height="780" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31742424" sideWeight="0.49156627" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3439394" sideWeight="0.49156627" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34142396" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281493" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -524,7 +546,8 @@
     <MESSAGE value="back to work !!" />
     <MESSAGE value="Code Chef" />
     <MESSAGE value="Clion is back :D" />
-    <option name="LAST_COMMIT_MESSAGE" value="Clion is back :D" />
+    <MESSAGE value="TLE ... TLE Everywhere" />
+    <option name="LAST_COMMIT_MESSAGE" value="TLE ... TLE Everywhere" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -534,20 +557,11 @@
           <line>29</line>
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Cracking the Coding Interview/Array and Strings/Q1-1(binary).cpp" />
-    <entry file="file://$PROJECT_DIR$/Cracking the Coding Interview/Array and Strings/Q1-1BIN.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="18" column="29" lean-forward="false" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cracking the Coding Interview/Array and Strings/Q1-2B.cpp.cpp" />
     <entry file="file://$PROJECT_DIR$/Cracking the Coding Interview/Array and Strings/Q1-2A.cpp.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -838,13 +852,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Cracking the Coding Interview/Bit Manipulation/Q5-3.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodeForces/DFS/Test.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-306">
@@ -866,6 +873,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/BFS/Police Station.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/ Real Estate Broker .cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="557">
+          <caret line="72" column="0" lean-forward="false" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeForces/BFS/Cycle In Maze.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="91" column="9" lean-forward="false" selection-start-line="91" selection-start-column="9" selection-end-line="91" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1332">
@@ -874,23 +902,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/BFS/Cycle In Maze.cpp">
+    <entry file="file://$PROJECT_DIR$/Cracking the Coding Interview/Bit Manipulation/Q5-3.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1638">
-          <caret line="91" column="9" lean-forward="false" selection-start-line="91" selection-start-column="9" selection-end-line="91" selection-end-column="9" />
-          <folding>
-            <element signature="e#42#62#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="360">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/BFS/Police Station.cpp">
+    <entry file="file://$PROJECT_DIR$/Cracking the Coding Interview/Bit Manipulation/Q5-4.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="50" column="16" lean-forward="false" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="16" />
-          <folding>
-            <element signature="e#42#62#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="360">
+          <caret line="20" column="1" lean-forward="false" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cracking the Coding Interview/Bit Manipulation/Q5-7.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

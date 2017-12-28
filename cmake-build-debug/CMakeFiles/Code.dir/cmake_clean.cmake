@@ -101,6 +101,9 @@ file(REMOVE_RECURSE
   "CMakeFiles/Code.dir/CodeForces/DFS/Test.cpp.o"
   "CMakeFiles/Code.dir/CodeForces/BFS/Cycle_In_Maze.cpp.o"
   "CMakeFiles/Code.dir/CodeForces/BFS/Police_Station.cpp.o"
+  "CMakeFiles/Code.dir/HackerRank/_Real_Estate_Broker_.cpp.o"
+  "CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.cpp.o"
+  "CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.cpp.o"
   "Code.pdb"
   "Code"
 )

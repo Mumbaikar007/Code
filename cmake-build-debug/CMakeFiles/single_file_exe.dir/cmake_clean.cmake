@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/single_file_exe.dir/CodeForces/BFS/Cycle_In_Maze.cpp.o"
-  "../CodeForces/BFS/single_file_exe.pdb"
-  "../CodeForces/BFS/single_file_exe"
+  "CMakeFiles/single_file_exe.dir/HackerRank/_Real_Estate_Broker_.cpp.o"
+  "../HackerRank/single_file_exe.pdb"
+  "../HackerRank/single_file_exe"
 )
 
 # Per-language clean rules from dependency scanning.
