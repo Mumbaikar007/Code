@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/optimus/MEGA/Code/HackerRank/ Real Estate Broker .cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/single_file_exe.dir/HackerRank/_Real_Estate_Broker_.cpp.o"
+  "/home/optimus/MEGA/Code/Hitchhiker's /MaxSumOnALine.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/single_file_exe.dir/Hitchhiker's_/MaxSumOnALine.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

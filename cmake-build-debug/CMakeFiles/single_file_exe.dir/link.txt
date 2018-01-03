@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/single_file_exe.dir/HackerRank/_Real_Estate_Broker_.cpp.o  -o ../HackerRank/single_file_exe 
+/usr/bin/c++  -g   "CMakeFiles/single_file_exe.dir/Hitchhiker's_/MaxSumOnALine.cpp.o"  -o "../Hitchhiker's /single_file_exe" 

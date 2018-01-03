@@ -38,7 +38,7 @@
 				</MakeCommands>
 			</Target>
 			<Target title="single_file_exe">
-				<Option output="/home/optimus/MEGA/Code/HackerRank/single_file_exe" prefix_auto="0" extension_auto="0"/>
+				<Option output="/home/optimus/MEGA/Code/Hitchhiker&apos;s /single_file_exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/optimus/MEGA/Code/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -61,7 +61,7 @@
 				</MakeCommands>
 			</Target>
 			<Target title="single_file_exe/fast">
-				<Option output="/home/optimus/MEGA/Code/HackerRank/single_file_exe" prefix_auto="0" extension_auto="0"/>
+				<Option output="/home/optimus/MEGA/Code/Hitchhiker&apos;s /single_file_exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/optimus/MEGA/Code/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -235,6 +235,12 @@
 		<Unit filename="/home/optimus/MEGA/Code/CodeForces/DFS/VariationOne.cpp">
 			<Option target="Code"/>
 		</Unit>
+		<Unit filename="/home/optimus/MEGA/Code/CodeForces/Djikstra/ Complete The Graph.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/optimus/MEGA/Code/CodeForces/Djikstra/Test.cpp">
+			<Option target="Code"/>
+		</Unit>
 		<Unit filename="/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-1.cpp">
 			<Option target="Code"/>
 		</Unit>
@@ -304,6 +310,9 @@
 		<Unit filename="/home/optimus/MEGA/Code/Cracking the Coding Interview/Recursion and Dynamic/Q8-1.cpp">
 			<Option target="Code"/>
 		</Unit>
+		<Unit filename="/home/optimus/MEGA/Code/Cracking the Coding Interview/Recursion and Dynamic/Q8-2.cpp">
+			<Option target="Code"/>
+		</Unit>
 		<Unit filename="/home/optimus/MEGA/Code/Cracking the Coding Interview/Stacks/Q3-1.cpp">
 			<Option target="Code"/>
 		</Unit>
@@ -344,7 +353,6 @@
 			<Option target="Code"/>
 		</Unit>
 		<Unit filename="/home/optimus/MEGA/Code/HackerRank/ Real Estate Broker .cpp">
-			<Option target="single_file_exe"/>
 			<Option target="Code"/>
 		</Unit>
 		<Unit filename="/home/optimus/MEGA/Code/HackerRank/ClimbingLeaderboard.cpp">
@@ -363,6 +371,10 @@
 			<Option target="Code"/>
 		</Unit>
 		<Unit filename="/home/optimus/MEGA/Code/Hitchhiker&apos;s /LongestCommonSubsequence.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/optimus/MEGA/Code/Hitchhiker&apos;s /MaxSumOnALine.cpp">
+			<Option target="single_file_exe"/>
 			<Option target="Code"/>
 		</Unit>
 		<Unit filename="/home/optimus/MEGA/Code/Hitchhiker&apos;s /SampleProblemCombinatorics.cpp">

@@ -1081,6 +1081,60 @@ CodeForces/DFS/VariationOne.cpp.s:
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeForces/DFS/VariationOne.cpp.s
 .PHONY : CodeForces/DFS/VariationOne.cpp.s
 
+CodeForces/Djikstra/Test.o: CodeForces/Djikstra/Test.cpp.o
+
+.PHONY : CodeForces/Djikstra/Test.o
+
+# target to build an object file
+CodeForces/Djikstra/Test.cpp.o:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeForces/Djikstra/Test.cpp.o
+.PHONY : CodeForces/Djikstra/Test.cpp.o
+
+CodeForces/Djikstra/Test.i: CodeForces/Djikstra/Test.cpp.i
+
+.PHONY : CodeForces/Djikstra/Test.i
+
+# target to preprocess a source file
+CodeForces/Djikstra/Test.cpp.i:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeForces/Djikstra/Test.cpp.i
+.PHONY : CodeForces/Djikstra/Test.cpp.i
+
+CodeForces/Djikstra/Test.s: CodeForces/Djikstra/Test.cpp.s
+
+.PHONY : CodeForces/Djikstra/Test.s
+
+# target to generate assembly for a file
+CodeForces/Djikstra/Test.cpp.s:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeForces/Djikstra/Test.cpp.s
+.PHONY : CodeForces/Djikstra/Test.cpp.s
+
+CodeForces/Djikstra/_Complete_The_Graph.o: CodeForces/Djikstra/_Complete_The_Graph.cpp.o
+
+.PHONY : CodeForces/Djikstra/_Complete_The_Graph.o
+
+# target to build an object file
+CodeForces/Djikstra/_Complete_The_Graph.cpp.o:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeForces/Djikstra/_Complete_The_Graph.cpp.o
+.PHONY : CodeForces/Djikstra/_Complete_The_Graph.cpp.o
+
+CodeForces/Djikstra/_Complete_The_Graph.i: CodeForces/Djikstra/_Complete_The_Graph.cpp.i
+
+.PHONY : CodeForces/Djikstra/_Complete_The_Graph.i
+
+# target to preprocess a source file
+CodeForces/Djikstra/_Complete_The_Graph.cpp.i:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeForces/Djikstra/_Complete_The_Graph.cpp.i
+.PHONY : CodeForces/Djikstra/_Complete_The_Graph.cpp.i
+
+CodeForces/Djikstra/_Complete_The_Graph.s: CodeForces/Djikstra/_Complete_The_Graph.cpp.s
+
+.PHONY : CodeForces/Djikstra/_Complete_The_Graph.s
+
+# target to generate assembly for a file
+CodeForces/Djikstra/_Complete_The_Graph.cpp.s:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeForces/Djikstra/_Complete_The_Graph.cpp.s
+.PHONY : CodeForces/Djikstra/_Complete_The_Graph.cpp.s
+
 Cracking_the_Coding_Interview/Array_and_Strings/Q1-1.o: Cracking_the_Coding_Interview/Array_and_Strings/Q1-1.cpp.o
 
 .PHONY : Cracking_the_Coding_Interview/Array_and_Strings/Q1-1.o
@@ -1702,6 +1756,33 @@ Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-1.cpp.s:
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-1.cpp.s
 .PHONY : Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-1.cpp.s
 
+Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-2.o: Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-2.cpp.o
+
+.PHONY : Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-2.o
+
+# target to build an object file
+Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-2.cpp.o:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-2.cpp.o
+.PHONY : Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-2.cpp.o
+
+Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-2.i: Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-2.cpp.i
+
+.PHONY : Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-2.i
+
+# target to preprocess a source file
+Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-2.cpp.i:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-2.cpp.i
+.PHONY : Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-2.cpp.i
+
+Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-2.s: Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-2.cpp.s
+
+.PHONY : Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-2.s
+
+# target to generate assembly for a file
+Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-2.cpp.s:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-2.cpp.s
+.PHONY : Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-2.cpp.s
+
 Cracking_the_Coding_Interview/Stacks/Q3-1.o: Cracking_the_Coding_Interview/Stacks/Q3-1.cpp.o
 
 .PHONY : Cracking_the_Coding_Interview/Stacks/Q3-1.o
@@ -2167,7 +2248,6 @@ HackerRank/_Real_Estate_Broker_.o: HackerRank/_Real_Estate_Broker_.cpp.o
 
 # target to build an object file
 HackerRank/_Real_Estate_Broker_.cpp.o:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/HackerRank/_Real_Estate_Broker_.cpp.o
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/HackerRank/_Real_Estate_Broker_.cpp.o
 .PHONY : HackerRank/_Real_Estate_Broker_.cpp.o
 
@@ -2177,7 +2257,6 @@ HackerRank/_Real_Estate_Broker_.i: HackerRank/_Real_Estate_Broker_.cpp.i
 
 # target to preprocess a source file
 HackerRank/_Real_Estate_Broker_.cpp.i:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/HackerRank/_Real_Estate_Broker_.cpp.i
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/HackerRank/_Real_Estate_Broker_.cpp.i
 .PHONY : HackerRank/_Real_Estate_Broker_.cpp.i
 
@@ -2187,7 +2266,6 @@ HackerRank/_Real_Estate_Broker_.s: HackerRank/_Real_Estate_Broker_.cpp.s
 
 # target to generate assembly for a file
 HackerRank/_Real_Estate_Broker_.cpp.s:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/HackerRank/_Real_Estate_Broker_.cpp.s
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/HackerRank/_Real_Estate_Broker_.cpp.s
 .PHONY : HackerRank/_Real_Estate_Broker_.cpp.s
 
@@ -2244,6 +2322,36 @@ Hitchhiker's_/LongestCommonSubsequence.s: Hitchhiker's_/LongestCommonSubsequence
 Hitchhiker's_/LongestCommonSubsequence.cpp.s:
 	$(MAKE) -f CMakeFiles/Code.dir/build.make "CMakeFiles/Code.dir/Hitchhiker's_/LongestCommonSubsequence.cpp.s"
 .PHONY : Hitchhiker's_/LongestCommonSubsequence.cpp.s
+
+Hitchhiker's_/MaxSumOnALine.o: Hitchhiker's_/MaxSumOnALine.cpp.o
+
+.PHONY : Hitchhiker's_/MaxSumOnALine.o
+
+# target to build an object file
+Hitchhiker's_/MaxSumOnALine.cpp.o:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make "CMakeFiles/single_file_exe.dir/Hitchhiker's_/MaxSumOnALine.cpp.o"
+	$(MAKE) -f CMakeFiles/Code.dir/build.make "CMakeFiles/Code.dir/Hitchhiker's_/MaxSumOnALine.cpp.o"
+.PHONY : Hitchhiker's_/MaxSumOnALine.cpp.o
+
+Hitchhiker's_/MaxSumOnALine.i: Hitchhiker's_/MaxSumOnALine.cpp.i
+
+.PHONY : Hitchhiker's_/MaxSumOnALine.i
+
+# target to preprocess a source file
+Hitchhiker's_/MaxSumOnALine.cpp.i:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make "CMakeFiles/single_file_exe.dir/Hitchhiker's_/MaxSumOnALine.cpp.i"
+	$(MAKE) -f CMakeFiles/Code.dir/build.make "CMakeFiles/Code.dir/Hitchhiker's_/MaxSumOnALine.cpp.i"
+.PHONY : Hitchhiker's_/MaxSumOnALine.cpp.i
+
+Hitchhiker's_/MaxSumOnALine.s: Hitchhiker's_/MaxSumOnALine.cpp.s
+
+.PHONY : Hitchhiker's_/MaxSumOnALine.s
+
+# target to generate assembly for a file
+Hitchhiker's_/MaxSumOnALine.cpp.s:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make "CMakeFiles/single_file_exe.dir/Hitchhiker's_/MaxSumOnALine.cpp.s"
+	$(MAKE) -f CMakeFiles/Code.dir/build.make "CMakeFiles/Code.dir/Hitchhiker's_/MaxSumOnALine.cpp.s"
+.PHONY : Hitchhiker's_/MaxSumOnALine.cpp.s
 
 Hitchhiker's_/SampleProblemCombinatorics.o: Hitchhiker's_/SampleProblemCombinatorics.cpp.o
 
@@ -3116,6 +3224,12 @@ help:
 	@echo "... CodeForces/DFS/VariationOne.o"
 	@echo "... CodeForces/DFS/VariationOne.i"
 	@echo "... CodeForces/DFS/VariationOne.s"
+	@echo "... CodeForces/Djikstra/Test.o"
+	@echo "... CodeForces/Djikstra/Test.i"
+	@echo "... CodeForces/Djikstra/Test.s"
+	@echo "... CodeForces/Djikstra/_Complete_The_Graph.o"
+	@echo "... CodeForces/Djikstra/_Complete_The_Graph.i"
+	@echo "... CodeForces/Djikstra/_Complete_The_Graph.s"
 	@echo "... Cracking_the_Coding_Interview/Array_and_Strings/Q1-1.o"
 	@echo "... Cracking_the_Coding_Interview/Array_and_Strings/Q1-1.i"
 	@echo "... Cracking_the_Coding_Interview/Array_and_Strings/Q1-1.s"
@@ -3185,6 +3299,9 @@ help:
 	@echo "... Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-1.o"
 	@echo "... Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-1.i"
 	@echo "... Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-1.s"
+	@echo "... Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-2.o"
+	@echo "... Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-2.i"
+	@echo "... Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-2.s"
 	@echo "... Cracking_the_Coding_Interview/Stacks/Q3-1.o"
 	@echo "... Cracking_the_Coding_Interview/Stacks/Q3-1.i"
 	@echo "... Cracking_the_Coding_Interview/Stacks/Q3-1.s"
@@ -3245,6 +3362,9 @@ help:
 	@echo "... Hitchhiker's_/LongestCommonSubsequence.o"
 	@echo "... Hitchhiker's_/LongestCommonSubsequence.i"
 	@echo "... Hitchhiker's_/LongestCommonSubsequence.s"
+	@echo "... Hitchhiker's_/MaxSumOnALine.o"
+	@echo "... Hitchhiker's_/MaxSumOnALine.i"
+	@echo "... Hitchhiker's_/MaxSumOnALine.s"
 	@echo "... Hitchhiker's_/SampleProblemCombinatorics.o"
 	@echo "... Hitchhiker's_/SampleProblemCombinatorics.i"
 	@echo "... Hitchhiker's_/SampleProblemCombinatorics.s"

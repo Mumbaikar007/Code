@@ -57,49 +57,49 @@ include CMakeFiles/single_file_exe.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/single_file_exe.dir/flags.make
 
-CMakeFiles/single_file_exe.dir/HackerRank/_Real_Estate_Broker_.cpp.o: CMakeFiles/single_file_exe.dir/flags.make
-CMakeFiles/single_file_exe.dir/HackerRank/_Real_Estate_Broker_.cpp.o: ../HackerRank/\ Real\ Estate\ Broker\ .cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/single_file_exe.dir/HackerRank/_Real_Estate_Broker_.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/single_file_exe.dir/HackerRank/_Real_Estate_Broker_.cpp.o -c "/home/optimus/MEGA/Code/HackerRank/ Real Estate Broker .cpp"
+CMakeFiles/single_file_exe.dir/Hitchhiker's_/MaxSumOnALine.cpp.o: CMakeFiles/single_file_exe.dir/flags.make
+CMakeFiles/single_file_exe.dir/Hitchhiker's_/MaxSumOnALine.cpp.o: ../Hitchhiker's\ /MaxSumOnALine.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/single_file_exe.dir/Hitchhiker's_/MaxSumOnALine.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/single_file_exe.dir/Hitchhiker's_/MaxSumOnALine.cpp.o" -c "/home/optimus/MEGA/Code/Hitchhiker's /MaxSumOnALine.cpp"
 
-CMakeFiles/single_file_exe.dir/HackerRank/_Real_Estate_Broker_.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/single_file_exe.dir/HackerRank/_Real_Estate_Broker_.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/HackerRank/ Real Estate Broker .cpp" > CMakeFiles/single_file_exe.dir/HackerRank/_Real_Estate_Broker_.cpp.i
+CMakeFiles/single_file_exe.dir/Hitchhiker's_/MaxSumOnALine.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/single_file_exe.dir/Hitchhiker's_/MaxSumOnALine.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/Hitchhiker's /MaxSumOnALine.cpp" > "CMakeFiles/single_file_exe.dir/Hitchhiker's_/MaxSumOnALine.cpp.i"
 
-CMakeFiles/single_file_exe.dir/HackerRank/_Real_Estate_Broker_.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/single_file_exe.dir/HackerRank/_Real_Estate_Broker_.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/HackerRank/ Real Estate Broker .cpp" -o CMakeFiles/single_file_exe.dir/HackerRank/_Real_Estate_Broker_.cpp.s
+CMakeFiles/single_file_exe.dir/Hitchhiker's_/MaxSumOnALine.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/single_file_exe.dir/Hitchhiker's_/MaxSumOnALine.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/Hitchhiker's /MaxSumOnALine.cpp" -o "CMakeFiles/single_file_exe.dir/Hitchhiker's_/MaxSumOnALine.cpp.s"
 
-CMakeFiles/single_file_exe.dir/HackerRank/_Real_Estate_Broker_.cpp.o.requires:
+CMakeFiles/single_file_exe.dir/Hitchhiker's_/MaxSumOnALine.cpp.o.requires:
 
-.PHONY : CMakeFiles/single_file_exe.dir/HackerRank/_Real_Estate_Broker_.cpp.o.requires
+.PHONY : CMakeFiles/single_file_exe.dir/Hitchhiker's_/MaxSumOnALine.cpp.o.requires
 
-CMakeFiles/single_file_exe.dir/HackerRank/_Real_Estate_Broker_.cpp.o.provides: CMakeFiles/single_file_exe.dir/HackerRank/_Real_Estate_Broker_.cpp.o.requires
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/HackerRank/_Real_Estate_Broker_.cpp.o.provides.build
-.PHONY : CMakeFiles/single_file_exe.dir/HackerRank/_Real_Estate_Broker_.cpp.o.provides
+CMakeFiles/single_file_exe.dir/Hitchhiker's_/MaxSumOnALine.cpp.o.provides: CMakeFiles/single_file_exe.dir/Hitchhiker's_/MaxSumOnALine.cpp.o.requires
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make "CMakeFiles/single_file_exe.dir/Hitchhiker's_/MaxSumOnALine.cpp.o.provides.build"
+.PHONY : CMakeFiles/single_file_exe.dir/Hitchhiker's_/MaxSumOnALine.cpp.o.provides
 
-CMakeFiles/single_file_exe.dir/HackerRank/_Real_Estate_Broker_.cpp.o.provides.build: CMakeFiles/single_file_exe.dir/HackerRank/_Real_Estate_Broker_.cpp.o
+CMakeFiles/single_file_exe.dir/Hitchhiker's_/MaxSumOnALine.cpp.o.provides.build: CMakeFiles/single_file_exe.dir/Hitchhiker's_/MaxSumOnALine.cpp.o
 
 
 # Object files for target single_file_exe
 single_file_exe_OBJECTS = \
-"CMakeFiles/single_file_exe.dir/HackerRank/_Real_Estate_Broker_.cpp.o"
+"CMakeFiles/single_file_exe.dir/Hitchhiker's_/MaxSumOnALine.cpp.o"
 
 # External object files for target single_file_exe
 single_file_exe_EXTERNAL_OBJECTS =
 
-../HackerRank/single_file_exe: CMakeFiles/single_file_exe.dir/HackerRank/_Real_Estate_Broker_.cpp.o
-../HackerRank/single_file_exe: CMakeFiles/single_file_exe.dir/build.make
-../HackerRank/single_file_exe: CMakeFiles/single_file_exe.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable ../HackerRank/single_file_exe"
+../Hitchhiker's\ /single_file_exe: CMakeFiles/single_file_exe.dir/Hitchhiker's_/MaxSumOnALine.cpp.o
+../Hitchhiker's\ /single_file_exe: CMakeFiles/single_file_exe.dir/build.make
+../Hitchhiker's\ /single_file_exe: CMakeFiles/single_file_exe.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable \"../Hitchhiker's /single_file_exe\""
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/single_file_exe.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-CMakeFiles/single_file_exe.dir/build: ../HackerRank/single_file_exe
+CMakeFiles/single_file_exe.dir/build: ../Hitchhiker's\ /single_file_exe
 
 .PHONY : CMakeFiles/single_file_exe.dir/build
 
-CMakeFiles/single_file_exe.dir/requires: CMakeFiles/single_file_exe.dir/HackerRank/_Real_Estate_Broker_.cpp.o.requires
+CMakeFiles/single_file_exe.dir/requires: CMakeFiles/single_file_exe.dir/Hitchhiker's_/MaxSumOnALine.cpp.o.requires
 
 .PHONY : CMakeFiles/single_file_exe.dir/requires
 

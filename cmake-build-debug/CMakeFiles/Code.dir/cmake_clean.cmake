@@ -105,6 +105,10 @@ file(REMOVE_RECURSE
   "CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.cpp.o"
   "CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.cpp.o"
   "CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-1.cpp.o"
+  "CMakeFiles/Code.dir/CodeForces/Djikstra/_Complete_The_Graph.cpp.o"
+  "CMakeFiles/Code.dir/CodeForces/Djikstra/Test.cpp.o"
+  "CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-2.cpp.o"
+  "CMakeFiles/Code.dir/Hitchhiker's_/MaxSumOnALine.cpp.o"
   "Code.pdb"
   "Code"
 )
