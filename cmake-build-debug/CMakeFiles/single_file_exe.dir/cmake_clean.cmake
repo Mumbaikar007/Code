@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/single_file_exe.dir/Hitchhiker's_/MaxSumOnALine.cpp.o"
-  "../Hitchhiker's /single_file_exe.pdb"
-  "../Hitchhiker's /single_file_exe"
+  "CMakeFiles/single_file_exe.dir/HackerEarth/Dynamic/On^2.cpp.o"
+  "../HackerEarth/Dynamic/single_file_exe.pdb"
+  "../HackerEarth/Dynamic/single_file_exe"
 )
 
 # Per-language clean rules from dependency scanning.

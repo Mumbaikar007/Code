@@ -2080,6 +2080,63 @@ HackerEarth/Choosing_the_judges.cpp.s:
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/HackerEarth/Choosing_the_judges.cpp.s
 .PHONY : HackerEarth/Choosing_the_judges.cpp.s
 
+HackerEarth/Dynamic/Counting_Number_of_Ways_.o: HackerEarth/Dynamic/Counting_Number_of_Ways_.cpp.o
+
+.PHONY : HackerEarth/Dynamic/Counting_Number_of_Ways_.o
+
+# target to build an object file
+HackerEarth/Dynamic/Counting_Number_of_Ways_.cpp.o:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/HackerEarth/Dynamic/Counting_Number_of_Ways_.cpp.o
+.PHONY : HackerEarth/Dynamic/Counting_Number_of_Ways_.cpp.o
+
+HackerEarth/Dynamic/Counting_Number_of_Ways_.i: HackerEarth/Dynamic/Counting_Number_of_Ways_.cpp.i
+
+.PHONY : HackerEarth/Dynamic/Counting_Number_of_Ways_.i
+
+# target to preprocess a source file
+HackerEarth/Dynamic/Counting_Number_of_Ways_.cpp.i:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/HackerEarth/Dynamic/Counting_Number_of_Ways_.cpp.i
+.PHONY : HackerEarth/Dynamic/Counting_Number_of_Ways_.cpp.i
+
+HackerEarth/Dynamic/Counting_Number_of_Ways_.s: HackerEarth/Dynamic/Counting_Number_of_Ways_.cpp.s
+
+.PHONY : HackerEarth/Dynamic/Counting_Number_of_Ways_.s
+
+# target to generate assembly for a file
+HackerEarth/Dynamic/Counting_Number_of_Ways_.cpp.s:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/HackerEarth/Dynamic/Counting_Number_of_Ways_.cpp.s
+.PHONY : HackerEarth/Dynamic/Counting_Number_of_Ways_.cpp.s
+
+HackerEarth/Dynamic/On^2.o: HackerEarth/Dynamic/On^2.cpp.o
+
+.PHONY : HackerEarth/Dynamic/On^2.o
+
+# target to build an object file
+HackerEarth/Dynamic/On^2.cpp.o:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make "CMakeFiles/single_file_exe.dir/HackerEarth/Dynamic/On^2.cpp.o"
+	$(MAKE) -f CMakeFiles/Code.dir/build.make "CMakeFiles/Code.dir/HackerEarth/Dynamic/On^2.cpp.o"
+.PHONY : HackerEarth/Dynamic/On^2.cpp.o
+
+HackerEarth/Dynamic/On^2.i: HackerEarth/Dynamic/On^2.cpp.i
+
+.PHONY : HackerEarth/Dynamic/On^2.i
+
+# target to preprocess a source file
+HackerEarth/Dynamic/On^2.cpp.i:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make "CMakeFiles/single_file_exe.dir/HackerEarth/Dynamic/On^2.cpp.i"
+	$(MAKE) -f CMakeFiles/Code.dir/build.make "CMakeFiles/Code.dir/HackerEarth/Dynamic/On^2.cpp.i"
+.PHONY : HackerEarth/Dynamic/On^2.cpp.i
+
+HackerEarth/Dynamic/On^2.s: HackerEarth/Dynamic/On^2.cpp.s
+
+.PHONY : HackerEarth/Dynamic/On^2.s
+
+# target to generate assembly for a file
+HackerEarth/Dynamic/On^2.cpp.s:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make "CMakeFiles/single_file_exe.dir/HackerEarth/Dynamic/On^2.cpp.s"
+	$(MAKE) -f CMakeFiles/Code.dir/build.make "CMakeFiles/Code.dir/HackerEarth/Dynamic/On^2.cpp.s"
+.PHONY : HackerEarth/Dynamic/On^2.cpp.s
+
 HackerEarth/Factorial.o: HackerEarth/Factorial.cpp.o
 
 .PHONY : HackerEarth/Factorial.o
@@ -2329,7 +2386,6 @@ Hitchhiker's_/MaxSumOnALine.o: Hitchhiker's_/MaxSumOnALine.cpp.o
 
 # target to build an object file
 Hitchhiker's_/MaxSumOnALine.cpp.o:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make "CMakeFiles/single_file_exe.dir/Hitchhiker's_/MaxSumOnALine.cpp.o"
 	$(MAKE) -f CMakeFiles/Code.dir/build.make "CMakeFiles/Code.dir/Hitchhiker's_/MaxSumOnALine.cpp.o"
 .PHONY : Hitchhiker's_/MaxSumOnALine.cpp.o
 
@@ -2339,7 +2395,6 @@ Hitchhiker's_/MaxSumOnALine.i: Hitchhiker's_/MaxSumOnALine.cpp.i
 
 # target to preprocess a source file
 Hitchhiker's_/MaxSumOnALine.cpp.i:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make "CMakeFiles/single_file_exe.dir/Hitchhiker's_/MaxSumOnALine.cpp.i"
 	$(MAKE) -f CMakeFiles/Code.dir/build.make "CMakeFiles/Code.dir/Hitchhiker's_/MaxSumOnALine.cpp.i"
 .PHONY : Hitchhiker's_/MaxSumOnALine.cpp.i
 
@@ -2349,7 +2404,6 @@ Hitchhiker's_/MaxSumOnALine.s: Hitchhiker's_/MaxSumOnALine.cpp.s
 
 # target to generate assembly for a file
 Hitchhiker's_/MaxSumOnALine.cpp.s:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make "CMakeFiles/single_file_exe.dir/Hitchhiker's_/MaxSumOnALine.cpp.s"
 	$(MAKE) -f CMakeFiles/Code.dir/build.make "CMakeFiles/Code.dir/Hitchhiker's_/MaxSumOnALine.cpp.s"
 .PHONY : Hitchhiker's_/MaxSumOnALine.cpp.s
 
@@ -3335,6 +3389,12 @@ help:
 	@echo "... HackerEarth/Choosing_the_judges.o"
 	@echo "... HackerEarth/Choosing_the_judges.i"
 	@echo "... HackerEarth/Choosing_the_judges.s"
+	@echo "... HackerEarth/Dynamic/Counting_Number_of_Ways_.o"
+	@echo "... HackerEarth/Dynamic/Counting_Number_of_Ways_.i"
+	@echo "... HackerEarth/Dynamic/Counting_Number_of_Ways_.s"
+	@echo "... HackerEarth/Dynamic/On^2.o"
+	@echo "... HackerEarth/Dynamic/On^2.i"
+	@echo "... HackerEarth/Dynamic/On^2.s"
 	@echo "... HackerEarth/Factorial.o"
 	@echo "... HackerEarth/Factorial.i"
 	@echo "... HackerEarth/Factorial.s"

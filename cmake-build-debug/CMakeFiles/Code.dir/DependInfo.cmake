@@ -84,6 +84,8 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/optimus/MEGA/Code/Cracking the Coding Interview/Trees and graphs/ReadyTree.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/ReadyTree.cpp.o"
   "/home/optimus/MEGA/Code/Cracking the Coding Interview/Trees and graphs/Tree Practice.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Tree_Practice.cpp.o"
   "/home/optimus/MEGA/Code/HackerEarth/Choosing the judges.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/HackerEarth/Choosing_the_judges.cpp.o"
+  "/home/optimus/MEGA/Code/HackerEarth/Dynamic/Counting Number of Ways .cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/HackerEarth/Dynamic/Counting_Number_of_Ways_.cpp.o"
+  "/home/optimus/MEGA/Code/HackerEarth/Dynamic/On^2.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/HackerEarth/Dynamic/On^2.cpp.o"
   "/home/optimus/MEGA/Code/HackerEarth/Factorial.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/HackerEarth/Factorial.cpp.o"
   "/home/optimus/MEGA/Code/HackerEarth/Intelligent Girl.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/HackerEarth/Intelligent_Girl.cpp.o"
   "/home/optimus/MEGA/Code/HackerRank/ClimbingLeaderboard.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/HackerRank/ClimbingLeaderboard.cpp.o"

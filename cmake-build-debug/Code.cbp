@@ -38,7 +38,7 @@
 				</MakeCommands>
 			</Target>
 			<Target title="single_file_exe">
-				<Option output="/home/optimus/MEGA/Code/Hitchhiker&apos;s /single_file_exe" prefix_auto="0" extension_auto="0"/>
+				<Option output="/home/optimus/MEGA/Code/HackerEarth/Dynamic/single_file_exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/optimus/MEGA/Code/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -61,7 +61,7 @@
 				</MakeCommands>
 			</Target>
 			<Target title="single_file_exe/fast">
-				<Option output="/home/optimus/MEGA/Code/Hitchhiker&apos;s /single_file_exe" prefix_auto="0" extension_auto="0"/>
+				<Option output="/home/optimus/MEGA/Code/HackerEarth/Dynamic/single_file_exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/optimus/MEGA/Code/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -346,6 +346,13 @@
 		<Unit filename="/home/optimus/MEGA/Code/HackerEarth/Choosing the judges.cpp">
 			<Option target="Code"/>
 		</Unit>
+		<Unit filename="/home/optimus/MEGA/Code/HackerEarth/Dynamic/Counting Number of Ways .cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/optimus/MEGA/Code/HackerEarth/Dynamic/On^2.cpp">
+			<Option target="single_file_exe"/>
+			<Option target="Code"/>
+		</Unit>
 		<Unit filename="/home/optimus/MEGA/Code/HackerEarth/Factorial.cpp">
 			<Option target="Code"/>
 		</Unit>
@@ -374,7 +381,6 @@
 			<Option target="Code"/>
 		</Unit>
 		<Unit filename="/home/optimus/MEGA/Code/Hitchhiker&apos;s /MaxSumOnALine.cpp">
-			<Option target="single_file_exe"/>
 			<Option target="Code"/>
 		</Unit>
 		<Unit filename="/home/optimus/MEGA/Code/Hitchhiker&apos;s /SampleProblemCombinatorics.cpp">

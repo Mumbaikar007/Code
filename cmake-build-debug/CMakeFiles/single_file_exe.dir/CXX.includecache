@@ -6,15 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/optimus/MEGA/Code/HackerRank/ Real Estate Broker .cpp
-cmath
--
-limits.h
--
-vector
--
-iostream
--
-algorithm
+/home/optimus/MEGA/Code/HackerEarth/Dynamic/On^2.cpp
+bits/stdc++.h
 -
 

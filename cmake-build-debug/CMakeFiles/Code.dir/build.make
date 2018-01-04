@@ -2697,6 +2697,54 @@ CMakeFiles/Code.dir/Hitchhiker's_/MaxSumOnALine.cpp.o.provides: CMakeFiles/Code.
 CMakeFiles/Code.dir/Hitchhiker's_/MaxSumOnALine.cpp.o.provides.build: CMakeFiles/Code.dir/Hitchhiker's_/MaxSumOnALine.cpp.o
 
 
+CMakeFiles/Code.dir/HackerEarth/Dynamic/Counting_Number_of_Ways_.cpp.o: CMakeFiles/Code.dir/flags.make
+CMakeFiles/Code.dir/HackerEarth/Dynamic/Counting_Number_of_Ways_.cpp.o: ../HackerEarth/Dynamic/Counting\ Number\ of\ Ways\ .cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_111) "Building CXX object CMakeFiles/Code.dir/HackerEarth/Dynamic/Counting_Number_of_Ways_.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/HackerEarth/Dynamic/Counting_Number_of_Ways_.cpp.o -c "/home/optimus/MEGA/Code/HackerEarth/Dynamic/Counting Number of Ways .cpp"
+
+CMakeFiles/Code.dir/HackerEarth/Dynamic/Counting_Number_of_Ways_.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/HackerEarth/Dynamic/Counting_Number_of_Ways_.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/HackerEarth/Dynamic/Counting Number of Ways .cpp" > CMakeFiles/Code.dir/HackerEarth/Dynamic/Counting_Number_of_Ways_.cpp.i
+
+CMakeFiles/Code.dir/HackerEarth/Dynamic/Counting_Number_of_Ways_.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/HackerEarth/Dynamic/Counting_Number_of_Ways_.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/HackerEarth/Dynamic/Counting Number of Ways .cpp" -o CMakeFiles/Code.dir/HackerEarth/Dynamic/Counting_Number_of_Ways_.cpp.s
+
+CMakeFiles/Code.dir/HackerEarth/Dynamic/Counting_Number_of_Ways_.cpp.o.requires:
+
+.PHONY : CMakeFiles/Code.dir/HackerEarth/Dynamic/Counting_Number_of_Ways_.cpp.o.requires
+
+CMakeFiles/Code.dir/HackerEarth/Dynamic/Counting_Number_of_Ways_.cpp.o.provides: CMakeFiles/Code.dir/HackerEarth/Dynamic/Counting_Number_of_Ways_.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/HackerEarth/Dynamic/Counting_Number_of_Ways_.cpp.o.provides.build
+.PHONY : CMakeFiles/Code.dir/HackerEarth/Dynamic/Counting_Number_of_Ways_.cpp.o.provides
+
+CMakeFiles/Code.dir/HackerEarth/Dynamic/Counting_Number_of_Ways_.cpp.o.provides.build: CMakeFiles/Code.dir/HackerEarth/Dynamic/Counting_Number_of_Ways_.cpp.o
+
+
+CMakeFiles/Code.dir/HackerEarth/Dynamic/On^2.cpp.o: CMakeFiles/Code.dir/flags.make
+CMakeFiles/Code.dir/HackerEarth/Dynamic/On^2.cpp.o: ../HackerEarth/Dynamic/On^2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_112) "Building CXX object CMakeFiles/Code.dir/HackerEarth/Dynamic/On^2.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/Code.dir/HackerEarth/Dynamic/On^2.cpp.o" -c "/home/optimus/MEGA/Code/HackerEarth/Dynamic/On^2.cpp"
+
+CMakeFiles/Code.dir/HackerEarth/Dynamic/On^2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/HackerEarth/Dynamic/On^2.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/HackerEarth/Dynamic/On^2.cpp" > "CMakeFiles/Code.dir/HackerEarth/Dynamic/On^2.cpp.i"
+
+CMakeFiles/Code.dir/HackerEarth/Dynamic/On^2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/HackerEarth/Dynamic/On^2.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/HackerEarth/Dynamic/On^2.cpp" -o "CMakeFiles/Code.dir/HackerEarth/Dynamic/On^2.cpp.s"
+
+CMakeFiles/Code.dir/HackerEarth/Dynamic/On^2.cpp.o.requires:
+
+.PHONY : CMakeFiles/Code.dir/HackerEarth/Dynamic/On^2.cpp.o.requires
+
+CMakeFiles/Code.dir/HackerEarth/Dynamic/On^2.cpp.o.provides: CMakeFiles/Code.dir/HackerEarth/Dynamic/On^2.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Code.dir/build.make "CMakeFiles/Code.dir/HackerEarth/Dynamic/On^2.cpp.o.provides.build"
+.PHONY : CMakeFiles/Code.dir/HackerEarth/Dynamic/On^2.cpp.o.provides
+
+CMakeFiles/Code.dir/HackerEarth/Dynamic/On^2.cpp.o.provides.build: CMakeFiles/Code.dir/HackerEarth/Dynamic/On^2.cpp.o
+
+
 # Object files for target Code
 Code_OBJECTS = \
 "CMakeFiles/Code.dir/CLRS/Dynamic_Programming/Cut-Rod-Problem-Memorization-Top-Down.cpp.o" \
@@ -2808,7 +2856,9 @@ Code_OBJECTS = \
 "CMakeFiles/Code.dir/CodeForces/Djikstra/_Complete_The_Graph.cpp.o" \
 "CMakeFiles/Code.dir/CodeForces/Djikstra/Test.cpp.o" \
 "CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-2.cpp.o" \
-"CMakeFiles/Code.dir/Hitchhiker's_/MaxSumOnALine.cpp.o"
+"CMakeFiles/Code.dir/Hitchhiker's_/MaxSumOnALine.cpp.o" \
+"CMakeFiles/Code.dir/HackerEarth/Dynamic/Counting_Number_of_Ways_.cpp.o" \
+"CMakeFiles/Code.dir/HackerEarth/Dynamic/On^2.cpp.o"
 
 # External object files for target Code
 Code_EXTERNAL_OBJECTS =
@@ -2923,9 +2973,11 @@ Code: CMakeFiles/Code.dir/CodeForces/Djikstra/_Complete_The_Graph.cpp.o
 Code: CMakeFiles/Code.dir/CodeForces/Djikstra/Test.cpp.o
 Code: CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-2.cpp.o
 Code: CMakeFiles/Code.dir/Hitchhiker's_/MaxSumOnALine.cpp.o
+Code: CMakeFiles/Code.dir/HackerEarth/Dynamic/Counting_Number_of_Ways_.cpp.o
+Code: CMakeFiles/Code.dir/HackerEarth/Dynamic/On^2.cpp.o
 Code: CMakeFiles/Code.dir/build.make
 Code: CMakeFiles/Code.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_111) "Linking CXX executable Code"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_113) "Linking CXX executable Code"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Code.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -3043,6 +3095,8 @@ CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/CodeForces/Djikstra/_Complete_
 CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/CodeForces/Djikstra/Test.cpp.o.requires
 CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-2.cpp.o.requires
 CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/Hitchhiker's_/MaxSumOnALine.cpp.o.requires
+CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/HackerEarth/Dynamic/Counting_Number_of_Ways_.cpp.o.requires
+CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/HackerEarth/Dynamic/On^2.cpp.o.requires
 
 .PHONY : CMakeFiles/Code.dir/requires
 

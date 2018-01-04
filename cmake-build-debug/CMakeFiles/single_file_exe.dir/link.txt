@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   "CMakeFiles/single_file_exe.dir/Hitchhiker's_/MaxSumOnALine.cpp.o"  -o "../Hitchhiker's /single_file_exe" 
+/usr/bin/c++  -g   "CMakeFiles/single_file_exe.dir/HackerEarth/Dynamic/On^2.cpp.o"  -o ../HackerEarth/Dynamic/single_file_exe 

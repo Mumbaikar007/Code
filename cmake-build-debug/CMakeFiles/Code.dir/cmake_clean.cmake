@@ -109,6 +109,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/Code.dir/CodeForces/Djikstra/Test.cpp.o"
   "CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-2.cpp.o"
   "CMakeFiles/Code.dir/Hitchhiker's_/MaxSumOnALine.cpp.o"
+  "CMakeFiles/Code.dir/HackerEarth/Dynamic/Counting_Number_of_Ways_.cpp.o"
+  "CMakeFiles/Code.dir/HackerEarth/Dynamic/On^2.cpp.o"
   "Code.pdb"
   "Code"
 )
