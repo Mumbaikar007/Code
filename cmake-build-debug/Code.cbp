@@ -38,7 +38,7 @@
 				</MakeCommands>
 			</Target>
 			<Target title="single_file_exe">
-				<Option output="/home/optimus/MEGA/Code/HackerEarth/Dynamic/single_file_exe" prefix_auto="0" extension_auto="0"/>
+				<Option output="/home/optimus/MEGA/Code/CodeChef/January Challenge 2018/single_file_exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/optimus/MEGA/Code/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -61,7 +61,7 @@
 				</MakeCommands>
 			</Target>
 			<Target title="single_file_exe/fast">
-				<Option output="/home/optimus/MEGA/Code/HackerEarth/Dynamic/single_file_exe" prefix_auto="0" extension_auto="0"/>
+				<Option output="/home/optimus/MEGA/Code/CodeChef/January Challenge 2018/single_file_exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/optimus/MEGA/Code/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -185,6 +185,16 @@
 			<Option target="Code"/>
 		</Unit>
 		<Unit filename="/home/optimus/MEGA/Code/CodeChef/FSQRT.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/optimus/MEGA/Code/CodeChef/January Challenge 2018/KCON.cpp">
+			<Option target="single_file_exe"/>
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/optimus/MEGA/Code/CodeChef/January Challenge 2018/MAXSC.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/optimus/MEGA/Code/CodeChef/January Challenge 2018/RECTANGL.cpp">
 			<Option target="Code"/>
 		</Unit>
 		<Unit filename="/home/optimus/MEGA/Code/CodeChef/LUCKFOUR.cpp">
@@ -350,7 +360,6 @@
 			<Option target="Code"/>
 		</Unit>
 		<Unit filename="/home/optimus/MEGA/Code/HackerEarth/Dynamic/On^2.cpp">
-			<Option target="single_file_exe"/>
 			<Option target="Code"/>
 		</Unit>
 		<Unit filename="/home/optimus/MEGA/Code/HackerEarth/Factorial.cpp">

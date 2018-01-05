@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/single_file_exe.dir/HackerEarth/Dynamic/On^2.cpp.o"
-  "../HackerEarth/Dynamic/single_file_exe.pdb"
-  "../HackerEarth/Dynamic/single_file_exe"
+  "CMakeFiles/single_file_exe.dir/CodeChef/January_Challenge_2018/KCON.cpp.o"
+  "../CodeChef/January Challenge 2018/single_file_exe.pdb"
+  "../CodeChef/January Challenge 2018/single_file_exe"
 )
 
 # Per-language clean rules from dependency scanning.

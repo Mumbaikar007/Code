@@ -649,6 +649,90 @@ CodeChef/FSQRT.cpp.s:
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/FSQRT.cpp.s
 .PHONY : CodeChef/FSQRT.cpp.s
 
+CodeChef/January_Challenge_2018/KCON.o: CodeChef/January_Challenge_2018/KCON.cpp.o
+
+.PHONY : CodeChef/January_Challenge_2018/KCON.o
+
+# target to build an object file
+CodeChef/January_Challenge_2018/KCON.cpp.o:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/CodeChef/January_Challenge_2018/KCON.cpp.o
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON.cpp.o
+.PHONY : CodeChef/January_Challenge_2018/KCON.cpp.o
+
+CodeChef/January_Challenge_2018/KCON.i: CodeChef/January_Challenge_2018/KCON.cpp.i
+
+.PHONY : CodeChef/January_Challenge_2018/KCON.i
+
+# target to preprocess a source file
+CodeChef/January_Challenge_2018/KCON.cpp.i:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/CodeChef/January_Challenge_2018/KCON.cpp.i
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON.cpp.i
+.PHONY : CodeChef/January_Challenge_2018/KCON.cpp.i
+
+CodeChef/January_Challenge_2018/KCON.s: CodeChef/January_Challenge_2018/KCON.cpp.s
+
+.PHONY : CodeChef/January_Challenge_2018/KCON.s
+
+# target to generate assembly for a file
+CodeChef/January_Challenge_2018/KCON.cpp.s:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/CodeChef/January_Challenge_2018/KCON.cpp.s
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON.cpp.s
+.PHONY : CodeChef/January_Challenge_2018/KCON.cpp.s
+
+CodeChef/January_Challenge_2018/MAXSC.o: CodeChef/January_Challenge_2018/MAXSC.cpp.o
+
+.PHONY : CodeChef/January_Challenge_2018/MAXSC.o
+
+# target to build an object file
+CodeChef/January_Challenge_2018/MAXSC.cpp.o:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/MAXSC.cpp.o
+.PHONY : CodeChef/January_Challenge_2018/MAXSC.cpp.o
+
+CodeChef/January_Challenge_2018/MAXSC.i: CodeChef/January_Challenge_2018/MAXSC.cpp.i
+
+.PHONY : CodeChef/January_Challenge_2018/MAXSC.i
+
+# target to preprocess a source file
+CodeChef/January_Challenge_2018/MAXSC.cpp.i:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/MAXSC.cpp.i
+.PHONY : CodeChef/January_Challenge_2018/MAXSC.cpp.i
+
+CodeChef/January_Challenge_2018/MAXSC.s: CodeChef/January_Challenge_2018/MAXSC.cpp.s
+
+.PHONY : CodeChef/January_Challenge_2018/MAXSC.s
+
+# target to generate assembly for a file
+CodeChef/January_Challenge_2018/MAXSC.cpp.s:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/MAXSC.cpp.s
+.PHONY : CodeChef/January_Challenge_2018/MAXSC.cpp.s
+
+CodeChef/January_Challenge_2018/RECTANGL.o: CodeChef/January_Challenge_2018/RECTANGL.cpp.o
+
+.PHONY : CodeChef/January_Challenge_2018/RECTANGL.o
+
+# target to build an object file
+CodeChef/January_Challenge_2018/RECTANGL.cpp.o:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/RECTANGL.cpp.o
+.PHONY : CodeChef/January_Challenge_2018/RECTANGL.cpp.o
+
+CodeChef/January_Challenge_2018/RECTANGL.i: CodeChef/January_Challenge_2018/RECTANGL.cpp.i
+
+.PHONY : CodeChef/January_Challenge_2018/RECTANGL.i
+
+# target to preprocess a source file
+CodeChef/January_Challenge_2018/RECTANGL.cpp.i:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/RECTANGL.cpp.i
+.PHONY : CodeChef/January_Challenge_2018/RECTANGL.cpp.i
+
+CodeChef/January_Challenge_2018/RECTANGL.s: CodeChef/January_Challenge_2018/RECTANGL.cpp.s
+
+.PHONY : CodeChef/January_Challenge_2018/RECTANGL.s
+
+# target to generate assembly for a file
+CodeChef/January_Challenge_2018/RECTANGL.cpp.s:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/RECTANGL.cpp.s
+.PHONY : CodeChef/January_Challenge_2018/RECTANGL.cpp.s
+
 CodeChef/LUCKFOUR.o: CodeChef/LUCKFOUR.cpp.o
 
 .PHONY : CodeChef/LUCKFOUR.o
@@ -2113,7 +2197,6 @@ HackerEarth/Dynamic/On^2.o: HackerEarth/Dynamic/On^2.cpp.o
 
 # target to build an object file
 HackerEarth/Dynamic/On^2.cpp.o:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make "CMakeFiles/single_file_exe.dir/HackerEarth/Dynamic/On^2.cpp.o"
 	$(MAKE) -f CMakeFiles/Code.dir/build.make "CMakeFiles/Code.dir/HackerEarth/Dynamic/On^2.cpp.o"
 .PHONY : HackerEarth/Dynamic/On^2.cpp.o
 
@@ -2123,7 +2206,6 @@ HackerEarth/Dynamic/On^2.i: HackerEarth/Dynamic/On^2.cpp.i
 
 # target to preprocess a source file
 HackerEarth/Dynamic/On^2.cpp.i:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make "CMakeFiles/single_file_exe.dir/HackerEarth/Dynamic/On^2.cpp.i"
 	$(MAKE) -f CMakeFiles/Code.dir/build.make "CMakeFiles/Code.dir/HackerEarth/Dynamic/On^2.cpp.i"
 .PHONY : HackerEarth/Dynamic/On^2.cpp.i
 
@@ -2133,7 +2215,6 @@ HackerEarth/Dynamic/On^2.s: HackerEarth/Dynamic/On^2.cpp.s
 
 # target to generate assembly for a file
 HackerEarth/Dynamic/On^2.cpp.s:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make "CMakeFiles/single_file_exe.dir/HackerEarth/Dynamic/On^2.cpp.s"
 	$(MAKE) -f CMakeFiles/Code.dir/build.make "CMakeFiles/Code.dir/HackerEarth/Dynamic/On^2.cpp.s"
 .PHONY : HackerEarth/Dynamic/On^2.cpp.s
 
@@ -3230,6 +3311,15 @@ help:
 	@echo "... CodeChef/FSQRT.o"
 	@echo "... CodeChef/FSQRT.i"
 	@echo "... CodeChef/FSQRT.s"
+	@echo "... CodeChef/January_Challenge_2018/KCON.o"
+	@echo "... CodeChef/January_Challenge_2018/KCON.i"
+	@echo "... CodeChef/January_Challenge_2018/KCON.s"
+	@echo "... CodeChef/January_Challenge_2018/MAXSC.o"
+	@echo "... CodeChef/January_Challenge_2018/MAXSC.i"
+	@echo "... CodeChef/January_Challenge_2018/MAXSC.s"
+	@echo "... CodeChef/January_Challenge_2018/RECTANGL.o"
+	@echo "... CodeChef/January_Challenge_2018/RECTANGL.i"
+	@echo "... CodeChef/January_Challenge_2018/RECTANGL.s"
 	@echo "... CodeChef/LUCKFOUR.o"
 	@echo "... CodeChef/LUCKFOUR.i"
 	@echo "... CodeChef/LUCKFOUR.s"

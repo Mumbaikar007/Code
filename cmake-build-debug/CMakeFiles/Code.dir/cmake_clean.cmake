@@ -111,6 +111,9 @@ file(REMOVE_RECURSE
   "CMakeFiles/Code.dir/Hitchhiker's_/MaxSumOnALine.cpp.o"
   "CMakeFiles/Code.dir/HackerEarth/Dynamic/Counting_Number_of_Ways_.cpp.o"
   "CMakeFiles/Code.dir/HackerEarth/Dynamic/On^2.cpp.o"
+  "CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/RECTANGL.cpp.o"
+  "CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/MAXSC.cpp.o"
+  "CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON.cpp.o"
   "Code.pdb"
   "Code"
 )
