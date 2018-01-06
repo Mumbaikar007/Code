@@ -114,6 +114,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/RECTANGL.cpp.o"
   "CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/MAXSC.cpp.o"
   "CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON.cpp.o"
+  "CMakeFiles/Code.dir/CodeChef/ALTARAY.cpp.o"
   "Code.pdb"
   "Code"
 )

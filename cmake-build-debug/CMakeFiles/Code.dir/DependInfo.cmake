@@ -18,6 +18,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/optimus/MEGA/Code/CLRS/Dynamic Programming/FibonacciDynamic.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/CLRS/Dynamic_Programming/FibonacciDynamic.cpp.o"
   "/home/optimus/MEGA/Code/CLRS/Dynamic Programming/LongestCommonSubsequence.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/CLRS/Dynamic_Programming/LongestCommonSubsequence.cpp.o"
   "/home/optimus/MEGA/Code/CLRS/Dynamic Programming/MatrixChainOrder.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/CLRS/Dynamic_Programming/MatrixChainOrder.cpp.o"
+  "/home/optimus/MEGA/Code/CodeChef/ALTARAY.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/CodeChef/ALTARAY.cpp.o"
   "/home/optimus/MEGA/Code/CodeChef/CHEFSUM.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/CodeChef/CHEFSUM.cpp.o"
   "/home/optimus/MEGA/Code/CodeChef/CIELAB.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/CodeChef/CIELAB.cpp.o"
   "/home/optimus/MEGA/Code/CodeChef/CIELRCPT.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/CodeChef/CIELRCPT.cpp.o"

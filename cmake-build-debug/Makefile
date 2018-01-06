@@ -271,6 +271,36 @@ CLRS/Dynamic_Programming/MatrixChainOrder.cpp.s:
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CLRS/Dynamic_Programming/MatrixChainOrder.cpp.s
 .PHONY : CLRS/Dynamic_Programming/MatrixChainOrder.cpp.s
 
+CodeChef/ALTARAY.o: CodeChef/ALTARAY.cpp.o
+
+.PHONY : CodeChef/ALTARAY.o
+
+# target to build an object file
+CodeChef/ALTARAY.cpp.o:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/CodeChef/ALTARAY.cpp.o
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/ALTARAY.cpp.o
+.PHONY : CodeChef/ALTARAY.cpp.o
+
+CodeChef/ALTARAY.i: CodeChef/ALTARAY.cpp.i
+
+.PHONY : CodeChef/ALTARAY.i
+
+# target to preprocess a source file
+CodeChef/ALTARAY.cpp.i:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/CodeChef/ALTARAY.cpp.i
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/ALTARAY.cpp.i
+.PHONY : CodeChef/ALTARAY.cpp.i
+
+CodeChef/ALTARAY.s: CodeChef/ALTARAY.cpp.s
+
+.PHONY : CodeChef/ALTARAY.s
+
+# target to generate assembly for a file
+CodeChef/ALTARAY.cpp.s:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/CodeChef/ALTARAY.cpp.s
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/ALTARAY.cpp.s
+.PHONY : CodeChef/ALTARAY.cpp.s
+
 CodeChef/CHEFSUM.o: CodeChef/CHEFSUM.cpp.o
 
 .PHONY : CodeChef/CHEFSUM.o
@@ -655,7 +685,6 @@ CodeChef/January_Challenge_2018/KCON.o: CodeChef/January_Challenge_2018/KCON.cpp
 
 # target to build an object file
 CodeChef/January_Challenge_2018/KCON.cpp.o:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/CodeChef/January_Challenge_2018/KCON.cpp.o
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON.cpp.o
 .PHONY : CodeChef/January_Challenge_2018/KCON.cpp.o
 
@@ -665,7 +694,6 @@ CodeChef/January_Challenge_2018/KCON.i: CodeChef/January_Challenge_2018/KCON.cpp
 
 # target to preprocess a source file
 CodeChef/January_Challenge_2018/KCON.cpp.i:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/CodeChef/January_Challenge_2018/KCON.cpp.i
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON.cpp.i
 .PHONY : CodeChef/January_Challenge_2018/KCON.cpp.i
 
@@ -675,7 +703,6 @@ CodeChef/January_Challenge_2018/KCON.s: CodeChef/January_Challenge_2018/KCON.cpp
 
 # target to generate assembly for a file
 CodeChef/January_Challenge_2018/KCON.cpp.s:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/CodeChef/January_Challenge_2018/KCON.cpp.s
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON.cpp.s
 .PHONY : CodeChef/January_Challenge_2018/KCON.cpp.s
 
@@ -3269,6 +3296,9 @@ help:
 	@echo "... CLRS/Dynamic_Programming/MatrixChainOrder.o"
 	@echo "... CLRS/Dynamic_Programming/MatrixChainOrder.i"
 	@echo "... CLRS/Dynamic_Programming/MatrixChainOrder.s"
+	@echo "... CodeChef/ALTARAY.o"
+	@echo "... CodeChef/ALTARAY.i"
+	@echo "... CodeChef/ALTARAY.s"
 	@echo "... CodeChef/CHEFSUM.o"
 	@echo "... CodeChef/CHEFSUM.i"
 	@echo "... CodeChef/CHEFSUM.s"
