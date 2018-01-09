@@ -2841,6 +2841,54 @@ CMakeFiles/Code.dir/CodeChef/ALTARAY.cpp.o.provides: CMakeFiles/Code.dir/CodeChe
 CMakeFiles/Code.dir/CodeChef/ALTARAY.cpp.o.provides.build: CMakeFiles/Code.dir/CodeChef/ALTARAY.cpp.o
 
 
+CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.o: CMakeFiles/Code.dir/flags.make
+CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.o: ../CodeChef/January\ Challenge\ 2018/STRMRG.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_117) "Building CXX object CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.o -c "/home/optimus/MEGA/Code/CodeChef/January Challenge 2018/STRMRG.cpp"
+
+CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/CodeChef/January Challenge 2018/STRMRG.cpp" > CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.i
+
+CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/CodeChef/January Challenge 2018/STRMRG.cpp" -o CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.s
+
+CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.o.requires:
+
+.PHONY : CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.o.requires
+
+CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.o.provides: CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.o.provides.build
+.PHONY : CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.o.provides
+
+CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.o.provides.build: CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.o
+
+
+CMakeFiles/Code.dir/Logics/Arduino's_map.cpp.o: CMakeFiles/Code.dir/flags.make
+CMakeFiles/Code.dir/Logics/Arduino's_map.cpp.o: ../Logics/Arduino's\ map.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_118) "Building CXX object CMakeFiles/Code.dir/Logics/Arduino's_map.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/Code.dir/Logics/Arduino's_map.cpp.o" -c "/home/optimus/MEGA/Code/Logics/Arduino's map.cpp"
+
+CMakeFiles/Code.dir/Logics/Arduino's_map.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/Logics/Arduino's_map.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/Logics/Arduino's map.cpp" > "CMakeFiles/Code.dir/Logics/Arduino's_map.cpp.i"
+
+CMakeFiles/Code.dir/Logics/Arduino's_map.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/Logics/Arduino's_map.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/Logics/Arduino's map.cpp" -o "CMakeFiles/Code.dir/Logics/Arduino's_map.cpp.s"
+
+CMakeFiles/Code.dir/Logics/Arduino's_map.cpp.o.requires:
+
+.PHONY : CMakeFiles/Code.dir/Logics/Arduino's_map.cpp.o.requires
+
+CMakeFiles/Code.dir/Logics/Arduino's_map.cpp.o.provides: CMakeFiles/Code.dir/Logics/Arduino's_map.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Code.dir/build.make "CMakeFiles/Code.dir/Logics/Arduino's_map.cpp.o.provides.build"
+.PHONY : CMakeFiles/Code.dir/Logics/Arduino's_map.cpp.o.provides
+
+CMakeFiles/Code.dir/Logics/Arduino's_map.cpp.o.provides.build: CMakeFiles/Code.dir/Logics/Arduino's_map.cpp.o
+
+
 # Object files for target Code
 Code_OBJECTS = \
 "CMakeFiles/Code.dir/CLRS/Dynamic_Programming/Cut-Rod-Problem-Memorization-Top-Down.cpp.o" \
@@ -2958,7 +3006,9 @@ Code_OBJECTS = \
 "CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/RECTANGL.cpp.o" \
 "CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/MAXSC.cpp.o" \
 "CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON.cpp.o" \
-"CMakeFiles/Code.dir/CodeChef/ALTARAY.cpp.o"
+"CMakeFiles/Code.dir/CodeChef/ALTARAY.cpp.o" \
+"CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.o" \
+"CMakeFiles/Code.dir/Logics/Arduino's_map.cpp.o"
 
 # External object files for target Code
 Code_EXTERNAL_OBJECTS =
@@ -3079,9 +3129,11 @@ Code: CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/RECTANGL.cpp.o
 Code: CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/MAXSC.cpp.o
 Code: CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON.cpp.o
 Code: CMakeFiles/Code.dir/CodeChef/ALTARAY.cpp.o
+Code: CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.o
+Code: CMakeFiles/Code.dir/Logics/Arduino's_map.cpp.o
 Code: CMakeFiles/Code.dir/build.make
 Code: CMakeFiles/Code.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_117) "Linking CXX executable Code"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_119) "Linking CXX executable Code"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Code.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -3205,6 +3257,8 @@ CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/CodeChef/January_Challenge_201
 CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/MAXSC.cpp.o.requires
 CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON.cpp.o.requires
 CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/CodeChef/ALTARAY.cpp.o.requires
+CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.o.requires
+CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/Logics/Arduino's_map.cpp.o.requires
 
 .PHONY : CMakeFiles/Code.dir/requires
 

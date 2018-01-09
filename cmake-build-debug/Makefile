@@ -277,7 +277,6 @@ CodeChef/ALTARAY.o: CodeChef/ALTARAY.cpp.o
 
 # target to build an object file
 CodeChef/ALTARAY.cpp.o:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/CodeChef/ALTARAY.cpp.o
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/ALTARAY.cpp.o
 .PHONY : CodeChef/ALTARAY.cpp.o
 
@@ -287,7 +286,6 @@ CodeChef/ALTARAY.i: CodeChef/ALTARAY.cpp.i
 
 # target to preprocess a source file
 CodeChef/ALTARAY.cpp.i:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/CodeChef/ALTARAY.cpp.i
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/ALTARAY.cpp.i
 .PHONY : CodeChef/ALTARAY.cpp.i
 
@@ -297,7 +295,6 @@ CodeChef/ALTARAY.s: CodeChef/ALTARAY.cpp.s
 
 # target to generate assembly for a file
 CodeChef/ALTARAY.cpp.s:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/CodeChef/ALTARAY.cpp.s
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/ALTARAY.cpp.s
 .PHONY : CodeChef/ALTARAY.cpp.s
 
@@ -759,6 +756,36 @@ CodeChef/January_Challenge_2018/RECTANGL.s: CodeChef/January_Challenge_2018/RECT
 CodeChef/January_Challenge_2018/RECTANGL.cpp.s:
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/RECTANGL.cpp.s
 .PHONY : CodeChef/January_Challenge_2018/RECTANGL.cpp.s
+
+CodeChef/January_Challenge_2018/STRMRG.o: CodeChef/January_Challenge_2018/STRMRG.cpp.o
+
+.PHONY : CodeChef/January_Challenge_2018/STRMRG.o
+
+# target to build an object file
+CodeChef/January_Challenge_2018/STRMRG.cpp.o:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.o
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.o
+.PHONY : CodeChef/January_Challenge_2018/STRMRG.cpp.o
+
+CodeChef/January_Challenge_2018/STRMRG.i: CodeChef/January_Challenge_2018/STRMRG.cpp.i
+
+.PHONY : CodeChef/January_Challenge_2018/STRMRG.i
+
+# target to preprocess a source file
+CodeChef/January_Challenge_2018/STRMRG.cpp.i:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.i
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.i
+.PHONY : CodeChef/January_Challenge_2018/STRMRG.cpp.i
+
+CodeChef/January_Challenge_2018/STRMRG.s: CodeChef/January_Challenge_2018/STRMRG.cpp.s
+
+.PHONY : CodeChef/January_Challenge_2018/STRMRG.s
+
+# target to generate assembly for a file
+CodeChef/January_Challenge_2018/STRMRG.cpp.s:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.s
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.s
+.PHONY : CodeChef/January_Challenge_2018/STRMRG.cpp.s
 
 CodeChef/LUCKFOUR.o: CodeChef/LUCKFOUR.cpp.o
 
@@ -2542,6 +2569,33 @@ Hitchhiker's_/SampleProblemCombinatorics.cpp.s:
 	$(MAKE) -f CMakeFiles/Code.dir/build.make "CMakeFiles/Code.dir/Hitchhiker's_/SampleProblemCombinatorics.cpp.s"
 .PHONY : Hitchhiker's_/SampleProblemCombinatorics.cpp.s
 
+Logics/Arduino's_map.o: Logics/Arduino's_map.cpp.o
+
+.PHONY : Logics/Arduino's_map.o
+
+# target to build an object file
+Logics/Arduino's_map.cpp.o:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make "CMakeFiles/Code.dir/Logics/Arduino's_map.cpp.o"
+.PHONY : Logics/Arduino's_map.cpp.o
+
+Logics/Arduino's_map.i: Logics/Arduino's_map.cpp.i
+
+.PHONY : Logics/Arduino's_map.i
+
+# target to preprocess a source file
+Logics/Arduino's_map.cpp.i:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make "CMakeFiles/Code.dir/Logics/Arduino's_map.cpp.i"
+.PHONY : Logics/Arduino's_map.cpp.i
+
+Logics/Arduino's_map.s: Logics/Arduino's_map.cpp.s
+
+.PHONY : Logics/Arduino's_map.s
+
+# target to generate assembly for a file
+Logics/Arduino's_map.cpp.s:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make "CMakeFiles/Code.dir/Logics/Arduino's_map.cpp.s"
+.PHONY : Logics/Arduino's_map.cpp.s
+
 Logics/CallByReference.o: Logics/CallByReference.cpp.o
 
 .PHONY : Logics/CallByReference.o
@@ -3350,6 +3404,9 @@ help:
 	@echo "... CodeChef/January_Challenge_2018/RECTANGL.o"
 	@echo "... CodeChef/January_Challenge_2018/RECTANGL.i"
 	@echo "... CodeChef/January_Challenge_2018/RECTANGL.s"
+	@echo "... CodeChef/January_Challenge_2018/STRMRG.o"
+	@echo "... CodeChef/January_Challenge_2018/STRMRG.i"
+	@echo "... CodeChef/January_Challenge_2018/STRMRG.s"
 	@echo "... CodeChef/LUCKFOUR.o"
 	@echo "... CodeChef/LUCKFOUR.i"
 	@echo "... CodeChef/LUCKFOUR.s"
@@ -3548,6 +3605,9 @@ help:
 	@echo "... Hitchhiker's_/SampleProblemCombinatorics.o"
 	@echo "... Hitchhiker's_/SampleProblemCombinatorics.i"
 	@echo "... Hitchhiker's_/SampleProblemCombinatorics.s"
+	@echo "... Logics/Arduino's_map.o"
+	@echo "... Logics/Arduino's_map.i"
+	@echo "... Logics/Arduino's_map.s"
 	@echo "... Logics/CallByReference.o"
 	@echo "... Logics/CallByReference.i"
 	@echo "... Logics/CallByReference.s"

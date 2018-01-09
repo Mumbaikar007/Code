@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/optimus/MEGA/Code/CodeChef/January Challenge 2018/KCON.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/single_file_exe.dir/CodeChef/January_Challenge_2018/KCON.cpp.o"
+  "/home/optimus/MEGA/Code/CodeChef/January Challenge 2018/STRMRG.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/single_file_exe.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

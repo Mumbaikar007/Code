@@ -6,8 +6,10 @@
 
 #IncludeRegexTransform: 
 
-/home/optimus/MEGA/Code/CodeChef/January Challenge 2018/KCON.cpp
+/home/optimus/MEGA/Code/CodeChef/January Challenge 2018/STRMRG.cpp
 iostream
+-
+string
 -
 vector
 -
