@@ -57,49 +57,49 @@ include CMakeFiles/single_file_exe.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/single_file_exe.dir/flags.make
 
-CMakeFiles/single_file_exe.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.o: CMakeFiles/single_file_exe.dir/flags.make
-CMakeFiles/single_file_exe.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.o: ../CodeChef/January\ Challenge\ 2018/STRMRG.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/single_file_exe.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/single_file_exe.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.o -c "/home/optimus/MEGA/Code/CodeChef/January Challenge 2018/STRMRG.cpp"
+CMakeFiles/single_file_exe.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.o: CMakeFiles/single_file_exe.dir/flags.make
+CMakeFiles/single_file_exe.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.o: ../SPOJ/HOTELS\ -\ Hotels\ Along\ the\ Croatian\ Coast.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/single_file_exe.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/single_file_exe.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.o -c "/home/optimus/MEGA/Code/SPOJ/HOTELS - Hotels Along the Croatian Coast.cpp"
 
-CMakeFiles/single_file_exe.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/single_file_exe.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/CodeChef/January Challenge 2018/STRMRG.cpp" > CMakeFiles/single_file_exe.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.i
+CMakeFiles/single_file_exe.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/single_file_exe.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/SPOJ/HOTELS - Hotels Along the Croatian Coast.cpp" > CMakeFiles/single_file_exe.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.i
 
-CMakeFiles/single_file_exe.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/single_file_exe.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/CodeChef/January Challenge 2018/STRMRG.cpp" -o CMakeFiles/single_file_exe.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.s
+CMakeFiles/single_file_exe.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/single_file_exe.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/SPOJ/HOTELS - Hotels Along the Croatian Coast.cpp" -o CMakeFiles/single_file_exe.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.s
 
-CMakeFiles/single_file_exe.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.o.requires:
+CMakeFiles/single_file_exe.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.o.requires:
 
-.PHONY : CMakeFiles/single_file_exe.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.o.requires
+.PHONY : CMakeFiles/single_file_exe.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.o.requires
 
-CMakeFiles/single_file_exe.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.o.provides: CMakeFiles/single_file_exe.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.o.requires
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.o.provides.build
-.PHONY : CMakeFiles/single_file_exe.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.o.provides
+CMakeFiles/single_file_exe.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.o.provides: CMakeFiles/single_file_exe.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.o.requires
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.o.provides.build
+.PHONY : CMakeFiles/single_file_exe.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.o.provides
 
-CMakeFiles/single_file_exe.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.o.provides.build: CMakeFiles/single_file_exe.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.o
+CMakeFiles/single_file_exe.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.o.provides.build: CMakeFiles/single_file_exe.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.o
 
 
 # Object files for target single_file_exe
 single_file_exe_OBJECTS = \
-"CMakeFiles/single_file_exe.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.o"
+"CMakeFiles/single_file_exe.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.o"
 
 # External object files for target single_file_exe
 single_file_exe_EXTERNAL_OBJECTS =
 
-../CodeChef/January\ Challenge\ 2018/single_file_exe: CMakeFiles/single_file_exe.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.o
-../CodeChef/January\ Challenge\ 2018/single_file_exe: CMakeFiles/single_file_exe.dir/build.make
-../CodeChef/January\ Challenge\ 2018/single_file_exe: CMakeFiles/single_file_exe.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable \"../CodeChef/January Challenge 2018/single_file_exe\""
+../SPOJ/single_file_exe: CMakeFiles/single_file_exe.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.o
+../SPOJ/single_file_exe: CMakeFiles/single_file_exe.dir/build.make
+../SPOJ/single_file_exe: CMakeFiles/single_file_exe.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable ../SPOJ/single_file_exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/single_file_exe.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-CMakeFiles/single_file_exe.dir/build: ../CodeChef/January\ Challenge\ 2018/single_file_exe
+CMakeFiles/single_file_exe.dir/build: ../SPOJ/single_file_exe
 
 .PHONY : CMakeFiles/single_file_exe.dir/build
 
-CMakeFiles/single_file_exe.dir/requires: CMakeFiles/single_file_exe.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.o.requires
+CMakeFiles/single_file_exe.dir/requires: CMakeFiles/single_file_exe.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.o.requires
 
 .PHONY : CMakeFiles/single_file_exe.dir/requires
 

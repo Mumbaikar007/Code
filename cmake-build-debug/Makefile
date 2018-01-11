@@ -703,6 +703,33 @@ CodeChef/January_Challenge_2018/KCON.cpp.s:
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON.cpp.s
 .PHONY : CodeChef/January_Challenge_2018/KCON.cpp.s
 
+CodeChef/January_Challenge_2018/KCON2.o: CodeChef/January_Challenge_2018/KCON2.cpp.o
+
+.PHONY : CodeChef/January_Challenge_2018/KCON2.o
+
+# target to build an object file
+CodeChef/January_Challenge_2018/KCON2.cpp.o:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON2.cpp.o
+.PHONY : CodeChef/January_Challenge_2018/KCON2.cpp.o
+
+CodeChef/January_Challenge_2018/KCON2.i: CodeChef/January_Challenge_2018/KCON2.cpp.i
+
+.PHONY : CodeChef/January_Challenge_2018/KCON2.i
+
+# target to preprocess a source file
+CodeChef/January_Challenge_2018/KCON2.cpp.i:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON2.cpp.i
+.PHONY : CodeChef/January_Challenge_2018/KCON2.cpp.i
+
+CodeChef/January_Challenge_2018/KCON2.s: CodeChef/January_Challenge_2018/KCON2.cpp.s
+
+.PHONY : CodeChef/January_Challenge_2018/KCON2.s
+
+# target to generate assembly for a file
+CodeChef/January_Challenge_2018/KCON2.cpp.s:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON2.cpp.s
+.PHONY : CodeChef/January_Challenge_2018/KCON2.cpp.s
+
 CodeChef/January_Challenge_2018/MAXSC.o: CodeChef/January_Challenge_2018/MAXSC.cpp.o
 
 .PHONY : CodeChef/January_Challenge_2018/MAXSC.o
@@ -763,7 +790,6 @@ CodeChef/January_Challenge_2018/STRMRG.o: CodeChef/January_Challenge_2018/STRMRG
 
 # target to build an object file
 CodeChef/January_Challenge_2018/STRMRG.cpp.o:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.o
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.o
 .PHONY : CodeChef/January_Challenge_2018/STRMRG.cpp.o
 
@@ -773,7 +799,6 @@ CodeChef/January_Challenge_2018/STRMRG.i: CodeChef/January_Challenge_2018/STRMRG
 
 # target to preprocess a source file
 CodeChef/January_Challenge_2018/STRMRG.cpp.i:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.i
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.i
 .PHONY : CodeChef/January_Challenge_2018/STRMRG.cpp.i
 
@@ -783,7 +808,6 @@ CodeChef/January_Challenge_2018/STRMRG.s: CodeChef/January_Challenge_2018/STRMRG
 
 # target to generate assembly for a file
 CodeChef/January_Challenge_2018/STRMRG.cpp.s:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.s
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.s
 .PHONY : CodeChef/January_Challenge_2018/STRMRG.cpp.s
 
@@ -921,6 +945,33 @@ CodeChef/Novermber_Challenge_2017/VILTRIBE.s: CodeChef/Novermber_Challenge_2017/
 CodeChef/Novermber_Challenge_2017/VILTRIBE.cpp.s:
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/VILTRIBE.cpp.s
 .PHONY : CodeChef/Novermber_Challenge_2017/VILTRIBE.cpp.s
+
+CodeChef/Practice/DELISH.o: CodeChef/Practice/DELISH.cpp.o
+
+.PHONY : CodeChef/Practice/DELISH.o
+
+# target to build an object file
+CodeChef/Practice/DELISH.cpp.o:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/Practice/DELISH.cpp.o
+.PHONY : CodeChef/Practice/DELISH.cpp.o
+
+CodeChef/Practice/DELISH.i: CodeChef/Practice/DELISH.cpp.i
+
+.PHONY : CodeChef/Practice/DELISH.i
+
+# target to preprocess a source file
+CodeChef/Practice/DELISH.cpp.i:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/Practice/DELISH.cpp.i
+.PHONY : CodeChef/Practice/DELISH.cpp.i
+
+CodeChef/Practice/DELISH.s: CodeChef/Practice/DELISH.cpp.s
+
+.PHONY : CodeChef/Practice/DELISH.s
+
+# target to generate assembly for a file
+CodeChef/Practice/DELISH.cpp.s:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/Practice/DELISH.cpp.s
+.PHONY : CodeChef/Practice/DELISH.cpp.s
 
 CodeChef/RAINBOWA.o: CodeChef/RAINBOWA.cpp.o
 
@@ -3244,6 +3295,36 @@ SPOJ/FCTRL_-_Factorial_(SPOJ-11).cpp.s:
 	$(MAKE) -f CMakeFiles/Code.dir/build.make "CMakeFiles/Code.dir/SPOJ/FCTRL_-_Factorial_(SPOJ-11).cpp.s"
 .PHONY : SPOJ/FCTRL_-_Factorial_(SPOJ-11).cpp.s
 
+SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.o: SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.o
+
+.PHONY : SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.o
+
+# target to build an object file
+SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.o:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.o
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.o
+.PHONY : SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.o
+
+SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.i: SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.i
+
+.PHONY : SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.i
+
+# target to preprocess a source file
+SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.i:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.i
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.i
+.PHONY : SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.i
+
+SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.s: SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.s
+
+.PHONY : SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.s
+
+# target to generate assembly for a file
+SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.s:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.s
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.s
+.PHONY : SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.s
+
 SPOJ/NSTEPS_-_Number_Steps_(SPOJ-1112_).o: SPOJ/NSTEPS_-_Number_Steps_(SPOJ-1112_).cpp.o
 
 .PHONY : SPOJ/NSTEPS_-_Number_Steps_(SPOJ-1112_).o
@@ -3398,6 +3479,9 @@ help:
 	@echo "... CodeChef/January_Challenge_2018/KCON.o"
 	@echo "... CodeChef/January_Challenge_2018/KCON.i"
 	@echo "... CodeChef/January_Challenge_2018/KCON.s"
+	@echo "... CodeChef/January_Challenge_2018/KCON2.o"
+	@echo "... CodeChef/January_Challenge_2018/KCON2.i"
+	@echo "... CodeChef/January_Challenge_2018/KCON2.s"
 	@echo "... CodeChef/January_Challenge_2018/MAXSC.o"
 	@echo "... CodeChef/January_Challenge_2018/MAXSC.i"
 	@echo "... CodeChef/January_Challenge_2018/MAXSC.s"
@@ -3422,6 +3506,9 @@ help:
 	@echo "... CodeChef/Novermber_Challenge_2017/VILTRIBE.o"
 	@echo "... CodeChef/Novermber_Challenge_2017/VILTRIBE.i"
 	@echo "... CodeChef/Novermber_Challenge_2017/VILTRIBE.s"
+	@echo "... CodeChef/Practice/DELISH.o"
+	@echo "... CodeChef/Practice/DELISH.i"
+	@echo "... CodeChef/Practice/DELISH.s"
 	@echo "... CodeChef/RAINBOWA.o"
 	@echo "... CodeChef/RAINBOWA.i"
 	@echo "... CodeChef/RAINBOWA.s"
@@ -3680,6 +3767,9 @@ help:
 	@echo "... SPOJ/FCTRL_-_Factorial_(SPOJ-11).o"
 	@echo "... SPOJ/FCTRL_-_Factorial_(SPOJ-11).i"
 	@echo "... SPOJ/FCTRL_-_Factorial_(SPOJ-11).s"
+	@echo "... SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.o"
+	@echo "... SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.i"
+	@echo "... SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.s"
 	@echo "... SPOJ/NSTEPS_-_Number_Steps_(SPOJ-1112_).o"
 	@echo "... SPOJ/NSTEPS_-_Number_Steps_(SPOJ-1112_).i"
 	@echo "... SPOJ/NSTEPS_-_Number_Steps_(SPOJ-1112_).s"

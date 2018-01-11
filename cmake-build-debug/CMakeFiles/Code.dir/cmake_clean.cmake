@@ -117,6 +117,9 @@ file(REMOVE_RECURSE
   "CMakeFiles/Code.dir/CodeChef/ALTARAY.cpp.o"
   "CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.o"
   "CMakeFiles/Code.dir/Logics/Arduino's_map.cpp.o"
+  "CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON2.cpp.o"
+  "CMakeFiles/Code.dir/CodeChef/Practice/DELISH.cpp.o"
+  "CMakeFiles/Code.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.o"
   "Code.pdb"
   "Code"
 )

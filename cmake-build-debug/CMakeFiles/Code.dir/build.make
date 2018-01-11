@@ -2889,6 +2889,78 @@ CMakeFiles/Code.dir/Logics/Arduino's_map.cpp.o.provides: CMakeFiles/Code.dir/Log
 CMakeFiles/Code.dir/Logics/Arduino's_map.cpp.o.provides.build: CMakeFiles/Code.dir/Logics/Arduino's_map.cpp.o
 
 
+CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON2.cpp.o: CMakeFiles/Code.dir/flags.make
+CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON2.cpp.o: ../CodeChef/January\ Challenge\ 2018/KCON2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_119) "Building CXX object CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON2.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON2.cpp.o -c "/home/optimus/MEGA/Code/CodeChef/January Challenge 2018/KCON2.cpp"
+
+CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON2.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/CodeChef/January Challenge 2018/KCON2.cpp" > CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON2.cpp.i
+
+CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON2.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/CodeChef/January Challenge 2018/KCON2.cpp" -o CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON2.cpp.s
+
+CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON2.cpp.o.requires:
+
+.PHONY : CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON2.cpp.o.requires
+
+CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON2.cpp.o.provides: CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON2.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON2.cpp.o.provides.build
+.PHONY : CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON2.cpp.o.provides
+
+CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON2.cpp.o.provides.build: CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON2.cpp.o
+
+
+CMakeFiles/Code.dir/CodeChef/Practice/DELISH.cpp.o: CMakeFiles/Code.dir/flags.make
+CMakeFiles/Code.dir/CodeChef/Practice/DELISH.cpp.o: ../CodeChef/Practice/DELISH.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_120) "Building CXX object CMakeFiles/Code.dir/CodeChef/Practice/DELISH.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/Practice/DELISH.cpp.o -c /home/optimus/MEGA/Code/CodeChef/Practice/DELISH.cpp
+
+CMakeFiles/Code.dir/CodeChef/Practice/DELISH.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/CodeChef/Practice/DELISH.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/MEGA/Code/CodeChef/Practice/DELISH.cpp > CMakeFiles/Code.dir/CodeChef/Practice/DELISH.cpp.i
+
+CMakeFiles/Code.dir/CodeChef/Practice/DELISH.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/CodeChef/Practice/DELISH.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/MEGA/Code/CodeChef/Practice/DELISH.cpp -o CMakeFiles/Code.dir/CodeChef/Practice/DELISH.cpp.s
+
+CMakeFiles/Code.dir/CodeChef/Practice/DELISH.cpp.o.requires:
+
+.PHONY : CMakeFiles/Code.dir/CodeChef/Practice/DELISH.cpp.o.requires
+
+CMakeFiles/Code.dir/CodeChef/Practice/DELISH.cpp.o.provides: CMakeFiles/Code.dir/CodeChef/Practice/DELISH.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/Practice/DELISH.cpp.o.provides.build
+.PHONY : CMakeFiles/Code.dir/CodeChef/Practice/DELISH.cpp.o.provides
+
+CMakeFiles/Code.dir/CodeChef/Practice/DELISH.cpp.o.provides.build: CMakeFiles/Code.dir/CodeChef/Practice/DELISH.cpp.o
+
+
+CMakeFiles/Code.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.o: CMakeFiles/Code.dir/flags.make
+CMakeFiles/Code.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.o: ../SPOJ/HOTELS\ -\ Hotels\ Along\ the\ Croatian\ Coast.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_121) "Building CXX object CMakeFiles/Code.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.o -c "/home/optimus/MEGA/Code/SPOJ/HOTELS - Hotels Along the Croatian Coast.cpp"
+
+CMakeFiles/Code.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/SPOJ/HOTELS - Hotels Along the Croatian Coast.cpp" > CMakeFiles/Code.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.i
+
+CMakeFiles/Code.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/SPOJ/HOTELS - Hotels Along the Croatian Coast.cpp" -o CMakeFiles/Code.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.s
+
+CMakeFiles/Code.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.o.requires:
+
+.PHONY : CMakeFiles/Code.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.o.requires
+
+CMakeFiles/Code.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.o.provides: CMakeFiles/Code.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.o.provides.build
+.PHONY : CMakeFiles/Code.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.o.provides
+
+CMakeFiles/Code.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.o.provides.build: CMakeFiles/Code.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.o
+
+
 # Object files for target Code
 Code_OBJECTS = \
 "CMakeFiles/Code.dir/CLRS/Dynamic_Programming/Cut-Rod-Problem-Memorization-Top-Down.cpp.o" \
@@ -3008,7 +3080,10 @@ Code_OBJECTS = \
 "CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON.cpp.o" \
 "CMakeFiles/Code.dir/CodeChef/ALTARAY.cpp.o" \
 "CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.o" \
-"CMakeFiles/Code.dir/Logics/Arduino's_map.cpp.o"
+"CMakeFiles/Code.dir/Logics/Arduino's_map.cpp.o" \
+"CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON2.cpp.o" \
+"CMakeFiles/Code.dir/CodeChef/Practice/DELISH.cpp.o" \
+"CMakeFiles/Code.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.o"
 
 # External object files for target Code
 Code_EXTERNAL_OBJECTS =
@@ -3131,9 +3206,12 @@ Code: CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON.cpp.o
 Code: CMakeFiles/Code.dir/CodeChef/ALTARAY.cpp.o
 Code: CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.o
 Code: CMakeFiles/Code.dir/Logics/Arduino's_map.cpp.o
+Code: CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON2.cpp.o
+Code: CMakeFiles/Code.dir/CodeChef/Practice/DELISH.cpp.o
+Code: CMakeFiles/Code.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.o
 Code: CMakeFiles/Code.dir/build.make
 Code: CMakeFiles/Code.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_119) "Linking CXX executable Code"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_122) "Linking CXX executable Code"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Code.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -3259,6 +3337,9 @@ CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/CodeChef/January_Challenge_201
 CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/CodeChef/ALTARAY.cpp.o.requires
 CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.o.requires
 CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/Logics/Arduino's_map.cpp.o.requires
+CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON2.cpp.o.requires
+CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/CodeChef/Practice/DELISH.cpp.o.requires
+CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.o.requires
 
 .PHONY : CMakeFiles/Code.dir/requires
 

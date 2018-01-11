@@ -23,14 +23,20 @@ int main(){
         for (int i = 0 ; i < n ; i ++){
             cin >> vec[i];
             sum += vec[i];
-            if ( vec[i] < 0)
+            if ( sum < 0)
                 neg = -1;
         }
 
-        if ( sum <= 0 ){
+        if ( neg < 0 ){
             long long m = 2*n;
             sum = 0;
-            for ( long long i = 0 ; i < 2*n; )
+            vector <long long> sums;
+            for ( long long i = 0 ; i < m; i ++){
+                sum += vec[i%n];
+                if (sum < 0){
+                    sums.push_back(sum);
+                }
+            }
         }
 
         else {

@@ -6,10 +6,8 @@
 
 #IncludeRegexTransform: 
 
-/home/optimus/MEGA/Code/CodeChef/January Challenge 2018/STRMRG.cpp
+/home/optimus/MEGA/Code/SPOJ/HOTELS - Hotels Along the Croatian Coast.cpp
 iostream
--
-string
 -
 vector
 -
