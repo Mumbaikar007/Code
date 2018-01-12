@@ -120,6 +120,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON2.cpp.o"
   "CMakeFiles/Code.dir/CodeChef/Practice/DELISH.cpp.o"
   "CMakeFiles/Code.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.o"
+  "CMakeFiles/Code.dir/CodeChef/Practice/DBOY_.cpp.o"
   "Code.pdb"
   "Code"
 )

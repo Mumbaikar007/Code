@@ -6,9 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/home/optimus/MEGA/Code/SPOJ/HOTELS - Hotels Along the Croatian Coast.cpp
+/home/optimus/MEGA/Code/CodeChef/DBOY .cpp
 iostream
 -
 vector
+-
+algorithm
+-
+climits
 -
 

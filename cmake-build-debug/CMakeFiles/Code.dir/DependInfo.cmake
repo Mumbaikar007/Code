@@ -43,6 +43,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/optimus/MEGA/Code/CodeChef/Novermber Challenge 2017/CLRL.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/CLRL.cpp.o"
   "/home/optimus/MEGA/Code/CodeChef/Novermber Challenge 2017/PERPALIN.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/PERPALIN.cpp.o"
   "/home/optimus/MEGA/Code/CodeChef/Novermber Challenge 2017/VILTRIBE.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/VILTRIBE.cpp.o"
+  "/home/optimus/MEGA/Code/CodeChef/Practice/DBOY .cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/CodeChef/Practice/DBOY_.cpp.o"
   "/home/optimus/MEGA/Code/CodeChef/Practice/DELISH.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/CodeChef/Practice/DELISH.cpp.o"
   "/home/optimus/MEGA/Code/CodeChef/RAINBOWA.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/CodeChef/RAINBOWA.cpp.o"
   "/home/optimus/MEGA/Code/CodeChef/RAINBOWA2.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/CodeChef/RAINBOWA2.cpp.o"

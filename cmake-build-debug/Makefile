@@ -946,6 +946,36 @@ CodeChef/Novermber_Challenge_2017/VILTRIBE.cpp.s:
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/VILTRIBE.cpp.s
 .PHONY : CodeChef/Novermber_Challenge_2017/VILTRIBE.cpp.s
 
+CodeChef/Practice/DBOY_.o: CodeChef/Practice/DBOY_.cpp.o
+
+.PHONY : CodeChef/Practice/DBOY_.o
+
+# target to build an object file
+CodeChef/Practice/DBOY_.cpp.o:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/CodeChef/Practice/DBOY_.cpp.o
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/Practice/DBOY_.cpp.o
+.PHONY : CodeChef/Practice/DBOY_.cpp.o
+
+CodeChef/Practice/DBOY_.i: CodeChef/Practice/DBOY_.cpp.i
+
+.PHONY : CodeChef/Practice/DBOY_.i
+
+# target to preprocess a source file
+CodeChef/Practice/DBOY_.cpp.i:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/CodeChef/Practice/DBOY_.cpp.i
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/Practice/DBOY_.cpp.i
+.PHONY : CodeChef/Practice/DBOY_.cpp.i
+
+CodeChef/Practice/DBOY_.s: CodeChef/Practice/DBOY_.cpp.s
+
+.PHONY : CodeChef/Practice/DBOY_.s
+
+# target to generate assembly for a file
+CodeChef/Practice/DBOY_.cpp.s:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/CodeChef/Practice/DBOY_.cpp.s
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/Practice/DBOY_.cpp.s
+.PHONY : CodeChef/Practice/DBOY_.cpp.s
+
 CodeChef/Practice/DELISH.o: CodeChef/Practice/DELISH.cpp.o
 
 .PHONY : CodeChef/Practice/DELISH.o
@@ -3301,7 +3331,6 @@ SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.o: SPOJ/HOTELS_-_Hotels_Along_the_
 
 # target to build an object file
 SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.o:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.o
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.o
 .PHONY : SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.o
 
@@ -3311,7 +3340,6 @@ SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.i: SPOJ/HOTELS_-_Hotels_Along_the_
 
 # target to preprocess a source file
 SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.i:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.i
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.i
 .PHONY : SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.i
 
@@ -3321,7 +3349,6 @@ SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.s: SPOJ/HOTELS_-_Hotels_Along_the_
 
 # target to generate assembly for a file
 SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.s:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.s
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.s
 .PHONY : SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.s
 
@@ -3506,6 +3533,9 @@ help:
 	@echo "... CodeChef/Novermber_Challenge_2017/VILTRIBE.o"
 	@echo "... CodeChef/Novermber_Challenge_2017/VILTRIBE.i"
 	@echo "... CodeChef/Novermber_Challenge_2017/VILTRIBE.s"
+	@echo "... CodeChef/Practice/DBOY_.o"
+	@echo "... CodeChef/Practice/DBOY_.i"
+	@echo "... CodeChef/Practice/DBOY_.s"
 	@echo "... CodeChef/Practice/DELISH.o"
 	@echo "... CodeChef/Practice/DELISH.i"
 	@echo "... CodeChef/Practice/DELISH.s"

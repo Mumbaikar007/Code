@@ -30,13 +30,27 @@ int main(){
         if ( neg < 0 ){
             long long m = 2*n;
             sum = 0;
+            long long prevsum = 0;
             vector <long long> sums;
             for ( long long i = 0 ; i < m; i ++){
-                sum += vec[i%n];
-                if (sum < 0){
-                    sums.push_back(sum);
+
+                prevsum = sum ;
+
+                if ( sum + vec[i] > sum){
+                    sum = sum + vec[i];
+                    cout << sum << endl;
                 }
+                else{
+                    sum = vec[i];
+                    sums.push_back(prevsum);
+                }
+
             }
+
+            for ( int i = 0 ; i < sums.size() ; i ++){
+                cout << vec[i] << " ";
+            }
+            cout << endl;
         }
 
         else {
