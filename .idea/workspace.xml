@@ -2,8 +2,8 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
     <generated>
-      <config projectName="Code" targetName="single_file_exe" />
       <config projectName="Code" targetName="Code" />
+      <config projectName="Code" targetName="single_file_exe" />
     </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
@@ -13,12 +13,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6a461d7-8a92-4d3b-921f-cfee8d3c07c2" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/CodeChef/Practice/DBOY .cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Logics/EyantraScan1.cpp" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
-      <change beforePath="$PROJECT_DIR$/CodeChef/January Challenge 2018/KCON.cpp" afterPath="$PROJECT_DIR$/CodeChef/January Challenge 2018/KCON.cpp" />
-      <change beforePath="$PROJECT_DIR$/CodeChef/January Challenge 2018/single_file_exe" afterPath="$PROJECT_DIR$/CodeChef/January Challenge 2018/single_file_exe" />
       <change beforePath="$PROJECT_DIR$/CodeChef/single_file_exe" afterPath="$PROJECT_DIR$/CodeChef/single_file_exe" />
+      <change beforePath="$PROJECT_DIR$/Logics/single_file_exe" afterPath="$PROJECT_DIR$/Logics/single_file_exe" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/DependInfo.cmake" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/build.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/build.make" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/cmake_clean.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/cmake_clean.cmake" />
@@ -51,30 +50,18 @@
       <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
+            <state relative-caret-position="1350">
               <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="KCON.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodeChef/January Challenge 2018/KCON.cpp">
+      <file leaf-file-name="EyantraScan1.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Logics/EyantraScan1.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-              <folding>
-                <element signature="e#40#60#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DELISH.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodeChef/Practice/DELISH.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="44" column="53" lean-forward="false" selection-start-line="44" selection-start-column="53" selection-end-line="44" selection-end-column="53" />
+            <state relative-caret-position="108">
+              <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="39" selection-end-column="7" />
               <folding>
                 <element signature="e#41#61#0" expanded="true" />
               </folding>
@@ -82,14 +69,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DBOY .cpp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodeChef/Practice/DBOY .cpp">
+      <file leaf-file-name="NewAdjMat.c" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Logics/NewAdjMat.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="789">
-              <caret line="65" column="14" lean-forward="false" selection-start-line="65" selection-start-column="14" selection-end-line="65" selection-end-column="14" />
-              <folding>
-                <element signature="e#41#61#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -117,7 +102,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Cracking the Coding Interview/Array and Strings/Q1-8.cpp" />
         <option value="$PROJECT_DIR$/Cracking the Coding Interview/Array and Strings/Q1-9.cpp" />
         <option value="$PROJECT_DIR$/Cracking the Coding Interview/Stacks/Q3-2.cpp" />
         <option value="$PROJECT_DIR$/Cracking the Coding Interview/Stacks/Q3-1.cpp" />
@@ -156,7 +140,6 @@
         <option value="$PROJECT_DIR$/Hitchhiker's /MaxSumOnALine.cpp" />
         <option value="$PROJECT_DIR$/HackerEarth/Dynamic/Counting Number of Ways .cpp" />
         <option value="$PROJECT_DIR$/HackerEarth/Dynamic/On^2.cpp" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/CodeChef/January Challenge 2018/RECTANGL.cpp" />
         <option value="$PROJECT_DIR$/CodeChef/January Challenge 2018/MAXSC.cpp" />
         <option value="$PROJECT_DIR$/Cracking the Coding Interview/Recursion and Dynamic/Q8-2.cpp" />
@@ -168,6 +151,8 @@
         <option value="$PROJECT_DIR$/SPOJ/HOTELS - Hotels Along the Croatian Coast.cpp" />
         <option value="$PROJECT_DIR$/CodeChef/January Challenge 2018/KCON.cpp" />
         <option value="$PROJECT_DIR$/CodeChef/DBOY .cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Logics/EyantraScan1.cpp" />
       </list>
     </option>
   </component>
@@ -211,13 +196,7 @@
             <path>
               <item name="Code" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
               <item name="Code" type="462c0819:PsiDirectoryNode" />
-              <item name="CodeChef" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Code" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
-              <item name="Code" type="462c0819:PsiDirectoryNode" />
-              <item name="CodeChef" type="462c0819:PsiDirectoryNode" />
-              <item name="Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="Logics" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -228,7 +207,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///home/optimus/MEGA/Code/CMakeLists.txt" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///home/optimus/MEGA/Code/Logics/NewAdjMat.c" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -250,10 +229,10 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.single_file_exe">
-    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Code" RUN_TARGET_NAME="Code" EXPLICIT_BUILD_TARGET_NAME="all">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Code" RUN_TARGET_NAME="single_file_exe" EXPLICIT_BUILD_TARGET_NAME="all">
       <envs />
     </configuration>
-    <configuration name="Code" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Code" TARGET_NAME="Code" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Code" RUN_TARGET_NAME="Code">
+    <configuration name="Code" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Code" TARGET_NAME="Code" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Code" RUN_TARGET_NAME="single_file_exe">
       <envs />
     </configuration>
     <configuration name="single_file_exe" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Code" TARGET_NAME="single_file_exe" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Code" RUN_TARGET_NAME="single_file_exe">
@@ -353,7 +332,11 @@
       <workItem from="1515602158507" duration="1838000" />
       <workItem from="1515644896560" duration="5422000" />
       <workItem from="1515741291078" duration="793000" />
-      <workItem from="1515772391315" duration="3984000" />
+      <workItem from="1515772391315" duration="4164000" />
+      <workItem from="1515907260317" duration="1281000" />
+      <workItem from="1516092096712" duration="4334000" />
+      <workItem from="1516103769827" duration="5822000" />
+      <workItem from="1516113289627" duration="909000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit from CLion">
       <created>1509817264792</created>
@@ -558,11 +541,18 @@
       <option name="project" value="LOCAL" />
       <updated>1515688050788</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="codechef :sob:">
+      <created>1515779597312</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1515779597312</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="136433000" />
+    <option name="totallyTimeSpent" value="148959000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -576,14 +566,14 @@
   <component name="ToolWindowManager">
     <frame x="-1" y="-11" width="1368" height="780" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23030303" sideWeight="0.49156627" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24545455" sideWeight="0.49156627" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34142396" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34142396" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281493" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31229773" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31229773" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25833333" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3318182" sideWeight="0.50843376" order="2" side_tool="true" content_ui="tabs" />
@@ -606,7 +596,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Ending Arrays and Strings" />
     <MESSAGE value="Starting Linked List" />
     <MESSAGE value="Starting Stacks" />
     <MESSAGE value="Finally Solved an error !!" />
@@ -631,7 +620,8 @@
     <MESSAGE value="pussshhh" />
     <MESSAGE value="solving mistakes" />
     <MESSAGE value="back to normal" />
-    <option name="LAST_COMMIT_MESSAGE" value="back to normal" />
+    <MESSAGE value="codechef :sob:" />
+    <option name="LAST_COMMIT_MESSAGE" value="codechef :sob:" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -646,34 +636,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Cracking the Coding Interview/Linked List/single_file_exe">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cracking the Coding Interview/Linked List/Experiment.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="36" lean-forward="false" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cracking the Coding Interview/Linked List/Q1-2.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="846">
-          <caret line="47" column="17" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="61" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cracking the Coding Interview/Linked List/InsertIntoLL.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="62" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Cracking the Coding Interview/Linked List/Q2-6.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1080">
@@ -935,14 +897,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodeChef/January Challenge 2018/RECTANGL.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
@@ -964,23 +918,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodeChef/January Challenge 2018/KCON.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding>
-            <element signature="e#40#60#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SPOJ/HOTELS - Hotels Along the Croatian Coast.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="233">
           <caret line="26" column="31" lean-forward="false" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
-          <folding>
-            <element signature="e#41#61#0" expanded="false" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeChef/Practice/DBOY .cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="65" column="14" lean-forward="false" selection-start-line="65" selection-start-column="14" selection-end-line="65" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -988,16 +936,50 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="555">
           <caret line="44" column="53" lean-forward="false" selection-start-line="44" selection-start-column="53" selection-end-line="44" selection-end-column="53" />
-          <folding>
-            <element signature="e#41#61#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodeChef/Practice/DBOY .cpp">
+    <entry file="file://$PROJECT_DIR$/CodeChef/January Challenge 2018/KCON.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="789">
-          <caret line="65" column="14" lean-forward="false" selection-start-line="65" selection-start-column="14" selection-end-line="65" selection-end-column="14" />
+        <state relative-caret-position="555">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logics/Djikstra.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1368">
+          <caret line="77" column="16" lean-forward="false" selection-start-line="77" selection-start-column="16" selection-end-line="89" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logics/NewAdjMat.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/bits/stl_pair.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="179" column="13" lean-forward="false" selection-start-line="179" selection-start-column="13" selection-end-line="179" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logics/EyantraScan1.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="39" selection-end-column="7" />
           <folding>
             <element signature="e#41#61#0" expanded="true" />
           </folding>

@@ -121,6 +121,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/Code.dir/CodeChef/Practice/DELISH.cpp.o"
   "CMakeFiles/Code.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.o"
   "CMakeFiles/Code.dir/CodeChef/Practice/DBOY_.cpp.o"
+  "CMakeFiles/Code.dir/Logics/EyantraScan1.cpp.o"
   "Code.pdb"
   "Code"
 )

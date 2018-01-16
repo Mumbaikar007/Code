@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/single_file_exe.dir/CodeChef/Practice/DBOY_.cpp.o"
-  "../CodeChef/single_file_exe.pdb"
-  "../CodeChef/single_file_exe"
+  "CMakeFiles/single_file_exe.dir/Logics/EyantraScan1.cpp.o"
+  "../Logics/single_file_exe.pdb"
+  "../Logics/single_file_exe"
 )
 
 # Per-language clean rules from dependency scanning.

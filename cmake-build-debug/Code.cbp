@@ -38,7 +38,7 @@
 				</MakeCommands>
 			</Target>
 			<Target title="single_file_exe">
-				<Option output="/home/optimus/MEGA/Code/CodeChef/single_file_exe" prefix_auto="0" extension_auto="0"/>
+				<Option output="/home/optimus/MEGA/Code/Logics/single_file_exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/optimus/MEGA/Code/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -61,7 +61,7 @@
 				</MakeCommands>
 			</Target>
 			<Target title="single_file_exe/fast">
-				<Option output="/home/optimus/MEGA/Code/CodeChef/single_file_exe" prefix_auto="0" extension_auto="0"/>
+				<Option output="/home/optimus/MEGA/Code/Logics/single_file_exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/optimus/MEGA/Code/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -221,7 +221,6 @@
 			<Option target="Code"/>
 		</Unit>
 		<Unit filename="/home/optimus/MEGA/Code/CodeChef/Practice/DBOY .cpp">
-			<Option target="single_file_exe"/>
 			<Option target="Code"/>
 		</Unit>
 		<Unit filename="/home/optimus/MEGA/Code/CodeChef/Practice/DELISH.cpp">
@@ -417,6 +416,10 @@
 			<Option target="Code"/>
 		</Unit>
 		<Unit filename="/home/optimus/MEGA/Code/Logics/Combinations.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/optimus/MEGA/Code/Logics/EyantraScan1.cpp">
+			<Option target="single_file_exe"/>
 			<Option target="Code"/>
 		</Unit>
 		<Unit filename="/home/optimus/MEGA/Code/Logics/HardCodeMatrix.cpp">

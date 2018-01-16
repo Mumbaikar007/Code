@@ -6,13 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/home/optimus/MEGA/Code/CodeChef/DBOY .cpp
+/home/optimus/MEGA/Code/Logics/EyantraScan1.cpp
 iostream
 -
 vector
 -
-algorithm
--
-climits
+cmath
 -
 

@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/optimus/MEGA/Code/CodeChef/Practice/DBOY .cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/single_file_exe.dir/CodeChef/Practice/DBOY_.cpp.o"
+  "/home/optimus/MEGA/Code/Logics/EyantraScan1.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/single_file_exe.dir/Logics/EyantraScan1.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

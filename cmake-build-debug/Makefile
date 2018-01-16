@@ -952,7 +952,6 @@ CodeChef/Practice/DBOY_.o: CodeChef/Practice/DBOY_.cpp.o
 
 # target to build an object file
 CodeChef/Practice/DBOY_.cpp.o:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/CodeChef/Practice/DBOY_.cpp.o
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/Practice/DBOY_.cpp.o
 .PHONY : CodeChef/Practice/DBOY_.cpp.o
 
@@ -962,7 +961,6 @@ CodeChef/Practice/DBOY_.i: CodeChef/Practice/DBOY_.cpp.i
 
 # target to preprocess a source file
 CodeChef/Practice/DBOY_.cpp.i:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/CodeChef/Practice/DBOY_.cpp.i
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/Practice/DBOY_.cpp.i
 .PHONY : CodeChef/Practice/DBOY_.cpp.i
 
@@ -972,7 +970,6 @@ CodeChef/Practice/DBOY_.s: CodeChef/Practice/DBOY_.cpp.s
 
 # target to generate assembly for a file
 CodeChef/Practice/DBOY_.cpp.s:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/CodeChef/Practice/DBOY_.cpp.s
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/CodeChef/Practice/DBOY_.cpp.s
 .PHONY : CodeChef/Practice/DBOY_.cpp.s
 
@@ -2731,6 +2728,36 @@ Logics/Combinations.cpp.s:
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Logics/Combinations.cpp.s
 .PHONY : Logics/Combinations.cpp.s
 
+Logics/EyantraScan1.o: Logics/EyantraScan1.cpp.o
+
+.PHONY : Logics/EyantraScan1.o
+
+# target to build an object file
+Logics/EyantraScan1.cpp.o:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Logics/EyantraScan1.cpp.o
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Logics/EyantraScan1.cpp.o
+.PHONY : Logics/EyantraScan1.cpp.o
+
+Logics/EyantraScan1.i: Logics/EyantraScan1.cpp.i
+
+.PHONY : Logics/EyantraScan1.i
+
+# target to preprocess a source file
+Logics/EyantraScan1.cpp.i:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Logics/EyantraScan1.cpp.i
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Logics/EyantraScan1.cpp.i
+.PHONY : Logics/EyantraScan1.cpp.i
+
+Logics/EyantraScan1.s: Logics/EyantraScan1.cpp.s
+
+.PHONY : Logics/EyantraScan1.s
+
+# target to generate assembly for a file
+Logics/EyantraScan1.cpp.s:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Logics/EyantraScan1.cpp.s
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Logics/EyantraScan1.cpp.s
+.PHONY : Logics/EyantraScan1.cpp.s
+
 Logics/HardCodeMatrix.o: Logics/HardCodeMatrix.cpp.o
 
 .PHONY : Logics/HardCodeMatrix.o
@@ -3731,6 +3758,9 @@ help:
 	@echo "... Logics/Combinations.o"
 	@echo "... Logics/Combinations.i"
 	@echo "... Logics/Combinations.s"
+	@echo "... Logics/EyantraScan1.o"
+	@echo "... Logics/EyantraScan1.i"
+	@echo "... Logics/EyantraScan1.s"
 	@echo "... Logics/HardCodeMatrix.o"
 	@echo "... Logics/HardCodeMatrix.i"
 	@echo "... Logics/HardCodeMatrix.s"
