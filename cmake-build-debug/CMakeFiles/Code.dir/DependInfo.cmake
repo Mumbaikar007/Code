@@ -112,6 +112,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/optimus/MEGA/Code/Logics/HardCodeMatrix.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/Logics/HardCodeMatrix.cpp.o"
   "/home/optimus/MEGA/Code/Logics/PowerSet.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/Logics/PowerSet.cpp.o"
   "/home/optimus/MEGA/Code/Logics/string.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/Logics/string.cpp.o"
+  "/home/optimus/MEGA/Code/Logics/trial.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/Logics/trial.cpp.o"
   "/home/optimus/MEGA/Code/ProjectEuler/10-Summation of primes.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/ProjectEuler/10-Summation_of_primes.cpp.o"
   "/home/optimus/MEGA/Code/ProjectEuler/11-Largest product in a grid.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/ProjectEuler/11-Largest_product_in_a_grid.cpp.o"
   "/home/optimus/MEGA/Code/ProjectEuler/12-Highly divisible triangular number.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/ProjectEuler/12-Highly_divisible_triangular_number.cpp.o"
@@ -135,6 +136,10 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/optimus/MEGA/Code/SPOJ/NSTEPS - Number Steps (SPOJ-1112 ).cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/SPOJ/NSTEPS_-_Number_Steps_(SPOJ-1112_).cpp.o"
   "/home/optimus/MEGA/Code/SPOJ/SAMER08F - Feynman(SPOJ-3410).cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/SPOJ/SAMER08F_-_Feynman(SPOJ-3410).cpp.o"
   "/home/optimus/MEGA/Code/SPOJ/TETRA - Sphere in a tetrahedron(SPOJ-16).cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/SPOJ/TETRA_-_Sphere_in_a_tetrahedron(SPOJ-16).cpp.o"
+  "/home/optimus/MEGA/Code/UVA online judge/1.3.3/UVa 00119.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00119.cpp.o"
+  "/home/optimus/MEGA/Code/UVA online judge/1.3.3/UVa 00272.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00272.cpp.o"
+  "/home/optimus/MEGA/Code/UVA online judge/1.3.3/UVa 00573.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.o"
+  "/home/optimus/MEGA/Code/UVA online judge/1.3.3/UVa 00621.cpp" "/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00621.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

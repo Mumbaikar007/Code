@@ -2734,7 +2734,6 @@ Logics/EyantraScan1.o: Logics/EyantraScan1.cpp.o
 
 # target to build an object file
 Logics/EyantraScan1.cpp.o:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Logics/EyantraScan1.cpp.o
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Logics/EyantraScan1.cpp.o
 .PHONY : Logics/EyantraScan1.cpp.o
 
@@ -2744,7 +2743,6 @@ Logics/EyantraScan1.i: Logics/EyantraScan1.cpp.i
 
 # target to preprocess a source file
 Logics/EyantraScan1.cpp.i:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Logics/EyantraScan1.cpp.i
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Logics/EyantraScan1.cpp.i
 .PHONY : Logics/EyantraScan1.cpp.i
 
@@ -2754,7 +2752,6 @@ Logics/EyantraScan1.s: Logics/EyantraScan1.cpp.s
 
 # target to generate assembly for a file
 Logics/EyantraScan1.cpp.s:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Logics/EyantraScan1.cpp.s
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Logics/EyantraScan1.cpp.s
 .PHONY : Logics/EyantraScan1.cpp.s
 
@@ -2838,6 +2835,33 @@ Logics/string.s: Logics/string.cpp.s
 Logics/string.cpp.s:
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Logics/string.cpp.s
 .PHONY : Logics/string.cpp.s
+
+Logics/trial.o: Logics/trial.cpp.o
+
+.PHONY : Logics/trial.o
+
+# target to build an object file
+Logics/trial.cpp.o:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Logics/trial.cpp.o
+.PHONY : Logics/trial.cpp.o
+
+Logics/trial.i: Logics/trial.cpp.i
+
+.PHONY : Logics/trial.i
+
+# target to preprocess a source file
+Logics/trial.cpp.i:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Logics/trial.cpp.i
+.PHONY : Logics/trial.cpp.i
+
+Logics/trial.s: Logics/trial.cpp.s
+
+.PHONY : Logics/trial.s
+
+# target to generate assembly for a file
+Logics/trial.cpp.s:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Logics/trial.cpp.s
+.PHONY : Logics/trial.cpp.s
 
 ProjectEuler/10-Summation_of_primes.o: ProjectEuler/10-Summation_of_primes.cpp.o
 
@@ -3460,6 +3484,117 @@ SPOJ/TETRA_-_Sphere_in_a_tetrahedron(SPOJ-16).cpp.s:
 	$(MAKE) -f CMakeFiles/Code.dir/build.make "CMakeFiles/Code.dir/SPOJ/TETRA_-_Sphere_in_a_tetrahedron(SPOJ-16).cpp.s"
 .PHONY : SPOJ/TETRA_-_Sphere_in_a_tetrahedron(SPOJ-16).cpp.s
 
+UVA_online_judge/1.3.3/UVa_00119.o: UVA_online_judge/1.3.3/UVa_00119.cpp.o
+
+.PHONY : UVA_online_judge/1.3.3/UVa_00119.o
+
+# target to build an object file
+UVA_online_judge/1.3.3/UVa_00119.cpp.o:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00119.cpp.o
+.PHONY : UVA_online_judge/1.3.3/UVa_00119.cpp.o
+
+UVA_online_judge/1.3.3/UVa_00119.i: UVA_online_judge/1.3.3/UVa_00119.cpp.i
+
+.PHONY : UVA_online_judge/1.3.3/UVa_00119.i
+
+# target to preprocess a source file
+UVA_online_judge/1.3.3/UVa_00119.cpp.i:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00119.cpp.i
+.PHONY : UVA_online_judge/1.3.3/UVa_00119.cpp.i
+
+UVA_online_judge/1.3.3/UVa_00119.s: UVA_online_judge/1.3.3/UVa_00119.cpp.s
+
+.PHONY : UVA_online_judge/1.3.3/UVa_00119.s
+
+# target to generate assembly for a file
+UVA_online_judge/1.3.3/UVa_00119.cpp.s:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00119.cpp.s
+.PHONY : UVA_online_judge/1.3.3/UVa_00119.cpp.s
+
+UVA_online_judge/1.3.3/UVa_00272.o: UVA_online_judge/1.3.3/UVa_00272.cpp.o
+
+.PHONY : UVA_online_judge/1.3.3/UVa_00272.o
+
+# target to build an object file
+UVA_online_judge/1.3.3/UVa_00272.cpp.o:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00272.cpp.o
+.PHONY : UVA_online_judge/1.3.3/UVa_00272.cpp.o
+
+UVA_online_judge/1.3.3/UVa_00272.i: UVA_online_judge/1.3.3/UVa_00272.cpp.i
+
+.PHONY : UVA_online_judge/1.3.3/UVa_00272.i
+
+# target to preprocess a source file
+UVA_online_judge/1.3.3/UVa_00272.cpp.i:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00272.cpp.i
+.PHONY : UVA_online_judge/1.3.3/UVa_00272.cpp.i
+
+UVA_online_judge/1.3.3/UVa_00272.s: UVA_online_judge/1.3.3/UVa_00272.cpp.s
+
+.PHONY : UVA_online_judge/1.3.3/UVa_00272.s
+
+# target to generate assembly for a file
+UVA_online_judge/1.3.3/UVa_00272.cpp.s:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00272.cpp.s
+.PHONY : UVA_online_judge/1.3.3/UVa_00272.cpp.s
+
+UVA_online_judge/1.3.3/UVa_00573.o: UVA_online_judge/1.3.3/UVa_00573.cpp.o
+
+.PHONY : UVA_online_judge/1.3.3/UVa_00573.o
+
+# target to build an object file
+UVA_online_judge/1.3.3/UVa_00573.cpp.o:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.o
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.o
+.PHONY : UVA_online_judge/1.3.3/UVa_00573.cpp.o
+
+UVA_online_judge/1.3.3/UVa_00573.i: UVA_online_judge/1.3.3/UVa_00573.cpp.i
+
+.PHONY : UVA_online_judge/1.3.3/UVa_00573.i
+
+# target to preprocess a source file
+UVA_online_judge/1.3.3/UVa_00573.cpp.i:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.i
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.i
+.PHONY : UVA_online_judge/1.3.3/UVa_00573.cpp.i
+
+UVA_online_judge/1.3.3/UVa_00573.s: UVA_online_judge/1.3.3/UVa_00573.cpp.s
+
+.PHONY : UVA_online_judge/1.3.3/UVa_00573.s
+
+# target to generate assembly for a file
+UVA_online_judge/1.3.3/UVa_00573.cpp.s:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.s
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.s
+.PHONY : UVA_online_judge/1.3.3/UVa_00573.cpp.s
+
+UVA_online_judge/1.3.3/UVa_00621.o: UVA_online_judge/1.3.3/UVa_00621.cpp.o
+
+.PHONY : UVA_online_judge/1.3.3/UVa_00621.o
+
+# target to build an object file
+UVA_online_judge/1.3.3/UVa_00621.cpp.o:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00621.cpp.o
+.PHONY : UVA_online_judge/1.3.3/UVa_00621.cpp.o
+
+UVA_online_judge/1.3.3/UVa_00621.i: UVA_online_judge/1.3.3/UVa_00621.cpp.i
+
+.PHONY : UVA_online_judge/1.3.3/UVa_00621.i
+
+# target to preprocess a source file
+UVA_online_judge/1.3.3/UVa_00621.cpp.i:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00621.cpp.i
+.PHONY : UVA_online_judge/1.3.3/UVa_00621.cpp.i
+
+UVA_online_judge/1.3.3/UVa_00621.s: UVA_online_judge/1.3.3/UVa_00621.cpp.s
+
+.PHONY : UVA_online_judge/1.3.3/UVa_00621.s
+
+# target to generate assembly for a file
+UVA_online_judge/1.3.3/UVa_00621.cpp.s:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00621.cpp.s
+.PHONY : UVA_online_judge/1.3.3/UVa_00621.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -3770,6 +3905,9 @@ help:
 	@echo "... Logics/string.o"
 	@echo "... Logics/string.i"
 	@echo "... Logics/string.s"
+	@echo "... Logics/trial.o"
+	@echo "... Logics/trial.i"
+	@echo "... Logics/trial.s"
 	@echo "... ProjectEuler/10-Summation_of_primes.o"
 	@echo "... ProjectEuler/10-Summation_of_primes.i"
 	@echo "... ProjectEuler/10-Summation_of_primes.s"
@@ -3839,6 +3977,18 @@ help:
 	@echo "... SPOJ/TETRA_-_Sphere_in_a_tetrahedron(SPOJ-16).o"
 	@echo "... SPOJ/TETRA_-_Sphere_in_a_tetrahedron(SPOJ-16).i"
 	@echo "... SPOJ/TETRA_-_Sphere_in_a_tetrahedron(SPOJ-16).s"
+	@echo "... UVA_online_judge/1.3.3/UVa_00119.o"
+	@echo "... UVA_online_judge/1.3.3/UVa_00119.i"
+	@echo "... UVA_online_judge/1.3.3/UVa_00119.s"
+	@echo "... UVA_online_judge/1.3.3/UVa_00272.o"
+	@echo "... UVA_online_judge/1.3.3/UVa_00272.i"
+	@echo "... UVA_online_judge/1.3.3/UVa_00272.s"
+	@echo "... UVA_online_judge/1.3.3/UVa_00573.o"
+	@echo "... UVA_online_judge/1.3.3/UVa_00573.i"
+	@echo "... UVA_online_judge/1.3.3/UVa_00573.s"
+	@echo "... UVA_online_judge/1.3.3/UVa_00621.o"
+	@echo "... UVA_online_judge/1.3.3/UVa_00621.i"
+	@echo "... UVA_online_judge/1.3.3/UVa_00621.s"
 .PHONY : help
 
 

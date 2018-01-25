@@ -1,0 +1,568 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/optimus/MEGA/Code/CLRS/Dynamic Programming/Cut-Rod-Problem-Memorization-Top-Down.cpp
+iostream
+-
+climits
+-
+vector
+-
+
+/home/optimus/MEGA/Code/CLRS/Dynamic Programming/Cut-Rod-Problem-Recursive-Top-Down.cpp
+iostream
+-
+climits
+-
+vector
+-
+
+/home/optimus/MEGA/Code/CLRS/Dynamic Programming/FibonacciDynamic.cpp
+iostream
+-
+vector
+-
+
+/home/optimus/MEGA/Code/CLRS/Dynamic Programming/LongestCommonSubsequence.cpp
+iostream
+-
+string
+-
+vector
+-
+
+/home/optimus/MEGA/Code/CLRS/Dynamic Programming/MatrixChainOrder.cpp
+iostream
+-
+vector
+-
+climits
+-
+
+/home/optimus/MEGA/Code/CodeChef/CHEFSUM.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+
+/home/optimus/MEGA/Code/CodeChef/CIELAB.cpp
+iostream
+-
+
+/home/optimus/MEGA/Code/CodeChef/CIELRCPT.cpp
+iostream
+-
+
+/home/optimus/MEGA/Code/CodeChef/December Challenge 2017/CPLAY.cpp
+iostream
+-
+
+/home/optimus/MEGA/Code/CodeChef/December Challenge 2017/GIT01.cpp
+iostream
+-
+
+/home/optimus/MEGA/Code/CodeChef/FCTRL.cpp
+iostream
+-
+
+/home/optimus/MEGA/Code/CodeChef/FLOW001.cpp
+iostream
+-
+
+/home/optimus/MEGA/Code/CodeChef/FLOW002.cpp
+iostream
+-
+
+/home/optimus/MEGA/Code/CodeChef/FLOW004.cpp
+iostream
+-
+
+/home/optimus/MEGA/Code/CodeChef/FLOW006.cpp
+iostream
+-
+
+/home/optimus/MEGA/Code/CodeChef/FLOW007.cpp
+iostream
+-
+
+/home/optimus/MEGA/Code/CodeChef/FLOW017.cpp
+iostream
+-
+
+/home/optimus/MEGA/Code/CodeChef/FLOW018.cpp
+iostream
+-
+
+/home/optimus/MEGA/Code/CodeChef/FSQRT.cpp
+iostream
+-
+cmath
+-
+
+/home/optimus/MEGA/Code/CodeChef/LUCKFOUR.cpp
+iostream
+-
+
+/home/optimus/MEGA/Code/CodeChef/MINPERM.cpp
+vector
+-
+algorithm
+-
+iostream
+-
+string
+-
+typeinfo
+-
+
+/home/optimus/MEGA/Code/CodeChef/Novermber Challenge 2017/CLRL.cpp
+iostream
+-
+algorithm
+-
+vector
+-
+
+/home/optimus/MEGA/Code/CodeChef/Novermber Challenge 2017/PERPALIN.cpp
+string
+-
+iostream
+-
+
+/home/optimus/MEGA/Code/CodeChef/Novermber Challenge 2017/VILTRIBE.cpp
+iostream
+-
+string
+-
+
+/home/optimus/MEGA/Code/CodeChef/RAINBOWA.cpp
+iostream
+-
+vector
+-
+
+/home/optimus/MEGA/Code/CodeChef/RAINBOWA2.cpp
+iostream
+-
+vector
+-
+
+/home/optimus/MEGA/Code/CodeChef/REMISS.cpp
+iostream
+-
+
+/home/optimus/MEGA/Code/CodeChef/START01.cpp
+iostream
+-
+
+/home/optimus/MEGA/Code/CodeChef/SUMTRIAN.cpp
+iostream
+-
+vector
+-
+
+/home/optimus/MEGA/Code/CodeChef/TLG.cpp
+iostream
+-
+cmath
+-
+
+/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-1.cpp
+iostream
+-
+string
+-
+vector
+-
+
+/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-1BIN.cpp
+iostream
+-
+string
+-
+vector
+-
+
+/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-2A.cpp.cpp
+iostream
+-
+string
+-
+algorithm
+-
+
+/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-2B.cpp
+iostream
+-
+string
+-
+algorithm
+-
+
+/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-3.cpp
+cstdio
+-
+
+/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-4.cpp
+iostream
+-
+string
+-
+vector
+-
+iterator
+-
+
+/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-5.cpp.cpp
+iostream
+-
+string
+-
+cmath
+-
+
+/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-6.cpp
+iostream
+-
+string
+-
+
+/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-7.cpp
+iostream
+-
+string
+-
+vector
+-
+
+/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-8.cpp
+iostream
+-
+string
+-
+vector
+-
+
+/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-9.cpp
+iostream
+-
+string
+-
+
+/home/optimus/MEGA/Code/Cracking the Coding Interview/Bit Manipulation/Q5-1.cpp
+iostream
+-
+
+/home/optimus/MEGA/Code/Cracking the Coding Interview/Bit Manipulation/Q5-3.cpp
+iostream
+-
+
+/home/optimus/MEGA/Code/Cracking the Coding Interview/Linked List/Experiment.cpp
+stdio.h
+-
+stdlib.h
+-
+
+/home/optimus/MEGA/Code/Cracking the Coding Interview/Linked List/InsertIntoLL.cpp
+iostream
+-
+
+/home/optimus/MEGA/Code/Cracking the Coding Interview/Linked List/Q1-2.cpp
+iostream
+-
+
+/home/optimus/MEGA/Code/Cracking the Coding Interview/Linked List/Q1-3.cpp
+iostream
+-
+
+/home/optimus/MEGA/Code/Cracking the Coding Interview/Linked List/Q2-1.cpp
+iostream
+-
+set
+-
+iterator
+-
+
+/home/optimus/MEGA/Code/Cracking the Coding Interview/Linked List/Q2-6.cpp
+iostream
+-
+stack
+-
+
+/home/optimus/MEGA/Code/Cracking the Coding Interview/Stacks/Q3-1.cpp
+iostream
+-
+
+/home/optimus/MEGA/Code/Cracking the Coding Interview/Stacks/Q3-2.cpp
+iostream
+-
+stack
+-
+climits
+-
+
+/home/optimus/MEGA/Code/Cracking the Coding Interview/Stacks/Q3-4.cpp
+iostream
+-
+stack
+-
+
+/home/optimus/MEGA/Code/Cracking the Coding Interview/Stacks/Q3-5.cpp
+iostream
+-
+stack
+-
+
+/home/optimus/MEGA/Code/Cracking the Coding Interview/Trees and graphs/Q4-1.cpp
+iostream
+-
+queue
+-
+
+/home/optimus/MEGA/Code/Cracking the Coding Interview/Trees and graphs/Q4-2.cpp
+iostream
+-
+vector
+-
+
+/home/optimus/MEGA/Code/Cracking the Coding Interview/Trees and graphs/Q4-3.cpp
+iostream
+-
+
+/home/optimus/MEGA/Code/Cracking the Coding Interview/Trees and graphs/Q4-4.cpp
+iostream
+-
+climits
+-
+
+/home/optimus/MEGA/Code/Cracking the Coding Interview/Trees and graphs/ReadyTree.cpp
+iostream
+-
+
+/home/optimus/MEGA/Code/Cracking the Coding Interview/Trees and graphs/Tree Practice.cpp
+stdio.h
+-
+stdlib.h
+-
+
+/home/optimus/MEGA/Code/HackerEarth/Choosing the judges.cpp
+iostream
+-
+vector
+-
+
+/home/optimus/MEGA/Code/HackerEarth/Factorial.cpp
+iostream
+-
+vector
+-
+
+/home/optimus/MEGA/Code/HackerEarth/Intelligent Girl.cpp
+iostream
+-
+string
+-
+
+/home/optimus/MEGA/Code/HackerRank/ClimbingLeaderboard.cpp
+iostream
+-
+vector
+-
+
+/home/optimus/MEGA/Code/HackerRank/MagicSquare.cpp
+iostream
+-
+vector
+-
+
+/home/optimus/MEGA/Code/HackerRank/Picking Numbers.cpp
+iostream
+-
+vector
+-
+
+/home/optimus/MEGA/Code/HackerRank/Weighted UniformSubstrings.cpp
+iostream
+-
+string
+-
+vector
+-
+algorithm
+-
+
+/home/optimus/MEGA/Code/HackerRank/eruptingVolcanos.cpp
+cmath
+-
+cstdio
+-
+vector
+-
+iostream
+-
+algorithm
+-
+
+/home/optimus/MEGA/Code/Hitchhiker's /LongestCommonSubsequence.cpp
+iostream
+-
+string
+-
+vector
+-
+
+/home/optimus/MEGA/Code/Hitchhiker's /SampleProblemCombinatorics.cpp
+iostream
+-
+
+/home/optimus/MEGA/Code/Logics/CallByReference.cpp
+iostream
+-
+
+/home/optimus/MEGA/Code/Logics/Combinations.cpp
+iostream
+-
+vector
+-
+
+/home/optimus/MEGA/Code/Logics/HardCodeMatrix.cpp
+iostream
+-
+
+/home/optimus/MEGA/Code/Logics/PowerSet.cpp
+iostream
+-
+vector
+-
+cmath
+-
+
+/home/optimus/MEGA/Code/Logics/string.cpp
+iostream
+-
+string
+-
+
+/home/optimus/MEGA/Code/ProjectEuler/10-Summation of primes.cpp
+iostream
+-
+vector
+-
+cmath
+-
+
+/home/optimus/MEGA/Code/ProjectEuler/11-Largest product in a grid.cpp
+iostream
+-
+
+/home/optimus/MEGA/Code/ProjectEuler/12-Highly divisible triangular number.cpp
+iostream
+-
+
+/home/optimus/MEGA/Code/ProjectEuler/13-Large sum.cpp
+iostream
+-
+string
+-
+
+/home/optimus/MEGA/Code/ProjectEuler/14 - Longest Collatz sequence.cpp
+iostream
+-
+
+/home/optimus/MEGA/Code/ProjectEuler/15-Lattice paths.cpp
+iostream
+-
+
+/home/optimus/MEGA/Code/ProjectEuler/16-Power digit sum.cpp
+iostream
+-
+cmath
+-
+iomanip
+-
+string
+-
+
+/home/optimus/MEGA/Code/ProjectEuler/18-Maximum path sum I.cpp
+iostream
+-
+cmath
+-
+vector
+-
+
+/home/optimus/MEGA/Code/ProjectEuler/20-Factorial digit sum.cpp
+iostream
+-
+
+/home/optimus/MEGA/Code/ProjectEuler/21-Amicable numbers.cpp
+iostream
+-
+vector
+-
+
+/home/optimus/MEGA/Code/ProjectEuler/22-Names scores.cpp
+iostream
+-
+
+/home/optimus/MEGA/Code/ProjectEuler/23-Non-abundant sums.cpp
+iostream
+-
+vector
+-
+
+/home/optimus/MEGA/Code/ProjectEuler/25-1000-digit Fibonacci number.cpp
+iostream
+-
+vector
+-
+
+/home/optimus/MEGA/Code/ProjectEuler/8-Largest product in a series.cpp
+iostream
+-
+string
+-
+
+/home/optimus/MEGA/Code/ProjectEuler/9-Special Pythagorean triplet.cpp
+iostream
+-
+cmath
+-
+math.h
+-
+stdio.h
+-
+
+/home/optimus/MEGA/Code/SPOJ/ACPC10A - What’s Next(SPOJ-7974).cpp
+iostream
+-
+
+/home/optimus/MEGA/Code/SPOJ/ADDREV - Adding Reversed Numbers(SPOJ-42).cpp
+iostream
+-
+
+/home/optimus/MEGA/Code/SPOJ/FCTRL - Factorial (SPOJ-11).cpp
+iostream
+-
+
+/home/optimus/MEGA/Code/SPOJ/FCTRL2 - Small factorials(SPOJ-24).cpp
+iostream
+-
+
+/home/optimus/MEGA/Code/SPOJ/NSTEPS - Number Steps (SPOJ-1112 ).cpp
+iostream
+-
+
+/home/optimus/MEGA/Code/SPOJ/SAMER08F - Feynman(SPOJ-3410).cpp
+iostream
+-
+
+/home/optimus/MEGA/Code/SPOJ/TETRA - Sphere in a tetrahedron(SPOJ-16).cpp
+

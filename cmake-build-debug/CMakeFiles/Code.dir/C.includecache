@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/optimus/MEGA/Code/Cracking the Coding Interview/Linked List/LinkedListBaasics.c
+stdio.h
+-
+stdlib.h
+-
+

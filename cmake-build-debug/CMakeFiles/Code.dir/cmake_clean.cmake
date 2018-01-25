@@ -122,6 +122,11 @@ file(REMOVE_RECURSE
   "CMakeFiles/Code.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.o"
   "CMakeFiles/Code.dir/CodeChef/Practice/DBOY_.cpp.o"
   "CMakeFiles/Code.dir/Logics/EyantraScan1.cpp.o"
+  "CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00272.cpp.o"
+  "CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00621.cpp.o"
+  "CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00119.cpp.o"
+  "CMakeFiles/Code.dir/Logics/trial.cpp.o"
+  "CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.o"
   "Code.pdb"
   "Code"
 )

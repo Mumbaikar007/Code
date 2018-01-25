@@ -3009,6 +3009,126 @@ CMakeFiles/Code.dir/Logics/EyantraScan1.cpp.o.provides: CMakeFiles/Code.dir/Logi
 CMakeFiles/Code.dir/Logics/EyantraScan1.cpp.o.provides.build: CMakeFiles/Code.dir/Logics/EyantraScan1.cpp.o
 
 
+CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00272.cpp.o: CMakeFiles/Code.dir/flags.make
+CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00272.cpp.o: ../UVA\ online\ judge/1.3.3/UVa\ 00272.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_124) "Building CXX object CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00272.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00272.cpp.o -c "/home/optimus/MEGA/Code/UVA online judge/1.3.3/UVa 00272.cpp"
+
+CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00272.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00272.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/UVA online judge/1.3.3/UVa 00272.cpp" > CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00272.cpp.i
+
+CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00272.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00272.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/UVA online judge/1.3.3/UVa 00272.cpp" -o CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00272.cpp.s
+
+CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00272.cpp.o.requires:
+
+.PHONY : CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00272.cpp.o.requires
+
+CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00272.cpp.o.provides: CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00272.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00272.cpp.o.provides.build
+.PHONY : CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00272.cpp.o.provides
+
+CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00272.cpp.o.provides.build: CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00272.cpp.o
+
+
+CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00621.cpp.o: CMakeFiles/Code.dir/flags.make
+CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00621.cpp.o: ../UVA\ online\ judge/1.3.3/UVa\ 00621.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_125) "Building CXX object CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00621.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00621.cpp.o -c "/home/optimus/MEGA/Code/UVA online judge/1.3.3/UVa 00621.cpp"
+
+CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00621.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00621.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/UVA online judge/1.3.3/UVa 00621.cpp" > CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00621.cpp.i
+
+CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00621.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00621.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/UVA online judge/1.3.3/UVa 00621.cpp" -o CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00621.cpp.s
+
+CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00621.cpp.o.requires:
+
+.PHONY : CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00621.cpp.o.requires
+
+CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00621.cpp.o.provides: CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00621.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00621.cpp.o.provides.build
+.PHONY : CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00621.cpp.o.provides
+
+CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00621.cpp.o.provides.build: CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00621.cpp.o
+
+
+CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00119.cpp.o: CMakeFiles/Code.dir/flags.make
+CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00119.cpp.o: ../UVA\ online\ judge/1.3.3/UVa\ 00119.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_126) "Building CXX object CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00119.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00119.cpp.o -c "/home/optimus/MEGA/Code/UVA online judge/1.3.3/UVa 00119.cpp"
+
+CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00119.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00119.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/UVA online judge/1.3.3/UVa 00119.cpp" > CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00119.cpp.i
+
+CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00119.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00119.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/UVA online judge/1.3.3/UVa 00119.cpp" -o CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00119.cpp.s
+
+CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00119.cpp.o.requires:
+
+.PHONY : CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00119.cpp.o.requires
+
+CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00119.cpp.o.provides: CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00119.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00119.cpp.o.provides.build
+.PHONY : CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00119.cpp.o.provides
+
+CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00119.cpp.o.provides.build: CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00119.cpp.o
+
+
+CMakeFiles/Code.dir/Logics/trial.cpp.o: CMakeFiles/Code.dir/flags.make
+CMakeFiles/Code.dir/Logics/trial.cpp.o: ../Logics/trial.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_127) "Building CXX object CMakeFiles/Code.dir/Logics/trial.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Logics/trial.cpp.o -c /home/optimus/MEGA/Code/Logics/trial.cpp
+
+CMakeFiles/Code.dir/Logics/trial.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/Logics/trial.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/MEGA/Code/Logics/trial.cpp > CMakeFiles/Code.dir/Logics/trial.cpp.i
+
+CMakeFiles/Code.dir/Logics/trial.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/Logics/trial.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/MEGA/Code/Logics/trial.cpp -o CMakeFiles/Code.dir/Logics/trial.cpp.s
+
+CMakeFiles/Code.dir/Logics/trial.cpp.o.requires:
+
+.PHONY : CMakeFiles/Code.dir/Logics/trial.cpp.o.requires
+
+CMakeFiles/Code.dir/Logics/trial.cpp.o.provides: CMakeFiles/Code.dir/Logics/trial.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Logics/trial.cpp.o.provides.build
+.PHONY : CMakeFiles/Code.dir/Logics/trial.cpp.o.provides
+
+CMakeFiles/Code.dir/Logics/trial.cpp.o.provides.build: CMakeFiles/Code.dir/Logics/trial.cpp.o
+
+
+CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.o: CMakeFiles/Code.dir/flags.make
+CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.o: ../UVA\ online\ judge/1.3.3/UVa\ 00573.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_128) "Building CXX object CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.o -c "/home/optimus/MEGA/Code/UVA online judge/1.3.3/UVa 00573.cpp"
+
+CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/UVA online judge/1.3.3/UVa 00573.cpp" > CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.i
+
+CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/UVA online judge/1.3.3/UVa 00573.cpp" -o CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.s
+
+CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.o.requires:
+
+.PHONY : CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.o.requires
+
+CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.o.provides: CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.o.provides.build
+.PHONY : CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.o.provides
+
+CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.o.provides.build: CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.o
+
+
 # Object files for target Code
 Code_OBJECTS = \
 "CMakeFiles/Code.dir/CLRS/Dynamic_Programming/Cut-Rod-Problem-Memorization-Top-Down.cpp.o" \
@@ -3133,7 +3253,12 @@ Code_OBJECTS = \
 "CMakeFiles/Code.dir/CodeChef/Practice/DELISH.cpp.o" \
 "CMakeFiles/Code.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.o" \
 "CMakeFiles/Code.dir/CodeChef/Practice/DBOY_.cpp.o" \
-"CMakeFiles/Code.dir/Logics/EyantraScan1.cpp.o"
+"CMakeFiles/Code.dir/Logics/EyantraScan1.cpp.o" \
+"CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00272.cpp.o" \
+"CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00621.cpp.o" \
+"CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00119.cpp.o" \
+"CMakeFiles/Code.dir/Logics/trial.cpp.o" \
+"CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.o"
 
 # External object files for target Code
 Code_EXTERNAL_OBJECTS =
@@ -3261,9 +3386,14 @@ Code: CMakeFiles/Code.dir/CodeChef/Practice/DELISH.cpp.o
 Code: CMakeFiles/Code.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.o
 Code: CMakeFiles/Code.dir/CodeChef/Practice/DBOY_.cpp.o
 Code: CMakeFiles/Code.dir/Logics/EyantraScan1.cpp.o
+Code: CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00272.cpp.o
+Code: CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00621.cpp.o
+Code: CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00119.cpp.o
+Code: CMakeFiles/Code.dir/Logics/trial.cpp.o
+Code: CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.o
 Code: CMakeFiles/Code.dir/build.make
 Code: CMakeFiles/Code.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_124) "Linking CXX executable Code"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_129) "Linking CXX executable Code"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Code.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -3394,6 +3524,11 @@ CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/CodeChef/Practice/DELISH.cpp.o
 CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.o.requires
 CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/CodeChef/Practice/DBOY_.cpp.o.requires
 CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/Logics/EyantraScan1.cpp.o.requires
+CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00272.cpp.o.requires
+CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00621.cpp.o.requires
+CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00119.cpp.o.requires
+CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/Logics/trial.cpp.o.requires
+CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.o.requires
 
 .PHONY : CMakeFiles/Code.dir/requires
 
