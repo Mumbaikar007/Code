@@ -127,6 +127,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00119.cpp.o"
   "CMakeFiles/Code.dir/Logics/trial.cpp.o"
   "CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.o"
+  "CMakeFiles/Code.dir/UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.cpp.o"
   "Code.pdb"
   "Code"
 )

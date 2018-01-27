@@ -1,4 +1,4 @@
-/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/single_file_exe.dir
-/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir
+/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/single_file_exe.dir
+/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/Code.dir

@@ -34,19 +34,19 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /home/optimus/Downloads/clion-2017.2.3/bin/cmake/bin/cmake
+CMAKE_COMMAND = /home/optimus/Softwares/clion-2017.3.2/bin/cmake/bin/cmake
 
 # The command to remove a file.
-RM = /home/optimus/Downloads/clion-2017.2.3/bin/cmake/bin/cmake -E remove -f
+RM = /home/optimus/Softwares/clion-2017.3.2/bin/cmake/bin/cmake -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/optimus/MEGA/Code
+CMAKE_SOURCE_DIR = /home/optimus/Projects/Code
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/optimus/MEGA/Code/cmake-build-debug
+CMAKE_BINARY_DIR = /home/optimus/Projects/Code/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Code.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/Code.dir/flags.make
 
 CMakeFiles/Code.dir/CLRS/Dynamic_Programming/Cut-Rod-Problem-Memorization-Top-Down.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/CLRS/Dynamic_Programming/Cut-Rod-Problem-Memorization-Top-Down.cpp.o: ../CLRS/Dynamic\ Programming/Cut-Rod-Problem-Memorization-Top-Down.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Code.dir/CLRS/Dynamic_Programming/Cut-Rod-Problem-Memorization-Top-Down.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CLRS/Dynamic_Programming/Cut-Rod-Problem-Memorization-Top-Down.cpp.o -c "/home/optimus/MEGA/Code/CLRS/Dynamic Programming/Cut-Rod-Problem-Memorization-Top-Down.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Code.dir/CLRS/Dynamic_Programming/Cut-Rod-Problem-Memorization-Top-Down.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CLRS/Dynamic_Programming/Cut-Rod-Problem-Memorization-Top-Down.cpp.o -c "/home/optimus/Projects/Code/CLRS/Dynamic Programming/Cut-Rod-Problem-Memorization-Top-Down.cpp"
 
 CMakeFiles/Code.dir/CLRS/Dynamic_Programming/Cut-Rod-Problem-Memorization-Top-Down.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/CLRS/Dynamic_Programming/Cut-Rod-Problem-Memorization-Top-Down.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/CLRS/Dynamic Programming/Cut-Rod-Problem-Memorization-Top-Down.cpp" > CMakeFiles/Code.dir/CLRS/Dynamic_Programming/Cut-Rod-Problem-Memorization-Top-Down.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/CLRS/Dynamic Programming/Cut-Rod-Problem-Memorization-Top-Down.cpp" > CMakeFiles/Code.dir/CLRS/Dynamic_Programming/Cut-Rod-Problem-Memorization-Top-Down.cpp.i
 
 CMakeFiles/Code.dir/CLRS/Dynamic_Programming/Cut-Rod-Problem-Memorization-Top-Down.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/CLRS/Dynamic_Programming/Cut-Rod-Problem-Memorization-Top-Down.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/CLRS/Dynamic Programming/Cut-Rod-Problem-Memorization-Top-Down.cpp" -o CMakeFiles/Code.dir/CLRS/Dynamic_Programming/Cut-Rod-Problem-Memorization-Top-Down.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/CLRS/Dynamic Programming/Cut-Rod-Problem-Memorization-Top-Down.cpp" -o CMakeFiles/Code.dir/CLRS/Dynamic_Programming/Cut-Rod-Problem-Memorization-Top-Down.cpp.s
 
 CMakeFiles/Code.dir/CLRS/Dynamic_Programming/Cut-Rod-Problem-Memorization-Top-Down.cpp.o.requires:
 
@@ -83,16 +83,16 @@ CMakeFiles/Code.dir/CLRS/Dynamic_Programming/Cut-Rod-Problem-Memorization-Top-Do
 
 CMakeFiles/Code.dir/CLRS/Dynamic_Programming/Cut-Rod-Problem-Recursive-Top-Down.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/CLRS/Dynamic_Programming/Cut-Rod-Problem-Recursive-Top-Down.cpp.o: ../CLRS/Dynamic\ Programming/Cut-Rod-Problem-Recursive-Top-Down.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Code.dir/CLRS/Dynamic_Programming/Cut-Rod-Problem-Recursive-Top-Down.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CLRS/Dynamic_Programming/Cut-Rod-Problem-Recursive-Top-Down.cpp.o -c "/home/optimus/MEGA/Code/CLRS/Dynamic Programming/Cut-Rod-Problem-Recursive-Top-Down.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Code.dir/CLRS/Dynamic_Programming/Cut-Rod-Problem-Recursive-Top-Down.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CLRS/Dynamic_Programming/Cut-Rod-Problem-Recursive-Top-Down.cpp.o -c "/home/optimus/Projects/Code/CLRS/Dynamic Programming/Cut-Rod-Problem-Recursive-Top-Down.cpp"
 
 CMakeFiles/Code.dir/CLRS/Dynamic_Programming/Cut-Rod-Problem-Recursive-Top-Down.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/CLRS/Dynamic_Programming/Cut-Rod-Problem-Recursive-Top-Down.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/CLRS/Dynamic Programming/Cut-Rod-Problem-Recursive-Top-Down.cpp" > CMakeFiles/Code.dir/CLRS/Dynamic_Programming/Cut-Rod-Problem-Recursive-Top-Down.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/CLRS/Dynamic Programming/Cut-Rod-Problem-Recursive-Top-Down.cpp" > CMakeFiles/Code.dir/CLRS/Dynamic_Programming/Cut-Rod-Problem-Recursive-Top-Down.cpp.i
 
 CMakeFiles/Code.dir/CLRS/Dynamic_Programming/Cut-Rod-Problem-Recursive-Top-Down.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/CLRS/Dynamic_Programming/Cut-Rod-Problem-Recursive-Top-Down.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/CLRS/Dynamic Programming/Cut-Rod-Problem-Recursive-Top-Down.cpp" -o CMakeFiles/Code.dir/CLRS/Dynamic_Programming/Cut-Rod-Problem-Recursive-Top-Down.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/CLRS/Dynamic Programming/Cut-Rod-Problem-Recursive-Top-Down.cpp" -o CMakeFiles/Code.dir/CLRS/Dynamic_Programming/Cut-Rod-Problem-Recursive-Top-Down.cpp.s
 
 CMakeFiles/Code.dir/CLRS/Dynamic_Programming/Cut-Rod-Problem-Recursive-Top-Down.cpp.o.requires:
 
@@ -107,16 +107,16 @@ CMakeFiles/Code.dir/CLRS/Dynamic_Programming/Cut-Rod-Problem-Recursive-Top-Down.
 
 CMakeFiles/Code.dir/CLRS/Dynamic_Programming/FibonacciDynamic.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/CLRS/Dynamic_Programming/FibonacciDynamic.cpp.o: ../CLRS/Dynamic\ Programming/FibonacciDynamic.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Code.dir/CLRS/Dynamic_Programming/FibonacciDynamic.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CLRS/Dynamic_Programming/FibonacciDynamic.cpp.o -c "/home/optimus/MEGA/Code/CLRS/Dynamic Programming/FibonacciDynamic.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Code.dir/CLRS/Dynamic_Programming/FibonacciDynamic.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CLRS/Dynamic_Programming/FibonacciDynamic.cpp.o -c "/home/optimus/Projects/Code/CLRS/Dynamic Programming/FibonacciDynamic.cpp"
 
 CMakeFiles/Code.dir/CLRS/Dynamic_Programming/FibonacciDynamic.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/CLRS/Dynamic_Programming/FibonacciDynamic.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/CLRS/Dynamic Programming/FibonacciDynamic.cpp" > CMakeFiles/Code.dir/CLRS/Dynamic_Programming/FibonacciDynamic.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/CLRS/Dynamic Programming/FibonacciDynamic.cpp" > CMakeFiles/Code.dir/CLRS/Dynamic_Programming/FibonacciDynamic.cpp.i
 
 CMakeFiles/Code.dir/CLRS/Dynamic_Programming/FibonacciDynamic.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/CLRS/Dynamic_Programming/FibonacciDynamic.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/CLRS/Dynamic Programming/FibonacciDynamic.cpp" -o CMakeFiles/Code.dir/CLRS/Dynamic_Programming/FibonacciDynamic.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/CLRS/Dynamic Programming/FibonacciDynamic.cpp" -o CMakeFiles/Code.dir/CLRS/Dynamic_Programming/FibonacciDynamic.cpp.s
 
 CMakeFiles/Code.dir/CLRS/Dynamic_Programming/FibonacciDynamic.cpp.o.requires:
 
@@ -131,16 +131,16 @@ CMakeFiles/Code.dir/CLRS/Dynamic_Programming/FibonacciDynamic.cpp.o.provides.bui
 
 CMakeFiles/Code.dir/CLRS/Dynamic_Programming/LongestCommonSubsequence.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/CLRS/Dynamic_Programming/LongestCommonSubsequence.cpp.o: ../CLRS/Dynamic\ Programming/LongestCommonSubsequence.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Code.dir/CLRS/Dynamic_Programming/LongestCommonSubsequence.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CLRS/Dynamic_Programming/LongestCommonSubsequence.cpp.o -c "/home/optimus/MEGA/Code/CLRS/Dynamic Programming/LongestCommonSubsequence.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Code.dir/CLRS/Dynamic_Programming/LongestCommonSubsequence.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CLRS/Dynamic_Programming/LongestCommonSubsequence.cpp.o -c "/home/optimus/Projects/Code/CLRS/Dynamic Programming/LongestCommonSubsequence.cpp"
 
 CMakeFiles/Code.dir/CLRS/Dynamic_Programming/LongestCommonSubsequence.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/CLRS/Dynamic_Programming/LongestCommonSubsequence.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/CLRS/Dynamic Programming/LongestCommonSubsequence.cpp" > CMakeFiles/Code.dir/CLRS/Dynamic_Programming/LongestCommonSubsequence.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/CLRS/Dynamic Programming/LongestCommonSubsequence.cpp" > CMakeFiles/Code.dir/CLRS/Dynamic_Programming/LongestCommonSubsequence.cpp.i
 
 CMakeFiles/Code.dir/CLRS/Dynamic_Programming/LongestCommonSubsequence.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/CLRS/Dynamic_Programming/LongestCommonSubsequence.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/CLRS/Dynamic Programming/LongestCommonSubsequence.cpp" -o CMakeFiles/Code.dir/CLRS/Dynamic_Programming/LongestCommonSubsequence.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/CLRS/Dynamic Programming/LongestCommonSubsequence.cpp" -o CMakeFiles/Code.dir/CLRS/Dynamic_Programming/LongestCommonSubsequence.cpp.s
 
 CMakeFiles/Code.dir/CLRS/Dynamic_Programming/LongestCommonSubsequence.cpp.o.requires:
 
@@ -155,16 +155,16 @@ CMakeFiles/Code.dir/CLRS/Dynamic_Programming/LongestCommonSubsequence.cpp.o.prov
 
 CMakeFiles/Code.dir/CLRS/Dynamic_Programming/MatrixChainOrder.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/CLRS/Dynamic_Programming/MatrixChainOrder.cpp.o: ../CLRS/Dynamic\ Programming/MatrixChainOrder.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Code.dir/CLRS/Dynamic_Programming/MatrixChainOrder.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CLRS/Dynamic_Programming/MatrixChainOrder.cpp.o -c "/home/optimus/MEGA/Code/CLRS/Dynamic Programming/MatrixChainOrder.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Code.dir/CLRS/Dynamic_Programming/MatrixChainOrder.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CLRS/Dynamic_Programming/MatrixChainOrder.cpp.o -c "/home/optimus/Projects/Code/CLRS/Dynamic Programming/MatrixChainOrder.cpp"
 
 CMakeFiles/Code.dir/CLRS/Dynamic_Programming/MatrixChainOrder.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/CLRS/Dynamic_Programming/MatrixChainOrder.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/CLRS/Dynamic Programming/MatrixChainOrder.cpp" > CMakeFiles/Code.dir/CLRS/Dynamic_Programming/MatrixChainOrder.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/CLRS/Dynamic Programming/MatrixChainOrder.cpp" > CMakeFiles/Code.dir/CLRS/Dynamic_Programming/MatrixChainOrder.cpp.i
 
 CMakeFiles/Code.dir/CLRS/Dynamic_Programming/MatrixChainOrder.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/CLRS/Dynamic_Programming/MatrixChainOrder.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/CLRS/Dynamic Programming/MatrixChainOrder.cpp" -o CMakeFiles/Code.dir/CLRS/Dynamic_Programming/MatrixChainOrder.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/CLRS/Dynamic Programming/MatrixChainOrder.cpp" -o CMakeFiles/Code.dir/CLRS/Dynamic_Programming/MatrixChainOrder.cpp.s
 
 CMakeFiles/Code.dir/CLRS/Dynamic_Programming/MatrixChainOrder.cpp.o.requires:
 
@@ -179,16 +179,16 @@ CMakeFiles/Code.dir/CLRS/Dynamic_Programming/MatrixChainOrder.cpp.o.provides.bui
 
 CMakeFiles/Code.dir/CodeChef/CHEFSUM.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/CodeChef/CHEFSUM.cpp.o: ../CodeChef/CHEFSUM.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Code.dir/CodeChef/CHEFSUM.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/CHEFSUM.cpp.o -c /home/optimus/MEGA/Code/CodeChef/CHEFSUM.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Code.dir/CodeChef/CHEFSUM.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/CHEFSUM.cpp.o -c /home/optimus/Projects/Code/CodeChef/CHEFSUM.cpp
 
 CMakeFiles/Code.dir/CodeChef/CHEFSUM.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/CodeChef/CHEFSUM.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/MEGA/Code/CodeChef/CHEFSUM.cpp > CMakeFiles/Code.dir/CodeChef/CHEFSUM.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/Projects/Code/CodeChef/CHEFSUM.cpp > CMakeFiles/Code.dir/CodeChef/CHEFSUM.cpp.i
 
 CMakeFiles/Code.dir/CodeChef/CHEFSUM.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/CodeChef/CHEFSUM.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/MEGA/Code/CodeChef/CHEFSUM.cpp -o CMakeFiles/Code.dir/CodeChef/CHEFSUM.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/Projects/Code/CodeChef/CHEFSUM.cpp -o CMakeFiles/Code.dir/CodeChef/CHEFSUM.cpp.s
 
 CMakeFiles/Code.dir/CodeChef/CHEFSUM.cpp.o.requires:
 
@@ -203,16 +203,16 @@ CMakeFiles/Code.dir/CodeChef/CHEFSUM.cpp.o.provides.build: CMakeFiles/Code.dir/C
 
 CMakeFiles/Code.dir/CodeChef/CIELAB.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/CodeChef/CIELAB.cpp.o: ../CodeChef/CIELAB.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Code.dir/CodeChef/CIELAB.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/CIELAB.cpp.o -c /home/optimus/MEGA/Code/CodeChef/CIELAB.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Code.dir/CodeChef/CIELAB.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/CIELAB.cpp.o -c /home/optimus/Projects/Code/CodeChef/CIELAB.cpp
 
 CMakeFiles/Code.dir/CodeChef/CIELAB.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/CodeChef/CIELAB.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/MEGA/Code/CodeChef/CIELAB.cpp > CMakeFiles/Code.dir/CodeChef/CIELAB.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/Projects/Code/CodeChef/CIELAB.cpp > CMakeFiles/Code.dir/CodeChef/CIELAB.cpp.i
 
 CMakeFiles/Code.dir/CodeChef/CIELAB.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/CodeChef/CIELAB.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/MEGA/Code/CodeChef/CIELAB.cpp -o CMakeFiles/Code.dir/CodeChef/CIELAB.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/Projects/Code/CodeChef/CIELAB.cpp -o CMakeFiles/Code.dir/CodeChef/CIELAB.cpp.s
 
 CMakeFiles/Code.dir/CodeChef/CIELAB.cpp.o.requires:
 
@@ -227,16 +227,16 @@ CMakeFiles/Code.dir/CodeChef/CIELAB.cpp.o.provides.build: CMakeFiles/Code.dir/Co
 
 CMakeFiles/Code.dir/CodeChef/CIELRCPT.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/CodeChef/CIELRCPT.cpp.o: ../CodeChef/CIELRCPT.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Code.dir/CodeChef/CIELRCPT.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/CIELRCPT.cpp.o -c /home/optimus/MEGA/Code/CodeChef/CIELRCPT.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Code.dir/CodeChef/CIELRCPT.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/CIELRCPT.cpp.o -c /home/optimus/Projects/Code/CodeChef/CIELRCPT.cpp
 
 CMakeFiles/Code.dir/CodeChef/CIELRCPT.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/CodeChef/CIELRCPT.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/MEGA/Code/CodeChef/CIELRCPT.cpp > CMakeFiles/Code.dir/CodeChef/CIELRCPT.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/Projects/Code/CodeChef/CIELRCPT.cpp > CMakeFiles/Code.dir/CodeChef/CIELRCPT.cpp.i
 
 CMakeFiles/Code.dir/CodeChef/CIELRCPT.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/CodeChef/CIELRCPT.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/MEGA/Code/CodeChef/CIELRCPT.cpp -o CMakeFiles/Code.dir/CodeChef/CIELRCPT.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/Projects/Code/CodeChef/CIELRCPT.cpp -o CMakeFiles/Code.dir/CodeChef/CIELRCPT.cpp.s
 
 CMakeFiles/Code.dir/CodeChef/CIELRCPT.cpp.o.requires:
 
@@ -251,16 +251,16 @@ CMakeFiles/Code.dir/CodeChef/CIELRCPT.cpp.o.provides.build: CMakeFiles/Code.dir/
 
 CMakeFiles/Code.dir/CodeChef/FCTRL.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/CodeChef/FCTRL.cpp.o: ../CodeChef/FCTRL.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/Code.dir/CodeChef/FCTRL.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/FCTRL.cpp.o -c /home/optimus/MEGA/Code/CodeChef/FCTRL.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/Code.dir/CodeChef/FCTRL.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/FCTRL.cpp.o -c /home/optimus/Projects/Code/CodeChef/FCTRL.cpp
 
 CMakeFiles/Code.dir/CodeChef/FCTRL.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/CodeChef/FCTRL.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/MEGA/Code/CodeChef/FCTRL.cpp > CMakeFiles/Code.dir/CodeChef/FCTRL.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/Projects/Code/CodeChef/FCTRL.cpp > CMakeFiles/Code.dir/CodeChef/FCTRL.cpp.i
 
 CMakeFiles/Code.dir/CodeChef/FCTRL.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/CodeChef/FCTRL.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/MEGA/Code/CodeChef/FCTRL.cpp -o CMakeFiles/Code.dir/CodeChef/FCTRL.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/Projects/Code/CodeChef/FCTRL.cpp -o CMakeFiles/Code.dir/CodeChef/FCTRL.cpp.s
 
 CMakeFiles/Code.dir/CodeChef/FCTRL.cpp.o.requires:
 
@@ -275,16 +275,16 @@ CMakeFiles/Code.dir/CodeChef/FCTRL.cpp.o.provides.build: CMakeFiles/Code.dir/Cod
 
 CMakeFiles/Code.dir/CodeChef/FLOW001.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/CodeChef/FLOW001.cpp.o: ../CodeChef/FLOW001.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/Code.dir/CodeChef/FLOW001.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/FLOW001.cpp.o -c /home/optimus/MEGA/Code/CodeChef/FLOW001.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/Code.dir/CodeChef/FLOW001.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/FLOW001.cpp.o -c /home/optimus/Projects/Code/CodeChef/FLOW001.cpp
 
 CMakeFiles/Code.dir/CodeChef/FLOW001.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/CodeChef/FLOW001.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/MEGA/Code/CodeChef/FLOW001.cpp > CMakeFiles/Code.dir/CodeChef/FLOW001.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/Projects/Code/CodeChef/FLOW001.cpp > CMakeFiles/Code.dir/CodeChef/FLOW001.cpp.i
 
 CMakeFiles/Code.dir/CodeChef/FLOW001.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/CodeChef/FLOW001.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/MEGA/Code/CodeChef/FLOW001.cpp -o CMakeFiles/Code.dir/CodeChef/FLOW001.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/Projects/Code/CodeChef/FLOW001.cpp -o CMakeFiles/Code.dir/CodeChef/FLOW001.cpp.s
 
 CMakeFiles/Code.dir/CodeChef/FLOW001.cpp.o.requires:
 
@@ -299,16 +299,16 @@ CMakeFiles/Code.dir/CodeChef/FLOW001.cpp.o.provides.build: CMakeFiles/Code.dir/C
 
 CMakeFiles/Code.dir/CodeChef/FLOW002.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/CodeChef/FLOW002.cpp.o: ../CodeChef/FLOW002.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/Code.dir/CodeChef/FLOW002.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/FLOW002.cpp.o -c /home/optimus/MEGA/Code/CodeChef/FLOW002.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/Code.dir/CodeChef/FLOW002.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/FLOW002.cpp.o -c /home/optimus/Projects/Code/CodeChef/FLOW002.cpp
 
 CMakeFiles/Code.dir/CodeChef/FLOW002.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/CodeChef/FLOW002.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/MEGA/Code/CodeChef/FLOW002.cpp > CMakeFiles/Code.dir/CodeChef/FLOW002.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/Projects/Code/CodeChef/FLOW002.cpp > CMakeFiles/Code.dir/CodeChef/FLOW002.cpp.i
 
 CMakeFiles/Code.dir/CodeChef/FLOW002.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/CodeChef/FLOW002.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/MEGA/Code/CodeChef/FLOW002.cpp -o CMakeFiles/Code.dir/CodeChef/FLOW002.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/Projects/Code/CodeChef/FLOW002.cpp -o CMakeFiles/Code.dir/CodeChef/FLOW002.cpp.s
 
 CMakeFiles/Code.dir/CodeChef/FLOW002.cpp.o.requires:
 
@@ -323,16 +323,16 @@ CMakeFiles/Code.dir/CodeChef/FLOW002.cpp.o.provides.build: CMakeFiles/Code.dir/C
 
 CMakeFiles/Code.dir/CodeChef/FLOW004.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/CodeChef/FLOW004.cpp.o: ../CodeChef/FLOW004.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/Code.dir/CodeChef/FLOW004.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/FLOW004.cpp.o -c /home/optimus/MEGA/Code/CodeChef/FLOW004.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/Code.dir/CodeChef/FLOW004.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/FLOW004.cpp.o -c /home/optimus/Projects/Code/CodeChef/FLOW004.cpp
 
 CMakeFiles/Code.dir/CodeChef/FLOW004.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/CodeChef/FLOW004.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/MEGA/Code/CodeChef/FLOW004.cpp > CMakeFiles/Code.dir/CodeChef/FLOW004.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/Projects/Code/CodeChef/FLOW004.cpp > CMakeFiles/Code.dir/CodeChef/FLOW004.cpp.i
 
 CMakeFiles/Code.dir/CodeChef/FLOW004.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/CodeChef/FLOW004.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/MEGA/Code/CodeChef/FLOW004.cpp -o CMakeFiles/Code.dir/CodeChef/FLOW004.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/Projects/Code/CodeChef/FLOW004.cpp -o CMakeFiles/Code.dir/CodeChef/FLOW004.cpp.s
 
 CMakeFiles/Code.dir/CodeChef/FLOW004.cpp.o.requires:
 
@@ -347,16 +347,16 @@ CMakeFiles/Code.dir/CodeChef/FLOW004.cpp.o.provides.build: CMakeFiles/Code.dir/C
 
 CMakeFiles/Code.dir/CodeChef/FLOW006.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/CodeChef/FLOW006.cpp.o: ../CodeChef/FLOW006.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/Code.dir/CodeChef/FLOW006.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/FLOW006.cpp.o -c /home/optimus/MEGA/Code/CodeChef/FLOW006.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/Code.dir/CodeChef/FLOW006.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/FLOW006.cpp.o -c /home/optimus/Projects/Code/CodeChef/FLOW006.cpp
 
 CMakeFiles/Code.dir/CodeChef/FLOW006.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/CodeChef/FLOW006.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/MEGA/Code/CodeChef/FLOW006.cpp > CMakeFiles/Code.dir/CodeChef/FLOW006.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/Projects/Code/CodeChef/FLOW006.cpp > CMakeFiles/Code.dir/CodeChef/FLOW006.cpp.i
 
 CMakeFiles/Code.dir/CodeChef/FLOW006.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/CodeChef/FLOW006.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/MEGA/Code/CodeChef/FLOW006.cpp -o CMakeFiles/Code.dir/CodeChef/FLOW006.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/Projects/Code/CodeChef/FLOW006.cpp -o CMakeFiles/Code.dir/CodeChef/FLOW006.cpp.s
 
 CMakeFiles/Code.dir/CodeChef/FLOW006.cpp.o.requires:
 
@@ -371,16 +371,16 @@ CMakeFiles/Code.dir/CodeChef/FLOW006.cpp.o.provides.build: CMakeFiles/Code.dir/C
 
 CMakeFiles/Code.dir/CodeChef/FLOW007.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/CodeChef/FLOW007.cpp.o: ../CodeChef/FLOW007.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/Code.dir/CodeChef/FLOW007.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/FLOW007.cpp.o -c /home/optimus/MEGA/Code/CodeChef/FLOW007.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/Code.dir/CodeChef/FLOW007.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/FLOW007.cpp.o -c /home/optimus/Projects/Code/CodeChef/FLOW007.cpp
 
 CMakeFiles/Code.dir/CodeChef/FLOW007.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/CodeChef/FLOW007.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/MEGA/Code/CodeChef/FLOW007.cpp > CMakeFiles/Code.dir/CodeChef/FLOW007.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/Projects/Code/CodeChef/FLOW007.cpp > CMakeFiles/Code.dir/CodeChef/FLOW007.cpp.i
 
 CMakeFiles/Code.dir/CodeChef/FLOW007.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/CodeChef/FLOW007.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/MEGA/Code/CodeChef/FLOW007.cpp -o CMakeFiles/Code.dir/CodeChef/FLOW007.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/Projects/Code/CodeChef/FLOW007.cpp -o CMakeFiles/Code.dir/CodeChef/FLOW007.cpp.s
 
 CMakeFiles/Code.dir/CodeChef/FLOW007.cpp.o.requires:
 
@@ -395,16 +395,16 @@ CMakeFiles/Code.dir/CodeChef/FLOW007.cpp.o.provides.build: CMakeFiles/Code.dir/C
 
 CMakeFiles/Code.dir/CodeChef/FLOW017.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/CodeChef/FLOW017.cpp.o: ../CodeChef/FLOW017.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/Code.dir/CodeChef/FLOW017.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/FLOW017.cpp.o -c /home/optimus/MEGA/Code/CodeChef/FLOW017.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/Code.dir/CodeChef/FLOW017.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/FLOW017.cpp.o -c /home/optimus/Projects/Code/CodeChef/FLOW017.cpp
 
 CMakeFiles/Code.dir/CodeChef/FLOW017.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/CodeChef/FLOW017.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/MEGA/Code/CodeChef/FLOW017.cpp > CMakeFiles/Code.dir/CodeChef/FLOW017.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/Projects/Code/CodeChef/FLOW017.cpp > CMakeFiles/Code.dir/CodeChef/FLOW017.cpp.i
 
 CMakeFiles/Code.dir/CodeChef/FLOW017.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/CodeChef/FLOW017.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/MEGA/Code/CodeChef/FLOW017.cpp -o CMakeFiles/Code.dir/CodeChef/FLOW017.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/Projects/Code/CodeChef/FLOW017.cpp -o CMakeFiles/Code.dir/CodeChef/FLOW017.cpp.s
 
 CMakeFiles/Code.dir/CodeChef/FLOW017.cpp.o.requires:
 
@@ -419,16 +419,16 @@ CMakeFiles/Code.dir/CodeChef/FLOW017.cpp.o.provides.build: CMakeFiles/Code.dir/C
 
 CMakeFiles/Code.dir/CodeChef/FLOW018.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/CodeChef/FLOW018.cpp.o: ../CodeChef/FLOW018.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/Code.dir/CodeChef/FLOW018.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/FLOW018.cpp.o -c /home/optimus/MEGA/Code/CodeChef/FLOW018.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/Code.dir/CodeChef/FLOW018.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/FLOW018.cpp.o -c /home/optimus/Projects/Code/CodeChef/FLOW018.cpp
 
 CMakeFiles/Code.dir/CodeChef/FLOW018.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/CodeChef/FLOW018.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/MEGA/Code/CodeChef/FLOW018.cpp > CMakeFiles/Code.dir/CodeChef/FLOW018.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/Projects/Code/CodeChef/FLOW018.cpp > CMakeFiles/Code.dir/CodeChef/FLOW018.cpp.i
 
 CMakeFiles/Code.dir/CodeChef/FLOW018.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/CodeChef/FLOW018.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/MEGA/Code/CodeChef/FLOW018.cpp -o CMakeFiles/Code.dir/CodeChef/FLOW018.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/Projects/Code/CodeChef/FLOW018.cpp -o CMakeFiles/Code.dir/CodeChef/FLOW018.cpp.s
 
 CMakeFiles/Code.dir/CodeChef/FLOW018.cpp.o.requires:
 
@@ -443,16 +443,16 @@ CMakeFiles/Code.dir/CodeChef/FLOW018.cpp.o.provides.build: CMakeFiles/Code.dir/C
 
 CMakeFiles/Code.dir/CodeChef/FSQRT.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/CodeChef/FSQRT.cpp.o: ../CodeChef/FSQRT.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/Code.dir/CodeChef/FSQRT.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/FSQRT.cpp.o -c /home/optimus/MEGA/Code/CodeChef/FSQRT.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/Code.dir/CodeChef/FSQRT.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/FSQRT.cpp.o -c /home/optimus/Projects/Code/CodeChef/FSQRT.cpp
 
 CMakeFiles/Code.dir/CodeChef/FSQRT.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/CodeChef/FSQRT.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/MEGA/Code/CodeChef/FSQRT.cpp > CMakeFiles/Code.dir/CodeChef/FSQRT.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/Projects/Code/CodeChef/FSQRT.cpp > CMakeFiles/Code.dir/CodeChef/FSQRT.cpp.i
 
 CMakeFiles/Code.dir/CodeChef/FSQRT.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/CodeChef/FSQRT.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/MEGA/Code/CodeChef/FSQRT.cpp -o CMakeFiles/Code.dir/CodeChef/FSQRT.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/Projects/Code/CodeChef/FSQRT.cpp -o CMakeFiles/Code.dir/CodeChef/FSQRT.cpp.s
 
 CMakeFiles/Code.dir/CodeChef/FSQRT.cpp.o.requires:
 
@@ -467,16 +467,16 @@ CMakeFiles/Code.dir/CodeChef/FSQRT.cpp.o.provides.build: CMakeFiles/Code.dir/Cod
 
 CMakeFiles/Code.dir/CodeChef/LUCKFOUR.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/CodeChef/LUCKFOUR.cpp.o: ../CodeChef/LUCKFOUR.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/Code.dir/CodeChef/LUCKFOUR.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/LUCKFOUR.cpp.o -c /home/optimus/MEGA/Code/CodeChef/LUCKFOUR.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/Code.dir/CodeChef/LUCKFOUR.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/LUCKFOUR.cpp.o -c /home/optimus/Projects/Code/CodeChef/LUCKFOUR.cpp
 
 CMakeFiles/Code.dir/CodeChef/LUCKFOUR.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/CodeChef/LUCKFOUR.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/MEGA/Code/CodeChef/LUCKFOUR.cpp > CMakeFiles/Code.dir/CodeChef/LUCKFOUR.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/Projects/Code/CodeChef/LUCKFOUR.cpp > CMakeFiles/Code.dir/CodeChef/LUCKFOUR.cpp.i
 
 CMakeFiles/Code.dir/CodeChef/LUCKFOUR.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/CodeChef/LUCKFOUR.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/MEGA/Code/CodeChef/LUCKFOUR.cpp -o CMakeFiles/Code.dir/CodeChef/LUCKFOUR.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/Projects/Code/CodeChef/LUCKFOUR.cpp -o CMakeFiles/Code.dir/CodeChef/LUCKFOUR.cpp.s
 
 CMakeFiles/Code.dir/CodeChef/LUCKFOUR.cpp.o.requires:
 
@@ -491,16 +491,16 @@ CMakeFiles/Code.dir/CodeChef/LUCKFOUR.cpp.o.provides.build: CMakeFiles/Code.dir/
 
 CMakeFiles/Code.dir/CodeChef/MINPERM.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/CodeChef/MINPERM.cpp.o: ../CodeChef/MINPERM.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/Code.dir/CodeChef/MINPERM.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/MINPERM.cpp.o -c /home/optimus/MEGA/Code/CodeChef/MINPERM.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/Code.dir/CodeChef/MINPERM.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/MINPERM.cpp.o -c /home/optimus/Projects/Code/CodeChef/MINPERM.cpp
 
 CMakeFiles/Code.dir/CodeChef/MINPERM.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/CodeChef/MINPERM.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/MEGA/Code/CodeChef/MINPERM.cpp > CMakeFiles/Code.dir/CodeChef/MINPERM.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/Projects/Code/CodeChef/MINPERM.cpp > CMakeFiles/Code.dir/CodeChef/MINPERM.cpp.i
 
 CMakeFiles/Code.dir/CodeChef/MINPERM.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/CodeChef/MINPERM.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/MEGA/Code/CodeChef/MINPERM.cpp -o CMakeFiles/Code.dir/CodeChef/MINPERM.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/Projects/Code/CodeChef/MINPERM.cpp -o CMakeFiles/Code.dir/CodeChef/MINPERM.cpp.s
 
 CMakeFiles/Code.dir/CodeChef/MINPERM.cpp.o.requires:
 
@@ -515,16 +515,16 @@ CMakeFiles/Code.dir/CodeChef/MINPERM.cpp.o.provides.build: CMakeFiles/Code.dir/C
 
 CMakeFiles/Code.dir/CodeChef/RAINBOWA.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/CodeChef/RAINBOWA.cpp.o: ../CodeChef/RAINBOWA.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/Code.dir/CodeChef/RAINBOWA.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/RAINBOWA.cpp.o -c /home/optimus/MEGA/Code/CodeChef/RAINBOWA.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/Code.dir/CodeChef/RAINBOWA.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/RAINBOWA.cpp.o -c /home/optimus/Projects/Code/CodeChef/RAINBOWA.cpp
 
 CMakeFiles/Code.dir/CodeChef/RAINBOWA.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/CodeChef/RAINBOWA.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/MEGA/Code/CodeChef/RAINBOWA.cpp > CMakeFiles/Code.dir/CodeChef/RAINBOWA.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/Projects/Code/CodeChef/RAINBOWA.cpp > CMakeFiles/Code.dir/CodeChef/RAINBOWA.cpp.i
 
 CMakeFiles/Code.dir/CodeChef/RAINBOWA.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/CodeChef/RAINBOWA.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/MEGA/Code/CodeChef/RAINBOWA.cpp -o CMakeFiles/Code.dir/CodeChef/RAINBOWA.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/Projects/Code/CodeChef/RAINBOWA.cpp -o CMakeFiles/Code.dir/CodeChef/RAINBOWA.cpp.s
 
 CMakeFiles/Code.dir/CodeChef/RAINBOWA.cpp.o.requires:
 
@@ -539,16 +539,16 @@ CMakeFiles/Code.dir/CodeChef/RAINBOWA.cpp.o.provides.build: CMakeFiles/Code.dir/
 
 CMakeFiles/Code.dir/CodeChef/RAINBOWA2.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/CodeChef/RAINBOWA2.cpp.o: ../CodeChef/RAINBOWA2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/Code.dir/CodeChef/RAINBOWA2.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/RAINBOWA2.cpp.o -c /home/optimus/MEGA/Code/CodeChef/RAINBOWA2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/Code.dir/CodeChef/RAINBOWA2.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/RAINBOWA2.cpp.o -c /home/optimus/Projects/Code/CodeChef/RAINBOWA2.cpp
 
 CMakeFiles/Code.dir/CodeChef/RAINBOWA2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/CodeChef/RAINBOWA2.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/MEGA/Code/CodeChef/RAINBOWA2.cpp > CMakeFiles/Code.dir/CodeChef/RAINBOWA2.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/Projects/Code/CodeChef/RAINBOWA2.cpp > CMakeFiles/Code.dir/CodeChef/RAINBOWA2.cpp.i
 
 CMakeFiles/Code.dir/CodeChef/RAINBOWA2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/CodeChef/RAINBOWA2.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/MEGA/Code/CodeChef/RAINBOWA2.cpp -o CMakeFiles/Code.dir/CodeChef/RAINBOWA2.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/Projects/Code/CodeChef/RAINBOWA2.cpp -o CMakeFiles/Code.dir/CodeChef/RAINBOWA2.cpp.s
 
 CMakeFiles/Code.dir/CodeChef/RAINBOWA2.cpp.o.requires:
 
@@ -563,16 +563,16 @@ CMakeFiles/Code.dir/CodeChef/RAINBOWA2.cpp.o.provides.build: CMakeFiles/Code.dir
 
 CMakeFiles/Code.dir/CodeChef/REMISS.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/CodeChef/REMISS.cpp.o: ../CodeChef/REMISS.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/Code.dir/CodeChef/REMISS.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/REMISS.cpp.o -c /home/optimus/MEGA/Code/CodeChef/REMISS.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/Code.dir/CodeChef/REMISS.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/REMISS.cpp.o -c /home/optimus/Projects/Code/CodeChef/REMISS.cpp
 
 CMakeFiles/Code.dir/CodeChef/REMISS.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/CodeChef/REMISS.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/MEGA/Code/CodeChef/REMISS.cpp > CMakeFiles/Code.dir/CodeChef/REMISS.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/Projects/Code/CodeChef/REMISS.cpp > CMakeFiles/Code.dir/CodeChef/REMISS.cpp.i
 
 CMakeFiles/Code.dir/CodeChef/REMISS.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/CodeChef/REMISS.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/MEGA/Code/CodeChef/REMISS.cpp -o CMakeFiles/Code.dir/CodeChef/REMISS.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/Projects/Code/CodeChef/REMISS.cpp -o CMakeFiles/Code.dir/CodeChef/REMISS.cpp.s
 
 CMakeFiles/Code.dir/CodeChef/REMISS.cpp.o.requires:
 
@@ -587,16 +587,16 @@ CMakeFiles/Code.dir/CodeChef/REMISS.cpp.o.provides.build: CMakeFiles/Code.dir/Co
 
 CMakeFiles/Code.dir/CodeChef/START01.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/CodeChef/START01.cpp.o: ../CodeChef/START01.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/Code.dir/CodeChef/START01.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/START01.cpp.o -c /home/optimus/MEGA/Code/CodeChef/START01.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/Code.dir/CodeChef/START01.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/START01.cpp.o -c /home/optimus/Projects/Code/CodeChef/START01.cpp
 
 CMakeFiles/Code.dir/CodeChef/START01.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/CodeChef/START01.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/MEGA/Code/CodeChef/START01.cpp > CMakeFiles/Code.dir/CodeChef/START01.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/Projects/Code/CodeChef/START01.cpp > CMakeFiles/Code.dir/CodeChef/START01.cpp.i
 
 CMakeFiles/Code.dir/CodeChef/START01.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/CodeChef/START01.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/MEGA/Code/CodeChef/START01.cpp -o CMakeFiles/Code.dir/CodeChef/START01.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/Projects/Code/CodeChef/START01.cpp -o CMakeFiles/Code.dir/CodeChef/START01.cpp.s
 
 CMakeFiles/Code.dir/CodeChef/START01.cpp.o.requires:
 
@@ -611,16 +611,16 @@ CMakeFiles/Code.dir/CodeChef/START01.cpp.o.provides.build: CMakeFiles/Code.dir/C
 
 CMakeFiles/Code.dir/CodeChef/SUMTRIAN.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/CodeChef/SUMTRIAN.cpp.o: ../CodeChef/SUMTRIAN.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/Code.dir/CodeChef/SUMTRIAN.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/SUMTRIAN.cpp.o -c /home/optimus/MEGA/Code/CodeChef/SUMTRIAN.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/Code.dir/CodeChef/SUMTRIAN.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/SUMTRIAN.cpp.o -c /home/optimus/Projects/Code/CodeChef/SUMTRIAN.cpp
 
 CMakeFiles/Code.dir/CodeChef/SUMTRIAN.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/CodeChef/SUMTRIAN.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/MEGA/Code/CodeChef/SUMTRIAN.cpp > CMakeFiles/Code.dir/CodeChef/SUMTRIAN.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/Projects/Code/CodeChef/SUMTRIAN.cpp > CMakeFiles/Code.dir/CodeChef/SUMTRIAN.cpp.i
 
 CMakeFiles/Code.dir/CodeChef/SUMTRIAN.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/CodeChef/SUMTRIAN.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/MEGA/Code/CodeChef/SUMTRIAN.cpp -o CMakeFiles/Code.dir/CodeChef/SUMTRIAN.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/Projects/Code/CodeChef/SUMTRIAN.cpp -o CMakeFiles/Code.dir/CodeChef/SUMTRIAN.cpp.s
 
 CMakeFiles/Code.dir/CodeChef/SUMTRIAN.cpp.o.requires:
 
@@ -635,16 +635,16 @@ CMakeFiles/Code.dir/CodeChef/SUMTRIAN.cpp.o.provides.build: CMakeFiles/Code.dir/
 
 CMakeFiles/Code.dir/CodeChef/TLG.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/CodeChef/TLG.cpp.o: ../CodeChef/TLG.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/Code.dir/CodeChef/TLG.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/TLG.cpp.o -c /home/optimus/MEGA/Code/CodeChef/TLG.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/Code.dir/CodeChef/TLG.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/TLG.cpp.o -c /home/optimus/Projects/Code/CodeChef/TLG.cpp
 
 CMakeFiles/Code.dir/CodeChef/TLG.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/CodeChef/TLG.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/MEGA/Code/CodeChef/TLG.cpp > CMakeFiles/Code.dir/CodeChef/TLG.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/Projects/Code/CodeChef/TLG.cpp > CMakeFiles/Code.dir/CodeChef/TLG.cpp.i
 
 CMakeFiles/Code.dir/CodeChef/TLG.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/CodeChef/TLG.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/MEGA/Code/CodeChef/TLG.cpp -o CMakeFiles/Code.dir/CodeChef/TLG.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/Projects/Code/CodeChef/TLG.cpp -o CMakeFiles/Code.dir/CodeChef/TLG.cpp.s
 
 CMakeFiles/Code.dir/CodeChef/TLG.cpp.o.requires:
 
@@ -659,16 +659,16 @@ CMakeFiles/Code.dir/CodeChef/TLG.cpp.o.provides.build: CMakeFiles/Code.dir/CodeC
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-1.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-1.cpp.o: ../Cracking\ the\ Coding\ Interview/Array\ and\ Strings/Q1-1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-1.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-1.cpp.o -c "/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-1.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-1.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-1.cpp.o -c "/home/optimus/Projects/Code/Cracking the Coding Interview/Array and Strings/Q1-1.cpp"
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-1.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-1.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-1.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-1.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/Cracking the Coding Interview/Array and Strings/Q1-1.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-1.cpp.i
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-1.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-1.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-1.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-1.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/Cracking the Coding Interview/Array and Strings/Q1-1.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-1.cpp.s
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-1.cpp.o.requires:
 
@@ -683,16 +683,16 @@ CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-1.cpp.o.p
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-1BIN.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-1BIN.cpp.o: ../Cracking\ the\ Coding\ Interview/Array\ and\ Strings/Q1-1BIN.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-1BIN.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-1BIN.cpp.o -c "/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-1BIN.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-1BIN.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-1BIN.cpp.o -c "/home/optimus/Projects/Code/Cracking the Coding Interview/Array and Strings/Q1-1BIN.cpp"
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-1BIN.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-1BIN.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-1BIN.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-1BIN.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/Cracking the Coding Interview/Array and Strings/Q1-1BIN.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-1BIN.cpp.i
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-1BIN.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-1BIN.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-1BIN.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-1BIN.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/Cracking the Coding Interview/Array and Strings/Q1-1BIN.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-1BIN.cpp.s
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-1BIN.cpp.o.requires:
 
@@ -707,16 +707,16 @@ CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-1BIN.cpp.
 
 CMakeFiles/Code.dir/HackerEarth/Choosing_the_judges.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/HackerEarth/Choosing_the_judges.cpp.o: ../HackerEarth/Choosing\ the\ judges.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/Code.dir/HackerEarth/Choosing_the_judges.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/HackerEarth/Choosing_the_judges.cpp.o -c "/home/optimus/MEGA/Code/HackerEarth/Choosing the judges.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/Code.dir/HackerEarth/Choosing_the_judges.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/HackerEarth/Choosing_the_judges.cpp.o -c "/home/optimus/Projects/Code/HackerEarth/Choosing the judges.cpp"
 
 CMakeFiles/Code.dir/HackerEarth/Choosing_the_judges.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/HackerEarth/Choosing_the_judges.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/HackerEarth/Choosing the judges.cpp" > CMakeFiles/Code.dir/HackerEarth/Choosing_the_judges.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/HackerEarth/Choosing the judges.cpp" > CMakeFiles/Code.dir/HackerEarth/Choosing_the_judges.cpp.i
 
 CMakeFiles/Code.dir/HackerEarth/Choosing_the_judges.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/HackerEarth/Choosing_the_judges.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/HackerEarth/Choosing the judges.cpp" -o CMakeFiles/Code.dir/HackerEarth/Choosing_the_judges.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/HackerEarth/Choosing the judges.cpp" -o CMakeFiles/Code.dir/HackerEarth/Choosing_the_judges.cpp.s
 
 CMakeFiles/Code.dir/HackerEarth/Choosing_the_judges.cpp.o.requires:
 
@@ -731,16 +731,16 @@ CMakeFiles/Code.dir/HackerEarth/Choosing_the_judges.cpp.o.provides.build: CMakeF
 
 CMakeFiles/Code.dir/HackerEarth/Factorial.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/HackerEarth/Factorial.cpp.o: ../HackerEarth/Factorial.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/Code.dir/HackerEarth/Factorial.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/HackerEarth/Factorial.cpp.o -c /home/optimus/MEGA/Code/HackerEarth/Factorial.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/Code.dir/HackerEarth/Factorial.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/HackerEarth/Factorial.cpp.o -c /home/optimus/Projects/Code/HackerEarth/Factorial.cpp
 
 CMakeFiles/Code.dir/HackerEarth/Factorial.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/HackerEarth/Factorial.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/MEGA/Code/HackerEarth/Factorial.cpp > CMakeFiles/Code.dir/HackerEarth/Factorial.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/Projects/Code/HackerEarth/Factorial.cpp > CMakeFiles/Code.dir/HackerEarth/Factorial.cpp.i
 
 CMakeFiles/Code.dir/HackerEarth/Factorial.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/HackerEarth/Factorial.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/MEGA/Code/HackerEarth/Factorial.cpp -o CMakeFiles/Code.dir/HackerEarth/Factorial.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/Projects/Code/HackerEarth/Factorial.cpp -o CMakeFiles/Code.dir/HackerEarth/Factorial.cpp.s
 
 CMakeFiles/Code.dir/HackerEarth/Factorial.cpp.o.requires:
 
@@ -755,16 +755,16 @@ CMakeFiles/Code.dir/HackerEarth/Factorial.cpp.o.provides.build: CMakeFiles/Code.
 
 CMakeFiles/Code.dir/HackerEarth/Intelligent_Girl.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/HackerEarth/Intelligent_Girl.cpp.o: ../HackerEarth/Intelligent\ Girl.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/Code.dir/HackerEarth/Intelligent_Girl.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/HackerEarth/Intelligent_Girl.cpp.o -c "/home/optimus/MEGA/Code/HackerEarth/Intelligent Girl.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/Code.dir/HackerEarth/Intelligent_Girl.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/HackerEarth/Intelligent_Girl.cpp.o -c "/home/optimus/Projects/Code/HackerEarth/Intelligent Girl.cpp"
 
 CMakeFiles/Code.dir/HackerEarth/Intelligent_Girl.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/HackerEarth/Intelligent_Girl.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/HackerEarth/Intelligent Girl.cpp" > CMakeFiles/Code.dir/HackerEarth/Intelligent_Girl.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/HackerEarth/Intelligent Girl.cpp" > CMakeFiles/Code.dir/HackerEarth/Intelligent_Girl.cpp.i
 
 CMakeFiles/Code.dir/HackerEarth/Intelligent_Girl.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/HackerEarth/Intelligent_Girl.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/HackerEarth/Intelligent Girl.cpp" -o CMakeFiles/Code.dir/HackerEarth/Intelligent_Girl.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/HackerEarth/Intelligent Girl.cpp" -o CMakeFiles/Code.dir/HackerEarth/Intelligent_Girl.cpp.s
 
 CMakeFiles/Code.dir/HackerEarth/Intelligent_Girl.cpp.o.requires:
 
@@ -779,16 +779,16 @@ CMakeFiles/Code.dir/HackerEarth/Intelligent_Girl.cpp.o.provides.build: CMakeFile
 
 CMakeFiles/Code.dir/HackerRank/ClimbingLeaderboard.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/HackerRank/ClimbingLeaderboard.cpp.o: ../HackerRank/ClimbingLeaderboard.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/Code.dir/HackerRank/ClimbingLeaderboard.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/HackerRank/ClimbingLeaderboard.cpp.o -c /home/optimus/MEGA/Code/HackerRank/ClimbingLeaderboard.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/Code.dir/HackerRank/ClimbingLeaderboard.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/HackerRank/ClimbingLeaderboard.cpp.o -c /home/optimus/Projects/Code/HackerRank/ClimbingLeaderboard.cpp
 
 CMakeFiles/Code.dir/HackerRank/ClimbingLeaderboard.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/HackerRank/ClimbingLeaderboard.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/MEGA/Code/HackerRank/ClimbingLeaderboard.cpp > CMakeFiles/Code.dir/HackerRank/ClimbingLeaderboard.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/Projects/Code/HackerRank/ClimbingLeaderboard.cpp > CMakeFiles/Code.dir/HackerRank/ClimbingLeaderboard.cpp.i
 
 CMakeFiles/Code.dir/HackerRank/ClimbingLeaderboard.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/HackerRank/ClimbingLeaderboard.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/MEGA/Code/HackerRank/ClimbingLeaderboard.cpp -o CMakeFiles/Code.dir/HackerRank/ClimbingLeaderboard.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/Projects/Code/HackerRank/ClimbingLeaderboard.cpp -o CMakeFiles/Code.dir/HackerRank/ClimbingLeaderboard.cpp.s
 
 CMakeFiles/Code.dir/HackerRank/ClimbingLeaderboard.cpp.o.requires:
 
@@ -803,16 +803,16 @@ CMakeFiles/Code.dir/HackerRank/ClimbingLeaderboard.cpp.o.provides.build: CMakeFi
 
 CMakeFiles/Code.dir/HackerRank/eruptingVolcanos.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/HackerRank/eruptingVolcanos.cpp.o: ../HackerRank/eruptingVolcanos.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/Code.dir/HackerRank/eruptingVolcanos.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/HackerRank/eruptingVolcanos.cpp.o -c /home/optimus/MEGA/Code/HackerRank/eruptingVolcanos.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/Code.dir/HackerRank/eruptingVolcanos.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/HackerRank/eruptingVolcanos.cpp.o -c /home/optimus/Projects/Code/HackerRank/eruptingVolcanos.cpp
 
 CMakeFiles/Code.dir/HackerRank/eruptingVolcanos.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/HackerRank/eruptingVolcanos.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/MEGA/Code/HackerRank/eruptingVolcanos.cpp > CMakeFiles/Code.dir/HackerRank/eruptingVolcanos.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/Projects/Code/HackerRank/eruptingVolcanos.cpp > CMakeFiles/Code.dir/HackerRank/eruptingVolcanos.cpp.i
 
 CMakeFiles/Code.dir/HackerRank/eruptingVolcanos.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/HackerRank/eruptingVolcanos.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/MEGA/Code/HackerRank/eruptingVolcanos.cpp -o CMakeFiles/Code.dir/HackerRank/eruptingVolcanos.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/Projects/Code/HackerRank/eruptingVolcanos.cpp -o CMakeFiles/Code.dir/HackerRank/eruptingVolcanos.cpp.s
 
 CMakeFiles/Code.dir/HackerRank/eruptingVolcanos.cpp.o.requires:
 
@@ -827,16 +827,16 @@ CMakeFiles/Code.dir/HackerRank/eruptingVolcanos.cpp.o.provides.build: CMakeFiles
 
 CMakeFiles/Code.dir/HackerRank/MagicSquare.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/HackerRank/MagicSquare.cpp.o: ../HackerRank/MagicSquare.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object CMakeFiles/Code.dir/HackerRank/MagicSquare.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/HackerRank/MagicSquare.cpp.o -c /home/optimus/MEGA/Code/HackerRank/MagicSquare.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object CMakeFiles/Code.dir/HackerRank/MagicSquare.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/HackerRank/MagicSquare.cpp.o -c /home/optimus/Projects/Code/HackerRank/MagicSquare.cpp
 
 CMakeFiles/Code.dir/HackerRank/MagicSquare.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/HackerRank/MagicSquare.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/MEGA/Code/HackerRank/MagicSquare.cpp > CMakeFiles/Code.dir/HackerRank/MagicSquare.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/Projects/Code/HackerRank/MagicSquare.cpp > CMakeFiles/Code.dir/HackerRank/MagicSquare.cpp.i
 
 CMakeFiles/Code.dir/HackerRank/MagicSquare.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/HackerRank/MagicSquare.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/MEGA/Code/HackerRank/MagicSquare.cpp -o CMakeFiles/Code.dir/HackerRank/MagicSquare.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/Projects/Code/HackerRank/MagicSquare.cpp -o CMakeFiles/Code.dir/HackerRank/MagicSquare.cpp.s
 
 CMakeFiles/Code.dir/HackerRank/MagicSquare.cpp.o.requires:
 
@@ -851,16 +851,16 @@ CMakeFiles/Code.dir/HackerRank/MagicSquare.cpp.o.provides.build: CMakeFiles/Code
 
 CMakeFiles/Code.dir/HackerRank/Picking_Numbers.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/HackerRank/Picking_Numbers.cpp.o: ../HackerRank/Picking\ Numbers.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object CMakeFiles/Code.dir/HackerRank/Picking_Numbers.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/HackerRank/Picking_Numbers.cpp.o -c "/home/optimus/MEGA/Code/HackerRank/Picking Numbers.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object CMakeFiles/Code.dir/HackerRank/Picking_Numbers.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/HackerRank/Picking_Numbers.cpp.o -c "/home/optimus/Projects/Code/HackerRank/Picking Numbers.cpp"
 
 CMakeFiles/Code.dir/HackerRank/Picking_Numbers.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/HackerRank/Picking_Numbers.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/HackerRank/Picking Numbers.cpp" > CMakeFiles/Code.dir/HackerRank/Picking_Numbers.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/HackerRank/Picking Numbers.cpp" > CMakeFiles/Code.dir/HackerRank/Picking_Numbers.cpp.i
 
 CMakeFiles/Code.dir/HackerRank/Picking_Numbers.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/HackerRank/Picking_Numbers.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/HackerRank/Picking Numbers.cpp" -o CMakeFiles/Code.dir/HackerRank/Picking_Numbers.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/HackerRank/Picking Numbers.cpp" -o CMakeFiles/Code.dir/HackerRank/Picking_Numbers.cpp.s
 
 CMakeFiles/Code.dir/HackerRank/Picking_Numbers.cpp.o.requires:
 
@@ -875,16 +875,16 @@ CMakeFiles/Code.dir/HackerRank/Picking_Numbers.cpp.o.provides.build: CMakeFiles/
 
 CMakeFiles/Code.dir/HackerRank/Weighted_UniformSubstrings.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/HackerRank/Weighted_UniformSubstrings.cpp.o: ../HackerRank/Weighted\ UniformSubstrings.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object CMakeFiles/Code.dir/HackerRank/Weighted_UniformSubstrings.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/HackerRank/Weighted_UniformSubstrings.cpp.o -c "/home/optimus/MEGA/Code/HackerRank/Weighted UniformSubstrings.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object CMakeFiles/Code.dir/HackerRank/Weighted_UniformSubstrings.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/HackerRank/Weighted_UniformSubstrings.cpp.o -c "/home/optimus/Projects/Code/HackerRank/Weighted UniformSubstrings.cpp"
 
 CMakeFiles/Code.dir/HackerRank/Weighted_UniformSubstrings.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/HackerRank/Weighted_UniformSubstrings.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/HackerRank/Weighted UniformSubstrings.cpp" > CMakeFiles/Code.dir/HackerRank/Weighted_UniformSubstrings.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/HackerRank/Weighted UniformSubstrings.cpp" > CMakeFiles/Code.dir/HackerRank/Weighted_UniformSubstrings.cpp.i
 
 CMakeFiles/Code.dir/HackerRank/Weighted_UniformSubstrings.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/HackerRank/Weighted_UniformSubstrings.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/HackerRank/Weighted UniformSubstrings.cpp" -o CMakeFiles/Code.dir/HackerRank/Weighted_UniformSubstrings.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/HackerRank/Weighted UniformSubstrings.cpp" -o CMakeFiles/Code.dir/HackerRank/Weighted_UniformSubstrings.cpp.s
 
 CMakeFiles/Code.dir/HackerRank/Weighted_UniformSubstrings.cpp.o.requires:
 
@@ -899,16 +899,16 @@ CMakeFiles/Code.dir/HackerRank/Weighted_UniformSubstrings.cpp.o.provides.build: 
 
 CMakeFiles/Code.dir/Hitchhiker's_/LongestCommonSubsequence.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/Hitchhiker's_/LongestCommonSubsequence.cpp.o: ../Hitchhiker's\ /LongestCommonSubsequence.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object CMakeFiles/Code.dir/Hitchhiker's_/LongestCommonSubsequence.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/Code.dir/Hitchhiker's_/LongestCommonSubsequence.cpp.o" -c "/home/optimus/MEGA/Code/Hitchhiker's /LongestCommonSubsequence.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building CXX object CMakeFiles/Code.dir/Hitchhiker's_/LongestCommonSubsequence.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/Code.dir/Hitchhiker's_/LongestCommonSubsequence.cpp.o" -c "/home/optimus/Projects/Code/Hitchhiker's /LongestCommonSubsequence.cpp"
 
 CMakeFiles/Code.dir/Hitchhiker's_/LongestCommonSubsequence.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/Hitchhiker's_/LongestCommonSubsequence.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/Hitchhiker's /LongestCommonSubsequence.cpp" > "CMakeFiles/Code.dir/Hitchhiker's_/LongestCommonSubsequence.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/Hitchhiker's /LongestCommonSubsequence.cpp" > "CMakeFiles/Code.dir/Hitchhiker's_/LongestCommonSubsequence.cpp.i"
 
 CMakeFiles/Code.dir/Hitchhiker's_/LongestCommonSubsequence.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/Hitchhiker's_/LongestCommonSubsequence.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/Hitchhiker's /LongestCommonSubsequence.cpp" -o "CMakeFiles/Code.dir/Hitchhiker's_/LongestCommonSubsequence.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/Hitchhiker's /LongestCommonSubsequence.cpp" -o "CMakeFiles/Code.dir/Hitchhiker's_/LongestCommonSubsequence.cpp.s"
 
 CMakeFiles/Code.dir/Hitchhiker's_/LongestCommonSubsequence.cpp.o.requires:
 
@@ -923,16 +923,16 @@ CMakeFiles/Code.dir/Hitchhiker's_/LongestCommonSubsequence.cpp.o.provides.build:
 
 CMakeFiles/Code.dir/Hitchhiker's_/SampleProblemCombinatorics.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/Hitchhiker's_/SampleProblemCombinatorics.cpp.o: ../Hitchhiker's\ /SampleProblemCombinatorics.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object CMakeFiles/Code.dir/Hitchhiker's_/SampleProblemCombinatorics.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/Code.dir/Hitchhiker's_/SampleProblemCombinatorics.cpp.o" -c "/home/optimus/MEGA/Code/Hitchhiker's /SampleProblemCombinatorics.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object CMakeFiles/Code.dir/Hitchhiker's_/SampleProblemCombinatorics.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/Code.dir/Hitchhiker's_/SampleProblemCombinatorics.cpp.o" -c "/home/optimus/Projects/Code/Hitchhiker's /SampleProblemCombinatorics.cpp"
 
 CMakeFiles/Code.dir/Hitchhiker's_/SampleProblemCombinatorics.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/Hitchhiker's_/SampleProblemCombinatorics.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/Hitchhiker's /SampleProblemCombinatorics.cpp" > "CMakeFiles/Code.dir/Hitchhiker's_/SampleProblemCombinatorics.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/Hitchhiker's /SampleProblemCombinatorics.cpp" > "CMakeFiles/Code.dir/Hitchhiker's_/SampleProblemCombinatorics.cpp.i"
 
 CMakeFiles/Code.dir/Hitchhiker's_/SampleProblemCombinatorics.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/Hitchhiker's_/SampleProblemCombinatorics.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/Hitchhiker's /SampleProblemCombinatorics.cpp" -o "CMakeFiles/Code.dir/Hitchhiker's_/SampleProblemCombinatorics.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/Hitchhiker's /SampleProblemCombinatorics.cpp" -o "CMakeFiles/Code.dir/Hitchhiker's_/SampleProblemCombinatorics.cpp.s"
 
 CMakeFiles/Code.dir/Hitchhiker's_/SampleProblemCombinatorics.cpp.o.requires:
 
@@ -947,16 +947,16 @@ CMakeFiles/Code.dir/Hitchhiker's_/SampleProblemCombinatorics.cpp.o.provides.buil
 
 CMakeFiles/Code.dir/Logics/CallByReference.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/Logics/CallByReference.cpp.o: ../Logics/CallByReference.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object CMakeFiles/Code.dir/Logics/CallByReference.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Logics/CallByReference.cpp.o -c /home/optimus/MEGA/Code/Logics/CallByReference.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object CMakeFiles/Code.dir/Logics/CallByReference.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Logics/CallByReference.cpp.o -c /home/optimus/Projects/Code/Logics/CallByReference.cpp
 
 CMakeFiles/Code.dir/Logics/CallByReference.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/Logics/CallByReference.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/MEGA/Code/Logics/CallByReference.cpp > CMakeFiles/Code.dir/Logics/CallByReference.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/Projects/Code/Logics/CallByReference.cpp > CMakeFiles/Code.dir/Logics/CallByReference.cpp.i
 
 CMakeFiles/Code.dir/Logics/CallByReference.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/Logics/CallByReference.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/MEGA/Code/Logics/CallByReference.cpp -o CMakeFiles/Code.dir/Logics/CallByReference.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/Projects/Code/Logics/CallByReference.cpp -o CMakeFiles/Code.dir/Logics/CallByReference.cpp.s
 
 CMakeFiles/Code.dir/Logics/CallByReference.cpp.o.requires:
 
@@ -971,16 +971,16 @@ CMakeFiles/Code.dir/Logics/CallByReference.cpp.o.provides.build: CMakeFiles/Code
 
 CMakeFiles/Code.dir/Logics/Combinations.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/Logics/Combinations.cpp.o: ../Logics/Combinations.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object CMakeFiles/Code.dir/Logics/Combinations.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Logics/Combinations.cpp.o -c /home/optimus/MEGA/Code/Logics/Combinations.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object CMakeFiles/Code.dir/Logics/Combinations.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Logics/Combinations.cpp.o -c /home/optimus/Projects/Code/Logics/Combinations.cpp
 
 CMakeFiles/Code.dir/Logics/Combinations.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/Logics/Combinations.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/MEGA/Code/Logics/Combinations.cpp > CMakeFiles/Code.dir/Logics/Combinations.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/Projects/Code/Logics/Combinations.cpp > CMakeFiles/Code.dir/Logics/Combinations.cpp.i
 
 CMakeFiles/Code.dir/Logics/Combinations.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/Logics/Combinations.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/MEGA/Code/Logics/Combinations.cpp -o CMakeFiles/Code.dir/Logics/Combinations.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/Projects/Code/Logics/Combinations.cpp -o CMakeFiles/Code.dir/Logics/Combinations.cpp.s
 
 CMakeFiles/Code.dir/Logics/Combinations.cpp.o.requires:
 
@@ -995,16 +995,16 @@ CMakeFiles/Code.dir/Logics/Combinations.cpp.o.provides.build: CMakeFiles/Code.di
 
 CMakeFiles/Code.dir/Logics/HardCodeMatrix.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/Logics/HardCodeMatrix.cpp.o: ../Logics/HardCodeMatrix.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object CMakeFiles/Code.dir/Logics/HardCodeMatrix.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Logics/HardCodeMatrix.cpp.o -c /home/optimus/MEGA/Code/Logics/HardCodeMatrix.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Building CXX object CMakeFiles/Code.dir/Logics/HardCodeMatrix.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Logics/HardCodeMatrix.cpp.o -c /home/optimus/Projects/Code/Logics/HardCodeMatrix.cpp
 
 CMakeFiles/Code.dir/Logics/HardCodeMatrix.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/Logics/HardCodeMatrix.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/MEGA/Code/Logics/HardCodeMatrix.cpp > CMakeFiles/Code.dir/Logics/HardCodeMatrix.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/Projects/Code/Logics/HardCodeMatrix.cpp > CMakeFiles/Code.dir/Logics/HardCodeMatrix.cpp.i
 
 CMakeFiles/Code.dir/Logics/HardCodeMatrix.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/Logics/HardCodeMatrix.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/MEGA/Code/Logics/HardCodeMatrix.cpp -o CMakeFiles/Code.dir/Logics/HardCodeMatrix.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/Projects/Code/Logics/HardCodeMatrix.cpp -o CMakeFiles/Code.dir/Logics/HardCodeMatrix.cpp.s
 
 CMakeFiles/Code.dir/Logics/HardCodeMatrix.cpp.o.requires:
 
@@ -1019,16 +1019,16 @@ CMakeFiles/Code.dir/Logics/HardCodeMatrix.cpp.o.provides.build: CMakeFiles/Code.
 
 CMakeFiles/Code.dir/Logics/PowerSet.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/Logics/PowerSet.cpp.o: ../Logics/PowerSet.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object CMakeFiles/Code.dir/Logics/PowerSet.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Logics/PowerSet.cpp.o -c /home/optimus/MEGA/Code/Logics/PowerSet.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object CMakeFiles/Code.dir/Logics/PowerSet.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Logics/PowerSet.cpp.o -c /home/optimus/Projects/Code/Logics/PowerSet.cpp
 
 CMakeFiles/Code.dir/Logics/PowerSet.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/Logics/PowerSet.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/MEGA/Code/Logics/PowerSet.cpp > CMakeFiles/Code.dir/Logics/PowerSet.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/Projects/Code/Logics/PowerSet.cpp > CMakeFiles/Code.dir/Logics/PowerSet.cpp.i
 
 CMakeFiles/Code.dir/Logics/PowerSet.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/Logics/PowerSet.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/MEGA/Code/Logics/PowerSet.cpp -o CMakeFiles/Code.dir/Logics/PowerSet.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/Projects/Code/Logics/PowerSet.cpp -o CMakeFiles/Code.dir/Logics/PowerSet.cpp.s
 
 CMakeFiles/Code.dir/Logics/PowerSet.cpp.o.requires:
 
@@ -1043,16 +1043,16 @@ CMakeFiles/Code.dir/Logics/PowerSet.cpp.o.provides.build: CMakeFiles/Code.dir/Lo
 
 CMakeFiles/Code.dir/Logics/string.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/Logics/string.cpp.o: ../Logics/string.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object CMakeFiles/Code.dir/Logics/string.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Logics/string.cpp.o -c /home/optimus/MEGA/Code/Logics/string.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object CMakeFiles/Code.dir/Logics/string.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Logics/string.cpp.o -c /home/optimus/Projects/Code/Logics/string.cpp
 
 CMakeFiles/Code.dir/Logics/string.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/Logics/string.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/MEGA/Code/Logics/string.cpp > CMakeFiles/Code.dir/Logics/string.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/Projects/Code/Logics/string.cpp > CMakeFiles/Code.dir/Logics/string.cpp.i
 
 CMakeFiles/Code.dir/Logics/string.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/Logics/string.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/MEGA/Code/Logics/string.cpp -o CMakeFiles/Code.dir/Logics/string.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/Projects/Code/Logics/string.cpp -o CMakeFiles/Code.dir/Logics/string.cpp.s
 
 CMakeFiles/Code.dir/Logics/string.cpp.o.requires:
 
@@ -1067,16 +1067,16 @@ CMakeFiles/Code.dir/Logics/string.cpp.o.provides.build: CMakeFiles/Code.dir/Logi
 
 CMakeFiles/Code.dir/ProjectEuler/10-Summation_of_primes.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/ProjectEuler/10-Summation_of_primes.cpp.o: ../ProjectEuler/10-Summation\ of\ primes.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object CMakeFiles/Code.dir/ProjectEuler/10-Summation_of_primes.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/ProjectEuler/10-Summation_of_primes.cpp.o -c "/home/optimus/MEGA/Code/ProjectEuler/10-Summation of primes.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object CMakeFiles/Code.dir/ProjectEuler/10-Summation_of_primes.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/ProjectEuler/10-Summation_of_primes.cpp.o -c "/home/optimus/Projects/Code/ProjectEuler/10-Summation of primes.cpp"
 
 CMakeFiles/Code.dir/ProjectEuler/10-Summation_of_primes.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/ProjectEuler/10-Summation_of_primes.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/ProjectEuler/10-Summation of primes.cpp" > CMakeFiles/Code.dir/ProjectEuler/10-Summation_of_primes.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/ProjectEuler/10-Summation of primes.cpp" > CMakeFiles/Code.dir/ProjectEuler/10-Summation_of_primes.cpp.i
 
 CMakeFiles/Code.dir/ProjectEuler/10-Summation_of_primes.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/ProjectEuler/10-Summation_of_primes.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/ProjectEuler/10-Summation of primes.cpp" -o CMakeFiles/Code.dir/ProjectEuler/10-Summation_of_primes.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/ProjectEuler/10-Summation of primes.cpp" -o CMakeFiles/Code.dir/ProjectEuler/10-Summation_of_primes.cpp.s
 
 CMakeFiles/Code.dir/ProjectEuler/10-Summation_of_primes.cpp.o.requires:
 
@@ -1091,16 +1091,16 @@ CMakeFiles/Code.dir/ProjectEuler/10-Summation_of_primes.cpp.o.provides.build: CM
 
 CMakeFiles/Code.dir/ProjectEuler/11-Largest_product_in_a_grid.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/ProjectEuler/11-Largest_product_in_a_grid.cpp.o: ../ProjectEuler/11-Largest\ product\ in\ a\ grid.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building CXX object CMakeFiles/Code.dir/ProjectEuler/11-Largest_product_in_a_grid.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/ProjectEuler/11-Largest_product_in_a_grid.cpp.o -c "/home/optimus/MEGA/Code/ProjectEuler/11-Largest product in a grid.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building CXX object CMakeFiles/Code.dir/ProjectEuler/11-Largest_product_in_a_grid.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/ProjectEuler/11-Largest_product_in_a_grid.cpp.o -c "/home/optimus/Projects/Code/ProjectEuler/11-Largest product in a grid.cpp"
 
 CMakeFiles/Code.dir/ProjectEuler/11-Largest_product_in_a_grid.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/ProjectEuler/11-Largest_product_in_a_grid.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/ProjectEuler/11-Largest product in a grid.cpp" > CMakeFiles/Code.dir/ProjectEuler/11-Largest_product_in_a_grid.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/ProjectEuler/11-Largest product in a grid.cpp" > CMakeFiles/Code.dir/ProjectEuler/11-Largest_product_in_a_grid.cpp.i
 
 CMakeFiles/Code.dir/ProjectEuler/11-Largest_product_in_a_grid.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/ProjectEuler/11-Largest_product_in_a_grid.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/ProjectEuler/11-Largest product in a grid.cpp" -o CMakeFiles/Code.dir/ProjectEuler/11-Largest_product_in_a_grid.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/ProjectEuler/11-Largest product in a grid.cpp" -o CMakeFiles/Code.dir/ProjectEuler/11-Largest_product_in_a_grid.cpp.s
 
 CMakeFiles/Code.dir/ProjectEuler/11-Largest_product_in_a_grid.cpp.o.requires:
 
@@ -1115,16 +1115,16 @@ CMakeFiles/Code.dir/ProjectEuler/11-Largest_product_in_a_grid.cpp.o.provides.bui
 
 CMakeFiles/Code.dir/ProjectEuler/12-Highly_divisible_triangular_number.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/ProjectEuler/12-Highly_divisible_triangular_number.cpp.o: ../ProjectEuler/12-Highly\ divisible\ triangular\ number.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building CXX object CMakeFiles/Code.dir/ProjectEuler/12-Highly_divisible_triangular_number.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/ProjectEuler/12-Highly_divisible_triangular_number.cpp.o -c "/home/optimus/MEGA/Code/ProjectEuler/12-Highly divisible triangular number.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building CXX object CMakeFiles/Code.dir/ProjectEuler/12-Highly_divisible_triangular_number.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/ProjectEuler/12-Highly_divisible_triangular_number.cpp.o -c "/home/optimus/Projects/Code/ProjectEuler/12-Highly divisible triangular number.cpp"
 
 CMakeFiles/Code.dir/ProjectEuler/12-Highly_divisible_triangular_number.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/ProjectEuler/12-Highly_divisible_triangular_number.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/ProjectEuler/12-Highly divisible triangular number.cpp" > CMakeFiles/Code.dir/ProjectEuler/12-Highly_divisible_triangular_number.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/ProjectEuler/12-Highly divisible triangular number.cpp" > CMakeFiles/Code.dir/ProjectEuler/12-Highly_divisible_triangular_number.cpp.i
 
 CMakeFiles/Code.dir/ProjectEuler/12-Highly_divisible_triangular_number.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/ProjectEuler/12-Highly_divisible_triangular_number.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/ProjectEuler/12-Highly divisible triangular number.cpp" -o CMakeFiles/Code.dir/ProjectEuler/12-Highly_divisible_triangular_number.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/ProjectEuler/12-Highly divisible triangular number.cpp" -o CMakeFiles/Code.dir/ProjectEuler/12-Highly_divisible_triangular_number.cpp.s
 
 CMakeFiles/Code.dir/ProjectEuler/12-Highly_divisible_triangular_number.cpp.o.requires:
 
@@ -1139,16 +1139,16 @@ CMakeFiles/Code.dir/ProjectEuler/12-Highly_divisible_triangular_number.cpp.o.pro
 
 CMakeFiles/Code.dir/ProjectEuler/13-Large_sum.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/ProjectEuler/13-Large_sum.cpp.o: ../ProjectEuler/13-Large\ sum.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building CXX object CMakeFiles/Code.dir/ProjectEuler/13-Large_sum.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/ProjectEuler/13-Large_sum.cpp.o -c "/home/optimus/MEGA/Code/ProjectEuler/13-Large sum.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building CXX object CMakeFiles/Code.dir/ProjectEuler/13-Large_sum.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/ProjectEuler/13-Large_sum.cpp.o -c "/home/optimus/Projects/Code/ProjectEuler/13-Large sum.cpp"
 
 CMakeFiles/Code.dir/ProjectEuler/13-Large_sum.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/ProjectEuler/13-Large_sum.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/ProjectEuler/13-Large sum.cpp" > CMakeFiles/Code.dir/ProjectEuler/13-Large_sum.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/ProjectEuler/13-Large sum.cpp" > CMakeFiles/Code.dir/ProjectEuler/13-Large_sum.cpp.i
 
 CMakeFiles/Code.dir/ProjectEuler/13-Large_sum.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/ProjectEuler/13-Large_sum.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/ProjectEuler/13-Large sum.cpp" -o CMakeFiles/Code.dir/ProjectEuler/13-Large_sum.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/ProjectEuler/13-Large sum.cpp" -o CMakeFiles/Code.dir/ProjectEuler/13-Large_sum.cpp.s
 
 CMakeFiles/Code.dir/ProjectEuler/13-Large_sum.cpp.o.requires:
 
@@ -1163,16 +1163,16 @@ CMakeFiles/Code.dir/ProjectEuler/13-Large_sum.cpp.o.provides.build: CMakeFiles/C
 
 CMakeFiles/Code.dir/ProjectEuler/14_-_Longest_Collatz_sequence.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/ProjectEuler/14_-_Longest_Collatz_sequence.cpp.o: ../ProjectEuler/14\ -\ Longest\ Collatz\ sequence.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building CXX object CMakeFiles/Code.dir/ProjectEuler/14_-_Longest_Collatz_sequence.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/ProjectEuler/14_-_Longest_Collatz_sequence.cpp.o -c "/home/optimus/MEGA/Code/ProjectEuler/14 - Longest Collatz sequence.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building CXX object CMakeFiles/Code.dir/ProjectEuler/14_-_Longest_Collatz_sequence.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/ProjectEuler/14_-_Longest_Collatz_sequence.cpp.o -c "/home/optimus/Projects/Code/ProjectEuler/14 - Longest Collatz sequence.cpp"
 
 CMakeFiles/Code.dir/ProjectEuler/14_-_Longest_Collatz_sequence.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/ProjectEuler/14_-_Longest_Collatz_sequence.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/ProjectEuler/14 - Longest Collatz sequence.cpp" > CMakeFiles/Code.dir/ProjectEuler/14_-_Longest_Collatz_sequence.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/ProjectEuler/14 - Longest Collatz sequence.cpp" > CMakeFiles/Code.dir/ProjectEuler/14_-_Longest_Collatz_sequence.cpp.i
 
 CMakeFiles/Code.dir/ProjectEuler/14_-_Longest_Collatz_sequence.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/ProjectEuler/14_-_Longest_Collatz_sequence.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/ProjectEuler/14 - Longest Collatz sequence.cpp" -o CMakeFiles/Code.dir/ProjectEuler/14_-_Longest_Collatz_sequence.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/ProjectEuler/14 - Longest Collatz sequence.cpp" -o CMakeFiles/Code.dir/ProjectEuler/14_-_Longest_Collatz_sequence.cpp.s
 
 CMakeFiles/Code.dir/ProjectEuler/14_-_Longest_Collatz_sequence.cpp.o.requires:
 
@@ -1187,16 +1187,16 @@ CMakeFiles/Code.dir/ProjectEuler/14_-_Longest_Collatz_sequence.cpp.o.provides.bu
 
 CMakeFiles/Code.dir/ProjectEuler/15-Lattice_paths.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/ProjectEuler/15-Lattice_paths.cpp.o: ../ProjectEuler/15-Lattice\ paths.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building CXX object CMakeFiles/Code.dir/ProjectEuler/15-Lattice_paths.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/ProjectEuler/15-Lattice_paths.cpp.o -c "/home/optimus/MEGA/Code/ProjectEuler/15-Lattice paths.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_48) "Building CXX object CMakeFiles/Code.dir/ProjectEuler/15-Lattice_paths.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/ProjectEuler/15-Lattice_paths.cpp.o -c "/home/optimus/Projects/Code/ProjectEuler/15-Lattice paths.cpp"
 
 CMakeFiles/Code.dir/ProjectEuler/15-Lattice_paths.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/ProjectEuler/15-Lattice_paths.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/ProjectEuler/15-Lattice paths.cpp" > CMakeFiles/Code.dir/ProjectEuler/15-Lattice_paths.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/ProjectEuler/15-Lattice paths.cpp" > CMakeFiles/Code.dir/ProjectEuler/15-Lattice_paths.cpp.i
 
 CMakeFiles/Code.dir/ProjectEuler/15-Lattice_paths.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/ProjectEuler/15-Lattice_paths.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/ProjectEuler/15-Lattice paths.cpp" -o CMakeFiles/Code.dir/ProjectEuler/15-Lattice_paths.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/ProjectEuler/15-Lattice paths.cpp" -o CMakeFiles/Code.dir/ProjectEuler/15-Lattice_paths.cpp.s
 
 CMakeFiles/Code.dir/ProjectEuler/15-Lattice_paths.cpp.o.requires:
 
@@ -1211,16 +1211,16 @@ CMakeFiles/Code.dir/ProjectEuler/15-Lattice_paths.cpp.o.provides.build: CMakeFil
 
 CMakeFiles/Code.dir/ProjectEuler/16-Power_digit_sum.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/ProjectEuler/16-Power_digit_sum.cpp.o: ../ProjectEuler/16-Power\ digit\ sum.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building CXX object CMakeFiles/Code.dir/ProjectEuler/16-Power_digit_sum.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/ProjectEuler/16-Power_digit_sum.cpp.o -c "/home/optimus/MEGA/Code/ProjectEuler/16-Power digit sum.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_49) "Building CXX object CMakeFiles/Code.dir/ProjectEuler/16-Power_digit_sum.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/ProjectEuler/16-Power_digit_sum.cpp.o -c "/home/optimus/Projects/Code/ProjectEuler/16-Power digit sum.cpp"
 
 CMakeFiles/Code.dir/ProjectEuler/16-Power_digit_sum.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/ProjectEuler/16-Power_digit_sum.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/ProjectEuler/16-Power digit sum.cpp" > CMakeFiles/Code.dir/ProjectEuler/16-Power_digit_sum.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/ProjectEuler/16-Power digit sum.cpp" > CMakeFiles/Code.dir/ProjectEuler/16-Power_digit_sum.cpp.i
 
 CMakeFiles/Code.dir/ProjectEuler/16-Power_digit_sum.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/ProjectEuler/16-Power_digit_sum.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/ProjectEuler/16-Power digit sum.cpp" -o CMakeFiles/Code.dir/ProjectEuler/16-Power_digit_sum.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/ProjectEuler/16-Power digit sum.cpp" -o CMakeFiles/Code.dir/ProjectEuler/16-Power_digit_sum.cpp.s
 
 CMakeFiles/Code.dir/ProjectEuler/16-Power_digit_sum.cpp.o.requires:
 
@@ -1235,16 +1235,16 @@ CMakeFiles/Code.dir/ProjectEuler/16-Power_digit_sum.cpp.o.provides.build: CMakeF
 
 CMakeFiles/Code.dir/ProjectEuler/18-Maximum_path_sum_I.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/ProjectEuler/18-Maximum_path_sum_I.cpp.o: ../ProjectEuler/18-Maximum\ path\ sum\ I.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building CXX object CMakeFiles/Code.dir/ProjectEuler/18-Maximum_path_sum_I.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/ProjectEuler/18-Maximum_path_sum_I.cpp.o -c "/home/optimus/MEGA/Code/ProjectEuler/18-Maximum path sum I.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building CXX object CMakeFiles/Code.dir/ProjectEuler/18-Maximum_path_sum_I.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/ProjectEuler/18-Maximum_path_sum_I.cpp.o -c "/home/optimus/Projects/Code/ProjectEuler/18-Maximum path sum I.cpp"
 
 CMakeFiles/Code.dir/ProjectEuler/18-Maximum_path_sum_I.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/ProjectEuler/18-Maximum_path_sum_I.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/ProjectEuler/18-Maximum path sum I.cpp" > CMakeFiles/Code.dir/ProjectEuler/18-Maximum_path_sum_I.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/ProjectEuler/18-Maximum path sum I.cpp" > CMakeFiles/Code.dir/ProjectEuler/18-Maximum_path_sum_I.cpp.i
 
 CMakeFiles/Code.dir/ProjectEuler/18-Maximum_path_sum_I.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/ProjectEuler/18-Maximum_path_sum_I.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/ProjectEuler/18-Maximum path sum I.cpp" -o CMakeFiles/Code.dir/ProjectEuler/18-Maximum_path_sum_I.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/ProjectEuler/18-Maximum path sum I.cpp" -o CMakeFiles/Code.dir/ProjectEuler/18-Maximum_path_sum_I.cpp.s
 
 CMakeFiles/Code.dir/ProjectEuler/18-Maximum_path_sum_I.cpp.o.requires:
 
@@ -1259,16 +1259,16 @@ CMakeFiles/Code.dir/ProjectEuler/18-Maximum_path_sum_I.cpp.o.provides.build: CMa
 
 CMakeFiles/Code.dir/ProjectEuler/20-Factorial_digit_sum.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/ProjectEuler/20-Factorial_digit_sum.cpp.o: ../ProjectEuler/20-Factorial\ digit\ sum.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building CXX object CMakeFiles/Code.dir/ProjectEuler/20-Factorial_digit_sum.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/ProjectEuler/20-Factorial_digit_sum.cpp.o -c "/home/optimus/MEGA/Code/ProjectEuler/20-Factorial digit sum.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building CXX object CMakeFiles/Code.dir/ProjectEuler/20-Factorial_digit_sum.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/ProjectEuler/20-Factorial_digit_sum.cpp.o -c "/home/optimus/Projects/Code/ProjectEuler/20-Factorial digit sum.cpp"
 
 CMakeFiles/Code.dir/ProjectEuler/20-Factorial_digit_sum.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/ProjectEuler/20-Factorial_digit_sum.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/ProjectEuler/20-Factorial digit sum.cpp" > CMakeFiles/Code.dir/ProjectEuler/20-Factorial_digit_sum.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/ProjectEuler/20-Factorial digit sum.cpp" > CMakeFiles/Code.dir/ProjectEuler/20-Factorial_digit_sum.cpp.i
 
 CMakeFiles/Code.dir/ProjectEuler/20-Factorial_digit_sum.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/ProjectEuler/20-Factorial_digit_sum.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/ProjectEuler/20-Factorial digit sum.cpp" -o CMakeFiles/Code.dir/ProjectEuler/20-Factorial_digit_sum.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/ProjectEuler/20-Factorial digit sum.cpp" -o CMakeFiles/Code.dir/ProjectEuler/20-Factorial_digit_sum.cpp.s
 
 CMakeFiles/Code.dir/ProjectEuler/20-Factorial_digit_sum.cpp.o.requires:
 
@@ -1283,16 +1283,16 @@ CMakeFiles/Code.dir/ProjectEuler/20-Factorial_digit_sum.cpp.o.provides.build: CM
 
 CMakeFiles/Code.dir/ProjectEuler/21-Amicable_numbers.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/ProjectEuler/21-Amicable_numbers.cpp.o: ../ProjectEuler/21-Amicable\ numbers.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building CXX object CMakeFiles/Code.dir/ProjectEuler/21-Amicable_numbers.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/ProjectEuler/21-Amicable_numbers.cpp.o -c "/home/optimus/MEGA/Code/ProjectEuler/21-Amicable numbers.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building CXX object CMakeFiles/Code.dir/ProjectEuler/21-Amicable_numbers.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/ProjectEuler/21-Amicable_numbers.cpp.o -c "/home/optimus/Projects/Code/ProjectEuler/21-Amicable numbers.cpp"
 
 CMakeFiles/Code.dir/ProjectEuler/21-Amicable_numbers.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/ProjectEuler/21-Amicable_numbers.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/ProjectEuler/21-Amicable numbers.cpp" > CMakeFiles/Code.dir/ProjectEuler/21-Amicable_numbers.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/ProjectEuler/21-Amicable numbers.cpp" > CMakeFiles/Code.dir/ProjectEuler/21-Amicable_numbers.cpp.i
 
 CMakeFiles/Code.dir/ProjectEuler/21-Amicable_numbers.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/ProjectEuler/21-Amicable_numbers.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/ProjectEuler/21-Amicable numbers.cpp" -o CMakeFiles/Code.dir/ProjectEuler/21-Amicable_numbers.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/ProjectEuler/21-Amicable numbers.cpp" -o CMakeFiles/Code.dir/ProjectEuler/21-Amicable_numbers.cpp.s
 
 CMakeFiles/Code.dir/ProjectEuler/21-Amicable_numbers.cpp.o.requires:
 
@@ -1307,16 +1307,16 @@ CMakeFiles/Code.dir/ProjectEuler/21-Amicable_numbers.cpp.o.provides.build: CMake
 
 CMakeFiles/Code.dir/ProjectEuler/22-Names_scores.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/ProjectEuler/22-Names_scores.cpp.o: ../ProjectEuler/22-Names\ scores.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building CXX object CMakeFiles/Code.dir/ProjectEuler/22-Names_scores.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/ProjectEuler/22-Names_scores.cpp.o -c "/home/optimus/MEGA/Code/ProjectEuler/22-Names scores.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Building CXX object CMakeFiles/Code.dir/ProjectEuler/22-Names_scores.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/ProjectEuler/22-Names_scores.cpp.o -c "/home/optimus/Projects/Code/ProjectEuler/22-Names scores.cpp"
 
 CMakeFiles/Code.dir/ProjectEuler/22-Names_scores.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/ProjectEuler/22-Names_scores.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/ProjectEuler/22-Names scores.cpp" > CMakeFiles/Code.dir/ProjectEuler/22-Names_scores.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/ProjectEuler/22-Names scores.cpp" > CMakeFiles/Code.dir/ProjectEuler/22-Names_scores.cpp.i
 
 CMakeFiles/Code.dir/ProjectEuler/22-Names_scores.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/ProjectEuler/22-Names_scores.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/ProjectEuler/22-Names scores.cpp" -o CMakeFiles/Code.dir/ProjectEuler/22-Names_scores.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/ProjectEuler/22-Names scores.cpp" -o CMakeFiles/Code.dir/ProjectEuler/22-Names_scores.cpp.s
 
 CMakeFiles/Code.dir/ProjectEuler/22-Names_scores.cpp.o.requires:
 
@@ -1331,16 +1331,16 @@ CMakeFiles/Code.dir/ProjectEuler/22-Names_scores.cpp.o.provides.build: CMakeFile
 
 CMakeFiles/Code.dir/ProjectEuler/23-Non-abundant_sums.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/ProjectEuler/23-Non-abundant_sums.cpp.o: ../ProjectEuler/23-Non-abundant\ sums.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building CXX object CMakeFiles/Code.dir/ProjectEuler/23-Non-abundant_sums.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/ProjectEuler/23-Non-abundant_sums.cpp.o -c "/home/optimus/MEGA/Code/ProjectEuler/23-Non-abundant sums.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_54) "Building CXX object CMakeFiles/Code.dir/ProjectEuler/23-Non-abundant_sums.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/ProjectEuler/23-Non-abundant_sums.cpp.o -c "/home/optimus/Projects/Code/ProjectEuler/23-Non-abundant sums.cpp"
 
 CMakeFiles/Code.dir/ProjectEuler/23-Non-abundant_sums.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/ProjectEuler/23-Non-abundant_sums.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/ProjectEuler/23-Non-abundant sums.cpp" > CMakeFiles/Code.dir/ProjectEuler/23-Non-abundant_sums.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/ProjectEuler/23-Non-abundant sums.cpp" > CMakeFiles/Code.dir/ProjectEuler/23-Non-abundant_sums.cpp.i
 
 CMakeFiles/Code.dir/ProjectEuler/23-Non-abundant_sums.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/ProjectEuler/23-Non-abundant_sums.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/ProjectEuler/23-Non-abundant sums.cpp" -o CMakeFiles/Code.dir/ProjectEuler/23-Non-abundant_sums.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/ProjectEuler/23-Non-abundant sums.cpp" -o CMakeFiles/Code.dir/ProjectEuler/23-Non-abundant_sums.cpp.s
 
 CMakeFiles/Code.dir/ProjectEuler/23-Non-abundant_sums.cpp.o.requires:
 
@@ -1355,16 +1355,16 @@ CMakeFiles/Code.dir/ProjectEuler/23-Non-abundant_sums.cpp.o.provides.build: CMak
 
 CMakeFiles/Code.dir/ProjectEuler/25-1000-digit_Fibonacci_number.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/ProjectEuler/25-1000-digit_Fibonacci_number.cpp.o: ../ProjectEuler/25-1000-digit\ Fibonacci\ number.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building CXX object CMakeFiles/Code.dir/ProjectEuler/25-1000-digit_Fibonacci_number.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/ProjectEuler/25-1000-digit_Fibonacci_number.cpp.o -c "/home/optimus/MEGA/Code/ProjectEuler/25-1000-digit Fibonacci number.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_55) "Building CXX object CMakeFiles/Code.dir/ProjectEuler/25-1000-digit_Fibonacci_number.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/ProjectEuler/25-1000-digit_Fibonacci_number.cpp.o -c "/home/optimus/Projects/Code/ProjectEuler/25-1000-digit Fibonacci number.cpp"
 
 CMakeFiles/Code.dir/ProjectEuler/25-1000-digit_Fibonacci_number.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/ProjectEuler/25-1000-digit_Fibonacci_number.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/ProjectEuler/25-1000-digit Fibonacci number.cpp" > CMakeFiles/Code.dir/ProjectEuler/25-1000-digit_Fibonacci_number.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/ProjectEuler/25-1000-digit Fibonacci number.cpp" > CMakeFiles/Code.dir/ProjectEuler/25-1000-digit_Fibonacci_number.cpp.i
 
 CMakeFiles/Code.dir/ProjectEuler/25-1000-digit_Fibonacci_number.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/ProjectEuler/25-1000-digit_Fibonacci_number.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/ProjectEuler/25-1000-digit Fibonacci number.cpp" -o CMakeFiles/Code.dir/ProjectEuler/25-1000-digit_Fibonacci_number.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/ProjectEuler/25-1000-digit Fibonacci number.cpp" -o CMakeFiles/Code.dir/ProjectEuler/25-1000-digit_Fibonacci_number.cpp.s
 
 CMakeFiles/Code.dir/ProjectEuler/25-1000-digit_Fibonacci_number.cpp.o.requires:
 
@@ -1379,16 +1379,16 @@ CMakeFiles/Code.dir/ProjectEuler/25-1000-digit_Fibonacci_number.cpp.o.provides.b
 
 CMakeFiles/Code.dir/ProjectEuler/8-Largest_product_in_a_series.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/ProjectEuler/8-Largest_product_in_a_series.cpp.o: ../ProjectEuler/8-Largest\ product\ in\ a\ series.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building CXX object CMakeFiles/Code.dir/ProjectEuler/8-Largest_product_in_a_series.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/ProjectEuler/8-Largest_product_in_a_series.cpp.o -c "/home/optimus/MEGA/Code/ProjectEuler/8-Largest product in a series.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building CXX object CMakeFiles/Code.dir/ProjectEuler/8-Largest_product_in_a_series.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/ProjectEuler/8-Largest_product_in_a_series.cpp.o -c "/home/optimus/Projects/Code/ProjectEuler/8-Largest product in a series.cpp"
 
 CMakeFiles/Code.dir/ProjectEuler/8-Largest_product_in_a_series.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/ProjectEuler/8-Largest_product_in_a_series.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/ProjectEuler/8-Largest product in a series.cpp" > CMakeFiles/Code.dir/ProjectEuler/8-Largest_product_in_a_series.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/ProjectEuler/8-Largest product in a series.cpp" > CMakeFiles/Code.dir/ProjectEuler/8-Largest_product_in_a_series.cpp.i
 
 CMakeFiles/Code.dir/ProjectEuler/8-Largest_product_in_a_series.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/ProjectEuler/8-Largest_product_in_a_series.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/ProjectEuler/8-Largest product in a series.cpp" -o CMakeFiles/Code.dir/ProjectEuler/8-Largest_product_in_a_series.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/ProjectEuler/8-Largest product in a series.cpp" -o CMakeFiles/Code.dir/ProjectEuler/8-Largest_product_in_a_series.cpp.s
 
 CMakeFiles/Code.dir/ProjectEuler/8-Largest_product_in_a_series.cpp.o.requires:
 
@@ -1403,16 +1403,16 @@ CMakeFiles/Code.dir/ProjectEuler/8-Largest_product_in_a_series.cpp.o.provides.bu
 
 CMakeFiles/Code.dir/ProjectEuler/9-Special_Pythagorean_triplet.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/ProjectEuler/9-Special_Pythagorean_triplet.cpp.o: ../ProjectEuler/9-Special\ Pythagorean\ triplet.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building CXX object CMakeFiles/Code.dir/ProjectEuler/9-Special_Pythagorean_triplet.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/ProjectEuler/9-Special_Pythagorean_triplet.cpp.o -c "/home/optimus/MEGA/Code/ProjectEuler/9-Special Pythagorean triplet.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Building CXX object CMakeFiles/Code.dir/ProjectEuler/9-Special_Pythagorean_triplet.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/ProjectEuler/9-Special_Pythagorean_triplet.cpp.o -c "/home/optimus/Projects/Code/ProjectEuler/9-Special Pythagorean triplet.cpp"
 
 CMakeFiles/Code.dir/ProjectEuler/9-Special_Pythagorean_triplet.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/ProjectEuler/9-Special_Pythagorean_triplet.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/ProjectEuler/9-Special Pythagorean triplet.cpp" > CMakeFiles/Code.dir/ProjectEuler/9-Special_Pythagorean_triplet.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/ProjectEuler/9-Special Pythagorean triplet.cpp" > CMakeFiles/Code.dir/ProjectEuler/9-Special_Pythagorean_triplet.cpp.i
 
 CMakeFiles/Code.dir/ProjectEuler/9-Special_Pythagorean_triplet.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/ProjectEuler/9-Special_Pythagorean_triplet.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/ProjectEuler/9-Special Pythagorean triplet.cpp" -o CMakeFiles/Code.dir/ProjectEuler/9-Special_Pythagorean_triplet.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/ProjectEuler/9-Special Pythagorean triplet.cpp" -o CMakeFiles/Code.dir/ProjectEuler/9-Special_Pythagorean_triplet.cpp.s
 
 CMakeFiles/Code.dir/ProjectEuler/9-Special_Pythagorean_triplet.cpp.o.requires:
 
@@ -1427,16 +1427,16 @@ CMakeFiles/Code.dir/ProjectEuler/9-Special_Pythagorean_triplet.cpp.o.provides.bu
 
 CMakeFiles/Code.dir/SPOJ/ACPC10A_-_What’s_Next(SPOJ-7974).cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/SPOJ/ACPC10A_-_What’s_Next(SPOJ-7974).cpp.o: ../SPOJ/ACPC10A\ -\ What’s\ Next(SPOJ-7974).cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building CXX object CMakeFiles/Code.dir/SPOJ/ACPC10A_-_What’s_Next(SPOJ-7974).cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/Code.dir/SPOJ/ACPC10A_-_What’s_Next(SPOJ-7974).cpp.o" -c "/home/optimus/MEGA/Code/SPOJ/ACPC10A - What’s Next(SPOJ-7974).cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_58) "Building CXX object CMakeFiles/Code.dir/SPOJ/ACPC10A_-_What’s_Next(SPOJ-7974).cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/Code.dir/SPOJ/ACPC10A_-_What’s_Next(SPOJ-7974).cpp.o" -c "/home/optimus/Projects/Code/SPOJ/ACPC10A - What’s Next(SPOJ-7974).cpp"
 
 CMakeFiles/Code.dir/SPOJ/ACPC10A_-_What’s_Next(SPOJ-7974).cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/SPOJ/ACPC10A_-_What’s_Next(SPOJ-7974).cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/SPOJ/ACPC10A - What’s Next(SPOJ-7974).cpp" > "CMakeFiles/Code.dir/SPOJ/ACPC10A_-_What’s_Next(SPOJ-7974).cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/SPOJ/ACPC10A - What’s Next(SPOJ-7974).cpp" > "CMakeFiles/Code.dir/SPOJ/ACPC10A_-_What’s_Next(SPOJ-7974).cpp.i"
 
 CMakeFiles/Code.dir/SPOJ/ACPC10A_-_What’s_Next(SPOJ-7974).cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/SPOJ/ACPC10A_-_What’s_Next(SPOJ-7974).cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/SPOJ/ACPC10A - What’s Next(SPOJ-7974).cpp" -o "CMakeFiles/Code.dir/SPOJ/ACPC10A_-_What’s_Next(SPOJ-7974).cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/SPOJ/ACPC10A - What’s Next(SPOJ-7974).cpp" -o "CMakeFiles/Code.dir/SPOJ/ACPC10A_-_What’s_Next(SPOJ-7974).cpp.s"
 
 CMakeFiles/Code.dir/SPOJ/ACPC10A_-_What’s_Next(SPOJ-7974).cpp.o.requires:
 
@@ -1451,16 +1451,16 @@ CMakeFiles/Code.dir/SPOJ/ACPC10A_-_What’s_Next(SPOJ-7974).cpp.o.provides.build
 
 CMakeFiles/Code.dir/SPOJ/ADDREV_-_Adding_Reversed_Numbers(SPOJ-42).cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/SPOJ/ADDREV_-_Adding_Reversed_Numbers(SPOJ-42).cpp.o: ../SPOJ/ADDREV\ -\ Adding\ Reversed\ Numbers(SPOJ-42).cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building CXX object CMakeFiles/Code.dir/SPOJ/ADDREV_-_Adding_Reversed_Numbers(SPOJ-42).cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/Code.dir/SPOJ/ADDREV_-_Adding_Reversed_Numbers(SPOJ-42).cpp.o" -c "/home/optimus/MEGA/Code/SPOJ/ADDREV - Adding Reversed Numbers(SPOJ-42).cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_59) "Building CXX object CMakeFiles/Code.dir/SPOJ/ADDREV_-_Adding_Reversed_Numbers(SPOJ-42).cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/Code.dir/SPOJ/ADDREV_-_Adding_Reversed_Numbers(SPOJ-42).cpp.o" -c "/home/optimus/Projects/Code/SPOJ/ADDREV - Adding Reversed Numbers(SPOJ-42).cpp"
 
 CMakeFiles/Code.dir/SPOJ/ADDREV_-_Adding_Reversed_Numbers(SPOJ-42).cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/SPOJ/ADDREV_-_Adding_Reversed_Numbers(SPOJ-42).cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/SPOJ/ADDREV - Adding Reversed Numbers(SPOJ-42).cpp" > "CMakeFiles/Code.dir/SPOJ/ADDREV_-_Adding_Reversed_Numbers(SPOJ-42).cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/SPOJ/ADDREV - Adding Reversed Numbers(SPOJ-42).cpp" > "CMakeFiles/Code.dir/SPOJ/ADDREV_-_Adding_Reversed_Numbers(SPOJ-42).cpp.i"
 
 CMakeFiles/Code.dir/SPOJ/ADDREV_-_Adding_Reversed_Numbers(SPOJ-42).cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/SPOJ/ADDREV_-_Adding_Reversed_Numbers(SPOJ-42).cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/SPOJ/ADDREV - Adding Reversed Numbers(SPOJ-42).cpp" -o "CMakeFiles/Code.dir/SPOJ/ADDREV_-_Adding_Reversed_Numbers(SPOJ-42).cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/SPOJ/ADDREV - Adding Reversed Numbers(SPOJ-42).cpp" -o "CMakeFiles/Code.dir/SPOJ/ADDREV_-_Adding_Reversed_Numbers(SPOJ-42).cpp.s"
 
 CMakeFiles/Code.dir/SPOJ/ADDREV_-_Adding_Reversed_Numbers(SPOJ-42).cpp.o.requires:
 
@@ -1475,16 +1475,16 @@ CMakeFiles/Code.dir/SPOJ/ADDREV_-_Adding_Reversed_Numbers(SPOJ-42).cpp.o.provide
 
 CMakeFiles/Code.dir/SPOJ/FCTRL_-_Factorial_(SPOJ-11).cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/SPOJ/FCTRL_-_Factorial_(SPOJ-11).cpp.o: ../SPOJ/FCTRL\ -\ Factorial\ (SPOJ-11).cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building CXX object CMakeFiles/Code.dir/SPOJ/FCTRL_-_Factorial_(SPOJ-11).cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/Code.dir/SPOJ/FCTRL_-_Factorial_(SPOJ-11).cpp.o" -c "/home/optimus/MEGA/Code/SPOJ/FCTRL - Factorial (SPOJ-11).cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_60) "Building CXX object CMakeFiles/Code.dir/SPOJ/FCTRL_-_Factorial_(SPOJ-11).cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/Code.dir/SPOJ/FCTRL_-_Factorial_(SPOJ-11).cpp.o" -c "/home/optimus/Projects/Code/SPOJ/FCTRL - Factorial (SPOJ-11).cpp"
 
 CMakeFiles/Code.dir/SPOJ/FCTRL_-_Factorial_(SPOJ-11).cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/SPOJ/FCTRL_-_Factorial_(SPOJ-11).cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/SPOJ/FCTRL - Factorial (SPOJ-11).cpp" > "CMakeFiles/Code.dir/SPOJ/FCTRL_-_Factorial_(SPOJ-11).cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/SPOJ/FCTRL - Factorial (SPOJ-11).cpp" > "CMakeFiles/Code.dir/SPOJ/FCTRL_-_Factorial_(SPOJ-11).cpp.i"
 
 CMakeFiles/Code.dir/SPOJ/FCTRL_-_Factorial_(SPOJ-11).cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/SPOJ/FCTRL_-_Factorial_(SPOJ-11).cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/SPOJ/FCTRL - Factorial (SPOJ-11).cpp" -o "CMakeFiles/Code.dir/SPOJ/FCTRL_-_Factorial_(SPOJ-11).cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/SPOJ/FCTRL - Factorial (SPOJ-11).cpp" -o "CMakeFiles/Code.dir/SPOJ/FCTRL_-_Factorial_(SPOJ-11).cpp.s"
 
 CMakeFiles/Code.dir/SPOJ/FCTRL_-_Factorial_(SPOJ-11).cpp.o.requires:
 
@@ -1499,16 +1499,16 @@ CMakeFiles/Code.dir/SPOJ/FCTRL_-_Factorial_(SPOJ-11).cpp.o.provides.build: CMake
 
 CMakeFiles/Code.dir/SPOJ/FCTRL2_-_Small_factorials(SPOJ-24).cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/SPOJ/FCTRL2_-_Small_factorials(SPOJ-24).cpp.o: ../SPOJ/FCTRL2\ -\ Small\ factorials(SPOJ-24).cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building CXX object CMakeFiles/Code.dir/SPOJ/FCTRL2_-_Small_factorials(SPOJ-24).cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/Code.dir/SPOJ/FCTRL2_-_Small_factorials(SPOJ-24).cpp.o" -c "/home/optimus/MEGA/Code/SPOJ/FCTRL2 - Small factorials(SPOJ-24).cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_61) "Building CXX object CMakeFiles/Code.dir/SPOJ/FCTRL2_-_Small_factorials(SPOJ-24).cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/Code.dir/SPOJ/FCTRL2_-_Small_factorials(SPOJ-24).cpp.o" -c "/home/optimus/Projects/Code/SPOJ/FCTRL2 - Small factorials(SPOJ-24).cpp"
 
 CMakeFiles/Code.dir/SPOJ/FCTRL2_-_Small_factorials(SPOJ-24).cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/SPOJ/FCTRL2_-_Small_factorials(SPOJ-24).cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/SPOJ/FCTRL2 - Small factorials(SPOJ-24).cpp" > "CMakeFiles/Code.dir/SPOJ/FCTRL2_-_Small_factorials(SPOJ-24).cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/SPOJ/FCTRL2 - Small factorials(SPOJ-24).cpp" > "CMakeFiles/Code.dir/SPOJ/FCTRL2_-_Small_factorials(SPOJ-24).cpp.i"
 
 CMakeFiles/Code.dir/SPOJ/FCTRL2_-_Small_factorials(SPOJ-24).cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/SPOJ/FCTRL2_-_Small_factorials(SPOJ-24).cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/SPOJ/FCTRL2 - Small factorials(SPOJ-24).cpp" -o "CMakeFiles/Code.dir/SPOJ/FCTRL2_-_Small_factorials(SPOJ-24).cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/SPOJ/FCTRL2 - Small factorials(SPOJ-24).cpp" -o "CMakeFiles/Code.dir/SPOJ/FCTRL2_-_Small_factorials(SPOJ-24).cpp.s"
 
 CMakeFiles/Code.dir/SPOJ/FCTRL2_-_Small_factorials(SPOJ-24).cpp.o.requires:
 
@@ -1523,16 +1523,16 @@ CMakeFiles/Code.dir/SPOJ/FCTRL2_-_Small_factorials(SPOJ-24).cpp.o.provides.build
 
 CMakeFiles/Code.dir/SPOJ/NSTEPS_-_Number_Steps_(SPOJ-1112_).cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/SPOJ/NSTEPS_-_Number_Steps_(SPOJ-1112_).cpp.o: ../SPOJ/NSTEPS\ -\ Number\ Steps\ (SPOJ-1112\ ).cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building CXX object CMakeFiles/Code.dir/SPOJ/NSTEPS_-_Number_Steps_(SPOJ-1112_).cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/Code.dir/SPOJ/NSTEPS_-_Number_Steps_(SPOJ-1112_).cpp.o" -c "/home/optimus/MEGA/Code/SPOJ/NSTEPS - Number Steps (SPOJ-1112 ).cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_62) "Building CXX object CMakeFiles/Code.dir/SPOJ/NSTEPS_-_Number_Steps_(SPOJ-1112_).cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/Code.dir/SPOJ/NSTEPS_-_Number_Steps_(SPOJ-1112_).cpp.o" -c "/home/optimus/Projects/Code/SPOJ/NSTEPS - Number Steps (SPOJ-1112 ).cpp"
 
 CMakeFiles/Code.dir/SPOJ/NSTEPS_-_Number_Steps_(SPOJ-1112_).cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/SPOJ/NSTEPS_-_Number_Steps_(SPOJ-1112_).cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/SPOJ/NSTEPS - Number Steps (SPOJ-1112 ).cpp" > "CMakeFiles/Code.dir/SPOJ/NSTEPS_-_Number_Steps_(SPOJ-1112_).cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/SPOJ/NSTEPS - Number Steps (SPOJ-1112 ).cpp" > "CMakeFiles/Code.dir/SPOJ/NSTEPS_-_Number_Steps_(SPOJ-1112_).cpp.i"
 
 CMakeFiles/Code.dir/SPOJ/NSTEPS_-_Number_Steps_(SPOJ-1112_).cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/SPOJ/NSTEPS_-_Number_Steps_(SPOJ-1112_).cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/SPOJ/NSTEPS - Number Steps (SPOJ-1112 ).cpp" -o "CMakeFiles/Code.dir/SPOJ/NSTEPS_-_Number_Steps_(SPOJ-1112_).cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/SPOJ/NSTEPS - Number Steps (SPOJ-1112 ).cpp" -o "CMakeFiles/Code.dir/SPOJ/NSTEPS_-_Number_Steps_(SPOJ-1112_).cpp.s"
 
 CMakeFiles/Code.dir/SPOJ/NSTEPS_-_Number_Steps_(SPOJ-1112_).cpp.o.requires:
 
@@ -1547,16 +1547,16 @@ CMakeFiles/Code.dir/SPOJ/NSTEPS_-_Number_Steps_(SPOJ-1112_).cpp.o.provides.build
 
 CMakeFiles/Code.dir/SPOJ/SAMER08F_-_Feynman(SPOJ-3410).cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/SPOJ/SAMER08F_-_Feynman(SPOJ-3410).cpp.o: ../SPOJ/SAMER08F\ -\ Feynman(SPOJ-3410).cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building CXX object CMakeFiles/Code.dir/SPOJ/SAMER08F_-_Feynman(SPOJ-3410).cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/Code.dir/SPOJ/SAMER08F_-_Feynman(SPOJ-3410).cpp.o" -c "/home/optimus/MEGA/Code/SPOJ/SAMER08F - Feynman(SPOJ-3410).cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_63) "Building CXX object CMakeFiles/Code.dir/SPOJ/SAMER08F_-_Feynman(SPOJ-3410).cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/Code.dir/SPOJ/SAMER08F_-_Feynman(SPOJ-3410).cpp.o" -c "/home/optimus/Projects/Code/SPOJ/SAMER08F - Feynman(SPOJ-3410).cpp"
 
 CMakeFiles/Code.dir/SPOJ/SAMER08F_-_Feynman(SPOJ-3410).cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/SPOJ/SAMER08F_-_Feynman(SPOJ-3410).cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/SPOJ/SAMER08F - Feynman(SPOJ-3410).cpp" > "CMakeFiles/Code.dir/SPOJ/SAMER08F_-_Feynman(SPOJ-3410).cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/SPOJ/SAMER08F - Feynman(SPOJ-3410).cpp" > "CMakeFiles/Code.dir/SPOJ/SAMER08F_-_Feynman(SPOJ-3410).cpp.i"
 
 CMakeFiles/Code.dir/SPOJ/SAMER08F_-_Feynman(SPOJ-3410).cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/SPOJ/SAMER08F_-_Feynman(SPOJ-3410).cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/SPOJ/SAMER08F - Feynman(SPOJ-3410).cpp" -o "CMakeFiles/Code.dir/SPOJ/SAMER08F_-_Feynman(SPOJ-3410).cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/SPOJ/SAMER08F - Feynman(SPOJ-3410).cpp" -o "CMakeFiles/Code.dir/SPOJ/SAMER08F_-_Feynman(SPOJ-3410).cpp.s"
 
 CMakeFiles/Code.dir/SPOJ/SAMER08F_-_Feynman(SPOJ-3410).cpp.o.requires:
 
@@ -1571,16 +1571,16 @@ CMakeFiles/Code.dir/SPOJ/SAMER08F_-_Feynman(SPOJ-3410).cpp.o.provides.build: CMa
 
 CMakeFiles/Code.dir/SPOJ/TETRA_-_Sphere_in_a_tetrahedron(SPOJ-16).cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/SPOJ/TETRA_-_Sphere_in_a_tetrahedron(SPOJ-16).cpp.o: ../SPOJ/TETRA\ -\ Sphere\ in\ a\ tetrahedron(SPOJ-16).cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building CXX object CMakeFiles/Code.dir/SPOJ/TETRA_-_Sphere_in_a_tetrahedron(SPOJ-16).cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/Code.dir/SPOJ/TETRA_-_Sphere_in_a_tetrahedron(SPOJ-16).cpp.o" -c "/home/optimus/MEGA/Code/SPOJ/TETRA - Sphere in a tetrahedron(SPOJ-16).cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_64) "Building CXX object CMakeFiles/Code.dir/SPOJ/TETRA_-_Sphere_in_a_tetrahedron(SPOJ-16).cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/Code.dir/SPOJ/TETRA_-_Sphere_in_a_tetrahedron(SPOJ-16).cpp.o" -c "/home/optimus/Projects/Code/SPOJ/TETRA - Sphere in a tetrahedron(SPOJ-16).cpp"
 
 CMakeFiles/Code.dir/SPOJ/TETRA_-_Sphere_in_a_tetrahedron(SPOJ-16).cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/SPOJ/TETRA_-_Sphere_in_a_tetrahedron(SPOJ-16).cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/SPOJ/TETRA - Sphere in a tetrahedron(SPOJ-16).cpp" > "CMakeFiles/Code.dir/SPOJ/TETRA_-_Sphere_in_a_tetrahedron(SPOJ-16).cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/SPOJ/TETRA - Sphere in a tetrahedron(SPOJ-16).cpp" > "CMakeFiles/Code.dir/SPOJ/TETRA_-_Sphere_in_a_tetrahedron(SPOJ-16).cpp.i"
 
 CMakeFiles/Code.dir/SPOJ/TETRA_-_Sphere_in_a_tetrahedron(SPOJ-16).cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/SPOJ/TETRA_-_Sphere_in_a_tetrahedron(SPOJ-16).cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/SPOJ/TETRA - Sphere in a tetrahedron(SPOJ-16).cpp" -o "CMakeFiles/Code.dir/SPOJ/TETRA_-_Sphere_in_a_tetrahedron(SPOJ-16).cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/SPOJ/TETRA - Sphere in a tetrahedron(SPOJ-16).cpp" -o "CMakeFiles/Code.dir/SPOJ/TETRA_-_Sphere_in_a_tetrahedron(SPOJ-16).cpp.s"
 
 CMakeFiles/Code.dir/SPOJ/TETRA_-_Sphere_in_a_tetrahedron(SPOJ-16).cpp.o.requires:
 
@@ -1595,16 +1595,16 @@ CMakeFiles/Code.dir/SPOJ/TETRA_-_Sphere_in_a_tetrahedron(SPOJ-16).cpp.o.provides
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2A.cpp.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2A.cpp.cpp.o: ../Cracking\ the\ Coding\ Interview/Array\ and\ Strings/Q1-2A.cpp.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2A.cpp.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2A.cpp.cpp.o -c "/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-2A.cpp.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2A.cpp.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2A.cpp.cpp.o -c "/home/optimus/Projects/Code/Cracking the Coding Interview/Array and Strings/Q1-2A.cpp.cpp"
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2A.cpp.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2A.cpp.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-2A.cpp.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2A.cpp.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/Cracking the Coding Interview/Array and Strings/Q1-2A.cpp.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2A.cpp.cpp.i
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2A.cpp.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2A.cpp.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-2A.cpp.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2A.cpp.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/Cracking the Coding Interview/Array and Strings/Q1-2A.cpp.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2A.cpp.cpp.s
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2A.cpp.cpp.o.requires:
 
@@ -1619,16 +1619,16 @@ CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2A.cpp.cp
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2B.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2B.cpp.o: ../Cracking\ the\ Coding\ Interview/Array\ and\ Strings/Q1-2B.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2B.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2B.cpp.o -c "/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-2B.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_66) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2B.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2B.cpp.o -c "/home/optimus/Projects/Code/Cracking the Coding Interview/Array and Strings/Q1-2B.cpp"
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2B.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2B.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-2B.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2B.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/Cracking the Coding Interview/Array and Strings/Q1-2B.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2B.cpp.i
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2B.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2B.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-2B.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2B.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/Cracking the Coding Interview/Array and Strings/Q1-2B.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2B.cpp.s
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2B.cpp.o.requires:
 
@@ -1643,16 +1643,16 @@ CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2B.cpp.o.
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-3.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-3.cpp.o: ../Cracking\ the\ Coding\ Interview/Array\ and\ Strings/Q1-3.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-3.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-3.cpp.o -c "/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-3.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_67) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-3.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-3.cpp.o -c "/home/optimus/Projects/Code/Cracking the Coding Interview/Array and Strings/Q1-3.cpp"
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-3.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-3.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-3.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-3.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/Cracking the Coding Interview/Array and Strings/Q1-3.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-3.cpp.i
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-3.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-3.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-3.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-3.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/Cracking the Coding Interview/Array and Strings/Q1-3.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-3.cpp.s
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-3.cpp.o.requires:
 
@@ -1667,16 +1667,16 @@ CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-3.cpp.o.p
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.cpp.o: ../Cracking\ the\ Coding\ Interview/Array\ and\ Strings/Q1-4.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.cpp.o -c "/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-4.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_68) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.cpp.o -c "/home/optimus/Projects/Code/Cracking the Coding Interview/Array and Strings/Q1-4.cpp"
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-4.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/Cracking the Coding Interview/Array and Strings/Q1-4.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.cpp.i
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-4.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/Cracking the Coding Interview/Array and Strings/Q1-4.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.cpp.s
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.cpp.o.requires:
 
@@ -1691,16 +1691,16 @@ CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.cpp.o.p
 
 CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/VILTRIBE.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/VILTRIBE.cpp.o: ../CodeChef/Novermber\ Challenge\ 2017/VILTRIBE.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building CXX object CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/VILTRIBE.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/VILTRIBE.cpp.o -c "/home/optimus/MEGA/Code/CodeChef/Novermber Challenge 2017/VILTRIBE.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_69) "Building CXX object CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/VILTRIBE.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/VILTRIBE.cpp.o -c "/home/optimus/Projects/Code/CodeChef/Novermber Challenge 2017/VILTRIBE.cpp"
 
 CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/VILTRIBE.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/VILTRIBE.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/CodeChef/Novermber Challenge 2017/VILTRIBE.cpp" > CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/VILTRIBE.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/CodeChef/Novermber Challenge 2017/VILTRIBE.cpp" > CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/VILTRIBE.cpp.i
 
 CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/VILTRIBE.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/VILTRIBE.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/CodeChef/Novermber Challenge 2017/VILTRIBE.cpp" -o CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/VILTRIBE.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/CodeChef/Novermber Challenge 2017/VILTRIBE.cpp" -o CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/VILTRIBE.cpp.s
 
 CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/VILTRIBE.cpp.o.requires:
 
@@ -1715,16 +1715,16 @@ CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/VILTRIBE.cpp.o.provides.bu
 
 CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/CLRL.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/CLRL.cpp.o: ../CodeChef/Novermber\ Challenge\ 2017/CLRL.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building CXX object CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/CLRL.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/CLRL.cpp.o -c "/home/optimus/MEGA/Code/CodeChef/Novermber Challenge 2017/CLRL.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_70) "Building CXX object CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/CLRL.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/CLRL.cpp.o -c "/home/optimus/Projects/Code/CodeChef/Novermber Challenge 2017/CLRL.cpp"
 
 CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/CLRL.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/CLRL.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/CodeChef/Novermber Challenge 2017/CLRL.cpp" > CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/CLRL.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/CodeChef/Novermber Challenge 2017/CLRL.cpp" > CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/CLRL.cpp.i
 
 CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/CLRL.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/CLRL.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/CodeChef/Novermber Challenge 2017/CLRL.cpp" -o CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/CLRL.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/CodeChef/Novermber Challenge 2017/CLRL.cpp" -o CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/CLRL.cpp.s
 
 CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/CLRL.cpp.o.requires:
 
@@ -1739,16 +1739,16 @@ CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/CLRL.cpp.o.provides.build:
 
 CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/PERPALIN.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/PERPALIN.cpp.o: ../CodeChef/Novermber\ Challenge\ 2017/PERPALIN.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Building CXX object CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/PERPALIN.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/PERPALIN.cpp.o -c "/home/optimus/MEGA/Code/CodeChef/Novermber Challenge 2017/PERPALIN.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_71) "Building CXX object CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/PERPALIN.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/PERPALIN.cpp.o -c "/home/optimus/Projects/Code/CodeChef/Novermber Challenge 2017/PERPALIN.cpp"
 
 CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/PERPALIN.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/PERPALIN.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/CodeChef/Novermber Challenge 2017/PERPALIN.cpp" > CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/PERPALIN.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/CodeChef/Novermber Challenge 2017/PERPALIN.cpp" > CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/PERPALIN.cpp.i
 
 CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/PERPALIN.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/PERPALIN.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/CodeChef/Novermber Challenge 2017/PERPALIN.cpp" -o CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/PERPALIN.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/CodeChef/Novermber Challenge 2017/PERPALIN.cpp" -o CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/PERPALIN.cpp.s
 
 CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/PERPALIN.cpp.o.requires:
 
@@ -1763,16 +1763,16 @@ CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/PERPALIN.cpp.o.provides.bu
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-5.cpp.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-5.cpp.cpp.o: ../Cracking\ the\ Coding\ Interview/Array\ and\ Strings/Q1-5.cpp.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-5.cpp.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-5.cpp.cpp.o -c "/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-5.cpp.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-5.cpp.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-5.cpp.cpp.o -c "/home/optimus/Projects/Code/Cracking the Coding Interview/Array and Strings/Q1-5.cpp.cpp"
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-5.cpp.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-5.cpp.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-5.cpp.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-5.cpp.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/Cracking the Coding Interview/Array and Strings/Q1-5.cpp.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-5.cpp.cpp.i
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-5.cpp.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-5.cpp.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-5.cpp.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-5.cpp.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/Cracking the Coding Interview/Array and Strings/Q1-5.cpp.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-5.cpp.cpp.s
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-5.cpp.cpp.o.requires:
 
@@ -1787,16 +1787,16 @@ CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-5.cpp.cpp
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-6.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-6.cpp.o: ../Cracking\ the\ Coding\ Interview/Array\ and\ Strings/Q1-6.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_73) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-6.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-6.cpp.o -c "/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-6.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_73) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-6.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-6.cpp.o -c "/home/optimus/Projects/Code/Cracking the Coding Interview/Array and Strings/Q1-6.cpp"
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-6.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-6.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-6.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-6.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/Cracking the Coding Interview/Array and Strings/Q1-6.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-6.cpp.i
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-6.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-6.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-6.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-6.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/Cracking the Coding Interview/Array and Strings/Q1-6.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-6.cpp.s
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-6.cpp.o.requires:
 
@@ -1811,16 +1811,16 @@ CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-6.cpp.o.p
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-7.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-7.cpp.o: ../Cracking\ the\ Coding\ Interview/Array\ and\ Strings/Q1-7.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-7.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-7.cpp.o -c "/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-7.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-7.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-7.cpp.o -c "/home/optimus/Projects/Code/Cracking the Coding Interview/Array and Strings/Q1-7.cpp"
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-7.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-7.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-7.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-7.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/Cracking the Coding Interview/Array and Strings/Q1-7.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-7.cpp.i
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-7.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-7.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-7.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-7.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/Cracking the Coding Interview/Array and Strings/Q1-7.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-7.cpp.s
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-7.cpp.o.requires:
 
@@ -1835,16 +1835,16 @@ CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-7.cpp.o.p
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-8.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-8.cpp.o: ../Cracking\ the\ Coding\ Interview/Array\ and\ Strings/Q1-8.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_75) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-8.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-8.cpp.o -c "/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-8.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_75) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-8.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-8.cpp.o -c "/home/optimus/Projects/Code/Cracking the Coding Interview/Array and Strings/Q1-8.cpp"
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-8.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-8.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-8.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-8.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/Cracking the Coding Interview/Array and Strings/Q1-8.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-8.cpp.i
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-8.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-8.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-8.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-8.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/Cracking the Coding Interview/Array and Strings/Q1-8.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-8.cpp.s
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-8.cpp.o.requires:
 
@@ -1859,16 +1859,16 @@ CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-8.cpp.o.p
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.cpp.o: ../Cracking\ the\ Coding\ Interview/Array\ and\ Strings/Q1-9.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_76) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.cpp.o -c "/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-9.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_76) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.cpp.o -c "/home/optimus/Projects/Code/Cracking the Coding Interview/Array and Strings/Q1-9.cpp"
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-9.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/Cracking the Coding Interview/Array and Strings/Q1-9.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.cpp.i
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/Cracking the Coding Interview/Array and Strings/Q1-9.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/Cracking the Coding Interview/Array and Strings/Q1-9.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.cpp.s
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.cpp.o.requires:
 
@@ -1883,16 +1883,16 @@ CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.cpp.o.p
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q2-1.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q2-1.cpp.o: ../Cracking\ the\ Coding\ Interview/Linked\ List/Q2-1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_77) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q2-1.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q2-1.cpp.o -c "/home/optimus/MEGA/Code/Cracking the Coding Interview/Linked List/Q2-1.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_77) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q2-1.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q2-1.cpp.o -c "/home/optimus/Projects/Code/Cracking the Coding Interview/Linked List/Q2-1.cpp"
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q2-1.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q2-1.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/Cracking the Coding Interview/Linked List/Q2-1.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q2-1.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/Cracking the Coding Interview/Linked List/Q2-1.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q2-1.cpp.i
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q2-1.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q2-1.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/Cracking the Coding Interview/Linked List/Q2-1.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q2-1.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/Cracking the Coding Interview/Linked List/Q2-1.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q2-1.cpp.s
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q2-1.cpp.o.requires:
 
@@ -1907,16 +1907,16 @@ CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q2-1.cpp.o.provide
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/LinkedListBaasics.c.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/LinkedListBaasics.c.o: ../Cracking\ the\ Coding\ Interview/Linked\ List/LinkedListBaasics.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_78) "Building C object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/LinkedListBaasics.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/LinkedListBaasics.c.o   -c "/home/optimus/MEGA/Code/Cracking the Coding Interview/Linked List/LinkedListBaasics.c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_78) "Building C object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/LinkedListBaasics.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/LinkedListBaasics.c.o   -c "/home/optimus/Projects/Code/Cracking the Coding Interview/Linked List/LinkedListBaasics.c"
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/LinkedListBaasics.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/LinkedListBaasics.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/home/optimus/MEGA/Code/Cracking the Coding Interview/Linked List/LinkedListBaasics.c" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/LinkedListBaasics.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/home/optimus/Projects/Code/Cracking the Coding Interview/Linked List/LinkedListBaasics.c" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/LinkedListBaasics.c.i
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/LinkedListBaasics.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/LinkedListBaasics.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/home/optimus/MEGA/Code/Cracking the Coding Interview/Linked List/LinkedListBaasics.c" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/LinkedListBaasics.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/home/optimus/Projects/Code/Cracking the Coding Interview/Linked List/LinkedListBaasics.c" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/LinkedListBaasics.c.s
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/LinkedListBaasics.c.o.requires:
 
@@ -1931,16 +1931,16 @@ CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/LinkedListBaasics.
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-1.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-1.cpp.o: ../Cracking\ the\ Coding\ Interview/Stacks/Q3-1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_79) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-1.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-1.cpp.o -c "/home/optimus/MEGA/Code/Cracking the Coding Interview/Stacks/Q3-1.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_79) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-1.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-1.cpp.o -c "/home/optimus/Projects/Code/Cracking the Coding Interview/Stacks/Q3-1.cpp"
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-1.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-1.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/Cracking the Coding Interview/Stacks/Q3-1.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-1.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/Cracking the Coding Interview/Stacks/Q3-1.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-1.cpp.i
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-1.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-1.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/Cracking the Coding Interview/Stacks/Q3-1.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-1.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/Cracking the Coding Interview/Stacks/Q3-1.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-1.cpp.s
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-1.cpp.o.requires:
 
@@ -1955,16 +1955,16 @@ CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-1.cpp.o.provides.bui
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-2.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-2.cpp.o: ../Cracking\ the\ Coding\ Interview/Stacks/Q3-2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_80) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-2.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-2.cpp.o -c "/home/optimus/MEGA/Code/Cracking the Coding Interview/Stacks/Q3-2.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_80) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-2.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-2.cpp.o -c "/home/optimus/Projects/Code/Cracking the Coding Interview/Stacks/Q3-2.cpp"
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-2.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/Cracking the Coding Interview/Stacks/Q3-2.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-2.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/Cracking the Coding Interview/Stacks/Q3-2.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-2.cpp.i
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-2.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/Cracking the Coding Interview/Stacks/Q3-2.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-2.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/Cracking the Coding Interview/Stacks/Q3-2.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-2.cpp.s
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-2.cpp.o.requires:
 
@@ -1979,16 +1979,16 @@ CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-2.cpp.o.provides.bui
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Experiment.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Experiment.cpp.o: ../Cracking\ the\ Coding\ Interview/Linked\ List/Experiment.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_81) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Experiment.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Experiment.cpp.o -c "/home/optimus/MEGA/Code/Cracking the Coding Interview/Linked List/Experiment.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_81) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Experiment.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Experiment.cpp.o -c "/home/optimus/Projects/Code/Cracking the Coding Interview/Linked List/Experiment.cpp"
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Experiment.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Experiment.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/Cracking the Coding Interview/Linked List/Experiment.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Experiment.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/Cracking the Coding Interview/Linked List/Experiment.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Experiment.cpp.i
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Experiment.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Experiment.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/Cracking the Coding Interview/Linked List/Experiment.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Experiment.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/Cracking the Coding Interview/Linked List/Experiment.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Experiment.cpp.s
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Experiment.cpp.o.requires:
 
@@ -2003,16 +2003,16 @@ CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Experiment.cpp.o.p
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/InsertIntoLL.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/InsertIntoLL.cpp.o: ../Cracking\ the\ Coding\ Interview/Linked\ List/InsertIntoLL.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_82) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/InsertIntoLL.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/InsertIntoLL.cpp.o -c "/home/optimus/MEGA/Code/Cracking the Coding Interview/Linked List/InsertIntoLL.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_82) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/InsertIntoLL.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/InsertIntoLL.cpp.o -c "/home/optimus/Projects/Code/Cracking the Coding Interview/Linked List/InsertIntoLL.cpp"
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/InsertIntoLL.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/InsertIntoLL.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/Cracking the Coding Interview/Linked List/InsertIntoLL.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/InsertIntoLL.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/Cracking the Coding Interview/Linked List/InsertIntoLL.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/InsertIntoLL.cpp.i
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/InsertIntoLL.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/InsertIntoLL.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/Cracking the Coding Interview/Linked List/InsertIntoLL.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/InsertIntoLL.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/Cracking the Coding Interview/Linked List/InsertIntoLL.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/InsertIntoLL.cpp.s
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/InsertIntoLL.cpp.o.requires:
 
@@ -2027,16 +2027,16 @@ CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/InsertIntoLL.cpp.o
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q1-2.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q1-2.cpp.o: ../Cracking\ the\ Coding\ Interview/Linked\ List/Q1-2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_83) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q1-2.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q1-2.cpp.o -c "/home/optimus/MEGA/Code/Cracking the Coding Interview/Linked List/Q1-2.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_83) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q1-2.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q1-2.cpp.o -c "/home/optimus/Projects/Code/Cracking the Coding Interview/Linked List/Q1-2.cpp"
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q1-2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q1-2.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/Cracking the Coding Interview/Linked List/Q1-2.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q1-2.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/Cracking the Coding Interview/Linked List/Q1-2.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q1-2.cpp.i
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q1-2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q1-2.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/Cracking the Coding Interview/Linked List/Q1-2.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q1-2.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/Cracking the Coding Interview/Linked List/Q1-2.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q1-2.cpp.s
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q1-2.cpp.o.requires:
 
@@ -2051,16 +2051,16 @@ CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q1-2.cpp.o.provide
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q1-3.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q1-3.cpp.o: ../Cracking\ the\ Coding\ Interview/Linked\ List/Q1-3.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_84) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q1-3.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q1-3.cpp.o -c "/home/optimus/MEGA/Code/Cracking the Coding Interview/Linked List/Q1-3.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_84) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q1-3.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q1-3.cpp.o -c "/home/optimus/Projects/Code/Cracking the Coding Interview/Linked List/Q1-3.cpp"
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q1-3.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q1-3.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/Cracking the Coding Interview/Linked List/Q1-3.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q1-3.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/Cracking the Coding Interview/Linked List/Q1-3.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q1-3.cpp.i
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q1-3.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q1-3.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/Cracking the Coding Interview/Linked List/Q1-3.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q1-3.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/Cracking the Coding Interview/Linked List/Q1-3.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q1-3.cpp.s
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q1-3.cpp.o.requires:
 
@@ -2075,16 +2075,16 @@ CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q1-3.cpp.o.provide
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q2-6.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q2-6.cpp.o: ../Cracking\ the\ Coding\ Interview/Linked\ List/Q2-6.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_85) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q2-6.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q2-6.cpp.o -c "/home/optimus/MEGA/Code/Cracking the Coding Interview/Linked List/Q2-6.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_85) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q2-6.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q2-6.cpp.o -c "/home/optimus/Projects/Code/Cracking the Coding Interview/Linked List/Q2-6.cpp"
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q2-6.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q2-6.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/Cracking the Coding Interview/Linked List/Q2-6.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q2-6.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/Cracking the Coding Interview/Linked List/Q2-6.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q2-6.cpp.i
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q2-6.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q2-6.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/Cracking the Coding Interview/Linked List/Q2-6.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q2-6.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/Cracking the Coding Interview/Linked List/Q2-6.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q2-6.cpp.s
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q2-6.cpp.o.requires:
 
@@ -2099,16 +2099,16 @@ CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q2-6.cpp.o.provide
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-4.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-4.cpp.o: ../Cracking\ the\ Coding\ Interview/Stacks/Q3-4.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_86) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-4.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-4.cpp.o -c "/home/optimus/MEGA/Code/Cracking the Coding Interview/Stacks/Q3-4.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_86) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-4.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-4.cpp.o -c "/home/optimus/Projects/Code/Cracking the Coding Interview/Stacks/Q3-4.cpp"
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-4.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-4.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/Cracking the Coding Interview/Stacks/Q3-4.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-4.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/Cracking the Coding Interview/Stacks/Q3-4.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-4.cpp.i
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-4.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-4.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/Cracking the Coding Interview/Stacks/Q3-4.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-4.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/Cracking the Coding Interview/Stacks/Q3-4.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-4.cpp.s
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-4.cpp.o.requires:
 
@@ -2123,16 +2123,16 @@ CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-4.cpp.o.provides.bui
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-5.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-5.cpp.o: ../Cracking\ the\ Coding\ Interview/Stacks/Q3-5.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_87) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-5.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-5.cpp.o -c "/home/optimus/MEGA/Code/Cracking the Coding Interview/Stacks/Q3-5.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_87) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-5.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-5.cpp.o -c "/home/optimus/Projects/Code/Cracking the Coding Interview/Stacks/Q3-5.cpp"
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-5.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-5.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/Cracking the Coding Interview/Stacks/Q3-5.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-5.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/Cracking the Coding Interview/Stacks/Q3-5.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-5.cpp.i
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-5.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-5.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/Cracking the Coding Interview/Stacks/Q3-5.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-5.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/Cracking the Coding Interview/Stacks/Q3-5.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-5.cpp.s
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-5.cpp.o.requires:
 
@@ -2147,16 +2147,16 @@ CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-5.cpp.o.provides.bui
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.cpp.o: ../Cracking\ the\ Coding\ Interview/Trees\ and\ graphs/Q4-1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_88) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.cpp.o -c "/home/optimus/MEGA/Code/Cracking the Coding Interview/Trees and graphs/Q4-1.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_88) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.cpp.o -c "/home/optimus/Projects/Code/Cracking the Coding Interview/Trees and graphs/Q4-1.cpp"
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/Cracking the Coding Interview/Trees and graphs/Q4-1.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/Cracking the Coding Interview/Trees and graphs/Q4-1.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.cpp.i
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/Cracking the Coding Interview/Trees and graphs/Q4-1.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/Cracking the Coding Interview/Trees and graphs/Q4-1.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.cpp.s
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.cpp.o.requires:
 
@@ -2171,16 +2171,16 @@ CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.cpp.o.pr
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.o: ../Cracking\ the\ Coding\ Interview/Trees\ and\ graphs/Q4-2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_89) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.o -c "/home/optimus/MEGA/Code/Cracking the Coding Interview/Trees and graphs/Q4-2.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_89) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.o -c "/home/optimus/Projects/Code/Cracking the Coding Interview/Trees and graphs/Q4-2.cpp"
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/Cracking the Coding Interview/Trees and graphs/Q4-2.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/Cracking the Coding Interview/Trees and graphs/Q4-2.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.i
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/Cracking the Coding Interview/Trees and graphs/Q4-2.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/Cracking the Coding Interview/Trees and graphs/Q4-2.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.s
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.o.requires:
 
@@ -2195,16 +2195,16 @@ CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.o.pr
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Tree_Practice.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Tree_Practice.cpp.o: ../Cracking\ the\ Coding\ Interview/Trees\ and\ graphs/Tree\ Practice.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_90) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Tree_Practice.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Tree_Practice.cpp.o -c "/home/optimus/MEGA/Code/Cracking the Coding Interview/Trees and graphs/Tree Practice.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_90) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Tree_Practice.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Tree_Practice.cpp.o -c "/home/optimus/Projects/Code/Cracking the Coding Interview/Trees and graphs/Tree Practice.cpp"
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Tree_Practice.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Tree_Practice.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/Cracking the Coding Interview/Trees and graphs/Tree Practice.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Tree_Practice.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/Cracking the Coding Interview/Trees and graphs/Tree Practice.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Tree_Practice.cpp.i
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Tree_Practice.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Tree_Practice.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/Cracking the Coding Interview/Trees and graphs/Tree Practice.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Tree_Practice.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/Cracking the Coding Interview/Trees and graphs/Tree Practice.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Tree_Practice.cpp.s
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Tree_Practice.cpp.o.requires:
 
@@ -2219,16 +2219,16 @@ CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Tree_Practice
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-3.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-3.cpp.o: ../Cracking\ the\ Coding\ Interview/Trees\ and\ graphs/Q4-3.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_91) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-3.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-3.cpp.o -c "/home/optimus/MEGA/Code/Cracking the Coding Interview/Trees and graphs/Q4-3.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_91) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-3.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-3.cpp.o -c "/home/optimus/Projects/Code/Cracking the Coding Interview/Trees and graphs/Q4-3.cpp"
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-3.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-3.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/Cracking the Coding Interview/Trees and graphs/Q4-3.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-3.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/Cracking the Coding Interview/Trees and graphs/Q4-3.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-3.cpp.i
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-3.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-3.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/Cracking the Coding Interview/Trees and graphs/Q4-3.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-3.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/Cracking the Coding Interview/Trees and graphs/Q4-3.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-3.cpp.s
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-3.cpp.o.requires:
 
@@ -2243,16 +2243,16 @@ CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-3.cpp.o.pr
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/ReadyTree.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/ReadyTree.cpp.o: ../Cracking\ the\ Coding\ Interview/Trees\ and\ graphs/ReadyTree.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_92) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/ReadyTree.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/ReadyTree.cpp.o -c "/home/optimus/MEGA/Code/Cracking the Coding Interview/Trees and graphs/ReadyTree.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_92) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/ReadyTree.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/ReadyTree.cpp.o -c "/home/optimus/Projects/Code/Cracking the Coding Interview/Trees and graphs/ReadyTree.cpp"
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/ReadyTree.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/ReadyTree.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/Cracking the Coding Interview/Trees and graphs/ReadyTree.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/ReadyTree.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/Cracking the Coding Interview/Trees and graphs/ReadyTree.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/ReadyTree.cpp.i
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/ReadyTree.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/ReadyTree.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/Cracking the Coding Interview/Trees and graphs/ReadyTree.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/ReadyTree.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/Cracking the Coding Interview/Trees and graphs/ReadyTree.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/ReadyTree.cpp.s
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/ReadyTree.cpp.o.requires:
 
@@ -2267,16 +2267,16 @@ CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/ReadyTree.cpp
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-4.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-4.cpp.o: ../Cracking\ the\ Coding\ Interview/Trees\ and\ graphs/Q4-4.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_93) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-4.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-4.cpp.o -c "/home/optimus/MEGA/Code/Cracking the Coding Interview/Trees and graphs/Q4-4.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_93) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-4.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-4.cpp.o -c "/home/optimus/Projects/Code/Cracking the Coding Interview/Trees and graphs/Q4-4.cpp"
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-4.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-4.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/Cracking the Coding Interview/Trees and graphs/Q4-4.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-4.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/Cracking the Coding Interview/Trees and graphs/Q4-4.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-4.cpp.i
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-4.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-4.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/Cracking the Coding Interview/Trees and graphs/Q4-4.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-4.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/Cracking the Coding Interview/Trees and graphs/Q4-4.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-4.cpp.s
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-4.cpp.o.requires:
 
@@ -2291,16 +2291,16 @@ CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-4.cpp.o.pr
 
 CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/GIT01.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/GIT01.cpp.o: ../CodeChef/December\ Challenge\ 2017/GIT01.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_94) "Building CXX object CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/GIT01.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/GIT01.cpp.o -c "/home/optimus/MEGA/Code/CodeChef/December Challenge 2017/GIT01.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_94) "Building CXX object CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/GIT01.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/GIT01.cpp.o -c "/home/optimus/Projects/Code/CodeChef/December Challenge 2017/GIT01.cpp"
 
 CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/GIT01.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/GIT01.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/CodeChef/December Challenge 2017/GIT01.cpp" > CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/GIT01.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/CodeChef/December Challenge 2017/GIT01.cpp" > CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/GIT01.cpp.i
 
 CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/GIT01.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/GIT01.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/CodeChef/December Challenge 2017/GIT01.cpp" -o CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/GIT01.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/CodeChef/December Challenge 2017/GIT01.cpp" -o CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/GIT01.cpp.s
 
 CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/GIT01.cpp.o.requires:
 
@@ -2315,16 +2315,16 @@ CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/GIT01.cpp.o.provides.build:
 
 CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/CPLAY.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/CPLAY.cpp.o: ../CodeChef/December\ Challenge\ 2017/CPLAY.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_95) "Building CXX object CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/CPLAY.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/CPLAY.cpp.o -c "/home/optimus/MEGA/Code/CodeChef/December Challenge 2017/CPLAY.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_95) "Building CXX object CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/CPLAY.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/CPLAY.cpp.o -c "/home/optimus/Projects/Code/CodeChef/December Challenge 2017/CPLAY.cpp"
 
 CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/CPLAY.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/CPLAY.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/CodeChef/December Challenge 2017/CPLAY.cpp" > CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/CPLAY.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/CodeChef/December Challenge 2017/CPLAY.cpp" > CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/CPLAY.cpp.i
 
 CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/CPLAY.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/CPLAY.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/CodeChef/December Challenge 2017/CPLAY.cpp" -o CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/CPLAY.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/CodeChef/December Challenge 2017/CPLAY.cpp" -o CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/CPLAY.cpp.s
 
 CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/CPLAY.cpp.o.requires:
 
@@ -2339,16 +2339,16 @@ CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/CPLAY.cpp.o.provides.build:
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.cpp.o: ../Cracking\ the\ Coding\ Interview/Bit\ Manipulation/Q5-1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_96) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.cpp.o -c "/home/optimus/MEGA/Code/Cracking the Coding Interview/Bit Manipulation/Q5-1.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_96) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.cpp.o -c "/home/optimus/Projects/Code/Cracking the Coding Interview/Bit Manipulation/Q5-1.cpp"
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/Cracking the Coding Interview/Bit Manipulation/Q5-1.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/Cracking the Coding Interview/Bit Manipulation/Q5-1.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.cpp.i
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/Cracking the Coding Interview/Bit Manipulation/Q5-1.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/Cracking the Coding Interview/Bit Manipulation/Q5-1.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.cpp.s
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.cpp.o.requires:
 
@@ -2363,16 +2363,16 @@ CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.cpp.o.pr
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.o: ../Cracking\ the\ Coding\ Interview/Bit\ Manipulation/Q5-3.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_97) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.o -c "/home/optimus/MEGA/Code/Cracking the Coding Interview/Bit Manipulation/Q5-3.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_97) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.o -c "/home/optimus/Projects/Code/Cracking the Coding Interview/Bit Manipulation/Q5-3.cpp"
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/Cracking the Coding Interview/Bit Manipulation/Q5-3.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/Cracking the Coding Interview/Bit Manipulation/Q5-3.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.i
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/Cracking the Coding Interview/Bit Manipulation/Q5-3.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/Cracking the Coding Interview/Bit Manipulation/Q5-3.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.s
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.o.requires:
 
@@ -2387,16 +2387,16 @@ CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-3.cpp.o.pr
 
 CMakeFiles/Code.dir/CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.cpp.o: ../CodeForces/DFS/E.\ Bear\ and\ Forgotten\ Tree\ 2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_98) "Building CXX object CMakeFiles/Code.dir/CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.cpp.o -c "/home/optimus/MEGA/Code/CodeForces/DFS/E. Bear and Forgotten Tree 2.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_98) "Building CXX object CMakeFiles/Code.dir/CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.cpp.o -c "/home/optimus/Projects/Code/CodeForces/DFS/E. Bear and Forgotten Tree 2.cpp"
 
 CMakeFiles/Code.dir/CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/CodeForces/DFS/E. Bear and Forgotten Tree 2.cpp" > CMakeFiles/Code.dir/CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/CodeForces/DFS/E. Bear and Forgotten Tree 2.cpp" > CMakeFiles/Code.dir/CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.cpp.i
 
 CMakeFiles/Code.dir/CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/CodeForces/DFS/E. Bear and Forgotten Tree 2.cpp" -o CMakeFiles/Code.dir/CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/CodeForces/DFS/E. Bear and Forgotten Tree 2.cpp" -o CMakeFiles/Code.dir/CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.cpp.s
 
 CMakeFiles/Code.dir/CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.cpp.o.requires:
 
@@ -2411,16 +2411,16 @@ CMakeFiles/Code.dir/CodeForces/DFS/E._Bear_and_Forgotten_Tree_2.cpp.o.provides.b
 
 CMakeFiles/Code.dir/CodeForces/DFS/VariationOne.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/CodeForces/DFS/VariationOne.cpp.o: ../CodeForces/DFS/VariationOne.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_99) "Building CXX object CMakeFiles/Code.dir/CodeForces/DFS/VariationOne.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeForces/DFS/VariationOne.cpp.o -c /home/optimus/MEGA/Code/CodeForces/DFS/VariationOne.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_99) "Building CXX object CMakeFiles/Code.dir/CodeForces/DFS/VariationOne.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeForces/DFS/VariationOne.cpp.o -c /home/optimus/Projects/Code/CodeForces/DFS/VariationOne.cpp
 
 CMakeFiles/Code.dir/CodeForces/DFS/VariationOne.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/CodeForces/DFS/VariationOne.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/MEGA/Code/CodeForces/DFS/VariationOne.cpp > CMakeFiles/Code.dir/CodeForces/DFS/VariationOne.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/Projects/Code/CodeForces/DFS/VariationOne.cpp > CMakeFiles/Code.dir/CodeForces/DFS/VariationOne.cpp.i
 
 CMakeFiles/Code.dir/CodeForces/DFS/VariationOne.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/CodeForces/DFS/VariationOne.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/MEGA/Code/CodeForces/DFS/VariationOne.cpp -o CMakeFiles/Code.dir/CodeForces/DFS/VariationOne.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/Projects/Code/CodeForces/DFS/VariationOne.cpp -o CMakeFiles/Code.dir/CodeForces/DFS/VariationOne.cpp.s
 
 CMakeFiles/Code.dir/CodeForces/DFS/VariationOne.cpp.o.requires:
 
@@ -2435,16 +2435,16 @@ CMakeFiles/Code.dir/CodeForces/DFS/VariationOne.cpp.o.provides.build: CMakeFiles
 
 CMakeFiles/Code.dir/CodeForces/DFS/Test.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/CodeForces/DFS/Test.cpp.o: ../CodeForces/DFS/Test.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_100) "Building CXX object CMakeFiles/Code.dir/CodeForces/DFS/Test.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeForces/DFS/Test.cpp.o -c /home/optimus/MEGA/Code/CodeForces/DFS/Test.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_100) "Building CXX object CMakeFiles/Code.dir/CodeForces/DFS/Test.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeForces/DFS/Test.cpp.o -c /home/optimus/Projects/Code/CodeForces/DFS/Test.cpp
 
 CMakeFiles/Code.dir/CodeForces/DFS/Test.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/CodeForces/DFS/Test.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/MEGA/Code/CodeForces/DFS/Test.cpp > CMakeFiles/Code.dir/CodeForces/DFS/Test.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/Projects/Code/CodeForces/DFS/Test.cpp > CMakeFiles/Code.dir/CodeForces/DFS/Test.cpp.i
 
 CMakeFiles/Code.dir/CodeForces/DFS/Test.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/CodeForces/DFS/Test.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/MEGA/Code/CodeForces/DFS/Test.cpp -o CMakeFiles/Code.dir/CodeForces/DFS/Test.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/Projects/Code/CodeForces/DFS/Test.cpp -o CMakeFiles/Code.dir/CodeForces/DFS/Test.cpp.s
 
 CMakeFiles/Code.dir/CodeForces/DFS/Test.cpp.o.requires:
 
@@ -2459,16 +2459,16 @@ CMakeFiles/Code.dir/CodeForces/DFS/Test.cpp.o.provides.build: CMakeFiles/Code.di
 
 CMakeFiles/Code.dir/CodeForces/BFS/Cycle_In_Maze.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/CodeForces/BFS/Cycle_In_Maze.cpp.o: ../CodeForces/BFS/Cycle\ In\ Maze.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_101) "Building CXX object CMakeFiles/Code.dir/CodeForces/BFS/Cycle_In_Maze.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeForces/BFS/Cycle_In_Maze.cpp.o -c "/home/optimus/MEGA/Code/CodeForces/BFS/Cycle In Maze.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_101) "Building CXX object CMakeFiles/Code.dir/CodeForces/BFS/Cycle_In_Maze.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeForces/BFS/Cycle_In_Maze.cpp.o -c "/home/optimus/Projects/Code/CodeForces/BFS/Cycle In Maze.cpp"
 
 CMakeFiles/Code.dir/CodeForces/BFS/Cycle_In_Maze.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/CodeForces/BFS/Cycle_In_Maze.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/CodeForces/BFS/Cycle In Maze.cpp" > CMakeFiles/Code.dir/CodeForces/BFS/Cycle_In_Maze.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/CodeForces/BFS/Cycle In Maze.cpp" > CMakeFiles/Code.dir/CodeForces/BFS/Cycle_In_Maze.cpp.i
 
 CMakeFiles/Code.dir/CodeForces/BFS/Cycle_In_Maze.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/CodeForces/BFS/Cycle_In_Maze.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/CodeForces/BFS/Cycle In Maze.cpp" -o CMakeFiles/Code.dir/CodeForces/BFS/Cycle_In_Maze.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/CodeForces/BFS/Cycle In Maze.cpp" -o CMakeFiles/Code.dir/CodeForces/BFS/Cycle_In_Maze.cpp.s
 
 CMakeFiles/Code.dir/CodeForces/BFS/Cycle_In_Maze.cpp.o.requires:
 
@@ -2483,16 +2483,16 @@ CMakeFiles/Code.dir/CodeForces/BFS/Cycle_In_Maze.cpp.o.provides.build: CMakeFile
 
 CMakeFiles/Code.dir/CodeForces/BFS/Police_Station.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/CodeForces/BFS/Police_Station.cpp.o: ../CodeForces/BFS/Police\ Station.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_102) "Building CXX object CMakeFiles/Code.dir/CodeForces/BFS/Police_Station.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeForces/BFS/Police_Station.cpp.o -c "/home/optimus/MEGA/Code/CodeForces/BFS/Police Station.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_102) "Building CXX object CMakeFiles/Code.dir/CodeForces/BFS/Police_Station.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeForces/BFS/Police_Station.cpp.o -c "/home/optimus/Projects/Code/CodeForces/BFS/Police Station.cpp"
 
 CMakeFiles/Code.dir/CodeForces/BFS/Police_Station.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/CodeForces/BFS/Police_Station.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/CodeForces/BFS/Police Station.cpp" > CMakeFiles/Code.dir/CodeForces/BFS/Police_Station.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/CodeForces/BFS/Police Station.cpp" > CMakeFiles/Code.dir/CodeForces/BFS/Police_Station.cpp.i
 
 CMakeFiles/Code.dir/CodeForces/BFS/Police_Station.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/CodeForces/BFS/Police_Station.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/CodeForces/BFS/Police Station.cpp" -o CMakeFiles/Code.dir/CodeForces/BFS/Police_Station.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/CodeForces/BFS/Police Station.cpp" -o CMakeFiles/Code.dir/CodeForces/BFS/Police_Station.cpp.s
 
 CMakeFiles/Code.dir/CodeForces/BFS/Police_Station.cpp.o.requires:
 
@@ -2507,16 +2507,16 @@ CMakeFiles/Code.dir/CodeForces/BFS/Police_Station.cpp.o.provides.build: CMakeFil
 
 CMakeFiles/Code.dir/HackerRank/_Real_Estate_Broker_.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/HackerRank/_Real_Estate_Broker_.cpp.o: ../HackerRank/\ Real\ Estate\ Broker\ .cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_103) "Building CXX object CMakeFiles/Code.dir/HackerRank/_Real_Estate_Broker_.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/HackerRank/_Real_Estate_Broker_.cpp.o -c "/home/optimus/MEGA/Code/HackerRank/ Real Estate Broker .cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_103) "Building CXX object CMakeFiles/Code.dir/HackerRank/_Real_Estate_Broker_.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/HackerRank/_Real_Estate_Broker_.cpp.o -c "/home/optimus/Projects/Code/HackerRank/ Real Estate Broker .cpp"
 
 CMakeFiles/Code.dir/HackerRank/_Real_Estate_Broker_.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/HackerRank/_Real_Estate_Broker_.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/HackerRank/ Real Estate Broker .cpp" > CMakeFiles/Code.dir/HackerRank/_Real_Estate_Broker_.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/HackerRank/ Real Estate Broker .cpp" > CMakeFiles/Code.dir/HackerRank/_Real_Estate_Broker_.cpp.i
 
 CMakeFiles/Code.dir/HackerRank/_Real_Estate_Broker_.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/HackerRank/_Real_Estate_Broker_.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/HackerRank/ Real Estate Broker .cpp" -o CMakeFiles/Code.dir/HackerRank/_Real_Estate_Broker_.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/HackerRank/ Real Estate Broker .cpp" -o CMakeFiles/Code.dir/HackerRank/_Real_Estate_Broker_.cpp.s
 
 CMakeFiles/Code.dir/HackerRank/_Real_Estate_Broker_.cpp.o.requires:
 
@@ -2531,16 +2531,16 @@ CMakeFiles/Code.dir/HackerRank/_Real_Estate_Broker_.cpp.o.provides.build: CMakeF
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.cpp.o: ../Cracking\ the\ Coding\ Interview/Bit\ Manipulation/Q5-4.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_104) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.cpp.o -c "/home/optimus/MEGA/Code/Cracking the Coding Interview/Bit Manipulation/Q5-4.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_104) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.cpp.o -c "/home/optimus/Projects/Code/Cracking the Coding Interview/Bit Manipulation/Q5-4.cpp"
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/Cracking the Coding Interview/Bit Manipulation/Q5-4.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/Cracking the Coding Interview/Bit Manipulation/Q5-4.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.cpp.i
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/Cracking the Coding Interview/Bit Manipulation/Q5-4.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/Cracking the Coding Interview/Bit Manipulation/Q5-4.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.cpp.s
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.cpp.o.requires:
 
@@ -2555,16 +2555,16 @@ CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-4.cpp.o.pr
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.cpp.o: ../Cracking\ the\ Coding\ Interview/Bit\ Manipulation/Q5-7.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_105) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.cpp.o -c "/home/optimus/MEGA/Code/Cracking the Coding Interview/Bit Manipulation/Q5-7.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_105) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.cpp.o -c "/home/optimus/Projects/Code/Cracking the Coding Interview/Bit Manipulation/Q5-7.cpp"
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/Cracking the Coding Interview/Bit Manipulation/Q5-7.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/Cracking the Coding Interview/Bit Manipulation/Q5-7.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.cpp.i
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/Cracking the Coding Interview/Bit Manipulation/Q5-7.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/Cracking the Coding Interview/Bit Manipulation/Q5-7.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.cpp.s
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.cpp.o.requires:
 
@@ -2579,16 +2579,16 @@ CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-7.cpp.o.pr
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-1.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-1.cpp.o: ../Cracking\ the\ Coding\ Interview/Recursion\ and\ Dynamic/Q8-1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_106) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-1.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-1.cpp.o -c "/home/optimus/MEGA/Code/Cracking the Coding Interview/Recursion and Dynamic/Q8-1.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_106) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-1.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-1.cpp.o -c "/home/optimus/Projects/Code/Cracking the Coding Interview/Recursion and Dynamic/Q8-1.cpp"
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-1.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-1.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/Cracking the Coding Interview/Recursion and Dynamic/Q8-1.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-1.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/Cracking the Coding Interview/Recursion and Dynamic/Q8-1.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-1.cpp.i
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-1.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-1.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/Cracking the Coding Interview/Recursion and Dynamic/Q8-1.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-1.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/Cracking the Coding Interview/Recursion and Dynamic/Q8-1.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-1.cpp.s
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-1.cpp.o.requires:
 
@@ -2603,16 +2603,16 @@ CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-1.cpp
 
 CMakeFiles/Code.dir/CodeForces/Djikstra/_Complete_The_Graph.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/CodeForces/Djikstra/_Complete_The_Graph.cpp.o: ../CodeForces/Djikstra/\ Complete\ The\ Graph.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_107) "Building CXX object CMakeFiles/Code.dir/CodeForces/Djikstra/_Complete_The_Graph.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeForces/Djikstra/_Complete_The_Graph.cpp.o -c "/home/optimus/MEGA/Code/CodeForces/Djikstra/ Complete The Graph.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_107) "Building CXX object CMakeFiles/Code.dir/CodeForces/Djikstra/_Complete_The_Graph.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeForces/Djikstra/_Complete_The_Graph.cpp.o -c "/home/optimus/Projects/Code/CodeForces/Djikstra/ Complete The Graph.cpp"
 
 CMakeFiles/Code.dir/CodeForces/Djikstra/_Complete_The_Graph.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/CodeForces/Djikstra/_Complete_The_Graph.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/CodeForces/Djikstra/ Complete The Graph.cpp" > CMakeFiles/Code.dir/CodeForces/Djikstra/_Complete_The_Graph.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/CodeForces/Djikstra/ Complete The Graph.cpp" > CMakeFiles/Code.dir/CodeForces/Djikstra/_Complete_The_Graph.cpp.i
 
 CMakeFiles/Code.dir/CodeForces/Djikstra/_Complete_The_Graph.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/CodeForces/Djikstra/_Complete_The_Graph.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/CodeForces/Djikstra/ Complete The Graph.cpp" -o CMakeFiles/Code.dir/CodeForces/Djikstra/_Complete_The_Graph.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/CodeForces/Djikstra/ Complete The Graph.cpp" -o CMakeFiles/Code.dir/CodeForces/Djikstra/_Complete_The_Graph.cpp.s
 
 CMakeFiles/Code.dir/CodeForces/Djikstra/_Complete_The_Graph.cpp.o.requires:
 
@@ -2627,16 +2627,16 @@ CMakeFiles/Code.dir/CodeForces/Djikstra/_Complete_The_Graph.cpp.o.provides.build
 
 CMakeFiles/Code.dir/CodeForces/Djikstra/Test.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/CodeForces/Djikstra/Test.cpp.o: ../CodeForces/Djikstra/Test.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_108) "Building CXX object CMakeFiles/Code.dir/CodeForces/Djikstra/Test.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeForces/Djikstra/Test.cpp.o -c /home/optimus/MEGA/Code/CodeForces/Djikstra/Test.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_108) "Building CXX object CMakeFiles/Code.dir/CodeForces/Djikstra/Test.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeForces/Djikstra/Test.cpp.o -c /home/optimus/Projects/Code/CodeForces/Djikstra/Test.cpp
 
 CMakeFiles/Code.dir/CodeForces/Djikstra/Test.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/CodeForces/Djikstra/Test.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/MEGA/Code/CodeForces/Djikstra/Test.cpp > CMakeFiles/Code.dir/CodeForces/Djikstra/Test.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/Projects/Code/CodeForces/Djikstra/Test.cpp > CMakeFiles/Code.dir/CodeForces/Djikstra/Test.cpp.i
 
 CMakeFiles/Code.dir/CodeForces/Djikstra/Test.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/CodeForces/Djikstra/Test.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/MEGA/Code/CodeForces/Djikstra/Test.cpp -o CMakeFiles/Code.dir/CodeForces/Djikstra/Test.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/Projects/Code/CodeForces/Djikstra/Test.cpp -o CMakeFiles/Code.dir/CodeForces/Djikstra/Test.cpp.s
 
 CMakeFiles/Code.dir/CodeForces/Djikstra/Test.cpp.o.requires:
 
@@ -2651,16 +2651,16 @@ CMakeFiles/Code.dir/CodeForces/Djikstra/Test.cpp.o.provides.build: CMakeFiles/Co
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-2.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-2.cpp.o: ../Cracking\ the\ Coding\ Interview/Recursion\ and\ Dynamic/Q8-2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_109) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-2.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-2.cpp.o -c "/home/optimus/MEGA/Code/Cracking the Coding Interview/Recursion and Dynamic/Q8-2.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_109) "Building CXX object CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-2.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-2.cpp.o -c "/home/optimus/Projects/Code/Cracking the Coding Interview/Recursion and Dynamic/Q8-2.cpp"
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-2.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/Cracking the Coding Interview/Recursion and Dynamic/Q8-2.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-2.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/Cracking the Coding Interview/Recursion and Dynamic/Q8-2.cpp" > CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-2.cpp.i
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-2.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/Cracking the Coding Interview/Recursion and Dynamic/Q8-2.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-2.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/Cracking the Coding Interview/Recursion and Dynamic/Q8-2.cpp" -o CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-2.cpp.s
 
 CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-2.cpp.o.requires:
 
@@ -2675,16 +2675,16 @@ CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Recursion_and_Dynamic/Q8-2.cpp
 
 CMakeFiles/Code.dir/Hitchhiker's_/MaxSumOnALine.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/Hitchhiker's_/MaxSumOnALine.cpp.o: ../Hitchhiker's\ /MaxSumOnALine.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_110) "Building CXX object CMakeFiles/Code.dir/Hitchhiker's_/MaxSumOnALine.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/Code.dir/Hitchhiker's_/MaxSumOnALine.cpp.o" -c "/home/optimus/MEGA/Code/Hitchhiker's /MaxSumOnALine.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_110) "Building CXX object CMakeFiles/Code.dir/Hitchhiker's_/MaxSumOnALine.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/Code.dir/Hitchhiker's_/MaxSumOnALine.cpp.o" -c "/home/optimus/Projects/Code/Hitchhiker's /MaxSumOnALine.cpp"
 
 CMakeFiles/Code.dir/Hitchhiker's_/MaxSumOnALine.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/Hitchhiker's_/MaxSumOnALine.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/Hitchhiker's /MaxSumOnALine.cpp" > "CMakeFiles/Code.dir/Hitchhiker's_/MaxSumOnALine.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/Hitchhiker's /MaxSumOnALine.cpp" > "CMakeFiles/Code.dir/Hitchhiker's_/MaxSumOnALine.cpp.i"
 
 CMakeFiles/Code.dir/Hitchhiker's_/MaxSumOnALine.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/Hitchhiker's_/MaxSumOnALine.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/Hitchhiker's /MaxSumOnALine.cpp" -o "CMakeFiles/Code.dir/Hitchhiker's_/MaxSumOnALine.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/Hitchhiker's /MaxSumOnALine.cpp" -o "CMakeFiles/Code.dir/Hitchhiker's_/MaxSumOnALine.cpp.s"
 
 CMakeFiles/Code.dir/Hitchhiker's_/MaxSumOnALine.cpp.o.requires:
 
@@ -2699,16 +2699,16 @@ CMakeFiles/Code.dir/Hitchhiker's_/MaxSumOnALine.cpp.o.provides.build: CMakeFiles
 
 CMakeFiles/Code.dir/HackerEarth/Dynamic/Counting_Number_of_Ways_.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/HackerEarth/Dynamic/Counting_Number_of_Ways_.cpp.o: ../HackerEarth/Dynamic/Counting\ Number\ of\ Ways\ .cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_111) "Building CXX object CMakeFiles/Code.dir/HackerEarth/Dynamic/Counting_Number_of_Ways_.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/HackerEarth/Dynamic/Counting_Number_of_Ways_.cpp.o -c "/home/optimus/MEGA/Code/HackerEarth/Dynamic/Counting Number of Ways .cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_111) "Building CXX object CMakeFiles/Code.dir/HackerEarth/Dynamic/Counting_Number_of_Ways_.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/HackerEarth/Dynamic/Counting_Number_of_Ways_.cpp.o -c "/home/optimus/Projects/Code/HackerEarth/Dynamic/Counting Number of Ways .cpp"
 
 CMakeFiles/Code.dir/HackerEarth/Dynamic/Counting_Number_of_Ways_.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/HackerEarth/Dynamic/Counting_Number_of_Ways_.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/HackerEarth/Dynamic/Counting Number of Ways .cpp" > CMakeFiles/Code.dir/HackerEarth/Dynamic/Counting_Number_of_Ways_.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/HackerEarth/Dynamic/Counting Number of Ways .cpp" > CMakeFiles/Code.dir/HackerEarth/Dynamic/Counting_Number_of_Ways_.cpp.i
 
 CMakeFiles/Code.dir/HackerEarth/Dynamic/Counting_Number_of_Ways_.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/HackerEarth/Dynamic/Counting_Number_of_Ways_.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/HackerEarth/Dynamic/Counting Number of Ways .cpp" -o CMakeFiles/Code.dir/HackerEarth/Dynamic/Counting_Number_of_Ways_.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/HackerEarth/Dynamic/Counting Number of Ways .cpp" -o CMakeFiles/Code.dir/HackerEarth/Dynamic/Counting_Number_of_Ways_.cpp.s
 
 CMakeFiles/Code.dir/HackerEarth/Dynamic/Counting_Number_of_Ways_.cpp.o.requires:
 
@@ -2723,16 +2723,16 @@ CMakeFiles/Code.dir/HackerEarth/Dynamic/Counting_Number_of_Ways_.cpp.o.provides.
 
 CMakeFiles/Code.dir/HackerEarth/Dynamic/On^2.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/HackerEarth/Dynamic/On^2.cpp.o: ../HackerEarth/Dynamic/On^2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_112) "Building CXX object CMakeFiles/Code.dir/HackerEarth/Dynamic/On^2.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/Code.dir/HackerEarth/Dynamic/On^2.cpp.o" -c "/home/optimus/MEGA/Code/HackerEarth/Dynamic/On^2.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_112) "Building CXX object CMakeFiles/Code.dir/HackerEarth/Dynamic/On^2.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/Code.dir/HackerEarth/Dynamic/On^2.cpp.o" -c "/home/optimus/Projects/Code/HackerEarth/Dynamic/On^2.cpp"
 
 CMakeFiles/Code.dir/HackerEarth/Dynamic/On^2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/HackerEarth/Dynamic/On^2.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/HackerEarth/Dynamic/On^2.cpp" > "CMakeFiles/Code.dir/HackerEarth/Dynamic/On^2.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/HackerEarth/Dynamic/On^2.cpp" > "CMakeFiles/Code.dir/HackerEarth/Dynamic/On^2.cpp.i"
 
 CMakeFiles/Code.dir/HackerEarth/Dynamic/On^2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/HackerEarth/Dynamic/On^2.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/HackerEarth/Dynamic/On^2.cpp" -o "CMakeFiles/Code.dir/HackerEarth/Dynamic/On^2.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/HackerEarth/Dynamic/On^2.cpp" -o "CMakeFiles/Code.dir/HackerEarth/Dynamic/On^2.cpp.s"
 
 CMakeFiles/Code.dir/HackerEarth/Dynamic/On^2.cpp.o.requires:
 
@@ -2747,16 +2747,16 @@ CMakeFiles/Code.dir/HackerEarth/Dynamic/On^2.cpp.o.provides.build: CMakeFiles/Co
 
 CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/RECTANGL.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/RECTANGL.cpp.o: ../CodeChef/January\ Challenge\ 2018/RECTANGL.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_113) "Building CXX object CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/RECTANGL.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/RECTANGL.cpp.o -c "/home/optimus/MEGA/Code/CodeChef/January Challenge 2018/RECTANGL.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_113) "Building CXX object CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/RECTANGL.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/RECTANGL.cpp.o -c "/home/optimus/Projects/Code/CodeChef/January Challenge 2018/RECTANGL.cpp"
 
 CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/RECTANGL.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/RECTANGL.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/CodeChef/January Challenge 2018/RECTANGL.cpp" > CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/RECTANGL.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/CodeChef/January Challenge 2018/RECTANGL.cpp" > CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/RECTANGL.cpp.i
 
 CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/RECTANGL.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/RECTANGL.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/CodeChef/January Challenge 2018/RECTANGL.cpp" -o CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/RECTANGL.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/CodeChef/January Challenge 2018/RECTANGL.cpp" -o CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/RECTANGL.cpp.s
 
 CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/RECTANGL.cpp.o.requires:
 
@@ -2771,16 +2771,16 @@ CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/RECTANGL.cpp.o.provides.buil
 
 CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/MAXSC.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/MAXSC.cpp.o: ../CodeChef/January\ Challenge\ 2018/MAXSC.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_114) "Building CXX object CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/MAXSC.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/MAXSC.cpp.o -c "/home/optimus/MEGA/Code/CodeChef/January Challenge 2018/MAXSC.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_114) "Building CXX object CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/MAXSC.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/MAXSC.cpp.o -c "/home/optimus/Projects/Code/CodeChef/January Challenge 2018/MAXSC.cpp"
 
 CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/MAXSC.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/MAXSC.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/CodeChef/January Challenge 2018/MAXSC.cpp" > CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/MAXSC.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/CodeChef/January Challenge 2018/MAXSC.cpp" > CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/MAXSC.cpp.i
 
 CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/MAXSC.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/MAXSC.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/CodeChef/January Challenge 2018/MAXSC.cpp" -o CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/MAXSC.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/CodeChef/January Challenge 2018/MAXSC.cpp" -o CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/MAXSC.cpp.s
 
 CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/MAXSC.cpp.o.requires:
 
@@ -2795,16 +2795,16 @@ CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/MAXSC.cpp.o.provides.build: 
 
 CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON.cpp.o: ../CodeChef/January\ Challenge\ 2018/KCON.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_115) "Building CXX object CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON.cpp.o -c "/home/optimus/MEGA/Code/CodeChef/January Challenge 2018/KCON.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_115) "Building CXX object CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON.cpp.o -c "/home/optimus/Projects/Code/CodeChef/January Challenge 2018/KCON.cpp"
 
 CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/CodeChef/January Challenge 2018/KCON.cpp" > CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/CodeChef/January Challenge 2018/KCON.cpp" > CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON.cpp.i
 
 CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/CodeChef/January Challenge 2018/KCON.cpp" -o CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/CodeChef/January Challenge 2018/KCON.cpp" -o CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON.cpp.s
 
 CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON.cpp.o.requires:
 
@@ -2819,16 +2819,16 @@ CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON.cpp.o.provides.build: C
 
 CMakeFiles/Code.dir/CodeChef/ALTARAY.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/CodeChef/ALTARAY.cpp.o: ../CodeChef/ALTARAY.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_116) "Building CXX object CMakeFiles/Code.dir/CodeChef/ALTARAY.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/ALTARAY.cpp.o -c /home/optimus/MEGA/Code/CodeChef/ALTARAY.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_116) "Building CXX object CMakeFiles/Code.dir/CodeChef/ALTARAY.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/ALTARAY.cpp.o -c /home/optimus/Projects/Code/CodeChef/ALTARAY.cpp
 
 CMakeFiles/Code.dir/CodeChef/ALTARAY.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/CodeChef/ALTARAY.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/MEGA/Code/CodeChef/ALTARAY.cpp > CMakeFiles/Code.dir/CodeChef/ALTARAY.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/Projects/Code/CodeChef/ALTARAY.cpp > CMakeFiles/Code.dir/CodeChef/ALTARAY.cpp.i
 
 CMakeFiles/Code.dir/CodeChef/ALTARAY.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/CodeChef/ALTARAY.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/MEGA/Code/CodeChef/ALTARAY.cpp -o CMakeFiles/Code.dir/CodeChef/ALTARAY.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/Projects/Code/CodeChef/ALTARAY.cpp -o CMakeFiles/Code.dir/CodeChef/ALTARAY.cpp.s
 
 CMakeFiles/Code.dir/CodeChef/ALTARAY.cpp.o.requires:
 
@@ -2843,16 +2843,16 @@ CMakeFiles/Code.dir/CodeChef/ALTARAY.cpp.o.provides.build: CMakeFiles/Code.dir/C
 
 CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.o: ../CodeChef/January\ Challenge\ 2018/STRMRG.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_117) "Building CXX object CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.o -c "/home/optimus/MEGA/Code/CodeChef/January Challenge 2018/STRMRG.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_117) "Building CXX object CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.o -c "/home/optimus/Projects/Code/CodeChef/January Challenge 2018/STRMRG.cpp"
 
 CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/CodeChef/January Challenge 2018/STRMRG.cpp" > CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/CodeChef/January Challenge 2018/STRMRG.cpp" > CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.i
 
 CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/CodeChef/January Challenge 2018/STRMRG.cpp" -o CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/CodeChef/January Challenge 2018/STRMRG.cpp" -o CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.s
 
 CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.o.requires:
 
@@ -2867,16 +2867,16 @@ CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/STRMRG.cpp.o.provides.build:
 
 CMakeFiles/Code.dir/Logics/Arduino's_map.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/Logics/Arduino's_map.cpp.o: ../Logics/Arduino's\ map.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_118) "Building CXX object CMakeFiles/Code.dir/Logics/Arduino's_map.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/Code.dir/Logics/Arduino's_map.cpp.o" -c "/home/optimus/MEGA/Code/Logics/Arduino's map.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_118) "Building CXX object CMakeFiles/Code.dir/Logics/Arduino's_map.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/Code.dir/Logics/Arduino's_map.cpp.o" -c "/home/optimus/Projects/Code/Logics/Arduino's map.cpp"
 
 CMakeFiles/Code.dir/Logics/Arduino's_map.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/Logics/Arduino's_map.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/Logics/Arduino's map.cpp" > "CMakeFiles/Code.dir/Logics/Arduino's_map.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/Logics/Arduino's map.cpp" > "CMakeFiles/Code.dir/Logics/Arduino's_map.cpp.i"
 
 CMakeFiles/Code.dir/Logics/Arduino's_map.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/Logics/Arduino's_map.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/Logics/Arduino's map.cpp" -o "CMakeFiles/Code.dir/Logics/Arduino's_map.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/Logics/Arduino's map.cpp" -o "CMakeFiles/Code.dir/Logics/Arduino's_map.cpp.s"
 
 CMakeFiles/Code.dir/Logics/Arduino's_map.cpp.o.requires:
 
@@ -2891,16 +2891,16 @@ CMakeFiles/Code.dir/Logics/Arduino's_map.cpp.o.provides.build: CMakeFiles/Code.d
 
 CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON2.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON2.cpp.o: ../CodeChef/January\ Challenge\ 2018/KCON2.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_119) "Building CXX object CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON2.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON2.cpp.o -c "/home/optimus/MEGA/Code/CodeChef/January Challenge 2018/KCON2.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_119) "Building CXX object CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON2.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON2.cpp.o -c "/home/optimus/Projects/Code/CodeChef/January Challenge 2018/KCON2.cpp"
 
 CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON2.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/CodeChef/January Challenge 2018/KCON2.cpp" > CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON2.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/CodeChef/January Challenge 2018/KCON2.cpp" > CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON2.cpp.i
 
 CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON2.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/CodeChef/January Challenge 2018/KCON2.cpp" -o CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON2.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/CodeChef/January Challenge 2018/KCON2.cpp" -o CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON2.cpp.s
 
 CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON2.cpp.o.requires:
 
@@ -2915,16 +2915,16 @@ CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON2.cpp.o.provides.build: 
 
 CMakeFiles/Code.dir/CodeChef/Practice/DELISH.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/CodeChef/Practice/DELISH.cpp.o: ../CodeChef/Practice/DELISH.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_120) "Building CXX object CMakeFiles/Code.dir/CodeChef/Practice/DELISH.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/Practice/DELISH.cpp.o -c /home/optimus/MEGA/Code/CodeChef/Practice/DELISH.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_120) "Building CXX object CMakeFiles/Code.dir/CodeChef/Practice/DELISH.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/Practice/DELISH.cpp.o -c /home/optimus/Projects/Code/CodeChef/Practice/DELISH.cpp
 
 CMakeFiles/Code.dir/CodeChef/Practice/DELISH.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/CodeChef/Practice/DELISH.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/MEGA/Code/CodeChef/Practice/DELISH.cpp > CMakeFiles/Code.dir/CodeChef/Practice/DELISH.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/Projects/Code/CodeChef/Practice/DELISH.cpp > CMakeFiles/Code.dir/CodeChef/Practice/DELISH.cpp.i
 
 CMakeFiles/Code.dir/CodeChef/Practice/DELISH.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/CodeChef/Practice/DELISH.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/MEGA/Code/CodeChef/Practice/DELISH.cpp -o CMakeFiles/Code.dir/CodeChef/Practice/DELISH.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/Projects/Code/CodeChef/Practice/DELISH.cpp -o CMakeFiles/Code.dir/CodeChef/Practice/DELISH.cpp.s
 
 CMakeFiles/Code.dir/CodeChef/Practice/DELISH.cpp.o.requires:
 
@@ -2939,16 +2939,16 @@ CMakeFiles/Code.dir/CodeChef/Practice/DELISH.cpp.o.provides.build: CMakeFiles/Co
 
 CMakeFiles/Code.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.o: ../SPOJ/HOTELS\ -\ Hotels\ Along\ the\ Croatian\ Coast.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_121) "Building CXX object CMakeFiles/Code.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.o -c "/home/optimus/MEGA/Code/SPOJ/HOTELS - Hotels Along the Croatian Coast.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_121) "Building CXX object CMakeFiles/Code.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.o -c "/home/optimus/Projects/Code/SPOJ/HOTELS - Hotels Along the Croatian Coast.cpp"
 
 CMakeFiles/Code.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/SPOJ/HOTELS - Hotels Along the Croatian Coast.cpp" > CMakeFiles/Code.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/SPOJ/HOTELS - Hotels Along the Croatian Coast.cpp" > CMakeFiles/Code.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.i
 
 CMakeFiles/Code.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/SPOJ/HOTELS - Hotels Along the Croatian Coast.cpp" -o CMakeFiles/Code.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/SPOJ/HOTELS - Hotels Along the Croatian Coast.cpp" -o CMakeFiles/Code.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.s
 
 CMakeFiles/Code.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.o.requires:
 
@@ -2963,16 +2963,16 @@ CMakeFiles/Code.dir/SPOJ/HOTELS_-_Hotels_Along_the_Croatian_Coast.cpp.o.provides
 
 CMakeFiles/Code.dir/CodeChef/Practice/DBOY_.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/CodeChef/Practice/DBOY_.cpp.o: ../CodeChef/Practice/DBOY\ .cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_122) "Building CXX object CMakeFiles/Code.dir/CodeChef/Practice/DBOY_.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/Practice/DBOY_.cpp.o -c "/home/optimus/MEGA/Code/CodeChef/Practice/DBOY .cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_122) "Building CXX object CMakeFiles/Code.dir/CodeChef/Practice/DBOY_.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/CodeChef/Practice/DBOY_.cpp.o -c "/home/optimus/Projects/Code/CodeChef/Practice/DBOY .cpp"
 
 CMakeFiles/Code.dir/CodeChef/Practice/DBOY_.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/CodeChef/Practice/DBOY_.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/CodeChef/Practice/DBOY .cpp" > CMakeFiles/Code.dir/CodeChef/Practice/DBOY_.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/CodeChef/Practice/DBOY .cpp" > CMakeFiles/Code.dir/CodeChef/Practice/DBOY_.cpp.i
 
 CMakeFiles/Code.dir/CodeChef/Practice/DBOY_.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/CodeChef/Practice/DBOY_.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/CodeChef/Practice/DBOY .cpp" -o CMakeFiles/Code.dir/CodeChef/Practice/DBOY_.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/CodeChef/Practice/DBOY .cpp" -o CMakeFiles/Code.dir/CodeChef/Practice/DBOY_.cpp.s
 
 CMakeFiles/Code.dir/CodeChef/Practice/DBOY_.cpp.o.requires:
 
@@ -2987,16 +2987,16 @@ CMakeFiles/Code.dir/CodeChef/Practice/DBOY_.cpp.o.provides.build: CMakeFiles/Cod
 
 CMakeFiles/Code.dir/Logics/EyantraScan1.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/Logics/EyantraScan1.cpp.o: ../Logics/EyantraScan1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_123) "Building CXX object CMakeFiles/Code.dir/Logics/EyantraScan1.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Logics/EyantraScan1.cpp.o -c /home/optimus/MEGA/Code/Logics/EyantraScan1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_123) "Building CXX object CMakeFiles/Code.dir/Logics/EyantraScan1.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Logics/EyantraScan1.cpp.o -c /home/optimus/Projects/Code/Logics/EyantraScan1.cpp
 
 CMakeFiles/Code.dir/Logics/EyantraScan1.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/Logics/EyantraScan1.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/MEGA/Code/Logics/EyantraScan1.cpp > CMakeFiles/Code.dir/Logics/EyantraScan1.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/Projects/Code/Logics/EyantraScan1.cpp > CMakeFiles/Code.dir/Logics/EyantraScan1.cpp.i
 
 CMakeFiles/Code.dir/Logics/EyantraScan1.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/Logics/EyantraScan1.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/MEGA/Code/Logics/EyantraScan1.cpp -o CMakeFiles/Code.dir/Logics/EyantraScan1.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/Projects/Code/Logics/EyantraScan1.cpp -o CMakeFiles/Code.dir/Logics/EyantraScan1.cpp.s
 
 CMakeFiles/Code.dir/Logics/EyantraScan1.cpp.o.requires:
 
@@ -3011,16 +3011,16 @@ CMakeFiles/Code.dir/Logics/EyantraScan1.cpp.o.provides.build: CMakeFiles/Code.di
 
 CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00272.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00272.cpp.o: ../UVA\ online\ judge/1.3.3/UVa\ 00272.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_124) "Building CXX object CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00272.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00272.cpp.o -c "/home/optimus/MEGA/Code/UVA online judge/1.3.3/UVa 00272.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_124) "Building CXX object CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00272.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00272.cpp.o -c "/home/optimus/Projects/Code/UVA online judge/1.3.3/UVa 00272.cpp"
 
 CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00272.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00272.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/UVA online judge/1.3.3/UVa 00272.cpp" > CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00272.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/UVA online judge/1.3.3/UVa 00272.cpp" > CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00272.cpp.i
 
 CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00272.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00272.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/UVA online judge/1.3.3/UVa 00272.cpp" -o CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00272.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/UVA online judge/1.3.3/UVa 00272.cpp" -o CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00272.cpp.s
 
 CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00272.cpp.o.requires:
 
@@ -3035,16 +3035,16 @@ CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00272.cpp.o.provides.build: CMake
 
 CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00621.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00621.cpp.o: ../UVA\ online\ judge/1.3.3/UVa\ 00621.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_125) "Building CXX object CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00621.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00621.cpp.o -c "/home/optimus/MEGA/Code/UVA online judge/1.3.3/UVa 00621.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_125) "Building CXX object CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00621.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00621.cpp.o -c "/home/optimus/Projects/Code/UVA online judge/1.3.3/UVa 00621.cpp"
 
 CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00621.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00621.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/UVA online judge/1.3.3/UVa 00621.cpp" > CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00621.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/UVA online judge/1.3.3/UVa 00621.cpp" > CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00621.cpp.i
 
 CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00621.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00621.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/UVA online judge/1.3.3/UVa 00621.cpp" -o CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00621.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/UVA online judge/1.3.3/UVa 00621.cpp" -o CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00621.cpp.s
 
 CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00621.cpp.o.requires:
 
@@ -3059,16 +3059,16 @@ CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00621.cpp.o.provides.build: CMake
 
 CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00119.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00119.cpp.o: ../UVA\ online\ judge/1.3.3/UVa\ 00119.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_126) "Building CXX object CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00119.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00119.cpp.o -c "/home/optimus/MEGA/Code/UVA online judge/1.3.3/UVa 00119.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_126) "Building CXX object CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00119.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00119.cpp.o -c "/home/optimus/Projects/Code/UVA online judge/1.3.3/UVa 00119.cpp"
 
 CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00119.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00119.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/UVA online judge/1.3.3/UVa 00119.cpp" > CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00119.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/UVA online judge/1.3.3/UVa 00119.cpp" > CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00119.cpp.i
 
 CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00119.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00119.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/UVA online judge/1.3.3/UVa 00119.cpp" -o CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00119.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/UVA online judge/1.3.3/UVa 00119.cpp" -o CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00119.cpp.s
 
 CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00119.cpp.o.requires:
 
@@ -3083,16 +3083,16 @@ CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00119.cpp.o.provides.build: CMake
 
 CMakeFiles/Code.dir/Logics/trial.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/Logics/trial.cpp.o: ../Logics/trial.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_127) "Building CXX object CMakeFiles/Code.dir/Logics/trial.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Logics/trial.cpp.o -c /home/optimus/MEGA/Code/Logics/trial.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_127) "Building CXX object CMakeFiles/Code.dir/Logics/trial.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Logics/trial.cpp.o -c /home/optimus/Projects/Code/Logics/trial.cpp
 
 CMakeFiles/Code.dir/Logics/trial.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/Logics/trial.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/MEGA/Code/Logics/trial.cpp > CMakeFiles/Code.dir/Logics/trial.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/Projects/Code/Logics/trial.cpp > CMakeFiles/Code.dir/Logics/trial.cpp.i
 
 CMakeFiles/Code.dir/Logics/trial.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/Logics/trial.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/MEGA/Code/Logics/trial.cpp -o CMakeFiles/Code.dir/Logics/trial.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/Projects/Code/Logics/trial.cpp -o CMakeFiles/Code.dir/Logics/trial.cpp.s
 
 CMakeFiles/Code.dir/Logics/trial.cpp.o.requires:
 
@@ -3107,16 +3107,16 @@ CMakeFiles/Code.dir/Logics/trial.cpp.o.provides.build: CMakeFiles/Code.dir/Logic
 
 CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.o: CMakeFiles/Code.dir/flags.make
 CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.o: ../UVA\ online\ judge/1.3.3/UVa\ 00573.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_128) "Building CXX object CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.o -c "/home/optimus/MEGA/Code/UVA online judge/1.3.3/UVa 00573.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_128) "Building CXX object CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.o -c "/home/optimus/Projects/Code/UVA online judge/1.3.3/UVa 00573.cpp"
 
 CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/MEGA/Code/UVA online judge/1.3.3/UVa 00573.cpp" > CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/UVA online judge/1.3.3/UVa 00573.cpp" > CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.i
 
 CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/MEGA/Code/UVA online judge/1.3.3/UVa 00573.cpp" -o CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/UVA online judge/1.3.3/UVa 00573.cpp" -o CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.s
 
 CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.o.requires:
 
@@ -3127,6 +3127,30 @@ CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.o.provides: CMakeFiles/
 .PHONY : CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.o.provides
 
 CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.o.provides.build: CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.o
+
+
+CMakeFiles/Code.dir/UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.cpp.o: CMakeFiles/Code.dir/flags.make
+CMakeFiles/Code.dir/UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.cpp.o: ../UVA\ online\ judge/2.2.4/UVa\ 00230\ -\ Borrowers.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_129) "Building CXX object CMakeFiles/Code.dir/UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.cpp.o -c "/home/optimus/Projects/Code/UVA online judge/2.2.4/UVa 00230 - Borrowers.cpp"
+
+CMakeFiles/Code.dir/UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/UVA online judge/2.2.4/UVa 00230 - Borrowers.cpp" > CMakeFiles/Code.dir/UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.cpp.i
+
+CMakeFiles/Code.dir/UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/UVA online judge/2.2.4/UVa 00230 - Borrowers.cpp" -o CMakeFiles/Code.dir/UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.cpp.s
+
+CMakeFiles/Code.dir/UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.cpp.o.requires:
+
+.PHONY : CMakeFiles/Code.dir/UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.cpp.o.requires
+
+CMakeFiles/Code.dir/UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.cpp.o.provides: CMakeFiles/Code.dir/UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.cpp.o.provides.build
+.PHONY : CMakeFiles/Code.dir/UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.cpp.o.provides
+
+CMakeFiles/Code.dir/UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.cpp.o.provides.build: CMakeFiles/Code.dir/UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.cpp.o
 
 
 # Object files for target Code
@@ -3258,7 +3282,8 @@ Code_OBJECTS = \
 "CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00621.cpp.o" \
 "CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00119.cpp.o" \
 "CMakeFiles/Code.dir/Logics/trial.cpp.o" \
-"CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.o"
+"CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.o" \
+"CMakeFiles/Code.dir/UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.cpp.o"
 
 # External object files for target Code
 Code_EXTERNAL_OBJECTS =
@@ -3391,9 +3416,10 @@ Code: CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00621.cpp.o
 Code: CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00119.cpp.o
 Code: CMakeFiles/Code.dir/Logics/trial.cpp.o
 Code: CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.o
+Code: CMakeFiles/Code.dir/UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.cpp.o
 Code: CMakeFiles/Code.dir/build.make
 Code: CMakeFiles/Code.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_129) "Linking CXX executable Code"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_130) "Linking CXX executable Code"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Code.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -3529,6 +3555,7 @@ CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_006
 CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00119.cpp.o.requires
 CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/Logics/trial.cpp.o.requires
 CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.o.requires
+CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.cpp.o.requires
 
 .PHONY : CMakeFiles/Code.dir/requires
 
@@ -3537,6 +3564,6 @@ CMakeFiles/Code.dir/clean:
 .PHONY : CMakeFiles/Code.dir/clean
 
 CMakeFiles/Code.dir/depend:
-	cd /home/optimus/MEGA/Code/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/optimus/MEGA/Code /home/optimus/MEGA/Code /home/optimus/MEGA/Code/cmake-build-debug /home/optimus/MEGA/Code/cmake-build-debug /home/optimus/MEGA/Code/cmake-build-debug/CMakeFiles/Code.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/optimus/Projects/Code/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/optimus/Projects/Code /home/optimus/Projects/Code /home/optimus/Projects/Code/cmake-build-debug /home/optimus/Projects/Code/cmake-build-debug /home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/Code.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/Code.dir/depend
 
