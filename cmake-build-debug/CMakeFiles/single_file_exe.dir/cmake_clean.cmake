@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/single_file_exe.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.o"
-  "../UVA online judge/1.3.3/single_file_exe.pdb"
-  "../UVA online judge/1.3.3/single_file_exe"
+  "CMakeFiles/single_file_exe.dir/UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.cpp.o"
+  "../UVA online judge/2.2.4/single_file_exe.pdb"
+  "../UVA online judge/2.2.4/single_file_exe"
 )
 
 # Per-language clean rules from dependency scanning.

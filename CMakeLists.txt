@@ -71,5 +71,5 @@ set(SOURCE_FILES
 
 add_executable(Code ${SOURCE_FILES})
 
-add_executable(single_file_exe "UVA online judge/1.3.3/UVa 00573.cpp")
-set_target_properties(single_file_exe PROPERTIES RUNTIME_OUTPUT_DIRECTORY "${CMAKE_CURRENT_SOURCE_DIR}/UVA online judge/1.3.3/")
+add_executable(single_file_exe "UVA online judge/2.2.4/UVa 00230 - Borrowers.cpp")
+set_target_properties(single_file_exe PROPERTIES RUNTIME_OUTPUT_DIRECTORY "${CMAKE_CURRENT_SOURCE_DIR}/UVA online judge/2.2.4/")

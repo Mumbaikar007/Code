@@ -3544,7 +3544,6 @@ UVA_online_judge/1.3.3/UVa_00573.o: UVA_online_judge/1.3.3/UVa_00573.cpp.o
 
 # target to build an object file
 UVA_online_judge/1.3.3/UVa_00573.cpp.o:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.o
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.o
 .PHONY : UVA_online_judge/1.3.3/UVa_00573.cpp.o
 
@@ -3554,7 +3553,6 @@ UVA_online_judge/1.3.3/UVa_00573.i: UVA_online_judge/1.3.3/UVa_00573.cpp.i
 
 # target to preprocess a source file
 UVA_online_judge/1.3.3/UVa_00573.cpp.i:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.i
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.i
 .PHONY : UVA_online_judge/1.3.3/UVa_00573.cpp.i
 
@@ -3564,7 +3562,6 @@ UVA_online_judge/1.3.3/UVa_00573.s: UVA_online_judge/1.3.3/UVa_00573.cpp.s
 
 # target to generate assembly for a file
 UVA_online_judge/1.3.3/UVa_00573.cpp.s:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.s
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.s
 .PHONY : UVA_online_judge/1.3.3/UVa_00573.cpp.s
 
@@ -3601,6 +3598,7 @@ UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.o: UVA_online_judge/2.2.4/UVa_00230
 
 # target to build an object file
 UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.cpp.o:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.cpp.o
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.cpp.o
 .PHONY : UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.cpp.o
 
@@ -3610,6 +3608,7 @@ UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.i: UVA_online_judge/2.2.4/UVa_00230
 
 # target to preprocess a source file
 UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.cpp.i:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.cpp.i
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.cpp.i
 .PHONY : UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.cpp.i
 
@@ -3619,6 +3618,7 @@ UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.s: UVA_online_judge/2.2.4/UVa_00230
 
 # target to generate assembly for a file
 UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.cpp.s:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.cpp.s
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.cpp.s
 .PHONY : UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.cpp.s
 

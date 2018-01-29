@@ -38,7 +38,7 @@
 				</MakeCommands>
 			</Target>
 			<Target title="single_file_exe">
-				<Option output="/home/optimus/Projects/Code/UVA online judge/1.3.3/single_file_exe" prefix_auto="0" extension_auto="0"/>
+				<Option output="/home/optimus/Projects/Code/UVA online judge/2.2.4/single_file_exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/optimus/Projects/Code/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -61,7 +61,7 @@
 				</MakeCommands>
 			</Target>
 			<Target title="single_file_exe/fast">
-				<Option output="/home/optimus/Projects/Code/UVA online judge/1.3.3/single_file_exe" prefix_auto="0" extension_auto="0"/>
+				<Option output="/home/optimus/Projects/Code/UVA online judge/2.2.4/single_file_exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/optimus/Projects/Code/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -509,13 +509,13 @@
 			<Option target="Code"/>
 		</Unit>
 		<Unit filename="/home/optimus/Projects/Code/UVA online judge/1.3.3/UVa 00573.cpp">
-			<Option target="single_file_exe"/>
 			<Option target="Code"/>
 		</Unit>
 		<Unit filename="/home/optimus/Projects/Code/UVA online judge/1.3.3/UVa 00621.cpp">
 			<Option target="Code"/>
 		</Unit>
 		<Unit filename="/home/optimus/Projects/Code/UVA online judge/2.2.4/UVa 00230 - Borrowers.cpp">
+			<Option target="single_file_exe"/>
 			<Option target="Code"/>
 		</Unit>
 		<Unit filename="/home/optimus/Projects/Code/CMakeLists.txt">
