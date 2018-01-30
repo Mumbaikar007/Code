@@ -141,6 +141,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/optimus/Projects/Code/UVA online judge/1.3.3/UVa 00573.cpp" "/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.o"
   "/home/optimus/Projects/Code/UVA online judge/1.3.3/UVa 00621.cpp" "/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00621.cpp.o"
   "/home/optimus/Projects/Code/UVA online judge/2.2.4/UVa 00230 - Borrowers.cpp" "/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/Code.dir/UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.cpp.o"
+  "/home/optimus/Projects/Code/UVA online judge/3.5.2/507 - Jill Rides Again.cpp" "/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/Code.dir/UVA_online_judge/3.5.2/507_-_Jill_Rides_Again.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
