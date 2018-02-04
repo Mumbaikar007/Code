@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/single_file_exe.dir/UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.cpp.o  -o "../UVA online judge/2.2.4/single_file_exe" 
+/usr/bin/c++  -g   "CMakeFiles/single_file_exe.dir/Hitchhiker's_/LIS.cpp.o"  -o "../Hitchhiker's /single_file_exe" 

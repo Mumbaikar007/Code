@@ -2566,6 +2566,36 @@ HackerRank/eruptingVolcanos.cpp.s:
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/HackerRank/eruptingVolcanos.cpp.s
 .PHONY : HackerRank/eruptingVolcanos.cpp.s
 
+Hitchhiker's_/LIS.o: Hitchhiker's_/LIS.cpp.o
+
+.PHONY : Hitchhiker's_/LIS.o
+
+# target to build an object file
+Hitchhiker's_/LIS.cpp.o:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make "CMakeFiles/single_file_exe.dir/Hitchhiker's_/LIS.cpp.o"
+	$(MAKE) -f CMakeFiles/Code.dir/build.make "CMakeFiles/Code.dir/Hitchhiker's_/LIS.cpp.o"
+.PHONY : Hitchhiker's_/LIS.cpp.o
+
+Hitchhiker's_/LIS.i: Hitchhiker's_/LIS.cpp.i
+
+.PHONY : Hitchhiker's_/LIS.i
+
+# target to preprocess a source file
+Hitchhiker's_/LIS.cpp.i:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make "CMakeFiles/single_file_exe.dir/Hitchhiker's_/LIS.cpp.i"
+	$(MAKE) -f CMakeFiles/Code.dir/build.make "CMakeFiles/Code.dir/Hitchhiker's_/LIS.cpp.i"
+.PHONY : Hitchhiker's_/LIS.cpp.i
+
+Hitchhiker's_/LIS.s: Hitchhiker's_/LIS.cpp.s
+
+.PHONY : Hitchhiker's_/LIS.s
+
+# target to generate assembly for a file
+Hitchhiker's_/LIS.cpp.s:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make "CMakeFiles/single_file_exe.dir/Hitchhiker's_/LIS.cpp.s"
+	$(MAKE) -f CMakeFiles/Code.dir/build.make "CMakeFiles/Code.dir/Hitchhiker's_/LIS.cpp.s"
+.PHONY : Hitchhiker's_/LIS.cpp.s
+
 Hitchhiker's_/LongestCommonSubsequence.o: Hitchhiker's_/LongestCommonSubsequence.cpp.o
 
 .PHONY : Hitchhiker's_/LongestCommonSubsequence.o
@@ -2673,6 +2703,33 @@ Logics/Arduino's_map.s: Logics/Arduino's_map.cpp.s
 Logics/Arduino's_map.cpp.s:
 	$(MAKE) -f CMakeFiles/Code.dir/build.make "CMakeFiles/Code.dir/Logics/Arduino's_map.cpp.s"
 .PHONY : Logics/Arduino's_map.cpp.s
+
+Logics/AsseblerPass1.o: Logics/AsseblerPass1.cpp.o
+
+.PHONY : Logics/AsseblerPass1.o
+
+# target to build an object file
+Logics/AsseblerPass1.cpp.o:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Logics/AsseblerPass1.cpp.o
+.PHONY : Logics/AsseblerPass1.cpp.o
+
+Logics/AsseblerPass1.i: Logics/AsseblerPass1.cpp.i
+
+.PHONY : Logics/AsseblerPass1.i
+
+# target to preprocess a source file
+Logics/AsseblerPass1.cpp.i:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Logics/AsseblerPass1.cpp.i
+.PHONY : Logics/AsseblerPass1.cpp.i
+
+Logics/AsseblerPass1.s: Logics/AsseblerPass1.cpp.s
+
+.PHONY : Logics/AsseblerPass1.s
+
+# target to generate assembly for a file
+Logics/AsseblerPass1.cpp.s:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Logics/AsseblerPass1.cpp.s
+.PHONY : Logics/AsseblerPass1.cpp.s
 
 Logics/CallByReference.o: Logics/CallByReference.cpp.o
 
@@ -3625,7 +3682,6 @@ UVA_online_judge/3.5.2/507_-_Jill_Rides_Again.o: UVA_online_judge/3.5.2/507_-_Ji
 
 # target to build an object file
 UVA_online_judge/3.5.2/507_-_Jill_Rides_Again.cpp.o:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/507_-_Jill_Rides_Again.cpp.o
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/3.5.2/507_-_Jill_Rides_Again.cpp.o
 .PHONY : UVA_online_judge/3.5.2/507_-_Jill_Rides_Again.cpp.o
 
@@ -3635,7 +3691,6 @@ UVA_online_judge/3.5.2/507_-_Jill_Rides_Again.i: UVA_online_judge/3.5.2/507_-_Ji
 
 # target to preprocess a source file
 UVA_online_judge/3.5.2/507_-_Jill_Rides_Again.cpp.i:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/507_-_Jill_Rides_Again.cpp.i
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/3.5.2/507_-_Jill_Rides_Again.cpp.i
 .PHONY : UVA_online_judge/3.5.2/507_-_Jill_Rides_Again.cpp.i
 
@@ -3645,9 +3700,35 @@ UVA_online_judge/3.5.2/507_-_Jill_Rides_Again.s: UVA_online_judge/3.5.2/507_-_Ji
 
 # target to generate assembly for a file
 UVA_online_judge/3.5.2/507_-_Jill_Rides_Again.cpp.s:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/507_-_Jill_Rides_Again.cpp.s
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/3.5.2/507_-_Jill_Rides_Again.cpp.s
 .PHONY : UVA_online_judge/3.5.2/507_-_Jill_Rides_Again.cpp.s
+
+UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.o: UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.cpp.o
+
+.PHONY : UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.o
+
+# target to build an object file
+UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.cpp.o:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.cpp.o
+.PHONY : UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.cpp.o
+
+UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.i: UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.cpp.i
+
+.PHONY : UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.i
+
+# target to preprocess a source file
+UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.cpp.i:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.cpp.i
+.PHONY : UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.cpp.i
+
+UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.s: UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.cpp.s
+
+.PHONY : UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.s
+
+# target to generate assembly for a file
+UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.cpp.s:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.cpp.s
+.PHONY : UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.cpp.s
 
 # Help Target
 help:
@@ -3929,6 +4010,9 @@ help:
 	@echo "... HackerRank/eruptingVolcanos.o"
 	@echo "... HackerRank/eruptingVolcanos.i"
 	@echo "... HackerRank/eruptingVolcanos.s"
+	@echo "... Hitchhiker's_/LIS.o"
+	@echo "... Hitchhiker's_/LIS.i"
+	@echo "... Hitchhiker's_/LIS.s"
 	@echo "... Hitchhiker's_/LongestCommonSubsequence.o"
 	@echo "... Hitchhiker's_/LongestCommonSubsequence.i"
 	@echo "... Hitchhiker's_/LongestCommonSubsequence.s"
@@ -3941,6 +4025,9 @@ help:
 	@echo "... Logics/Arduino's_map.o"
 	@echo "... Logics/Arduino's_map.i"
 	@echo "... Logics/Arduino's_map.s"
+	@echo "... Logics/AsseblerPass1.o"
+	@echo "... Logics/AsseblerPass1.i"
+	@echo "... Logics/AsseblerPass1.s"
 	@echo "... Logics/CallByReference.o"
 	@echo "... Logics/CallByReference.i"
 	@echo "... Logics/CallByReference.s"
@@ -4049,6 +4136,9 @@ help:
 	@echo "... UVA_online_judge/3.5.2/507_-_Jill_Rides_Again.o"
 	@echo "... UVA_online_judge/3.5.2/507_-_Jill_Rides_Again.i"
 	@echo "... UVA_online_judge/3.5.2/507_-_Jill_Rides_Again.s"
+	@echo "... UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.o"
+	@echo "... UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.i"
+	@echo "... UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.s"
 .PHONY : help
 
 

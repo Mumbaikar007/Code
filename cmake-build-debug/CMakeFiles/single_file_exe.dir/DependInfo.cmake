@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/optimus/Projects/Code/UVA online judge/2.2.4/UVa 00230 - Borrowers.cpp" "/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/single_file_exe.dir/UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.cpp.o"
+  "/home/optimus/Projects/Code/Hitchhiker's /LIS.cpp" "/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/single_file_exe.dir/Hitchhiker's_/LIS.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

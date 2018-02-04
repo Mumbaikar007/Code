@@ -38,7 +38,7 @@
 				</MakeCommands>
 			</Target>
 			<Target title="single_file_exe">
-				<Option output="/home/optimus/Projects/Code/UVA online judge/3.5.2/single_file_exe" prefix_auto="0" extension_auto="0"/>
+				<Option output="/home/optimus/Projects/Code/Hitchhiker&apos;s /single_file_exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/optimus/Projects/Code/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -61,7 +61,7 @@
 				</MakeCommands>
 			</Target>
 			<Target title="single_file_exe/fast">
-				<Option output="/home/optimus/Projects/Code/UVA online judge/3.5.2/single_file_exe" prefix_auto="0" extension_auto="0"/>
+				<Option output="/home/optimus/Projects/Code/Hitchhiker&apos;s /single_file_exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/optimus/Projects/Code/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -400,6 +400,10 @@
 		<Unit filename="/home/optimus/Projects/Code/HackerRank/eruptingVolcanos.cpp">
 			<Option target="Code"/>
 		</Unit>
+		<Unit filename="/home/optimus/Projects/Code/Hitchhiker&apos;s /LIS.cpp">
+			<Option target="single_file_exe"/>
+			<Option target="Code"/>
+		</Unit>
 		<Unit filename="/home/optimus/Projects/Code/Hitchhiker&apos;s /LongestCommonSubsequence.cpp">
 			<Option target="Code"/>
 		</Unit>
@@ -410,6 +414,9 @@
 			<Option target="Code"/>
 		</Unit>
 		<Unit filename="/home/optimus/Projects/Code/Logics/Arduino&apos;s map.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/optimus/Projects/Code/Logics/AsseblerPass1.cpp">
 			<Option target="Code"/>
 		</Unit>
 		<Unit filename="/home/optimus/Projects/Code/Logics/CallByReference.cpp">
@@ -518,7 +525,9 @@
 			<Option target="Code"/>
 		</Unit>
 		<Unit filename="/home/optimus/Projects/Code/UVA online judge/3.5.2/507 - Jill Rides Again.cpp">
-			<Option target="single_file_exe"/>
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/optimus/Projects/Code/UVA online judge/3.5.2/UVa 108 - Maximum Sum.cpp">
 			<Option target="Code"/>
 		</Unit>
 		<Unit filename="/home/optimus/Projects/Code/CMakeLists.txt">

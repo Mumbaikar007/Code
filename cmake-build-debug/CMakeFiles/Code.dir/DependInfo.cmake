@@ -102,10 +102,12 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/optimus/Projects/Code/HackerRank/Weighted UniformSubstrings.cpp" "/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/Code.dir/HackerRank/Weighted_UniformSubstrings.cpp.o"
   "/home/optimus/Projects/Code/HackerRank/ Real Estate Broker .cpp" "/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/Code.dir/HackerRank/_Real_Estate_Broker_.cpp.o"
   "/home/optimus/Projects/Code/HackerRank/eruptingVolcanos.cpp" "/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/Code.dir/HackerRank/eruptingVolcanos.cpp.o"
+  "/home/optimus/Projects/Code/Hitchhiker's /LIS.cpp" "/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/Code.dir/Hitchhiker's_/LIS.cpp.o"
   "/home/optimus/Projects/Code/Hitchhiker's /LongestCommonSubsequence.cpp" "/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/Code.dir/Hitchhiker's_/LongestCommonSubsequence.cpp.o"
   "/home/optimus/Projects/Code/Hitchhiker's /MaxSumOnALine.cpp" "/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/Code.dir/Hitchhiker's_/MaxSumOnALine.cpp.o"
   "/home/optimus/Projects/Code/Hitchhiker's /SampleProblemCombinatorics.cpp" "/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/Code.dir/Hitchhiker's_/SampleProblemCombinatorics.cpp.o"
   "/home/optimus/Projects/Code/Logics/Arduino's map.cpp" "/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/Code.dir/Logics/Arduino's_map.cpp.o"
+  "/home/optimus/Projects/Code/Logics/AsseblerPass1.cpp" "/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/Code.dir/Logics/AsseblerPass1.cpp.o"
   "/home/optimus/Projects/Code/Logics/CallByReference.cpp" "/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/Code.dir/Logics/CallByReference.cpp.o"
   "/home/optimus/Projects/Code/Logics/Combinations.cpp" "/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/Code.dir/Logics/Combinations.cpp.o"
   "/home/optimus/Projects/Code/Logics/EyantraScan1.cpp" "/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/Code.dir/Logics/EyantraScan1.cpp.o"
@@ -142,6 +144,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/optimus/Projects/Code/UVA online judge/1.3.3/UVa 00621.cpp" "/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00621.cpp.o"
   "/home/optimus/Projects/Code/UVA online judge/2.2.4/UVa 00230 - Borrowers.cpp" "/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/Code.dir/UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.cpp.o"
   "/home/optimus/Projects/Code/UVA online judge/3.5.2/507 - Jill Rides Again.cpp" "/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/Code.dir/UVA_online_judge/3.5.2/507_-_Jill_Rides_Again.cpp.o"
+  "/home/optimus/Projects/Code/UVA online judge/3.5.2/UVa 108 - Maximum Sum.cpp" "/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/Code.dir/UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

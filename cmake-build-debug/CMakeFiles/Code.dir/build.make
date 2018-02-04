@@ -3177,6 +3177,78 @@ CMakeFiles/Code.dir/UVA_online_judge/3.5.2/507_-_Jill_Rides_Again.cpp.o.provides
 CMakeFiles/Code.dir/UVA_online_judge/3.5.2/507_-_Jill_Rides_Again.cpp.o.provides.build: CMakeFiles/Code.dir/UVA_online_judge/3.5.2/507_-_Jill_Rides_Again.cpp.o
 
 
+CMakeFiles/Code.dir/Logics/AsseblerPass1.cpp.o: CMakeFiles/Code.dir/flags.make
+CMakeFiles/Code.dir/Logics/AsseblerPass1.cpp.o: ../Logics/AsseblerPass1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_131) "Building CXX object CMakeFiles/Code.dir/Logics/AsseblerPass1.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/Logics/AsseblerPass1.cpp.o -c /home/optimus/Projects/Code/Logics/AsseblerPass1.cpp
+
+CMakeFiles/Code.dir/Logics/AsseblerPass1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/Logics/AsseblerPass1.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/Projects/Code/Logics/AsseblerPass1.cpp > CMakeFiles/Code.dir/Logics/AsseblerPass1.cpp.i
+
+CMakeFiles/Code.dir/Logics/AsseblerPass1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/Logics/AsseblerPass1.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/Projects/Code/Logics/AsseblerPass1.cpp -o CMakeFiles/Code.dir/Logics/AsseblerPass1.cpp.s
+
+CMakeFiles/Code.dir/Logics/AsseblerPass1.cpp.o.requires:
+
+.PHONY : CMakeFiles/Code.dir/Logics/AsseblerPass1.cpp.o.requires
+
+CMakeFiles/Code.dir/Logics/AsseblerPass1.cpp.o.provides: CMakeFiles/Code.dir/Logics/AsseblerPass1.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Logics/AsseblerPass1.cpp.o.provides.build
+.PHONY : CMakeFiles/Code.dir/Logics/AsseblerPass1.cpp.o.provides
+
+CMakeFiles/Code.dir/Logics/AsseblerPass1.cpp.o.provides.build: CMakeFiles/Code.dir/Logics/AsseblerPass1.cpp.o
+
+
+CMakeFiles/Code.dir/UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.cpp.o: CMakeFiles/Code.dir/flags.make
+CMakeFiles/Code.dir/UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.cpp.o: ../UVA\ online\ judge/3.5.2/UVa\ 108\ -\ Maximum\ Sum.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_132) "Building CXX object CMakeFiles/Code.dir/UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.cpp.o -c "/home/optimus/Projects/Code/UVA online judge/3.5.2/UVa 108 - Maximum Sum.cpp"
+
+CMakeFiles/Code.dir/UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/UVA online judge/3.5.2/UVa 108 - Maximum Sum.cpp" > CMakeFiles/Code.dir/UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.cpp.i
+
+CMakeFiles/Code.dir/UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/UVA online judge/3.5.2/UVa 108 - Maximum Sum.cpp" -o CMakeFiles/Code.dir/UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.cpp.s
+
+CMakeFiles/Code.dir/UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.cpp.o.requires:
+
+.PHONY : CMakeFiles/Code.dir/UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.cpp.o.requires
+
+CMakeFiles/Code.dir/UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.cpp.o.provides: CMakeFiles/Code.dir/UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.cpp.o.provides.build
+.PHONY : CMakeFiles/Code.dir/UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.cpp.o.provides
+
+CMakeFiles/Code.dir/UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.cpp.o.provides.build: CMakeFiles/Code.dir/UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.cpp.o
+
+
+CMakeFiles/Code.dir/Hitchhiker's_/LIS.cpp.o: CMakeFiles/Code.dir/flags.make
+CMakeFiles/Code.dir/Hitchhiker's_/LIS.cpp.o: ../Hitchhiker's\ /LIS.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_133) "Building CXX object CMakeFiles/Code.dir/Hitchhiker's_/LIS.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o "CMakeFiles/Code.dir/Hitchhiker's_/LIS.cpp.o" -c "/home/optimus/Projects/Code/Hitchhiker's /LIS.cpp"
+
+CMakeFiles/Code.dir/Hitchhiker's_/LIS.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/Hitchhiker's_/LIS.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/Hitchhiker's /LIS.cpp" > "CMakeFiles/Code.dir/Hitchhiker's_/LIS.cpp.i"
+
+CMakeFiles/Code.dir/Hitchhiker's_/LIS.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/Hitchhiker's_/LIS.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/Hitchhiker's /LIS.cpp" -o "CMakeFiles/Code.dir/Hitchhiker's_/LIS.cpp.s"
+
+CMakeFiles/Code.dir/Hitchhiker's_/LIS.cpp.o.requires:
+
+.PHONY : CMakeFiles/Code.dir/Hitchhiker's_/LIS.cpp.o.requires
+
+CMakeFiles/Code.dir/Hitchhiker's_/LIS.cpp.o.provides: CMakeFiles/Code.dir/Hitchhiker's_/LIS.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Code.dir/build.make "CMakeFiles/Code.dir/Hitchhiker's_/LIS.cpp.o.provides.build"
+.PHONY : CMakeFiles/Code.dir/Hitchhiker's_/LIS.cpp.o.provides
+
+CMakeFiles/Code.dir/Hitchhiker's_/LIS.cpp.o.provides.build: CMakeFiles/Code.dir/Hitchhiker's_/LIS.cpp.o
+
+
 # Object files for target Code
 Code_OBJECTS = \
 "CMakeFiles/Code.dir/CLRS/Dynamic_Programming/Cut-Rod-Problem-Memorization-Top-Down.cpp.o" \
@@ -3308,7 +3380,10 @@ Code_OBJECTS = \
 "CMakeFiles/Code.dir/Logics/trial.cpp.o" \
 "CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.o" \
 "CMakeFiles/Code.dir/UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.cpp.o" \
-"CMakeFiles/Code.dir/UVA_online_judge/3.5.2/507_-_Jill_Rides_Again.cpp.o"
+"CMakeFiles/Code.dir/UVA_online_judge/3.5.2/507_-_Jill_Rides_Again.cpp.o" \
+"CMakeFiles/Code.dir/Logics/AsseblerPass1.cpp.o" \
+"CMakeFiles/Code.dir/UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.cpp.o" \
+"CMakeFiles/Code.dir/Hitchhiker's_/LIS.cpp.o"
 
 # External object files for target Code
 Code_EXTERNAL_OBJECTS =
@@ -3443,9 +3518,12 @@ Code: CMakeFiles/Code.dir/Logics/trial.cpp.o
 Code: CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.o
 Code: CMakeFiles/Code.dir/UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.cpp.o
 Code: CMakeFiles/Code.dir/UVA_online_judge/3.5.2/507_-_Jill_Rides_Again.cpp.o
+Code: CMakeFiles/Code.dir/Logics/AsseblerPass1.cpp.o
+Code: CMakeFiles/Code.dir/UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.cpp.o
+Code: CMakeFiles/Code.dir/Hitchhiker's_/LIS.cpp.o
 Code: CMakeFiles/Code.dir/build.make
 Code: CMakeFiles/Code.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_131) "Linking CXX executable Code"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_134) "Linking CXX executable Code"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Code.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -3583,6 +3661,9 @@ CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/Logics/trial.cpp.o.requires
 CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.o.requires
 CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.cpp.o.requires
 CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/UVA_online_judge/3.5.2/507_-_Jill_Rides_Again.cpp.o.requires
+CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/Logics/AsseblerPass1.cpp.o.requires
+CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.cpp.o.requires
+CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/Hitchhiker's_/LIS.cpp.o.requires
 
 .PHONY : CMakeFiles/Code.dir/requires
 
