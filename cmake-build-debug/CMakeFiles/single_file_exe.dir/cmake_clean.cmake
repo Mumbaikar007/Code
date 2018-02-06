@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/single_file_exe.dir/Hitchhiker's_/LIS.cpp.o"
-  "../Hitchhiker's /single_file_exe.pdb"
-  "../Hitchhiker's /single_file_exe"
+  "CMakeFiles/single_file_exe.dir/Logics/test.cpp.o"
+  "../Logics/single_file_exe.pdb"
+  "../Logics/single_file_exe"
 )
 
 # Per-language clean rules from dependency scanning.

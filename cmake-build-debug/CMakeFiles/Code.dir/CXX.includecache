@@ -576,6 +576,12 @@ iostream
 algorithm
 -
 
+/home/optimus/Projects/Code/Hitchhiker's /LIS.cpp
+iostream
+-
+vector
+-
+
 /home/optimus/Projects/Code/Hitchhiker's /LongestCommonSubsequence.cpp
 iostream
 -
@@ -596,6 +602,18 @@ iostream
 
 /home/optimus/Projects/Code/Logics/Arduino's map.cpp
 iostream
+-
+
+/home/optimus/Projects/Code/Logics/AsseblerPass1.cpp
+iostream
+-
+fstream
+-
+string
+-
+algorithm
+-
+sstream
 -
 
 /home/optimus/Projects/Code/Logics/CallByReference.cpp
@@ -626,6 +644,10 @@ iostream
 vector
 -
 cmath
+-
+
+/home/optimus/Projects/Code/Logics/StructConstructor.cpp
+iostream
 -
 
 /home/optimus/Projects/Code/Logics/string.cpp
@@ -792,5 +814,23 @@ iostream
 vector
 -
 algorithm
+-
+map
+-
+
+/home/optimus/Projects/Code/UVA online judge/3.5.2/507 - Jill Rides Again.cpp
+iostream
+-
+vector
+-
+cstdio
+-
+
+/home/optimus/Projects/Code/UVA online judge/3.5.2/UVa 108 - Maximum Sum.cpp
+iostream
+-
+vector
+-
+climits
 -
 

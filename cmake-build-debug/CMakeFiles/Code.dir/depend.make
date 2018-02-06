@@ -181,6 +181,8 @@ CMakeFiles/Code.dir/HackerRank/_Real_Estate_Broker_.cpp.o: ../HackerRank/\ Real\
 
 CMakeFiles/Code.dir/HackerRank/eruptingVolcanos.cpp.o: ../HackerRank/eruptingVolcanos.cpp
 
+CMakeFiles/Code.dir/Hitchhiker's_/LIS.cpp.o: ../Hitchhiker's\ /LIS.cpp
+
 CMakeFiles/Code.dir/Hitchhiker's_/LongestCommonSubsequence.cpp.o: ../Hitchhiker's\ /LongestCommonSubsequence.cpp
 
 CMakeFiles/Code.dir/Hitchhiker's_/MaxSumOnALine.cpp.o: ../Hitchhiker's\ /MaxSumOnALine.cpp
@@ -188,6 +190,8 @@ CMakeFiles/Code.dir/Hitchhiker's_/MaxSumOnALine.cpp.o: ../Hitchhiker's\ /MaxSumO
 CMakeFiles/Code.dir/Hitchhiker's_/SampleProblemCombinatorics.cpp.o: ../Hitchhiker's\ /SampleProblemCombinatorics.cpp
 
 CMakeFiles/Code.dir/Logics/Arduino's_map.cpp.o: ../Logics/Arduino's\ map.cpp
+
+CMakeFiles/Code.dir/Logics/AsseblerPass1.cpp.o: ../Logics/AsseblerPass1.cpp
 
 CMakeFiles/Code.dir/Logics/CallByReference.cpp.o: ../Logics/CallByReference.cpp
 
@@ -198,6 +202,8 @@ CMakeFiles/Code.dir/Logics/EyantraScan1.cpp.o: ../Logics/EyantraScan1.cpp
 CMakeFiles/Code.dir/Logics/HardCodeMatrix.cpp.o: ../Logics/HardCodeMatrix.cpp
 
 CMakeFiles/Code.dir/Logics/PowerSet.cpp.o: ../Logics/PowerSet.cpp
+
+CMakeFiles/Code.dir/Logics/StructConstructor.cpp.o: ../Logics/StructConstructor.cpp
 
 CMakeFiles/Code.dir/Logics/string.cpp.o: ../Logics/string.cpp
 
@@ -258,4 +264,8 @@ CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.o: ../UVA\ online\ judg
 CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00621.cpp.o: ../UVA\ online\ judge/1.3.3/UVa\ 00621.cpp
 
 CMakeFiles/Code.dir/UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.cpp.o: ../UVA\ online\ judge/2.2.4/UVa\ 00230\ -\ Borrowers.cpp
+
+CMakeFiles/Code.dir/UVA_online_judge/3.5.2/507_-_Jill_Rides_Again.cpp.o: ../UVA\ online\ judge/3.5.2/507\ -\ Jill\ Rides\ Again.cpp
+
+CMakeFiles/Code.dir/UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.cpp.o: ../UVA\ online\ judge/3.5.2/UVa\ 108\ -\ Maximum\ Sum.cpp
 

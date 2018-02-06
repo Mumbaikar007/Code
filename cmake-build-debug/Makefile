@@ -2572,7 +2572,6 @@ Hitchhiker's_/LIS.o: Hitchhiker's_/LIS.cpp.o
 
 # target to build an object file
 Hitchhiker's_/LIS.cpp.o:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make "CMakeFiles/single_file_exe.dir/Hitchhiker's_/LIS.cpp.o"
 	$(MAKE) -f CMakeFiles/Code.dir/build.make "CMakeFiles/Code.dir/Hitchhiker's_/LIS.cpp.o"
 .PHONY : Hitchhiker's_/LIS.cpp.o
 
@@ -2582,7 +2581,6 @@ Hitchhiker's_/LIS.i: Hitchhiker's_/LIS.cpp.i
 
 # target to preprocess a source file
 Hitchhiker's_/LIS.cpp.i:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make "CMakeFiles/single_file_exe.dir/Hitchhiker's_/LIS.cpp.i"
 	$(MAKE) -f CMakeFiles/Code.dir/build.make "CMakeFiles/Code.dir/Hitchhiker's_/LIS.cpp.i"
 .PHONY : Hitchhiker's_/LIS.cpp.i
 
@@ -2592,7 +2590,6 @@ Hitchhiker's_/LIS.s: Hitchhiker's_/LIS.cpp.s
 
 # target to generate assembly for a file
 Hitchhiker's_/LIS.cpp.s:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make "CMakeFiles/single_file_exe.dir/Hitchhiker's_/LIS.cpp.s"
 	$(MAKE) -f CMakeFiles/Code.dir/build.make "CMakeFiles/Code.dir/Hitchhiker's_/LIS.cpp.s"
 .PHONY : Hitchhiker's_/LIS.cpp.s
 
@@ -2866,6 +2863,33 @@ Logics/PowerSet.cpp.s:
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Logics/PowerSet.cpp.s
 .PHONY : Logics/PowerSet.cpp.s
 
+Logics/StructConstructor.o: Logics/StructConstructor.cpp.o
+
+.PHONY : Logics/StructConstructor.o
+
+# target to build an object file
+Logics/StructConstructor.cpp.o:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Logics/StructConstructor.cpp.o
+.PHONY : Logics/StructConstructor.cpp.o
+
+Logics/StructConstructor.i: Logics/StructConstructor.cpp.i
+
+.PHONY : Logics/StructConstructor.i
+
+# target to preprocess a source file
+Logics/StructConstructor.cpp.i:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Logics/StructConstructor.cpp.i
+.PHONY : Logics/StructConstructor.cpp.i
+
+Logics/StructConstructor.s: Logics/StructConstructor.cpp.s
+
+.PHONY : Logics/StructConstructor.s
+
+# target to generate assembly for a file
+Logics/StructConstructor.cpp.s:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Logics/StructConstructor.cpp.s
+.PHONY : Logics/StructConstructor.cpp.s
+
 Logics/string.o: Logics/string.cpp.o
 
 .PHONY : Logics/string.o
@@ -2892,6 +2916,33 @@ Logics/string.s: Logics/string.cpp.s
 Logics/string.cpp.s:
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Logics/string.cpp.s
 .PHONY : Logics/string.cpp.s
+
+Logics/test.o: Logics/test.cpp.o
+
+.PHONY : Logics/test.o
+
+# target to build an object file
+Logics/test.cpp.o:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Logics/test.cpp.o
+.PHONY : Logics/test.cpp.o
+
+Logics/test.i: Logics/test.cpp.i
+
+.PHONY : Logics/test.i
+
+# target to preprocess a source file
+Logics/test.cpp.i:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Logics/test.cpp.i
+.PHONY : Logics/test.cpp.i
+
+Logics/test.s: Logics/test.cpp.s
+
+.PHONY : Logics/test.s
+
+# target to generate assembly for a file
+Logics/test.cpp.s:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Logics/test.cpp.s
+.PHONY : Logics/test.cpp.s
 
 Logics/trial.o: Logics/trial.cpp.o
 
@@ -4043,9 +4094,15 @@ help:
 	@echo "... Logics/PowerSet.o"
 	@echo "... Logics/PowerSet.i"
 	@echo "... Logics/PowerSet.s"
+	@echo "... Logics/StructConstructor.o"
+	@echo "... Logics/StructConstructor.i"
+	@echo "... Logics/StructConstructor.s"
 	@echo "... Logics/string.o"
 	@echo "... Logics/string.i"
 	@echo "... Logics/string.s"
+	@echo "... Logics/test.o"
+	@echo "... Logics/test.i"
+	@echo "... Logics/test.s"
 	@echo "... Logics/trial.o"
 	@echo "... Logics/trial.i"
 	@echo "... Logics/trial.s"

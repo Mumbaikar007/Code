@@ -113,6 +113,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/optimus/Projects/Code/Logics/EyantraScan1.cpp" "/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/Code.dir/Logics/EyantraScan1.cpp.o"
   "/home/optimus/Projects/Code/Logics/HardCodeMatrix.cpp" "/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/Code.dir/Logics/HardCodeMatrix.cpp.o"
   "/home/optimus/Projects/Code/Logics/PowerSet.cpp" "/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/Code.dir/Logics/PowerSet.cpp.o"
+  "/home/optimus/Projects/Code/Logics/StructConstructor.cpp" "/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/Code.dir/Logics/StructConstructor.cpp.o"
   "/home/optimus/Projects/Code/Logics/string.cpp" "/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/Code.dir/Logics/string.cpp.o"
   "/home/optimus/Projects/Code/Logics/trial.cpp" "/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/Code.dir/Logics/trial.cpp.o"
   "/home/optimus/Projects/Code/ProjectEuler/10-Summation of primes.cpp" "/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/Code.dir/ProjectEuler/10-Summation_of_primes.cpp.o"

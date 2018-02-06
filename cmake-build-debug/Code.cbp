@@ -38,7 +38,7 @@
 				</MakeCommands>
 			</Target>
 			<Target title="single_file_exe">
-				<Option output="/home/optimus/Projects/Code/Hitchhiker&apos;s /single_file_exe" prefix_auto="0" extension_auto="0"/>
+				<Option output="/home/optimus/Projects/Code/Logics/single_file_exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/optimus/Projects/Code/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -61,7 +61,7 @@
 				</MakeCommands>
 			</Target>
 			<Target title="single_file_exe/fast">
-				<Option output="/home/optimus/Projects/Code/Hitchhiker&apos;s /single_file_exe" prefix_auto="0" extension_auto="0"/>
+				<Option output="/home/optimus/Projects/Code/Logics/single_file_exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/optimus/Projects/Code/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -401,7 +401,6 @@
 			<Option target="Code"/>
 		</Unit>
 		<Unit filename="/home/optimus/Projects/Code/Hitchhiker&apos;s /LIS.cpp">
-			<Option target="single_file_exe"/>
 			<Option target="Code"/>
 		</Unit>
 		<Unit filename="/home/optimus/Projects/Code/Hitchhiker&apos;s /LongestCommonSubsequence.cpp">
@@ -434,8 +433,14 @@
 		<Unit filename="/home/optimus/Projects/Code/Logics/PowerSet.cpp">
 			<Option target="Code"/>
 		</Unit>
+		<Unit filename="/home/optimus/Projects/Code/Logics/StructConstructor.cpp">
+			<Option target="Code"/>
+		</Unit>
 		<Unit filename="/home/optimus/Projects/Code/Logics/string.cpp">
 			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/optimus/Projects/Code/Logics/test.cpp">
+			<Option target="single_file_exe"/>
 		</Unit>
 		<Unit filename="/home/optimus/Projects/Code/Logics/trial.cpp">
 			<Option target="Code"/>

@@ -6,9 +6,21 @@
 
 #IncludeRegexTransform: 
 
-/home/optimus/Projects/Code/Hitchhiker's /LIS.cpp
+/home/optimus/Projects/Code/Logics/test.cpp
 iostream
 -
+fstream
+-
+string
+-
+algorithm
+-
+sstream
+-
 vector
+-
+map
+-
+iomanip
 -
 

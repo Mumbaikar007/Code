@@ -1,9 +1,9 @@
 John 	START 0
-	USING *, 15
-	L 1, A
-	A 1, TEST
-	ST 1, XYZ
+	    USING *, 15
+	    L 1, ABC
+	    A 1, TEST
+	    ST 1, XYZ
 XYZ 	DS 10F
 TEST 	DC H'3'
 ABC 	DC F'5'
-	END
+	    END

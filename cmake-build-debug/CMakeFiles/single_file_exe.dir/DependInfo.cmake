@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/optimus/Projects/Code/Hitchhiker's /LIS.cpp" "/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/single_file_exe.dir/Hitchhiker's_/LIS.cpp.o"
+  "/home/optimus/Projects/Code/Logics/test.cpp" "/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/single_file_exe.dir/Logics/test.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
