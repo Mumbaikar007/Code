@@ -2917,33 +2917,6 @@ Logics/string.cpp.s:
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Logics/string.cpp.s
 .PHONY : Logics/string.cpp.s
 
-Logics/test.o: Logics/test.cpp.o
-
-.PHONY : Logics/test.o
-
-# target to build an object file
-Logics/test.cpp.o:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Logics/test.cpp.o
-.PHONY : Logics/test.cpp.o
-
-Logics/test.i: Logics/test.cpp.i
-
-.PHONY : Logics/test.i
-
-# target to preprocess a source file
-Logics/test.cpp.i:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Logics/test.cpp.i
-.PHONY : Logics/test.cpp.i
-
-Logics/test.s: Logics/test.cpp.s
-
-.PHONY : Logics/test.s
-
-# target to generate assembly for a file
-Logics/test.cpp.s:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Logics/test.cpp.s
-.PHONY : Logics/test.cpp.s
-
 Logics/trial.o: Logics/trial.cpp.o
 
 .PHONY : Logics/trial.o
@@ -3727,6 +3700,36 @@ UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.cpp.s:
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.cpp.s
 .PHONY : UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.cpp.s
 
+UVA_online_judge/3.5.2/147_-_Dollars.o: UVA_online_judge/3.5.2/147_-_Dollars.cpp.o
+
+.PHONY : UVA_online_judge/3.5.2/147_-_Dollars.o
+
+# target to build an object file
+UVA_online_judge/3.5.2/147_-_Dollars.cpp.o:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/147_-_Dollars.cpp.o
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/3.5.2/147_-_Dollars.cpp.o
+.PHONY : UVA_online_judge/3.5.2/147_-_Dollars.cpp.o
+
+UVA_online_judge/3.5.2/147_-_Dollars.i: UVA_online_judge/3.5.2/147_-_Dollars.cpp.i
+
+.PHONY : UVA_online_judge/3.5.2/147_-_Dollars.i
+
+# target to preprocess a source file
+UVA_online_judge/3.5.2/147_-_Dollars.cpp.i:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/147_-_Dollars.cpp.i
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/3.5.2/147_-_Dollars.cpp.i
+.PHONY : UVA_online_judge/3.5.2/147_-_Dollars.cpp.i
+
+UVA_online_judge/3.5.2/147_-_Dollars.s: UVA_online_judge/3.5.2/147_-_Dollars.cpp.s
+
+.PHONY : UVA_online_judge/3.5.2/147_-_Dollars.s
+
+# target to generate assembly for a file
+UVA_online_judge/3.5.2/147_-_Dollars.cpp.s:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/147_-_Dollars.cpp.s
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/3.5.2/147_-_Dollars.cpp.s
+.PHONY : UVA_online_judge/3.5.2/147_-_Dollars.cpp.s
+
 UVA_online_judge/3.5.2/507_-_Jill_Rides_Again.o: UVA_online_judge/3.5.2/507_-_Jill_Rides_Again.cpp.o
 
 .PHONY : UVA_online_judge/3.5.2/507_-_Jill_Rides_Again.o
@@ -4100,9 +4103,6 @@ help:
 	@echo "... Logics/string.o"
 	@echo "... Logics/string.i"
 	@echo "... Logics/string.s"
-	@echo "... Logics/test.o"
-	@echo "... Logics/test.i"
-	@echo "... Logics/test.s"
 	@echo "... Logics/trial.o"
 	@echo "... Logics/trial.i"
 	@echo "... Logics/trial.s"
@@ -4190,6 +4190,9 @@ help:
 	@echo "... UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.o"
 	@echo "... UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.i"
 	@echo "... UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.s"
+	@echo "... UVA_online_judge/3.5.2/147_-_Dollars.o"
+	@echo "... UVA_online_judge/3.5.2/147_-_Dollars.i"
+	@echo "... UVA_online_judge/3.5.2/147_-_Dollars.s"
 	@echo "... UVA_online_judge/3.5.2/507_-_Jill_Rides_Again.o"
 	@echo "... UVA_online_judge/3.5.2/507_-_Jill_Rides_Again.i"
 	@echo "... UVA_online_judge/3.5.2/507_-_Jill_Rides_Again.s"

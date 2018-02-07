@@ -57,49 +57,49 @@ include CMakeFiles/single_file_exe.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/single_file_exe.dir/flags.make
 
-CMakeFiles/single_file_exe.dir/Logics/test.cpp.o: CMakeFiles/single_file_exe.dir/flags.make
-CMakeFiles/single_file_exe.dir/Logics/test.cpp.o: ../Logics/test.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/single_file_exe.dir/Logics/test.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/single_file_exe.dir/Logics/test.cpp.o -c /home/optimus/Projects/Code/Logics/test.cpp
+CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/147_-_Dollars.cpp.o: CMakeFiles/single_file_exe.dir/flags.make
+CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/147_-_Dollars.cpp.o: ../UVA\ online\ judge/3.5.2/147\ -\ Dollars.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/147_-_Dollars.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/147_-_Dollars.cpp.o -c "/home/optimus/Projects/Code/UVA online judge/3.5.2/147 - Dollars.cpp"
 
-CMakeFiles/single_file_exe.dir/Logics/test.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/single_file_exe.dir/Logics/test.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/Projects/Code/Logics/test.cpp > CMakeFiles/single_file_exe.dir/Logics/test.cpp.i
+CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/147_-_Dollars.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/147_-_Dollars.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/UVA online judge/3.5.2/147 - Dollars.cpp" > CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/147_-_Dollars.cpp.i
 
-CMakeFiles/single_file_exe.dir/Logics/test.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/single_file_exe.dir/Logics/test.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/Projects/Code/Logics/test.cpp -o CMakeFiles/single_file_exe.dir/Logics/test.cpp.s
+CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/147_-_Dollars.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/147_-_Dollars.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/UVA online judge/3.5.2/147 - Dollars.cpp" -o CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/147_-_Dollars.cpp.s
 
-CMakeFiles/single_file_exe.dir/Logics/test.cpp.o.requires:
+CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/147_-_Dollars.cpp.o.requires:
 
-.PHONY : CMakeFiles/single_file_exe.dir/Logics/test.cpp.o.requires
+.PHONY : CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/147_-_Dollars.cpp.o.requires
 
-CMakeFiles/single_file_exe.dir/Logics/test.cpp.o.provides: CMakeFiles/single_file_exe.dir/Logics/test.cpp.o.requires
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Logics/test.cpp.o.provides.build
-.PHONY : CMakeFiles/single_file_exe.dir/Logics/test.cpp.o.provides
+CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/147_-_Dollars.cpp.o.provides: CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/147_-_Dollars.cpp.o.requires
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/147_-_Dollars.cpp.o.provides.build
+.PHONY : CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/147_-_Dollars.cpp.o.provides
 
-CMakeFiles/single_file_exe.dir/Logics/test.cpp.o.provides.build: CMakeFiles/single_file_exe.dir/Logics/test.cpp.o
+CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/147_-_Dollars.cpp.o.provides.build: CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/147_-_Dollars.cpp.o
 
 
 # Object files for target single_file_exe
 single_file_exe_OBJECTS = \
-"CMakeFiles/single_file_exe.dir/Logics/test.cpp.o"
+"CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/147_-_Dollars.cpp.o"
 
 # External object files for target single_file_exe
 single_file_exe_EXTERNAL_OBJECTS =
 
-../Logics/single_file_exe: CMakeFiles/single_file_exe.dir/Logics/test.cpp.o
-../Logics/single_file_exe: CMakeFiles/single_file_exe.dir/build.make
-../Logics/single_file_exe: CMakeFiles/single_file_exe.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable ../Logics/single_file_exe"
+../UVA\ online\ judge/3.5.2/single_file_exe: CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/147_-_Dollars.cpp.o
+../UVA\ online\ judge/3.5.2/single_file_exe: CMakeFiles/single_file_exe.dir/build.make
+../UVA\ online\ judge/3.5.2/single_file_exe: CMakeFiles/single_file_exe.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable \"../UVA online judge/3.5.2/single_file_exe\""
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/single_file_exe.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-CMakeFiles/single_file_exe.dir/build: ../Logics/single_file_exe
+CMakeFiles/single_file_exe.dir/build: ../UVA\ online\ judge/3.5.2/single_file_exe
 
 .PHONY : CMakeFiles/single_file_exe.dir/build
 
-CMakeFiles/single_file_exe.dir/requires: CMakeFiles/single_file_exe.dir/Logics/test.cpp.o.requires
+CMakeFiles/single_file_exe.dir/requires: CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/147_-_Dollars.cpp.o.requires
 
 .PHONY : CMakeFiles/single_file_exe.dir/requires
 

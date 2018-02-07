@@ -133,6 +133,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/Code.dir/UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.cpp.o"
   "CMakeFiles/Code.dir/Hitchhiker's_/LIS.cpp.o"
   "CMakeFiles/Code.dir/Logics/StructConstructor.cpp.o"
+  "CMakeFiles/Code.dir/UVA_online_judge/3.5.2/147_-_Dollars.cpp.o"
   "Code.pdb"
   "Code"
 )
