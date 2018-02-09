@@ -134,6 +134,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/Code.dir/Hitchhiker's_/LIS.cpp.o"
   "CMakeFiles/Code.dir/Logics/StructConstructor.cpp.o"
   "CMakeFiles/Code.dir/UVA_online_judge/3.5.2/147_-_Dollars.cpp.o"
+  "CMakeFiles/Code.dir/HackerRank/EqualTest.cpp.o"
+  "CMakeFiles/Code.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.o"
   "Code.pdb"
   "Code"
 )

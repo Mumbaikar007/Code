@@ -3297,6 +3297,54 @@ CMakeFiles/Code.dir/UVA_online_judge/3.5.2/147_-_Dollars.cpp.o.provides: CMakeFi
 CMakeFiles/Code.dir/UVA_online_judge/3.5.2/147_-_Dollars.cpp.o.provides.build: CMakeFiles/Code.dir/UVA_online_judge/3.5.2/147_-_Dollars.cpp.o
 
 
+CMakeFiles/Code.dir/HackerRank/EqualTest.cpp.o: CMakeFiles/Code.dir/flags.make
+CMakeFiles/Code.dir/HackerRank/EqualTest.cpp.o: ../HackerRank/EqualTest.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_136) "Building CXX object CMakeFiles/Code.dir/HackerRank/EqualTest.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/HackerRank/EqualTest.cpp.o -c /home/optimus/Projects/Code/HackerRank/EqualTest.cpp
+
+CMakeFiles/Code.dir/HackerRank/EqualTest.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/HackerRank/EqualTest.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/Projects/Code/HackerRank/EqualTest.cpp > CMakeFiles/Code.dir/HackerRank/EqualTest.cpp.i
+
+CMakeFiles/Code.dir/HackerRank/EqualTest.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/HackerRank/EqualTest.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/Projects/Code/HackerRank/EqualTest.cpp -o CMakeFiles/Code.dir/HackerRank/EqualTest.cpp.s
+
+CMakeFiles/Code.dir/HackerRank/EqualTest.cpp.o.requires:
+
+.PHONY : CMakeFiles/Code.dir/HackerRank/EqualTest.cpp.o.requires
+
+CMakeFiles/Code.dir/HackerRank/EqualTest.cpp.o.provides: CMakeFiles/Code.dir/HackerRank/EqualTest.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/HackerRank/EqualTest.cpp.o.provides.build
+.PHONY : CMakeFiles/Code.dir/HackerRank/EqualTest.cpp.o.provides
+
+CMakeFiles/Code.dir/HackerRank/EqualTest.cpp.o.provides.build: CMakeFiles/Code.dir/HackerRank/EqualTest.cpp.o
+
+
+CMakeFiles/Code.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.o: CMakeFiles/Code.dir/flags.make
+CMakeFiles/Code.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.o: ../UVA\ online\ judge/3.5.2/562\ -\ Dividing\ coins.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_137) "Building CXX object CMakeFiles/Code.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Code.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.o -c "/home/optimus/Projects/Code/UVA online judge/3.5.2/562 - Dividing coins.cpp"
+
+CMakeFiles/Code.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Code.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/UVA online judge/3.5.2/562 - Dividing coins.cpp" > CMakeFiles/Code.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.i
+
+CMakeFiles/Code.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Code.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/UVA online judge/3.5.2/562 - Dividing coins.cpp" -o CMakeFiles/Code.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.s
+
+CMakeFiles/Code.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.o.requires:
+
+.PHONY : CMakeFiles/Code.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.o.requires
+
+CMakeFiles/Code.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.o.provides: CMakeFiles/Code.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.o.requires
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.o.provides.build
+.PHONY : CMakeFiles/Code.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.o.provides
+
+CMakeFiles/Code.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.o.provides.build: CMakeFiles/Code.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.o
+
+
 # Object files for target Code
 Code_OBJECTS = \
 "CMakeFiles/Code.dir/CLRS/Dynamic_Programming/Cut-Rod-Problem-Memorization-Top-Down.cpp.o" \
@@ -3433,7 +3481,9 @@ Code_OBJECTS = \
 "CMakeFiles/Code.dir/UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.cpp.o" \
 "CMakeFiles/Code.dir/Hitchhiker's_/LIS.cpp.o" \
 "CMakeFiles/Code.dir/Logics/StructConstructor.cpp.o" \
-"CMakeFiles/Code.dir/UVA_online_judge/3.5.2/147_-_Dollars.cpp.o"
+"CMakeFiles/Code.dir/UVA_online_judge/3.5.2/147_-_Dollars.cpp.o" \
+"CMakeFiles/Code.dir/HackerRank/EqualTest.cpp.o" \
+"CMakeFiles/Code.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.o"
 
 # External object files for target Code
 Code_EXTERNAL_OBJECTS =
@@ -3573,9 +3623,11 @@ Code: CMakeFiles/Code.dir/UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.cpp.o
 Code: CMakeFiles/Code.dir/Hitchhiker's_/LIS.cpp.o
 Code: CMakeFiles/Code.dir/Logics/StructConstructor.cpp.o
 Code: CMakeFiles/Code.dir/UVA_online_judge/3.5.2/147_-_Dollars.cpp.o
+Code: CMakeFiles/Code.dir/HackerRank/EqualTest.cpp.o
+Code: CMakeFiles/Code.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.o
 Code: CMakeFiles/Code.dir/build.make
 Code: CMakeFiles/Code.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_136) "Linking CXX executable Code"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_138) "Linking CXX executable Code"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Code.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -3718,6 +3770,8 @@ CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/UVA_online_judge/3.5.2/UVa_108
 CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/Hitchhiker's_/LIS.cpp.o.requires
 CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/Logics/StructConstructor.cpp.o.requires
 CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/UVA_online_judge/3.5.2/147_-_Dollars.cpp.o.requires
+CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/HackerRank/EqualTest.cpp.o.requires
+CMakeFiles/Code.dir/requires: CMakeFiles/Code.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.o.requires
 
 .PHONY : CMakeFiles/Code.dir/requires
 

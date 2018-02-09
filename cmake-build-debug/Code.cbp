@@ -388,6 +388,9 @@
 		<Unit filename="/home/optimus/Projects/Code/HackerRank/ClimbingLeaderboard.cpp">
 			<Option target="Code"/>
 		</Unit>
+		<Unit filename="/home/optimus/Projects/Code/HackerRank/EqualTest.cpp">
+			<Option target="Code"/>
+		</Unit>
 		<Unit filename="/home/optimus/Projects/Code/HackerRank/MagicSquare.cpp">
 			<Option target="Code"/>
 		</Unit>
@@ -527,10 +530,13 @@
 			<Option target="Code"/>
 		</Unit>
 		<Unit filename="/home/optimus/Projects/Code/UVA online judge/3.5.2/147 - Dollars.cpp">
-			<Option target="single_file_exe"/>
 			<Option target="Code"/>
 		</Unit>
 		<Unit filename="/home/optimus/Projects/Code/UVA online judge/3.5.2/507 - Jill Rides Again.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/optimus/Projects/Code/UVA online judge/3.5.2/562 - Dividing coins.cpp">
+			<Option target="single_file_exe"/>
 			<Option target="Code"/>
 		</Unit>
 		<Unit filename="/home/optimus/Projects/Code/UVA online judge/3.5.2/UVa 108 - Maximum Sum.cpp">

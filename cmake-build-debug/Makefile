@@ -2431,6 +2431,33 @@ HackerRank/ClimbingLeaderboard.cpp.s:
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/HackerRank/ClimbingLeaderboard.cpp.s
 .PHONY : HackerRank/ClimbingLeaderboard.cpp.s
 
+HackerRank/EqualTest.o: HackerRank/EqualTest.cpp.o
+
+.PHONY : HackerRank/EqualTest.o
+
+# target to build an object file
+HackerRank/EqualTest.cpp.o:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/HackerRank/EqualTest.cpp.o
+.PHONY : HackerRank/EqualTest.cpp.o
+
+HackerRank/EqualTest.i: HackerRank/EqualTest.cpp.i
+
+.PHONY : HackerRank/EqualTest.i
+
+# target to preprocess a source file
+HackerRank/EqualTest.cpp.i:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/HackerRank/EqualTest.cpp.i
+.PHONY : HackerRank/EqualTest.cpp.i
+
+HackerRank/EqualTest.s: HackerRank/EqualTest.cpp.s
+
+.PHONY : HackerRank/EqualTest.s
+
+# target to generate assembly for a file
+HackerRank/EqualTest.cpp.s:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/HackerRank/EqualTest.cpp.s
+.PHONY : HackerRank/EqualTest.cpp.s
+
 HackerRank/MagicSquare.o: HackerRank/MagicSquare.cpp.o
 
 .PHONY : HackerRank/MagicSquare.o
@@ -3706,7 +3733,6 @@ UVA_online_judge/3.5.2/147_-_Dollars.o: UVA_online_judge/3.5.2/147_-_Dollars.cpp
 
 # target to build an object file
 UVA_online_judge/3.5.2/147_-_Dollars.cpp.o:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/147_-_Dollars.cpp.o
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/3.5.2/147_-_Dollars.cpp.o
 .PHONY : UVA_online_judge/3.5.2/147_-_Dollars.cpp.o
 
@@ -3716,7 +3742,6 @@ UVA_online_judge/3.5.2/147_-_Dollars.i: UVA_online_judge/3.5.2/147_-_Dollars.cpp
 
 # target to preprocess a source file
 UVA_online_judge/3.5.2/147_-_Dollars.cpp.i:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/147_-_Dollars.cpp.i
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/3.5.2/147_-_Dollars.cpp.i
 .PHONY : UVA_online_judge/3.5.2/147_-_Dollars.cpp.i
 
@@ -3726,7 +3751,6 @@ UVA_online_judge/3.5.2/147_-_Dollars.s: UVA_online_judge/3.5.2/147_-_Dollars.cpp
 
 # target to generate assembly for a file
 UVA_online_judge/3.5.2/147_-_Dollars.cpp.s:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/147_-_Dollars.cpp.s
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/3.5.2/147_-_Dollars.cpp.s
 .PHONY : UVA_online_judge/3.5.2/147_-_Dollars.cpp.s
 
@@ -3756,6 +3780,36 @@ UVA_online_judge/3.5.2/507_-_Jill_Rides_Again.s: UVA_online_judge/3.5.2/507_-_Ji
 UVA_online_judge/3.5.2/507_-_Jill_Rides_Again.cpp.s:
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/3.5.2/507_-_Jill_Rides_Again.cpp.s
 .PHONY : UVA_online_judge/3.5.2/507_-_Jill_Rides_Again.cpp.s
+
+UVA_online_judge/3.5.2/562_-_Dividing_coins.o: UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.o
+
+.PHONY : UVA_online_judge/3.5.2/562_-_Dividing_coins.o
+
+# target to build an object file
+UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.o:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.o
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.o
+.PHONY : UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.o
+
+UVA_online_judge/3.5.2/562_-_Dividing_coins.i: UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.i
+
+.PHONY : UVA_online_judge/3.5.2/562_-_Dividing_coins.i
+
+# target to preprocess a source file
+UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.i:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.i
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.i
+.PHONY : UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.i
+
+UVA_online_judge/3.5.2/562_-_Dividing_coins.s: UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.s
+
+.PHONY : UVA_online_judge/3.5.2/562_-_Dividing_coins.s
+
+# target to generate assembly for a file
+UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.s:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.s
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.s
+.PHONY : UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.s
 
 UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.o: UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.cpp.o
 
@@ -4049,6 +4103,9 @@ help:
 	@echo "... HackerRank/ClimbingLeaderboard.o"
 	@echo "... HackerRank/ClimbingLeaderboard.i"
 	@echo "... HackerRank/ClimbingLeaderboard.s"
+	@echo "... HackerRank/EqualTest.o"
+	@echo "... HackerRank/EqualTest.i"
+	@echo "... HackerRank/EqualTest.s"
 	@echo "... HackerRank/MagicSquare.o"
 	@echo "... HackerRank/MagicSquare.i"
 	@echo "... HackerRank/MagicSquare.s"
@@ -4196,6 +4253,9 @@ help:
 	@echo "... UVA_online_judge/3.5.2/507_-_Jill_Rides_Again.o"
 	@echo "... UVA_online_judge/3.5.2/507_-_Jill_Rides_Again.i"
 	@echo "... UVA_online_judge/3.5.2/507_-_Jill_Rides_Again.s"
+	@echo "... UVA_online_judge/3.5.2/562_-_Dividing_coins.o"
+	@echo "... UVA_online_judge/3.5.2/562_-_Dividing_coins.i"
+	@echo "... UVA_online_judge/3.5.2/562_-_Dividing_coins.s"
 	@echo "... UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.o"
 	@echo "... UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.i"
 	@echo "... UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.s"

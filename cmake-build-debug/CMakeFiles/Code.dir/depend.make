@@ -171,6 +171,8 @@ CMakeFiles/Code.dir/HackerEarth/Intelligent_Girl.cpp.o: ../HackerEarth/Intellige
 
 CMakeFiles/Code.dir/HackerRank/ClimbingLeaderboard.cpp.o: ../HackerRank/ClimbingLeaderboard.cpp
 
+CMakeFiles/Code.dir/HackerRank/EqualTest.cpp.o: ../HackerRank/EqualTest.cpp
+
 CMakeFiles/Code.dir/HackerRank/MagicSquare.cpp.o: ../HackerRank/MagicSquare.cpp
 
 CMakeFiles/Code.dir/HackerRank/Picking_Numbers.cpp.o: ../HackerRank/Picking\ Numbers.cpp
@@ -264,6 +266,8 @@ CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00573.cpp.o: ../UVA\ online\ judg
 CMakeFiles/Code.dir/UVA_online_judge/1.3.3/UVa_00621.cpp.o: ../UVA\ online\ judge/1.3.3/UVa\ 00621.cpp
 
 CMakeFiles/Code.dir/UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.cpp.o: ../UVA\ online\ judge/2.2.4/UVa\ 00230\ -\ Borrowers.cpp
+
+CMakeFiles/Code.dir/UVA_online_judge/3.5.2/147_-_Dollars.cpp.o: ../UVA\ online\ judge/3.5.2/147\ -\ Dollars.cpp
 
 CMakeFiles/Code.dir/UVA_online_judge/3.5.2/507_-_Jill_Rides_Again.cpp.o: ../UVA\ online\ judge/3.5.2/507\ -\ Jill\ Rides\ Again.cpp
 

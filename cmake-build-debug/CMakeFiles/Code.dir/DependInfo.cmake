@@ -97,6 +97,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/optimus/Projects/Code/HackerEarth/Factorial.cpp" "/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/Code.dir/HackerEarth/Factorial.cpp.o"
   "/home/optimus/Projects/Code/HackerEarth/Intelligent Girl.cpp" "/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/Code.dir/HackerEarth/Intelligent_Girl.cpp.o"
   "/home/optimus/Projects/Code/HackerRank/ClimbingLeaderboard.cpp" "/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/Code.dir/HackerRank/ClimbingLeaderboard.cpp.o"
+  "/home/optimus/Projects/Code/HackerRank/EqualTest.cpp" "/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/Code.dir/HackerRank/EqualTest.cpp.o"
   "/home/optimus/Projects/Code/HackerRank/MagicSquare.cpp" "/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/Code.dir/HackerRank/MagicSquare.cpp.o"
   "/home/optimus/Projects/Code/HackerRank/Picking Numbers.cpp" "/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/Code.dir/HackerRank/Picking_Numbers.cpp.o"
   "/home/optimus/Projects/Code/HackerRank/Weighted UniformSubstrings.cpp" "/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/Code.dir/HackerRank/Weighted_UniformSubstrings.cpp.o"
@@ -146,6 +147,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/optimus/Projects/Code/UVA online judge/2.2.4/UVa 00230 - Borrowers.cpp" "/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/Code.dir/UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.cpp.o"
   "/home/optimus/Projects/Code/UVA online judge/3.5.2/147 - Dollars.cpp" "/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/Code.dir/UVA_online_judge/3.5.2/147_-_Dollars.cpp.o"
   "/home/optimus/Projects/Code/UVA online judge/3.5.2/507 - Jill Rides Again.cpp" "/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/Code.dir/UVA_online_judge/3.5.2/507_-_Jill_Rides_Again.cpp.o"
+  "/home/optimus/Projects/Code/UVA online judge/3.5.2/562 - Dividing coins.cpp" "/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/Code.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.o"
   "/home/optimus/Projects/Code/UVA online judge/3.5.2/UVa 108 - Maximum Sum.cpp" "/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/Code.dir/UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

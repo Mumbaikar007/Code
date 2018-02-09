@@ -542,6 +542,14 @@ iostream
 vector
 -
 
+/home/optimus/Projects/Code/HackerRank/EqualTest.cpp
+iostream
+-
+numeric
+-
+vector
+-
+
 /home/optimus/Projects/Code/HackerRank/MagicSquare.cpp
 iostream
 -
@@ -816,6 +824,14 @@ vector
 algorithm
 -
 map
+-
+
+/home/optimus/Projects/Code/UVA online judge/3.5.2/147 - Dollars.cpp
+iostream
+-
+vector
+-
+iomanip
 -
 
 /home/optimus/Projects/Code/UVA online judge/3.5.2/507 - Jill Rides Again.cpp

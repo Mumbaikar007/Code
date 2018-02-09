@@ -20,6 +20,7 @@ int main(){
     }
 
     float abc;
+
     while ( cin >> abc, abc != 0.0F){
         float abcc = abc * 100;
         cout << fixed << setprecision(2) << setw(6) << abc << setw(17) << ways[abcc/5] << endl;

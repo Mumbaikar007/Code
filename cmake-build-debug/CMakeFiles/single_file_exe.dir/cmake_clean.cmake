@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/147_-_Dollars.cpp.o"
+  "CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.o"
   "../UVA online judge/3.5.2/single_file_exe.pdb"
   "../UVA online judge/3.5.2/single_file_exe"
 )
