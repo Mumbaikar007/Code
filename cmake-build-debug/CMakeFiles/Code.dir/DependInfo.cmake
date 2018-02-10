@@ -148,6 +148,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/optimus/Projects/Code/UVA online judge/3.5.2/147 - Dollars.cpp" "/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/Code.dir/UVA_online_judge/3.5.2/147_-_Dollars.cpp.o"
   "/home/optimus/Projects/Code/UVA online judge/3.5.2/507 - Jill Rides Again.cpp" "/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/Code.dir/UVA_online_judge/3.5.2/507_-_Jill_Rides_Again.cpp.o"
   "/home/optimus/Projects/Code/UVA online judge/3.5.2/562 - Dividing coins.cpp" "/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/Code.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.o"
+  "/home/optimus/Projects/Code/UVA online judge/3.5.2/UVa 00990 - Diving For Gold.cpp" "/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/Code.dir/UVA_online_judge/3.5.2/UVa_00990_-_Diving_For_Gold.cpp.o"
   "/home/optimus/Projects/Code/UVA online judge/3.5.2/UVa 108 - Maximum Sum.cpp" "/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/Code.dir/UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

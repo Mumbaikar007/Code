@@ -136,6 +136,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/Code.dir/UVA_online_judge/3.5.2/147_-_Dollars.cpp.o"
   "CMakeFiles/Code.dir/HackerRank/EqualTest.cpp.o"
   "CMakeFiles/Code.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.o"
+  "CMakeFiles/Code.dir/UVA_online_judge/3.5.2/UVa_00990_-_Diving_For_Gold.cpp.o"
   "Code.pdb"
   "Code"
 )

@@ -3787,7 +3787,6 @@ UVA_online_judge/3.5.2/562_-_Dividing_coins.o: UVA_online_judge/3.5.2/562_-_Divi
 
 # target to build an object file
 UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.o:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.o
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.o
 .PHONY : UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.o
 
@@ -3797,7 +3796,6 @@ UVA_online_judge/3.5.2/562_-_Dividing_coins.i: UVA_online_judge/3.5.2/562_-_Divi
 
 # target to preprocess a source file
 UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.i:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.i
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.i
 .PHONY : UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.i
 
@@ -3807,9 +3805,38 @@ UVA_online_judge/3.5.2/562_-_Dividing_coins.s: UVA_online_judge/3.5.2/562_-_Divi
 
 # target to generate assembly for a file
 UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.s:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.s
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.s
 .PHONY : UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.s
+
+UVA_online_judge/3.5.2/UVa_00990_-_Diving_For_Gold.o: UVA_online_judge/3.5.2/UVa_00990_-_Diving_For_Gold.cpp.o
+
+.PHONY : UVA_online_judge/3.5.2/UVa_00990_-_Diving_For_Gold.o
+
+# target to build an object file
+UVA_online_judge/3.5.2/UVa_00990_-_Diving_For_Gold.cpp.o:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/UVa_00990_-_Diving_For_Gold.cpp.o
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/3.5.2/UVa_00990_-_Diving_For_Gold.cpp.o
+.PHONY : UVA_online_judge/3.5.2/UVa_00990_-_Diving_For_Gold.cpp.o
+
+UVA_online_judge/3.5.2/UVa_00990_-_Diving_For_Gold.i: UVA_online_judge/3.5.2/UVa_00990_-_Diving_For_Gold.cpp.i
+
+.PHONY : UVA_online_judge/3.5.2/UVa_00990_-_Diving_For_Gold.i
+
+# target to preprocess a source file
+UVA_online_judge/3.5.2/UVa_00990_-_Diving_For_Gold.cpp.i:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/UVa_00990_-_Diving_For_Gold.cpp.i
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/3.5.2/UVa_00990_-_Diving_For_Gold.cpp.i
+.PHONY : UVA_online_judge/3.5.2/UVa_00990_-_Diving_For_Gold.cpp.i
+
+UVA_online_judge/3.5.2/UVa_00990_-_Diving_For_Gold.s: UVA_online_judge/3.5.2/UVa_00990_-_Diving_For_Gold.cpp.s
+
+.PHONY : UVA_online_judge/3.5.2/UVa_00990_-_Diving_For_Gold.s
+
+# target to generate assembly for a file
+UVA_online_judge/3.5.2/UVa_00990_-_Diving_For_Gold.cpp.s:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/UVa_00990_-_Diving_For_Gold.cpp.s
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/3.5.2/UVa_00990_-_Diving_For_Gold.cpp.s
+.PHONY : UVA_online_judge/3.5.2/UVa_00990_-_Diving_For_Gold.cpp.s
 
 UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.o: UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.cpp.o
 
@@ -4256,6 +4283,9 @@ help:
 	@echo "... UVA_online_judge/3.5.2/562_-_Dividing_coins.o"
 	@echo "... UVA_online_judge/3.5.2/562_-_Dividing_coins.i"
 	@echo "... UVA_online_judge/3.5.2/562_-_Dividing_coins.s"
+	@echo "... UVA_online_judge/3.5.2/UVa_00990_-_Diving_For_Gold.o"
+	@echo "... UVA_online_judge/3.5.2/UVa_00990_-_Diving_For_Gold.i"
+	@echo "... UVA_online_judge/3.5.2/UVa_00990_-_Diving_For_Gold.s"
 	@echo "... UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.o"
 	@echo "... UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.i"
 	@echo "... UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.s"
