@@ -2917,6 +2917,33 @@ Logics/StructConstructor.cpp.s:
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Logics/StructConstructor.cpp.s
 .PHONY : Logics/StructConstructor.cpp.s
 
+Logics/macro.o: Logics/macro.cpp.o
+
+.PHONY : Logics/macro.o
+
+# target to build an object file
+Logics/macro.cpp.o:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Logics/macro.cpp.o
+.PHONY : Logics/macro.cpp.o
+
+Logics/macro.i: Logics/macro.cpp.i
+
+.PHONY : Logics/macro.i
+
+# target to preprocess a source file
+Logics/macro.cpp.i:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Logics/macro.cpp.i
+.PHONY : Logics/macro.cpp.i
+
+Logics/macro.s: Logics/macro.cpp.s
+
+.PHONY : Logics/macro.s
+
+# target to generate assembly for a file
+Logics/macro.cpp.s:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Logics/macro.cpp.s
+.PHONY : Logics/macro.cpp.s
+
 Logics/string.o: Logics/string.cpp.o
 
 .PHONY : Logics/string.o
@@ -3814,7 +3841,6 @@ UVA_online_judge/3.5.2/UVa_00990_-_Diving_For_Gold.o: UVA_online_judge/3.5.2/UVa
 
 # target to build an object file
 UVA_online_judge/3.5.2/UVa_00990_-_Diving_For_Gold.cpp.o:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/UVa_00990_-_Diving_For_Gold.cpp.o
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/3.5.2/UVa_00990_-_Diving_For_Gold.cpp.o
 .PHONY : UVA_online_judge/3.5.2/UVa_00990_-_Diving_For_Gold.cpp.o
 
@@ -3824,7 +3850,6 @@ UVA_online_judge/3.5.2/UVa_00990_-_Diving_For_Gold.i: UVA_online_judge/3.5.2/UVa
 
 # target to preprocess a source file
 UVA_online_judge/3.5.2/UVa_00990_-_Diving_For_Gold.cpp.i:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/UVa_00990_-_Diving_For_Gold.cpp.i
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/3.5.2/UVa_00990_-_Diving_For_Gold.cpp.i
 .PHONY : UVA_online_judge/3.5.2/UVa_00990_-_Diving_For_Gold.cpp.i
 
@@ -3834,7 +3859,6 @@ UVA_online_judge/3.5.2/UVa_00990_-_Diving_For_Gold.s: UVA_online_judge/3.5.2/UVa
 
 # target to generate assembly for a file
 UVA_online_judge/3.5.2/UVa_00990_-_Diving_For_Gold.cpp.s:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/UVa_00990_-_Diving_For_Gold.cpp.s
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/3.5.2/UVa_00990_-_Diving_For_Gold.cpp.s
 .PHONY : UVA_online_judge/3.5.2/UVa_00990_-_Diving_For_Gold.cpp.s
 
@@ -3864,6 +3888,33 @@ UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.s: UVA_online_judge/3.5.2/UVa_108_-
 UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.cpp.s:
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.cpp.s
 .PHONY : UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.cpp.s
+
+UVA_online_judge/4.2/UVa_00118_-_Mutant_Flatworld_Explorers.o: UVA_online_judge/4.2/UVa_00118_-_Mutant_Flatworld_Explorers.cpp.o
+
+.PHONY : UVA_online_judge/4.2/UVa_00118_-_Mutant_Flatworld_Explorers.o
+
+# target to build an object file
+UVA_online_judge/4.2/UVa_00118_-_Mutant_Flatworld_Explorers.cpp.o:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/4.2/UVa_00118_-_Mutant_Flatworld_Explorers.cpp.o
+.PHONY : UVA_online_judge/4.2/UVa_00118_-_Mutant_Flatworld_Explorers.cpp.o
+
+UVA_online_judge/4.2/UVa_00118_-_Mutant_Flatworld_Explorers.i: UVA_online_judge/4.2/UVa_00118_-_Mutant_Flatworld_Explorers.cpp.i
+
+.PHONY : UVA_online_judge/4.2/UVa_00118_-_Mutant_Flatworld_Explorers.i
+
+# target to preprocess a source file
+UVA_online_judge/4.2/UVa_00118_-_Mutant_Flatworld_Explorers.cpp.i:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/4.2/UVa_00118_-_Mutant_Flatworld_Explorers.cpp.i
+.PHONY : UVA_online_judge/4.2/UVa_00118_-_Mutant_Flatworld_Explorers.cpp.i
+
+UVA_online_judge/4.2/UVa_00118_-_Mutant_Flatworld_Explorers.s: UVA_online_judge/4.2/UVa_00118_-_Mutant_Flatworld_Explorers.cpp.s
+
+.PHONY : UVA_online_judge/4.2/UVa_00118_-_Mutant_Flatworld_Explorers.s
+
+# target to generate assembly for a file
+UVA_online_judge/4.2/UVa_00118_-_Mutant_Flatworld_Explorers.cpp.s:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/UVA_online_judge/4.2/UVa_00118_-_Mutant_Flatworld_Explorers.cpp.s
+.PHONY : UVA_online_judge/4.2/UVa_00118_-_Mutant_Flatworld_Explorers.cpp.s
 
 # Help Target
 help:
@@ -4184,6 +4235,9 @@ help:
 	@echo "... Logics/StructConstructor.o"
 	@echo "... Logics/StructConstructor.i"
 	@echo "... Logics/StructConstructor.s"
+	@echo "... Logics/macro.o"
+	@echo "... Logics/macro.i"
+	@echo "... Logics/macro.s"
 	@echo "... Logics/string.o"
 	@echo "... Logics/string.i"
 	@echo "... Logics/string.s"
@@ -4289,6 +4343,9 @@ help:
 	@echo "... UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.o"
 	@echo "... UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.i"
 	@echo "... UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.s"
+	@echo "... UVA_online_judge/4.2/UVa_00118_-_Mutant_Flatworld_Explorers.o"
+	@echo "... UVA_online_judge/4.2/UVa_00118_-_Mutant_Flatworld_Explorers.i"
+	@echo "... UVA_online_judge/4.2/UVa_00118_-_Mutant_Flatworld_Explorers.s"
 .PHONY : help
 
 

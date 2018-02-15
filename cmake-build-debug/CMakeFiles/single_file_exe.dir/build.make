@@ -57,49 +57,49 @@ include CMakeFiles/single_file_exe.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/single_file_exe.dir/flags.make
 
-CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.o: CMakeFiles/single_file_exe.dir/flags.make
-CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.o: ../UVA\ online\ judge/3.5.2/562\ -\ Dividing\ coins.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.o -c "/home/optimus/Projects/Code/UVA online judge/3.5.2/562 - Dividing coins.cpp"
+CMakeFiles/single_file_exe.dir/Logics/macro.cpp.o: CMakeFiles/single_file_exe.dir/flags.make
+CMakeFiles/single_file_exe.dir/Logics/macro.cpp.o: ../Logics/macro.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/single_file_exe.dir/Logics/macro.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/single_file_exe.dir/Logics/macro.cpp.o -c /home/optimus/Projects/Code/Logics/macro.cpp
 
-CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/optimus/Projects/Code/UVA online judge/3.5.2/562 - Dividing coins.cpp" > CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.i
+CMakeFiles/single_file_exe.dir/Logics/macro.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/single_file_exe.dir/Logics/macro.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/optimus/Projects/Code/Logics/macro.cpp > CMakeFiles/single_file_exe.dir/Logics/macro.cpp.i
 
-CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/optimus/Projects/Code/UVA online judge/3.5.2/562 - Dividing coins.cpp" -o CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.s
+CMakeFiles/single_file_exe.dir/Logics/macro.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/single_file_exe.dir/Logics/macro.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/optimus/Projects/Code/Logics/macro.cpp -o CMakeFiles/single_file_exe.dir/Logics/macro.cpp.s
 
-CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.o.requires:
+CMakeFiles/single_file_exe.dir/Logics/macro.cpp.o.requires:
 
-.PHONY : CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.o.requires
+.PHONY : CMakeFiles/single_file_exe.dir/Logics/macro.cpp.o.requires
 
-CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.o.provides: CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.o.requires
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.o.provides.build
-.PHONY : CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.o.provides
+CMakeFiles/single_file_exe.dir/Logics/macro.cpp.o.provides: CMakeFiles/single_file_exe.dir/Logics/macro.cpp.o.requires
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Logics/macro.cpp.o.provides.build
+.PHONY : CMakeFiles/single_file_exe.dir/Logics/macro.cpp.o.provides
 
-CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.o.provides.build: CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.o
+CMakeFiles/single_file_exe.dir/Logics/macro.cpp.o.provides.build: CMakeFiles/single_file_exe.dir/Logics/macro.cpp.o
 
 
 # Object files for target single_file_exe
 single_file_exe_OBJECTS = \
-"CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.o"
+"CMakeFiles/single_file_exe.dir/Logics/macro.cpp.o"
 
 # External object files for target single_file_exe
 single_file_exe_EXTERNAL_OBJECTS =
 
-../UVA\ online\ judge/3.5.2/single_file_exe: CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.o
-../UVA\ online\ judge/3.5.2/single_file_exe: CMakeFiles/single_file_exe.dir/build.make
-../UVA\ online\ judge/3.5.2/single_file_exe: CMakeFiles/single_file_exe.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable \"../UVA online judge/3.5.2/single_file_exe\""
+../Logics/single_file_exe: CMakeFiles/single_file_exe.dir/Logics/macro.cpp.o
+../Logics/single_file_exe: CMakeFiles/single_file_exe.dir/build.make
+../Logics/single_file_exe: CMakeFiles/single_file_exe.dir/link.txt
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable ../Logics/single_file_exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/single_file_exe.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
-CMakeFiles/single_file_exe.dir/build: ../UVA\ online\ judge/3.5.2/single_file_exe
+CMakeFiles/single_file_exe.dir/build: ../Logics/single_file_exe
 
 .PHONY : CMakeFiles/single_file_exe.dir/build
 
-CMakeFiles/single_file_exe.dir/requires: CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.o.requires
+CMakeFiles/single_file_exe.dir/requires: CMakeFiles/single_file_exe.dir/Logics/macro.cpp.o.requires
 
 .PHONY : CMakeFiles/single_file_exe.dir/requires
 

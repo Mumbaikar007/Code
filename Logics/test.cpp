@@ -10,6 +10,9 @@
 
 # define RX 4
 # define RR 2
+# define F 4
+# define H 2
+# define C 1
 
 using namespace std;
 
@@ -52,18 +55,19 @@ int integerFromString ( vector<string> words){
     }
 }
 
-void AssignSymbolValue( vector <SymbolTable> &symbolTable, string symbol, int &locationCounter){
+void AssignSymbolValue( vector <SymbolTable> &symbolTable, string symbol, int locationCounter, int base){
 
     for ( auto &i : symbolTable ){
         if ( i.symbol == symbol){
-            i.value = locationCounter;
-
-            // DLength
-            locationCounter += i.length;
+            i.value = locationCounter - base;
             break;
         }
     };
 
+}
+
+int FullHalfChar ( string str ){
+    return ( str.find("F") != string::npos ?  (F) : ( str.find ("H") != string::npos ? (H) : (C) ));
 }
 
 
@@ -106,15 +110,6 @@ int main() {
 
         vector <string> words = SplitString(line);
 
-        /*
-        cout << words.size() << ": ";
-        for ( auto word : words){
-            cout << word << " ";
-        }
-        cout << endl;
-        */
-
-
         // Check psuedo op table
         vector<string>::iterator inPseudo_op;
         for ( auto instruction : words ){
@@ -142,11 +137,21 @@ int main() {
                         break;
 
                 // DS
-                case 1: AssignSymbolValue ( symbolTable, words[0], locationCounter);
+                case 1: {
+                            AssignSymbolValue(symbolTable, words[0], locationCounter, baseTable.second);
+                            int val = integerFromString( words );
+                            //cout << endl << locationCounter << endl ;
+                            locationCounter +=  ( val * FullHalfChar(words[2]));
+                            //cout << endl << val << " : " << FullHalfChar(words[2]) << " : " << locationCounter << endl;
+                        }
                         break;
 
                 // DC
-                case 2: AssignSymbolValue ( symbolTable, words[0], locationCounter);
+                case 2: {
+                            AssignSymbolValue ( symbolTable, words[0], locationCounter, baseTable.second);
+
+                            locationCounter += FullHalfChar(words[2]);
+                        }
                         break;
 
                 // USING
@@ -165,7 +170,6 @@ int main() {
             }
 
         }
-
 
         // machine_opTable
         else {
@@ -196,26 +200,25 @@ int main() {
         }
 	}
 
+    // Keep a copy
     vector<SymbolTable> symbolTableCopy(symbolTable);
-
 
     // Sort symbol table
     sort ( begin (symbolTable), end (symbolTable), [] ( SymbolTable s1, SymbolTable s2){
         return s1.value < s2.value;
     });
 
+
     // Printing after pass 1
     cout << endl << "Pass 1 ... \n" << endl;
     for ( int i = 0 ; i < machineInstruction.size(); i ++){
         cout << setw(5) << machineInstruction[i].locaiton << setw(10) << machineInstruction[i].instruction << setw(10)
-             << machineInstruction[i].num << ",_(" << baseTable.second << "," << baseTable.first
-             << ")" << endl;
+             << machineInstruction[i].num << ",_(0," << baseTable.first << ")" << endl;
     }
     for ( vector<SymbolTable>::iterator it = begin(symbolTable) + 1; it != end(symbolTable) ; it++){
         cout << setw(5) << it->value  << setw(10) << it->symbol << endl;
     }
     cout << endl;
-
 
     cout << "Symbol Table ... \n";
     cout << setw(10) << "Symbol" << setw(10) << "Value" << setw(10) << "Length"
@@ -227,17 +230,15 @@ int main() {
 
     cout << "Base table ... \n";
     cout << setw(10) << "Register" << setw(10) << "Value" << endl;
-    cout << setw(10) << baseTable.second << setw(10) << baseTable.first << endl;
+    cout << setw(10) << baseTable.first << setw(10) << baseTable.second << endl;
     cout << endl;
-
 
 
     // After pass 2
     cout << "Pass 2 ... \n";
     for ( int i = 0 ; i < machineInstruction.size(); i ++){
         cout << setw(5) << machineInstruction[i].locaiton << setw(10) << machineInstruction[i].instruction << setw(10)
-             << machineInstruction[i].num << "," << symbolTableCopy[i+1].value <<"(" << baseTable.second << "," << baseTable.first
-             << ")" << endl;
+             << machineInstruction[i].num << "," << symbolTableCopy[i+1].value <<"(0," << baseTable.first << ")" << endl;
     }
     for ( vector<SymbolTable>::iterator it = begin(symbolTable) + 1; it != end(symbolTable) ; it++){
         cout << setw(5) << it->value  << setw(10) << it->symbol << endl;

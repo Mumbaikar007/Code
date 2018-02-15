@@ -6,11 +6,17 @@
 
 #IncludeRegexTransform: 
 
-/home/optimus/Projects/Code/UVA online judge/3.5.2/562 - Dividing coins.cpp
+/home/optimus/Projects/Code/Logics/macro.cpp
 iostream
+-
+fstream
+-
+string
+-
+sstream
 -
 vector
 -
-cmath
+algorithm
 -
 

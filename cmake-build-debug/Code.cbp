@@ -38,7 +38,7 @@
 				</MakeCommands>
 			</Target>
 			<Target title="single_file_exe">
-				<Option output="/home/optimus/Projects/Code/UVA online judge/3.5.2/single_file_exe" prefix_auto="0" extension_auto="0"/>
+				<Option output="/home/optimus/Projects/Code/Logics/single_file_exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/optimus/Projects/Code/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -61,7 +61,7 @@
 				</MakeCommands>
 			</Target>
 			<Target title="single_file_exe/fast">
-				<Option output="/home/optimus/Projects/Code/UVA online judge/3.5.2/single_file_exe" prefix_auto="0" extension_auto="0"/>
+				<Option output="/home/optimus/Projects/Code/Logics/single_file_exe" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/optimus/Projects/Code/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -439,6 +439,9 @@
 		<Unit filename="/home/optimus/Projects/Code/Logics/StructConstructor.cpp">
 			<Option target="Code"/>
 		</Unit>
+		<Unit filename="/home/optimus/Projects/Code/Logics/macro.cpp">
+			<Option target="single_file_exe"/>
+		</Unit>
 		<Unit filename="/home/optimus/Projects/Code/Logics/string.cpp">
 			<Option target="Code"/>
 		</Unit>
@@ -539,10 +542,12 @@
 			<Option target="Code"/>
 		</Unit>
 		<Unit filename="/home/optimus/Projects/Code/UVA online judge/3.5.2/UVa 00990 - Diving For Gold.cpp">
-			<Option target="single_file_exe"/>
 			<Option target="Code"/>
 		</Unit>
 		<Unit filename="/home/optimus/Projects/Code/UVA online judge/3.5.2/UVa 108 - Maximum Sum.cpp">
+			<Option target="Code"/>
+		</Unit>
+		<Unit filename="/home/optimus/Projects/Code/UVA online judge/4.2/UVa 00118 - Mutant Flatworld Explorers.cpp">
 			<Option target="Code"/>
 		</Unit>
 		<Unit filename="/home/optimus/Projects/Code/CMakeLists.txt">

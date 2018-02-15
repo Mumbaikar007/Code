@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/optimus/Projects/Code/UVA online judge/3.5.2/562 - Dividing coins.cpp" "/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.o"
+  "/home/optimus/Projects/Code/Logics/macro.cpp" "/home/optimus/Projects/Code/cmake-build-debug/CMakeFiles/single_file_exe.dir/Logics/macro.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
