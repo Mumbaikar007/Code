@@ -2836,6 +2836,33 @@ Logics/EyantraScan1.cpp.s:
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Logics/EyantraScan1.cpp.s
 .PHONY : Logics/EyantraScan1.cpp.s
 
+Logics/FirstAndFollow.o: Logics/FirstAndFollow.cpp.o
+
+.PHONY : Logics/FirstAndFollow.o
+
+# target to build an object file
+Logics/FirstAndFollow.cpp.o:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Logics/FirstAndFollow.cpp.o
+.PHONY : Logics/FirstAndFollow.cpp.o
+
+Logics/FirstAndFollow.i: Logics/FirstAndFollow.cpp.i
+
+.PHONY : Logics/FirstAndFollow.i
+
+# target to preprocess a source file
+Logics/FirstAndFollow.cpp.i:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Logics/FirstAndFollow.cpp.i
+.PHONY : Logics/FirstAndFollow.cpp.i
+
+Logics/FirstAndFollow.s: Logics/FirstAndFollow.cpp.s
+
+.PHONY : Logics/FirstAndFollow.s
+
+# target to generate assembly for a file
+Logics/FirstAndFollow.cpp.s:
+	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Logics/FirstAndFollow.cpp.s
+.PHONY : Logics/FirstAndFollow.cpp.s
+
 Logics/HardCodeMatrix.o: Logics/HardCodeMatrix.cpp.o
 
 .PHONY : Logics/HardCodeMatrix.o
@@ -2917,32 +2944,32 @@ Logics/StructConstructor.cpp.s:
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Logics/StructConstructor.cpp.s
 .PHONY : Logics/StructConstructor.cpp.s
 
-Logics/macro.o: Logics/macro.cpp.o
+Logics/lrOParser.o: Logics/lrOParser.cpp.o
 
-.PHONY : Logics/macro.o
+.PHONY : Logics/lrOParser.o
 
 # target to build an object file
-Logics/macro.cpp.o:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Logics/macro.cpp.o
-.PHONY : Logics/macro.cpp.o
+Logics/lrOParser.cpp.o:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Logics/lrOParser.cpp.o
+.PHONY : Logics/lrOParser.cpp.o
 
-Logics/macro.i: Logics/macro.cpp.i
+Logics/lrOParser.i: Logics/lrOParser.cpp.i
 
-.PHONY : Logics/macro.i
+.PHONY : Logics/lrOParser.i
 
 # target to preprocess a source file
-Logics/macro.cpp.i:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Logics/macro.cpp.i
-.PHONY : Logics/macro.cpp.i
+Logics/lrOParser.cpp.i:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Logics/lrOParser.cpp.i
+.PHONY : Logics/lrOParser.cpp.i
 
-Logics/macro.s: Logics/macro.cpp.s
+Logics/lrOParser.s: Logics/lrOParser.cpp.s
 
-.PHONY : Logics/macro.s
+.PHONY : Logics/lrOParser.s
 
 # target to generate assembly for a file
-Logics/macro.cpp.s:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Logics/macro.cpp.s
-.PHONY : Logics/macro.cpp.s
+Logics/lrOParser.cpp.s:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Logics/lrOParser.cpp.s
+.PHONY : Logics/lrOParser.cpp.s
 
 Logics/string.o: Logics/string.cpp.o
 
@@ -4226,6 +4253,9 @@ help:
 	@echo "... Logics/EyantraScan1.o"
 	@echo "... Logics/EyantraScan1.i"
 	@echo "... Logics/EyantraScan1.s"
+	@echo "... Logics/FirstAndFollow.o"
+	@echo "... Logics/FirstAndFollow.i"
+	@echo "... Logics/FirstAndFollow.s"
 	@echo "... Logics/HardCodeMatrix.o"
 	@echo "... Logics/HardCodeMatrix.i"
 	@echo "... Logics/HardCodeMatrix.s"
@@ -4235,9 +4265,9 @@ help:
 	@echo "... Logics/StructConstructor.o"
 	@echo "... Logics/StructConstructor.i"
 	@echo "... Logics/StructConstructor.s"
-	@echo "... Logics/macro.o"
-	@echo "... Logics/macro.i"
-	@echo "... Logics/macro.s"
+	@echo "... Logics/lrOParser.o"
+	@echo "... Logics/lrOParser.i"
+	@echo "... Logics/lrOParser.s"
 	@echo "... Logics/string.o"
 	@echo "... Logics/string.i"
 	@echo "... Logics/string.s"

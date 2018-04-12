@@ -5,6 +5,7 @@
 #include <sstream>
 # include <vector>
 #include <algorithm>
+#include <iomanip>
 
 using namespace std;
 
@@ -30,8 +31,10 @@ struct MDT {
 
     int index;
 	string card;
+    int firstop;
 
-    MDT ( int indexx, string cardd) : index( indexx ), card(cardd) {};
+    MDT ( int indexx, string cardd, int firstopp) :
+            index( indexx ), card(cardd), firstop(firstopp) {};
 };
 
 
@@ -73,18 +76,19 @@ int main(){
    	int MNTC = 1, MDTC = 1, ALAT = 1, MDTP = 1, ALATT = 1, MDTT = 1;
 	vector <MNT> mnt = { MNT ( 0 , "abc", 0, 0 )};
 	vector <ALA> alaPassOne = { ALA ( 0, "abc" )}, alaPassTwo = { ALA ( 0, "abc" )};
-	vector <MDT> mdtPassOne = { MDT ( 0, "abc" )}, mdtPassTwo = { MDT ( 0, "abc" )};
+	vector <MDT> mdtPassOne = { MDT ( 0, "abc", 0)}, mdtPassTwo = { MDT ( 0, "abc", 0 )};
 	
 	vector <string> instructionsArray = { "L", "S", "A"};
     int printPassOne = 1, macroArgumentStart;
 
-    /*
+
+    line = "";
     while ( !reader2.eof()){
-        getline ( reader, line);
+        getline ( reader2, line);
         cout << line << endl;
     }
-    */
 
+    line = "";
 
 	while ( !reader.eof() ){
 
@@ -101,10 +105,10 @@ int main(){
 			while ( getline ( reader, line)){
 
                 vector <string> words = SplitString(line);
-                cout << line << endl;
+                //cout << line << endl;
 
                 if ( words[0] == "MEND"){
-                    mdtPassOne.push_back( MDT( MDTC ++ , "MEND"  ));
+                    mdtPassOne.push_back( MDT( MDTC ++ , "MEND", 0  ));
                     break;
                 }
 
@@ -129,7 +133,7 @@ int main(){
                         mdtcard += ( to_string(i + macroArgumentStart - 1) ) + ", ";
                     mdtcard += to_string(macroArgumentStart + words.size()-1 - 1);
 
-                    mdtPassOne.push_back( MDT( MDTC ++ , mdtcard));
+                    mdtPassOne.push_back( MDT( MDTC ++ , mdtcard, 0)); // macro name line
 
                     macroLine = 0;
                 }
@@ -140,7 +144,7 @@ int main(){
                     //cout << endl << it - begin(ala) << endl << endl;
                     int position = it - begin(alaPassOne);
                     string mdtcard = (words[0] + " " + words[1] + " " + to_string(position));
-                    mdtPassOne.push_back( MDT( MDTC ++ , mdtcard  ));
+                    mdtPassOne.push_back( MDT( MDTC ++ , mdtcard, position));
 
                 }
 
@@ -161,27 +165,31 @@ int main(){
             if ( printPassOne ){
 
                 // Pass 1
-                cout << endl << endl;
+                cout << endl << "After Pass 1... " << endl << endl;
+
+                cout << "Macro Name Table ...\n";
+                cout << setw(10) << "MNT Index" << setw(15) << "Macro Card" << setw(15) << "MTD Index" << endl;
                 for ( int i = 1 ; i < mnt.size(); i ++ ){
-                    cout << mnt[i].index << " " << mnt[i].card << " " << mnt[i].MDTIndex << endl;
+                    cout << setw(10) << mnt[i].index << setw(15) << mnt[i].card << setw(15) << mnt[i].MDTIndex << endl;
                 }
 
-                cout << endl;
-
+                cout << endl << "Macro Name Table ...\n";
+                cout << setw(10) << "ALA Index" << setw(15) <<  "ALA Argument" << endl;
                 for ( int i = 1 ; i < alaPassOne.size(); i ++)
-                    cout << alaPassOne[i].index << " " << alaPassOne[i].argument << endl;
+                    cout << setw(10) << alaPassOne[i].index << setw(15) << alaPassOne[i].argument << endl;
 
-                cout << endl;
-
+                cout << endl << "Macro Name Table ...\n";
+                cout << setw(10) << "MDT Index" << setw(15) <<  "MDT Card" << endl;
                 for ( int i = 1 ; i < mdtPassOne.size(); i ++ )
-                    cout << mdtPassOne[i].index << " " << mdtPassOne[i].card << endl;
+                    cout << setw(10) << mdtPassOne[i].index << setw(15)  << mdtPassOne[i].card << endl;
 
                 printPassOne = 0;
             }
 
 
             auto it = find_if ( begin (mnt), end (mnt), [words] ( MNT mnt1) { return words[0] == mnt1.card;});
-            MDTP = it->MDTIndex;
+            MDTP = it->MDTIndex + 1;
+            int macroArgRef = it->ALAIndex;
             macroArgumentStart = ALATT;
             for ( int i = 1; i < words.size() - 1; i ++)
                 alaPassTwo.push_back( ALA (ALATT ++, words[i].substr( 0 , words[i].size() -1)));
@@ -190,13 +198,16 @@ int main(){
             string wwords = "";
             for ( string i : words )
                 wwords += (i + " ");
-            mdtPassTwo.push_back( MDT ( MDTT ++, wwords ));
+            mdtPassTwo.push_back( MDT ( MDTT ++, wwords, 0 ));
 
             while ( mdtPassOne[MDTP].card != "MEND" ){
-                mdtPassTwo.push_back( MDT ( MDTT++, mdtPassOne[MDTP].card));
+
+                int argument = mdtPassOne[MDTP].firstop - macroArgRef + macroArgumentStart;
+
+                mdtPassTwo.push_back( MDT ( MDTT++, mdtPassOne[MDTP].card, argument));
                 MDTP++;
             }
-            mdtPassTwo.push_back( MDT ( MDTT ++,  "MEND" ));
+            mdtPassTwo.push_back( MDT ( MDTT ++,  "MEND", 0 ));
 
 
         }
@@ -207,21 +218,25 @@ int main(){
 
     // Pass 2
     cout << endl << endl;
+    cout << endl << "After Pass 2... " << endl << endl;
+
+    cout << "Macro Name Table ...\n";
+    cout << setw(10) << "MNT Index" << setw(15) << "Macro Card" << setw(15) << "MTD Index" << endl;
     for ( int i = 1 ; i < mnt.size(); i ++ ){
-        cout << mnt[i].index << " " << mnt[i].card << " " << mnt[i].MDTIndex << endl;
+        cout << setw(10) << mnt[i].index << setw(15) << mnt[i].card << setw(15) << mnt[i].MDTIndex << endl;
     }
 
-    cout << endl;
-
+    cout << endl << "Macro Name Table ...\n";
+    cout << setw(10) << "ALA Index" << setw(15) <<  "ALA Argument" << endl;
     for ( int i = 1 ; i < alaPassTwo.size(); i ++)
-        cout << alaPassTwo[i].index << " " << alaPassTwo[i].argument << endl;
+        cout << setw(10) << alaPassTwo[i].index << setw(15) << alaPassTwo[i].argument << endl;
 
-    cout << endl;
-
-    for ( int i = 1 ; i < mdtPassTwo.size(); i ++ )
-        cout << mdtPassTwo[i].index << " " << mdtPassTwo[i].card << endl;
-
-
+    cout << endl << "Macro Name Table ...\n";
+    cout << setw(10) << "MDT Index" << setw(18) <<  "MDT Card" << endl;
+    for ( int i = 1 ; i < mdtPassTwo.size(); i ++ ){
+        cout << setw(10) << mdtPassTwo[i].index << "          " << mdtPassTwo[i].card  <<
+                ( mdtPassTwo[i].firstop != 0 ? "\b\b" + alaPassTwo[mdtPassTwo[i].firstop].argument : "")<< endl;
+    }
 
     return 0;
 }

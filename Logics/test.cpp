@@ -46,7 +46,6 @@ vector<string> SplitString ( string line){
     return words_in_line;
 }
 
-
 int integerFromString ( vector<string> words){
     int integer;
     for ( string word : words ){

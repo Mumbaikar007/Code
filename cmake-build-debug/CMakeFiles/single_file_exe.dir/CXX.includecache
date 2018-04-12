@@ -6,17 +6,15 @@
 
 #IncludeRegexTransform: 
 
-/home/optimus/Projects/Code/Logics/macro.cpp
+/home/optimus/Projects/Code/Logics/lrOParser.cpp
 iostream
--
-fstream
--
-string
--
-sstream
 -
 vector
 -
 algorithm
+-
+iomanip
+-
+string
 -
 

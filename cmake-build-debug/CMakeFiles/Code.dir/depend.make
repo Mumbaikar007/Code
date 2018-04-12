@@ -43,6 +43,8 @@ CMakeFiles/Code.dir/CodeChef/FLOW018.cpp.o: ../CodeChef/FLOW018.cpp
 
 CMakeFiles/Code.dir/CodeChef/FSQRT.cpp.o: ../CodeChef/FSQRT.cpp
 
+CMakeFiles/Code.dir/CodeChef/FebruaryChallenge2018/_CHEFCHR.cpp.o: ../CodeChef/FebruaryChallenge2018/\ CHEFCHR.cpp
+
 CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON.cpp.o: ../CodeChef/January\ Challenge\ 2018/KCON.cpp
 
 CMakeFiles/Code.dir/CodeChef/January_Challenge_2018/KCON2.cpp.o: ../CodeChef/January\ Challenge\ 2018/KCON2.cpp
@@ -173,6 +175,8 @@ CMakeFiles/Code.dir/HackerRank/ClimbingLeaderboard.cpp.o: ../HackerRank/Climbing
 
 CMakeFiles/Code.dir/HackerRank/EqualTest.cpp.o: ../HackerRank/EqualTest.cpp
 
+CMakeFiles/Code.dir/HackerRank/Height_and_total_height_of_BST.cpp.o: ../HackerRank/Height\ and\ total\ height\ of\ BST.cpp
+
 CMakeFiles/Code.dir/HackerRank/MagicSquare.cpp.o: ../HackerRank/MagicSquare.cpp
 
 CMakeFiles/Code.dir/HackerRank/Picking_Numbers.cpp.o: ../HackerRank/Picking\ Numbers.cpp
@@ -195,6 +199,8 @@ CMakeFiles/Code.dir/Logics/Arduino's_map.cpp.o: ../Logics/Arduino's\ map.cpp
 
 CMakeFiles/Code.dir/Logics/AsseblerPass1.cpp.o: ../Logics/AsseblerPass1.cpp
 
+CMakeFiles/Code.dir/Logics/BigM_Method.cpp.o: ../Logics/BigM_Method.cpp
+
 CMakeFiles/Code.dir/Logics/CallByReference.cpp.o: ../Logics/CallByReference.cpp
 
 CMakeFiles/Code.dir/Logics/Combinations.cpp.o: ../Logics/Combinations.cpp
@@ -206,6 +212,8 @@ CMakeFiles/Code.dir/Logics/HardCodeMatrix.cpp.o: ../Logics/HardCodeMatrix.cpp
 CMakeFiles/Code.dir/Logics/PowerSet.cpp.o: ../Logics/PowerSet.cpp
 
 CMakeFiles/Code.dir/Logics/StructConstructor.cpp.o: ../Logics/StructConstructor.cpp
+
+CMakeFiles/Code.dir/Logics/infixToPostfix.cpp.o: ../Logics/infixToPostfix.cpp
 
 CMakeFiles/Code.dir/Logics/string.cpp.o: ../Logics/string.cpp
 
@@ -271,5 +279,11 @@ CMakeFiles/Code.dir/UVA_online_judge/3.5.2/147_-_Dollars.cpp.o: ../UVA\ online\ 
 
 CMakeFiles/Code.dir/UVA_online_judge/3.5.2/507_-_Jill_Rides_Again.cpp.o: ../UVA\ online\ judge/3.5.2/507\ -\ Jill\ Rides\ Again.cpp
 
+CMakeFiles/Code.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.o: ../UVA\ online\ judge/3.5.2/562\ -\ Dividing\ coins.cpp
+
+CMakeFiles/Code.dir/UVA_online_judge/3.5.2/UVa_00990_-_Diving_For_Gold.cpp.o: ../UVA\ online\ judge/3.5.2/UVa\ 00990\ -\ Diving\ For\ Gold.cpp
+
 CMakeFiles/Code.dir/UVA_online_judge/3.5.2/UVa_108_-_Maximum_Sum.cpp.o: ../UVA\ online\ judge/3.5.2/UVa\ 108\ -\ Maximum\ Sum.cpp
+
+CMakeFiles/Code.dir/UVA_online_judge/4.2/UVa_00118_-_Mutant_Flatworld_Explorers.cpp.o: ../UVA\ online\ judge/4.2/UVa\ 00118\ -\ Mutant\ Flatworld\ Explorers.cpp
 

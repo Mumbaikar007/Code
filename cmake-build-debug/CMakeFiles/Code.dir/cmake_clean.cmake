@@ -138,6 +138,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/Code.dir/UVA_online_judge/3.5.2/562_-_Dividing_coins.cpp.o"
   "CMakeFiles/Code.dir/UVA_online_judge/3.5.2/UVa_00990_-_Diving_For_Gold.cpp.o"
   "CMakeFiles/Code.dir/UVA_online_judge/4.2/UVa_00118_-_Mutant_Flatworld_Explorers.cpp.o"
+  "CMakeFiles/Code.dir/Logics/FirstAndFollow.cpp.o"
   "Code.pdb"
   "Code"
 )

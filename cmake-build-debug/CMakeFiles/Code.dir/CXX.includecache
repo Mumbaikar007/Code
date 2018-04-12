@@ -112,6 +112,12 @@ iostream
 cmath
 -
 
+/home/optimus/Projects/Code/CodeChef/FebruaryChallenge2018/ CHEFCHR.cpp
+iostream
+-
+vector
+-
+
 /home/optimus/Projects/Code/CodeChef/January Challenge 2018/KCON.cpp
 iostream
 -
@@ -550,6 +556,14 @@ numeric
 vector
 -
 
+/home/optimus/Projects/Code/HackerRank/Height and total height of BST.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+
 /home/optimus/Projects/Code/HackerRank/MagicSquare.cpp
 iostream
 -
@@ -624,6 +638,12 @@ algorithm
 sstream
 -
 
+/home/optimus/Projects/Code/Logics/BigM_Method.cpp
+iostream
+-
+vector
+-
+
 /home/optimus/Projects/Code/Logics/CallByReference.cpp
 iostream
 -
@@ -656,6 +676,12 @@ cmath
 
 /home/optimus/Projects/Code/Logics/StructConstructor.cpp
 iostream
+-
+
+/home/optimus/Projects/Code/Logics/infixToPostfix.cpp
+iostream
+-
+stack
 -
 
 /home/optimus/Projects/Code/Logics/string.cpp
@@ -842,6 +868,20 @@ vector
 cstdio
 -
 
+/home/optimus/Projects/Code/UVA online judge/3.5.2/562 - Dividing coins.cpp
+iostream
+-
+vector
+-
+cmath
+-
+
+/home/optimus/Projects/Code/UVA online judge/3.5.2/UVa 00990 - Diving For Gold.cpp
+iostream
+-
+vector
+-
+
 /home/optimus/Projects/Code/UVA online judge/3.5.2/UVa 108 - Maximum Sum.cpp
 iostream
 -
@@ -849,4 +889,6 @@ vector
 -
 climits
 -
+
+/home/optimus/Projects/Code/UVA online judge/4.2/UVa 00118 - Mutant Flatworld Explorers.cpp
 

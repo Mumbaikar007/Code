@@ -12,11 +12,357 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6a461d7-8a92-4d3b-921f-cfee8d3c07c2" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Logics/maccro.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Logics/macro.cpp" />
+    <list default="true" id="d6a461d7-8a92-4d3b-921f-cfee8d3c07c2" name="Default" comment="Compilers">
+      <change beforePath="" afterPath="$PROJECT_DIR$/CodeChef/FebruaryChallenge2018/ CHEFCHR.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/HackerRank/Height and total height of BST.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Logics/BigM_Method.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Logics/FirstAndFollow.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Logics/LR-0 Parser.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Logics/LR0#2.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Logics/LexicalAnalyzer.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Logics/infixToPostfix.cpp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Logics/lrOParser.cpp" />
+      <change beforePath="$PROJECT_DIR$/.idea/Code.iml" afterPath="$PROJECT_DIR$/.idea/Code.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/SingleFileExecutionConfig.xml" afterPath="$PROJECT_DIR$/.idea/SingleFileExecutionConfig.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/CLRS/Dynamic Programming/Cut-Rod-Problem-Memorization-Top-Down.cpp" afterPath="$PROJECT_DIR$/CLRS/Dynamic Programming/Cut-Rod-Problem-Memorization-Top-Down.cpp" />
+      <change beforePath="$PROJECT_DIR$/CLRS/Dynamic Programming/Cut-Rod-Problem-Recursive-Top-Down.cpp" afterPath="$PROJECT_DIR$/CLRS/Dynamic Programming/Cut-Rod-Problem-Recursive-Top-Down.cpp" />
+      <change beforePath="$PROJECT_DIR$/CLRS/Dynamic Programming/FibonacciDynamic.cpp" afterPath="$PROJECT_DIR$/CLRS/Dynamic Programming/FibonacciDynamic.cpp" />
+      <change beforePath="$PROJECT_DIR$/CLRS/Dynamic Programming/LongestCommonSubsequence.cpp" afterPath="$PROJECT_DIR$/CLRS/Dynamic Programming/LongestCommonSubsequence.cpp" />
+      <change beforePath="$PROJECT_DIR$/CLRS/Dynamic Programming/MatrixChainOrder.cpp" afterPath="$PROJECT_DIR$/CLRS/Dynamic Programming/MatrixChainOrder.cpp" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
+      <change beforePath="$PROJECT_DIR$/CodeChef/ALTARAY.cpp" afterPath="$PROJECT_DIR$/CodeChef/ALTARAY.cpp" />
+      <change beforePath="$PROJECT_DIR$/CodeChef/CHEFSUM.cpp" afterPath="$PROJECT_DIR$/CodeChef/CHEFSUM.cpp" />
+      <change beforePath="$PROJECT_DIR$/CodeChef/CIELAB.cpp" afterPath="$PROJECT_DIR$/CodeChef/CIELAB.cpp" />
+      <change beforePath="$PROJECT_DIR$/CodeChef/CIELRCPT.cpp" afterPath="$PROJECT_DIR$/CodeChef/CIELRCPT.cpp" />
+      <change beforePath="$PROJECT_DIR$/CodeChef/December Challenge 2017/CPLAY.cpp" afterPath="$PROJECT_DIR$/CodeChef/December Challenge 2017/CPLAY.cpp" />
+      <change beforePath="$PROJECT_DIR$/CodeChef/December Challenge 2017/GIT01.cpp" afterPath="$PROJECT_DIR$/CodeChef/December Challenge 2017/GIT01.cpp" />
+      <change beforePath="$PROJECT_DIR$/CodeChef/FCTRL.cpp" afterPath="$PROJECT_DIR$/CodeChef/FCTRL.cpp" />
+      <change beforePath="$PROJECT_DIR$/CodeChef/FCTRL2.class" afterPath="$PROJECT_DIR$/CodeChef/FCTRL2.class" />
+      <change beforePath="$PROJECT_DIR$/CodeChef/FCTRL2.java" afterPath="$PROJECT_DIR$/CodeChef/FCTRL2.java" />
+      <change beforePath="$PROJECT_DIR$/CodeChef/FLOW001.cpp" afterPath="$PROJECT_DIR$/CodeChef/FLOW001.cpp" />
+      <change beforePath="$PROJECT_DIR$/CodeChef/FLOW002.cpp" afterPath="$PROJECT_DIR$/CodeChef/FLOW002.cpp" />
+      <change beforePath="$PROJECT_DIR$/CodeChef/FLOW004.cpp" afterPath="$PROJECT_DIR$/CodeChef/FLOW004.cpp" />
+      <change beforePath="$PROJECT_DIR$/CodeChef/FLOW006.cpp" afterPath="$PROJECT_DIR$/CodeChef/FLOW006.cpp" />
+      <change beforePath="$PROJECT_DIR$/CodeChef/FLOW007.cpp" afterPath="$PROJECT_DIR$/CodeChef/FLOW007.cpp" />
+      <change beforePath="$PROJECT_DIR$/CodeChef/FLOW017.cpp" afterPath="$PROJECT_DIR$/CodeChef/FLOW017.cpp" />
+      <change beforePath="$PROJECT_DIR$/CodeChef/FLOW018.cpp" afterPath="$PROJECT_DIR$/CodeChef/FLOW018.cpp" />
+      <change beforePath="$PROJECT_DIR$/CodeChef/FLOW018.java" afterPath="$PROJECT_DIR$/CodeChef/FLOW018.java" />
+      <change beforePath="$PROJECT_DIR$/CodeChef/FLOWO18.class" afterPath="$PROJECT_DIR$/CodeChef/FLOWO18.class" />
+      <change beforePath="$PROJECT_DIR$/CodeChef/FSQRT.cpp" afterPath="$PROJECT_DIR$/CodeChef/FSQRT.cpp" />
+      <change beforePath="$PROJECT_DIR$/CodeChef/January Challenge 2018/KCON.cpp" afterPath="$PROJECT_DIR$/CodeChef/January Challenge 2018/KCON.cpp" />
+      <change beforePath="$PROJECT_DIR$/CodeChef/January Challenge 2018/KCON2.cpp" afterPath="$PROJECT_DIR$/CodeChef/January Challenge 2018/KCON2.cpp" />
+      <change beforePath="$PROJECT_DIR$/CodeChef/January Challenge 2018/MAXSC.cpp" afterPath="$PROJECT_DIR$/CodeChef/January Challenge 2018/MAXSC.cpp" />
+      <change beforePath="$PROJECT_DIR$/CodeChef/January Challenge 2018/RECTANGL.cpp" afterPath="$PROJECT_DIR$/CodeChef/January Challenge 2018/RECTANGL.cpp" />
+      <change beforePath="$PROJECT_DIR$/CodeChef/January Challenge 2018/STRMRG.cpp" afterPath="$PROJECT_DIR$/CodeChef/January Challenge 2018/STRMRG.cpp" />
+      <change beforePath="$PROJECT_DIR$/CodeChef/LOSTMAX.class" afterPath="$PROJECT_DIR$/CodeChef/LOSTMAX.class" />
+      <change beforePath="$PROJECT_DIR$/CodeChef/LOSTMAX.java" afterPath="$PROJECT_DIR$/CodeChef/LOSTMAX.java" />
+      <change beforePath="$PROJECT_DIR$/CodeChef/LUCKFOUR.cpp" afterPath="$PROJECT_DIR$/CodeChef/LUCKFOUR.cpp" />
+      <change beforePath="$PROJECT_DIR$/CodeChef/MINPERM.cpp" afterPath="$PROJECT_DIR$/CodeChef/MINPERM.cpp" />
+      <change beforePath="$PROJECT_DIR$/CodeChef/Novermber Challenge 2017/CLRL.cpp" afterPath="$PROJECT_DIR$/CodeChef/Novermber Challenge 2017/CLRL.cpp" />
+      <change beforePath="$PROJECT_DIR$/CodeChef/Novermber Challenge 2017/PERPALIN.cpp" afterPath="$PROJECT_DIR$/CodeChef/Novermber Challenge 2017/PERPALIN.cpp" />
+      <change beforePath="$PROJECT_DIR$/CodeChef/Novermber Challenge 2017/VILTRIBE.cpp" afterPath="$PROJECT_DIR$/CodeChef/Novermber Challenge 2017/VILTRIBE.cpp" />
+      <change beforePath="$PROJECT_DIR$/CodeChef/Practice/DBOY .cpp" afterPath="$PROJECT_DIR$/CodeChef/Practice/DBOY .cpp" />
+      <change beforePath="$PROJECT_DIR$/CodeChef/Practice/DELISH.cpp" afterPath="$PROJECT_DIR$/CodeChef/Practice/DELISH.cpp" />
+      <change beforePath="$PROJECT_DIR$/CodeChef/RAINBOWA.cpp" afterPath="$PROJECT_DIR$/CodeChef/RAINBOWA.cpp" />
+      <change beforePath="$PROJECT_DIR$/CodeChef/RAINBOWA2.cpp" afterPath="$PROJECT_DIR$/CodeChef/RAINBOWA2.cpp" />
+      <change beforePath="$PROJECT_DIR$/CodeChef/REMISS.cpp" afterPath="$PROJECT_DIR$/CodeChef/REMISS.cpp" />
+      <change beforePath="$PROJECT_DIR$/CodeChef/START01.cpp" afterPath="$PROJECT_DIR$/CodeChef/START01.cpp" />
+      <change beforePath="$PROJECT_DIR$/CodeChef/SUMTRIAN.cpp" afterPath="$PROJECT_DIR$/CodeChef/SUMTRIAN.cpp" />
+      <change beforePath="$PROJECT_DIR$/CodeChef/TLG.cpp" afterPath="$PROJECT_DIR$/CodeChef/TLG.cpp" />
+      <change beforePath="$PROJECT_DIR$/CodeForces/BFS/Cycle In Maze.cpp" afterPath="$PROJECT_DIR$/CodeForces/BFS/Cycle In Maze.cpp" />
+      <change beforePath="$PROJECT_DIR$/CodeForces/BFS/Police Station.cpp" afterPath="$PROJECT_DIR$/CodeForces/BFS/Police Station.cpp" />
+      <change beforePath="$PROJECT_DIR$/CodeForces/DFS/E. Bear and Forgotten Tree 2.cpp" afterPath="$PROJECT_DIR$/CodeForces/DFS/E. Bear and Forgotten Tree 2.cpp" />
+      <change beforePath="$PROJECT_DIR$/CodeForces/DFS/Test.cpp" afterPath="$PROJECT_DIR$/CodeForces/DFS/Test.cpp" />
+      <change beforePath="$PROJECT_DIR$/CodeForces/DFS/VariationOne.cpp" afterPath="$PROJECT_DIR$/CodeForces/DFS/VariationOne.cpp" />
+      <change beforePath="$PROJECT_DIR$/CodeForces/Djikstra/ Complete The Graph.cpp" afterPath="$PROJECT_DIR$/CodeForces/Djikstra/ Complete The Graph.cpp" />
+      <change beforePath="$PROJECT_DIR$/CodeForces/Djikstra/Test.cpp" afterPath="$PROJECT_DIR$/CodeForces/Djikstra/Test.cpp" />
+      <change beforePath="$PROJECT_DIR$/CoursesCodes/PythonGUI/AddingButtons.py" afterPath="$PROJECT_DIR$/CoursesCodes/PythonGUI/AddingButtons.py" />
+      <change beforePath="$PROJECT_DIR$/CoursesCodes/PythonGUI/AddingFunctionalityToMenuList.py" afterPath="$PROJECT_DIR$/CoursesCodes/PythonGUI/AddingFunctionalityToMenuList.py" />
+      <change beforePath="$PROJECT_DIR$/CoursesCodes/PythonGUI/AddingLabels.py" afterPath="$PROJECT_DIR$/CoursesCodes/PythonGUI/AddingLabels.py" />
+      <change beforePath="$PROJECT_DIR$/CoursesCodes/PythonGUI/AddingMenuBars.py" afterPath="$PROJECT_DIR$/CoursesCodes/PythonGUI/AddingMenuBars.py" />
+      <change beforePath="$PROJECT_DIR$/CoursesCodes/PythonGUI/AddingMenuLists.py" afterPath="$PROJECT_DIR$/CoursesCodes/PythonGUI/AddingMenuLists.py" />
+      <change beforePath="$PROJECT_DIR$/CoursesCodes/PythonGUI/AddingMethodsButtons.py" afterPath="$PROJECT_DIR$/CoursesCodes/PythonGUI/AddingMethodsButtons.py" />
+      <change beforePath="$PROJECT_DIR$/CoursesCodes/PythonGUI/ChangingFont.py" afterPath="$PROJECT_DIR$/CoursesCodes/PythonGUI/ChangingFont.py" />
+      <change beforePath="$PROJECT_DIR$/CoursesCodes/PythonGUI/ColorChooser.py" afterPath="$PROJECT_DIR$/CoursesCodes/PythonGUI/ColorChooser.py" />
+      <change beforePath="$PROJECT_DIR$/CoursesCodes/PythonGUI/Counter.py" afterPath="$PROJECT_DIR$/CoursesCodes/PythonGUI/Counter.py" />
+      <change beforePath="$PROJECT_DIR$/CoursesCodes/PythonGUI/TextBox.py" afterPath="$PROJECT_DIR$/CoursesCodes/PythonGUI/TextBox.py" />
+      <change beforePath="$PROJECT_DIR$/CoursesCodes/PythonGUI/TwoWindow.py" afterPath="$PROJECT_DIR$/CoursesCodes/PythonGUI/TwoWindow.py" />
+      <change beforePath="$PROJECT_DIR$/CoursesCodes/PythonGUI/basicsOfTkinter.py" afterPath="$PROJECT_DIR$/CoursesCodes/PythonGUI/basicsOfTkinter.py" />
+      <change beforePath="$PROJECT_DIR$/CoursesCodes/PythonGUI/basicsOfTkinter2.py" afterPath="$PROJECT_DIR$/CoursesCodes/PythonGUI/basicsOfTkinter2.py" />
+      <change beforePath="$PROJECT_DIR$/CoursesCodes/PythonGUI/changingSizeAndPosition.py" afterPath="$PROJECT_DIR$/CoursesCodes/PythonGUI/changingSizeAndPosition.py" />
+      <change beforePath="$PROJECT_DIR$/CoursesCodes/PythonGUI/gridsAndlabelPositions.py" afterPath="$PROJECT_DIR$/CoursesCodes/PythonGUI/gridsAndlabelPositions.py" />
+      <change beforePath="$PROJECT_DIR$/CoursesCodes/PythonGUI/message_box.py" afterPath="$PROJECT_DIR$/CoursesCodes/PythonGUI/message_box.py" />
+      <change beforePath="$PROJECT_DIR$/Cracking the Coding Interview/Array and Strings/Q1-1.cpp" afterPath="$PROJECT_DIR$/Cracking the Coding Interview/Array and Strings/Q1-1.cpp" />
+      <change beforePath="$PROJECT_DIR$/Cracking the Coding Interview/Array and Strings/Q1-1BIN.cpp" afterPath="$PROJECT_DIR$/Cracking the Coding Interview/Array and Strings/Q1-1BIN.cpp" />
+      <change beforePath="$PROJECT_DIR$/Cracking the Coding Interview/Array and Strings/Q1-2A.cpp.cpp" afterPath="$PROJECT_DIR$/Cracking the Coding Interview/Array and Strings/Q1-2A.cpp.cpp" />
+      <change beforePath="$PROJECT_DIR$/Cracking the Coding Interview/Array and Strings/Q1-2B.cpp" afterPath="$PROJECT_DIR$/Cracking the Coding Interview/Array and Strings/Q1-2B.cpp" />
+      <change beforePath="$PROJECT_DIR$/Cracking the Coding Interview/Array and Strings/Q1-3.cpp" afterPath="$PROJECT_DIR$/Cracking the Coding Interview/Array and Strings/Q1-3.cpp" />
+      <change beforePath="$PROJECT_DIR$/Cracking the Coding Interview/Array and Strings/Q1-4.cpp" afterPath="$PROJECT_DIR$/Cracking the Coding Interview/Array and Strings/Q1-4.cpp" />
+      <change beforePath="$PROJECT_DIR$/Cracking the Coding Interview/Array and Strings/Q1-5.cpp.cpp" afterPath="$PROJECT_DIR$/Cracking the Coding Interview/Array and Strings/Q1-5.cpp.cpp" />
+      <change beforePath="$PROJECT_DIR$/Cracking the Coding Interview/Array and Strings/Q1-6.cpp" afterPath="$PROJECT_DIR$/Cracking the Coding Interview/Array and Strings/Q1-6.cpp" />
+      <change beforePath="$PROJECT_DIR$/Cracking the Coding Interview/Array and Strings/Q1-7.cpp" afterPath="$PROJECT_DIR$/Cracking the Coding Interview/Array and Strings/Q1-7.cpp" />
+      <change beforePath="$PROJECT_DIR$/Cracking the Coding Interview/Array and Strings/Q1-8.cpp" afterPath="$PROJECT_DIR$/Cracking the Coding Interview/Array and Strings/Q1-8.cpp" />
+      <change beforePath="$PROJECT_DIR$/Cracking the Coding Interview/Array and Strings/Q1-9.cpp" afterPath="$PROJECT_DIR$/Cracking the Coding Interview/Array and Strings/Q1-9.cpp" />
+      <change beforePath="$PROJECT_DIR$/Cracking the Coding Interview/Bit Manipulation/Q5-1.cpp" afterPath="$PROJECT_DIR$/Cracking the Coding Interview/Bit Manipulation/Q5-1.cpp" />
+      <change beforePath="$PROJECT_DIR$/Cracking the Coding Interview/Bit Manipulation/Q5-2.cpp" afterPath="$PROJECT_DIR$/Cracking the Coding Interview/Bit Manipulation/Q5-2.cpp" />
+      <change beforePath="$PROJECT_DIR$/Cracking the Coding Interview/Bit Manipulation/Q5-3.cpp" afterPath="$PROJECT_DIR$/Cracking the Coding Interview/Bit Manipulation/Q5-3.cpp" />
+      <change beforePath="$PROJECT_DIR$/Cracking the Coding Interview/Bit Manipulation/Q5-4.cpp" afterPath="$PROJECT_DIR$/Cracking the Coding Interview/Bit Manipulation/Q5-4.cpp" />
+      <change beforePath="$PROJECT_DIR$/Cracking the Coding Interview/Bit Manipulation/Q5-7.cpp" afterPath="$PROJECT_DIR$/Cracking the Coding Interview/Bit Manipulation/Q5-7.cpp" />
+      <change beforePath="$PROJECT_DIR$/Cracking the Coding Interview/Linked List/Experiment.cpp" afterPath="$PROJECT_DIR$/Cracking the Coding Interview/Linked List/Experiment.cpp" />
+      <change beforePath="$PROJECT_DIR$/Cracking the Coding Interview/Linked List/InsertIntoLL.cpp" afterPath="$PROJECT_DIR$/Cracking the Coding Interview/Linked List/InsertIntoLL.cpp" />
+      <change beforePath="$PROJECT_DIR$/Cracking the Coding Interview/Linked List/LinkedListBaasics.c" afterPath="$PROJECT_DIR$/Cracking the Coding Interview/Linked List/LinkedListBaasics.c" />
+      <change beforePath="$PROJECT_DIR$/Cracking the Coding Interview/Linked List/Q1-2.cpp" afterPath="$PROJECT_DIR$/Cracking the Coding Interview/Linked List/Q1-2.cpp" />
+      <change beforePath="$PROJECT_DIR$/Cracking the Coding Interview/Linked List/Q1-3.cpp" afterPath="$PROJECT_DIR$/Cracking the Coding Interview/Linked List/Q1-3.cpp" />
+      <change beforePath="$PROJECT_DIR$/Cracking the Coding Interview/Linked List/Q2-1.cpp" afterPath="$PROJECT_DIR$/Cracking the Coding Interview/Linked List/Q2-1.cpp" />
+      <change beforePath="$PROJECT_DIR$/Cracking the Coding Interview/Linked List/Q2-5.cpp" afterPath="$PROJECT_DIR$/Cracking the Coding Interview/Linked List/Q2-5.cpp" />
+      <change beforePath="$PROJECT_DIR$/Cracking the Coding Interview/Linked List/Q2-6.cpp" afterPath="$PROJECT_DIR$/Cracking the Coding Interview/Linked List/Q2-6.cpp" />
+      <change beforePath="$PROJECT_DIR$/Cracking the Coding Interview/Recursion and Dynamic/Q8-1.cpp" afterPath="$PROJECT_DIR$/Cracking the Coding Interview/Recursion and Dynamic/Q8-1.cpp" />
+      <change beforePath="$PROJECT_DIR$/Cracking the Coding Interview/Recursion and Dynamic/Q8-2.cpp" afterPath="$PROJECT_DIR$/Cracking the Coding Interview/Recursion and Dynamic/Q8-2.cpp" />
+      <change beforePath="$PROJECT_DIR$/Cracking the Coding Interview/Stacks/Q3-1.cpp" afterPath="$PROJECT_DIR$/Cracking the Coding Interview/Stacks/Q3-1.cpp" />
+      <change beforePath="$PROJECT_DIR$/Cracking the Coding Interview/Stacks/Q3-2.cpp" afterPath="$PROJECT_DIR$/Cracking the Coding Interview/Stacks/Q3-2.cpp" />
+      <change beforePath="$PROJECT_DIR$/Cracking the Coding Interview/Stacks/Q3-4.cpp" afterPath="$PROJECT_DIR$/Cracking the Coding Interview/Stacks/Q3-4.cpp" />
+      <change beforePath="$PROJECT_DIR$/Cracking the Coding Interview/Stacks/Q3-5.cpp" afterPath="$PROJECT_DIR$/Cracking the Coding Interview/Stacks/Q3-5.cpp" />
+      <change beforePath="$PROJECT_DIR$/Cracking the Coding Interview/Trees and graphs/Q4-1.cpp" afterPath="$PROJECT_DIR$/Cracking the Coding Interview/Trees and graphs/Q4-1.cpp" />
+      <change beforePath="$PROJECT_DIR$/Cracking the Coding Interview/Trees and graphs/Q4-2.cpp" afterPath="$PROJECT_DIR$/Cracking the Coding Interview/Trees and graphs/Q4-2.cpp" />
+      <change beforePath="$PROJECT_DIR$/Cracking the Coding Interview/Trees and graphs/Q4-3.cpp" afterPath="$PROJECT_DIR$/Cracking the Coding Interview/Trees and graphs/Q4-3.cpp" />
+      <change beforePath="$PROJECT_DIR$/Cracking the Coding Interview/Trees and graphs/Q4-4.cpp" afterPath="$PROJECT_DIR$/Cracking the Coding Interview/Trees and graphs/Q4-4.cpp" />
+      <change beforePath="$PROJECT_DIR$/Cracking the Coding Interview/Trees and graphs/ReadyTree.cpp" afterPath="$PROJECT_DIR$/Cracking the Coding Interview/Trees and graphs/ReadyTree.cpp" />
+      <change beforePath="$PROJECT_DIR$/Cracking the Coding Interview/Trees and graphs/Tree Practice.cpp" afterPath="$PROJECT_DIR$/Cracking the Coding Interview/Trees and graphs/Tree Practice.cpp" />
+      <change beforePath="$PROJECT_DIR$/Cracking the Coding Interview/Trees and graphs/single_file_exe" afterPath="$PROJECT_DIR$/Cracking the Coding Interview/Trees and graphs/single_file_exe" />
+      <change beforePath="$PROJECT_DIR$/HackerEarth/Choosing the judges.cpp" afterPath="$PROJECT_DIR$/HackerEarth/Choosing the judges.cpp" />
+      <change beforePath="$PROJECT_DIR$/HackerEarth/Comppititions/LIV.AI/ArrayFormation.cpp" afterPath="$PROJECT_DIR$/HackerEarth/Comppititions/LIV.AI/ArrayFormation.cpp" />
+      <change beforePath="$PROJECT_DIR$/HackerEarth/Comppititions/LIV.AI/PrefixNumber.cpp" afterPath="$PROJECT_DIR$/HackerEarth/Comppititions/LIV.AI/PrefixNumber.cpp" />
+      <change beforePath="$PROJECT_DIR$/HackerEarth/Comppititions/LIV.AI/PrefixNumbers.py" afterPath="$PROJECT_DIR$/HackerEarth/Comppititions/LIV.AI/PrefixNumbers.py" />
+      <change beforePath="$PROJECT_DIR$/HackerEarth/Dynamic/Counting Number of Ways .cpp" afterPath="$PROJECT_DIR$/HackerEarth/Dynamic/Counting Number of Ways .cpp" />
+      <change beforePath="$PROJECT_DIR$/HackerEarth/Dynamic/On^2.cpp" afterPath="$PROJECT_DIR$/HackerEarth/Dynamic/On^2.cpp" />
+      <change beforePath="$PROJECT_DIR$/HackerEarth/Factorial.cpp" afterPath="$PROJECT_DIR$/HackerEarth/Factorial.cpp" />
+      <change beforePath="$PROJECT_DIR$/HackerEarth/Intelligent Girl.cpp" afterPath="$PROJECT_DIR$/HackerEarth/Intelligent Girl.cpp" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/ Real Estate Broker .cpp" afterPath="$PROJECT_DIR$/HackerRank/ Real Estate Broker .cpp" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/ClimbingLeaderboard.cpp" afterPath="$PROJECT_DIR$/HackerRank/ClimbingLeaderboard.cpp" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/EqualTest.cpp" afterPath="$PROJECT_DIR$/HackerRank/EqualTest.cpp" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Floyd : City of Blinding Lights.cpp" afterPath="$PROJECT_DIR$/HackerRank/Floyd : City of Blinding Lights.cpp" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/MagicSquare.cpp" afterPath="$PROJECT_DIR$/HackerRank/MagicSquare.cpp" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Picking Numbers.cpp" afterPath="$PROJECT_DIR$/HackerRank/Picking Numbers.cpp" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Weighted UniformSubstrings.cpp" afterPath="$PROJECT_DIR$/HackerRank/Weighted UniformSubstrings.cpp" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/eruptingVolcanos.cpp" afterPath="$PROJECT_DIR$/HackerRank/eruptingVolcanos.cpp" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/single_file_exe" afterPath="$PROJECT_DIR$/HackerRank/single_file_exe" />
+      <change beforePath="$PROJECT_DIR$/Hitchhiker's /LIS.cpp" afterPath="$PROJECT_DIR$/Hitchhiker's /LIS.cpp" />
+      <change beforePath="$PROJECT_DIR$/Hitchhiker's /LongestCommonSubsequence.cpp" afterPath="$PROJECT_DIR$/Hitchhiker's /LongestCommonSubsequence.cpp" />
+      <change beforePath="$PROJECT_DIR$/Hitchhiker's /MaxSumOnALine.cpp" afterPath="$PROJECT_DIR$/Hitchhiker's /MaxSumOnALine.cpp" />
+      <change beforePath="$PROJECT_DIR$/Hitchhiker's /SampleProblemCombinatorics.cpp" afterPath="$PROJECT_DIR$/Hitchhiker's /SampleProblemCombinatorics.cpp" />
+      <change beforePath="$PROJECT_DIR$/Logics/AdjMat.c" afterPath="$PROJECT_DIR$/Logics/AdjMat.c" />
+      <change beforePath="$PROJECT_DIR$/Logics/Arduino's map.cpp" afterPath="$PROJECT_DIR$/Logics/Arduino's map.cpp" />
+      <change beforePath="$PROJECT_DIR$/Logics/AsseblerPass1.cpp" afterPath="$PROJECT_DIR$/Logics/AsseblerPass1.cpp" />
+      <change beforePath="$PROJECT_DIR$/Logics/CallByReference.cpp" afterPath="$PROJECT_DIR$/Logics/CallByReference.cpp" />
+      <change beforePath="$PROJECT_DIR$/Logics/Combinations.cpp" afterPath="$PROJECT_DIR$/Logics/Combinations.cpp" />
+      <change beforePath="$PROJECT_DIR$/Logics/Djikstra.c" afterPath="$PROJECT_DIR$/Logics/Djikstra.c" />
+      <change beforePath="$PROJECT_DIR$/Logics/Djikstra2.c" afterPath="$PROJECT_DIR$/Logics/Djikstra2.c" />
+      <change beforePath="$PROJECT_DIR$/Logics/DjikstraFinal.c" afterPath="$PROJECT_DIR$/Logics/DjikstraFinal.c" />
+      <change beforePath="$PROJECT_DIR$/Logics/EyantraScan1.cpp" afterPath="$PROJECT_DIR$/Logics/EyantraScan1.cpp" />
+      <change beforePath="$PROJECT_DIR$/Logics/HardCodeMatrix.cpp" afterPath="$PROJECT_DIR$/Logics/HardCodeMatrix.cpp" />
+      <change beforePath="$PROJECT_DIR$/Logics/NewAdjMat.c" afterPath="$PROJECT_DIR$/Logics/NewAdjMat.c" />
+      <change beforePath="$PROJECT_DIR$/Logics/PowerSet.cpp" afterPath="$PROJECT_DIR$/Logics/PowerSet.cpp" />
+      <change beforePath="$PROJECT_DIR$/Logics/StructConstructor.cpp" afterPath="$PROJECT_DIR$/Logics/StructConstructor.cpp" />
+      <change beforePath="$PROJECT_DIR$/Logics/UnknownNumbersAsInput.class" afterPath="$PROJECT_DIR$/Logics/UnknownNumbersAsInput.class" />
+      <change beforePath="$PROJECT_DIR$/Logics/UnknownNumbersAsInput.java" afterPath="$PROJECT_DIR$/Logics/UnknownNumbersAsInput.java" />
+      <change beforePath="$PROJECT_DIR$/Logics/assembler" afterPath="$PROJECT_DIR$/Logics/assembler" />
+      <change beforePath="$PROJECT_DIR$/Logics/maccro.txt" afterPath="$PROJECT_DIR$/Logics/maccro.txt" />
+      <change beforePath="$PROJECT_DIR$/Logics/macro.cpp" afterPath="$PROJECT_DIR$/Logics/macro.cpp" />
+      <change beforePath="$PROJECT_DIR$/Logics/out.txt" afterPath="$PROJECT_DIR$/Logics/out.txt" />
       <change beforePath="$PROJECT_DIR$/Logics/single_file_exe" afterPath="$PROJECT_DIR$/Logics/single_file_exe" />
+      <change beforePath="$PROJECT_DIR$/Logics/string.cpp" afterPath="$PROJECT_DIR$/Logics/string.cpp" />
+      <change beforePath="$PROJECT_DIR$/Logics/test.cpp" afterPath="$PROJECT_DIR$/Logics/test.cpp" />
+      <change beforePath="$PROJECT_DIR$/Logics/trial.cpp" afterPath="$PROJECT_DIR$/Logics/trial.cpp" />
+      <change beforePath="$PROJECT_DIR$/ProjectEuler/10-Summation of primes.cpp" afterPath="$PROJECT_DIR$/ProjectEuler/10-Summation of primes.cpp" />
+      <change beforePath="$PROJECT_DIR$/ProjectEuler/11-Largest product in a grid.cpp" afterPath="$PROJECT_DIR$/ProjectEuler/11-Largest product in a grid.cpp" />
+      <change beforePath="$PROJECT_DIR$/ProjectEuler/12-Highly divisible triangular number.cpp" afterPath="$PROJECT_DIR$/ProjectEuler/12-Highly divisible triangular number.cpp" />
+      <change beforePath="$PROJECT_DIR$/ProjectEuler/13-Large sum.cpp" afterPath="$PROJECT_DIR$/ProjectEuler/13-Large sum.cpp" />
+      <change beforePath="$PROJECT_DIR$/ProjectEuler/14 - Longest Collatz sequence.cpp" afterPath="$PROJECT_DIR$/ProjectEuler/14 - Longest Collatz sequence.cpp" />
+      <change beforePath="$PROJECT_DIR$/ProjectEuler/15-Lattice paths.cpp" afterPath="$PROJECT_DIR$/ProjectEuler/15-Lattice paths.cpp" />
+      <change beforePath="$PROJECT_DIR$/ProjectEuler/16-Power digit sum.cpp" afterPath="$PROJECT_DIR$/ProjectEuler/16-Power digit sum.cpp" />
+      <change beforePath="$PROJECT_DIR$/ProjectEuler/18-Maximum path sum I.cpp" afterPath="$PROJECT_DIR$/ProjectEuler/18-Maximum path sum I.cpp" />
+      <change beforePath="$PROJECT_DIR$/ProjectEuler/20-Factorial digit sum.cpp" afterPath="$PROJECT_DIR$/ProjectEuler/20-Factorial digit sum.cpp" />
+      <change beforePath="$PROJECT_DIR$/ProjectEuler/21-Amicable numbers.cpp" afterPath="$PROJECT_DIR$/ProjectEuler/21-Amicable numbers.cpp" />
+      <change beforePath="$PROJECT_DIR$/ProjectEuler/22-Names scores.cpp" afterPath="$PROJECT_DIR$/ProjectEuler/22-Names scores.cpp" />
+      <change beforePath="$PROJECT_DIR$/ProjectEuler/23-Non-abundant sums.cpp" afterPath="$PROJECT_DIR$/ProjectEuler/23-Non-abundant sums.cpp" />
+      <change beforePath="$PROJECT_DIR$/ProjectEuler/25-1000-digit Fibonacci number.cpp" afterPath="$PROJECT_DIR$/ProjectEuler/25-1000-digit Fibonacci number.cpp" />
+      <change beforePath="$PROJECT_DIR$/ProjectEuler/8-Largest product in a series.cpp" afterPath="$PROJECT_DIR$/ProjectEuler/8-Largest product in a series.cpp" />
+      <change beforePath="$PROJECT_DIR$/ProjectEuler/9-Special Pythagorean triplet.cpp" afterPath="$PROJECT_DIR$/ProjectEuler/9-Special Pythagorean triplet.cpp" />
+      <change beforePath="$PROJECT_DIR$/ProjectEuler/DigitFibonacciNumber25.class" afterPath="$PROJECT_DIR$/ProjectEuler/DigitFibonacciNumber25.class" />
+      <change beforePath="$PROJECT_DIR$/ProjectEuler/DigitFibonacciNumber25.java" afterPath="$PROJECT_DIR$/ProjectEuler/DigitFibonacciNumber25.java" />
+      <change beforePath="$PROJECT_DIR$/ProjectEuler/LargeSum13.class" afterPath="$PROJECT_DIR$/ProjectEuler/LargeSum13.class" />
+      <change beforePath="$PROJECT_DIR$/ProjectEuler/LargeSum13.java" afterPath="$PROJECT_DIR$/ProjectEuler/LargeSum13.java" />
+      <change beforePath="$PROJECT_DIR$/Python/dfsWithAdjMatrix.py" afterPath="$PROJECT_DIR$/Python/dfsWithAdjMatrix.py" />
+      <change beforePath="$PROJECT_DIR$/Q2-5.cpp" afterPath="$PROJECT_DIR$/Q2-5.cpp" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/SPOJ/ACPC10A - What’s Next(SPOJ-7974).cpp" afterPath="$PROJECT_DIR$/SPOJ/ACPC10A - What’s Next(SPOJ-7974).cpp" />
+      <change beforePath="$PROJECT_DIR$/SPOJ/ADDREV - Adding Reversed Numbers(SPOJ-42).cpp" afterPath="$PROJECT_DIR$/SPOJ/ADDREV - Adding Reversed Numbers(SPOJ-42).cpp" />
+      <change beforePath="$PROJECT_DIR$/SPOJ/FCTRL - Factorial (SPOJ-11).cpp" afterPath="$PROJECT_DIR$/SPOJ/FCTRL - Factorial (SPOJ-11).cpp" />
+      <change beforePath="$PROJECT_DIR$/SPOJ/FCTRL2 - Small factorials(SPOJ-24).cpp" afterPath="$PROJECT_DIR$/SPOJ/FCTRL2 - Small factorials(SPOJ-24).cpp" />
+      <change beforePath="$PROJECT_DIR$/SPOJ/HOTELS - Hotels Along the Croatian Coast.cpp" afterPath="$PROJECT_DIR$/SPOJ/HOTELS - Hotels Along the Croatian Coast.cpp" />
+      <change beforePath="$PROJECT_DIR$/SPOJ/JULKA_Julka.class" afterPath="$PROJECT_DIR$/SPOJ/JULKA_Julka.class" />
+      <change beforePath="$PROJECT_DIR$/SPOJ/JULKA_Julka.java" afterPath="$PROJECT_DIR$/SPOJ/JULKA_Julka.java" />
+      <change beforePath="$PROJECT_DIR$/SPOJ/NSTEPS - Number Steps (SPOJ-1112 ).cpp" afterPath="$PROJECT_DIR$/SPOJ/NSTEPS - Number Steps (SPOJ-1112 ).cpp" />
+      <change beforePath="$PROJECT_DIR$/SPOJ/REC_Recurrence.class" afterPath="$PROJECT_DIR$/SPOJ/REC_Recurrence.class" />
+      <change beforePath="$PROJECT_DIR$/SPOJ/REC_Recurrence.java" afterPath="$PROJECT_DIR$/SPOJ/REC_Recurrence.java" />
+      <change beforePath="$PROJECT_DIR$/SPOJ/SAMER08F - Feynman(SPOJ-3410).cpp" afterPath="$PROJECT_DIR$/SPOJ/SAMER08F - Feynman(SPOJ-3410).cpp" />
+      <change beforePath="$PROJECT_DIR$/SPOJ/TETRA - Sphere in a tetrahedron(SPOJ-16).cpp" afterPath="$PROJECT_DIR$/SPOJ/TETRA - Sphere in a tetrahedron(SPOJ-16).cpp" />
+      <change beforePath="$PROJECT_DIR$/TSP dynamic/TSP Dynamic.txt" afterPath="$PROJECT_DIR$/TSP dynamic/TSP Dynamic.txt" />
+      <change beforePath="$PROJECT_DIR$/TSP dynamic/Travel.doc" afterPath="$PROJECT_DIR$/TSP dynamic/Travel.doc" />
+      <change beforePath="$PROJECT_DIR$/UVA online judge/1.3.3/UVa 00119.cpp" afterPath="$PROJECT_DIR$/UVA online judge/1.3.3/UVa 00119.cpp" />
+      <change beforePath="$PROJECT_DIR$/UVA online judge/1.3.3/UVa 00272.cpp" afterPath="$PROJECT_DIR$/UVA online judge/1.3.3/UVa 00272.cpp" />
+      <change beforePath="$PROJECT_DIR$/UVA online judge/1.3.3/UVa 00573.cpp" afterPath="$PROJECT_DIR$/UVA online judge/1.3.3/UVa 00573.cpp" />
+      <change beforePath="$PROJECT_DIR$/UVA online judge/1.3.3/UVa 00621.cpp" afterPath="$PROJECT_DIR$/UVA online judge/1.3.3/UVa 00621.cpp" />
+      <change beforePath="$PROJECT_DIR$/UVA online judge/2.2.4/UVa 00230 - Borrowers.cpp" afterPath="$PROJECT_DIR$/UVA online judge/2.2.4/UVa 00230 - Borrowers.cpp" />
+      <change beforePath="$PROJECT_DIR$/UVA online judge/3.5.2/.tp.swp" afterPath="$PROJECT_DIR$/UVA online judge/3.5.2/.tp.swp" />
+      <change beforePath="$PROJECT_DIR$/UVA online judge/3.5.2/147 - Dollars.cpp" afterPath="$PROJECT_DIR$/UVA online judge/3.5.2/147 - Dollars.cpp" />
+      <change beforePath="$PROJECT_DIR$/UVA online judge/3.5.2/507 - Jill Rides Again.cpp" afterPath="$PROJECT_DIR$/UVA online judge/3.5.2/507 - Jill Rides Again.cpp" />
+      <change beforePath="$PROJECT_DIR$/UVA online judge/3.5.2/562 - Dividing coins.cpp" afterPath="$PROJECT_DIR$/UVA online judge/3.5.2/562 - Dividing coins.cpp" />
+      <change beforePath="$PROJECT_DIR$/UVA online judge/3.5.2/UVa 00990 - Diving For Gold.cpp" afterPath="$PROJECT_DIR$/UVA online judge/3.5.2/UVa 00990 - Diving For Gold.cpp" />
+      <change beforePath="$PROJECT_DIR$/UVA online judge/3.5.2/UVa 108 - Maximum Sum.cpp" afterPath="$PROJECT_DIR$/UVA online judge/3.5.2/UVa 108 - Maximum Sum.cpp" />
+      <change beforePath="$PROJECT_DIR$/UVA online judge/4.2/UVa 00118 - Mutant Flatworld Explorers.cpp" afterPath="$PROJECT_DIR$/UVA online judge/4.2/UVa 00118 - Mutant Flatworld Explorers.cpp" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CMakeCCompiler.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CMakeCCompiler.cmake" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CMakeCXXCompiler.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CMakeCXXCompiler.cmake" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CMakeSystem.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CMakeSystem.cmake" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CompilerIdC/CMakeCCompilerId.c" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CompilerIdC/CMakeCCompilerId.c" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CompilerIdCXX/CMakeCXXCompilerId.cpp" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/C.includecache" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/C.includecache" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/CLRS/Dynamic_Programming/Cut-Rod-Problem-Memorization-Top-Down.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/CLRS/Dynamic_Programming/Cut-Rod-Problem-Recursive-Top-Down.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/CLRS/Dynamic_Programming/FibonacciDynamic.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/CLRS/Dynamic_Programming/LongestCommonSubsequence.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/CLRS/Dynamic_Programming/MatrixChainOrder.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/CXX.includecache" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/CXX.includecache" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/CodeChef/CHEFSUM.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/CodeChef/CIELAB.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/CodeChef/CIELRCPT.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/CodeChef/December_Challenge_2017/GIT01.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/CodeChef/FCTRL.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/CodeChef/FLOW001.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/CodeChef/FLOW002.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/CodeChef/FLOW004.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/CodeChef/FLOW006.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/CodeChef/FLOW007.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/CodeChef/FLOW017.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/CodeChef/FLOW018.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/CodeChef/FSQRT.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/CodeChef/LUCKFOUR.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/CodeChef/MINPERM.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/CLRL.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/PERPALIN.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/CodeChef/Novermber_Challenge_2017/VILTRIBE.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/CodeChef/RAINBOWA.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/CodeChef/RAINBOWA2.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/CodeChef/REMISS.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/CodeChef/START01.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/CodeChef/SUMTRIAN.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/CodeChef/TLG.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-1.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-1BIN.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2A.cpp.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-2B.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-3.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-4.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-5.cpp.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-6.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-7.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-8.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Array_and_Strings/Q1-9.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Bit_Manipulation/Q5-1.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Experiment.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/InsertIntoLL.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/LinkedListBaasics.c.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q1-2.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q1-3.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q2-1.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Linked_List/Q2-6.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-1.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-2.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-4.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Stacks/Q3-5.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-1.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-2.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-3.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Q4-4.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/ReadyTree.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/Cracking_the_Coding_Interview/Trees_and_graphs/Tree_Practice.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/DependInfo.cmake" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/HackerEarth/Choosing_the_judges.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/HackerEarth/Factorial.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/HackerEarth/Intelligent_Girl.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/HackerRank/ClimbingLeaderboard.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/HackerRank/MagicSquare.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/HackerRank/Picking_Numbers.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/HackerRank/Weighted_UniformSubstrings.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/HackerRank/eruptingVolcanos.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/Hitchhiker's_/LongestCommonSubsequence.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/Hitchhiker's_/SampleProblemCombinatorics.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/Logics/CallByReference.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/Logics/Combinations.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/Logics/HardCodeMatrix.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/Logics/PowerSet.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/Logics/string.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/ProjectEuler/10-Summation_of_primes.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/ProjectEuler/11-Largest_product_in_a_grid.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/ProjectEuler/12-Highly_divisible_triangular_number.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/ProjectEuler/13-Large_sum.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/ProjectEuler/14_-_Longest_Collatz_sequence.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/ProjectEuler/15-Lattice_paths.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/ProjectEuler/16-Power_digit_sum.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/ProjectEuler/18-Maximum_path_sum_I.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/ProjectEuler/20-Factorial_digit_sum.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/ProjectEuler/21-Amicable_numbers.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/ProjectEuler/22-Names_scores.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/ProjectEuler/23-Non-abundant_sums.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/ProjectEuler/25-1000-digit_Fibonacci_number.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/ProjectEuler/8-Largest_product_in_a_series.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/ProjectEuler/9-Special_Pythagorean_triplet.cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/SPOJ/ACPC10A_-_What’s_Next(SPOJ-7974).cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/SPOJ/ADDREV_-_Adding_Reversed_Numbers(SPOJ-42).cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/SPOJ/FCTRL2_-_Small_factorials(SPOJ-24).cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/SPOJ/FCTRL_-_Factorial_(SPOJ-11).cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/SPOJ/NSTEPS_-_Number_Steps_(SPOJ-1112_).cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/SPOJ/SAMER08F_-_Feynman(SPOJ-3410).cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/SPOJ/TETRA_-_Sphere_in_a_tetrahedron(SPOJ-16).cpp.o" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/build.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/build.make" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/cmake_clean.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/cmake_clean.cmake" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/depend.internal" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/depend.internal" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/depend.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/depend.make" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/flags.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/flags.make" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/link.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/link.txt" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Code.dir/progress.make" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.c" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.c" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.cxx" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.cxx" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/single_file_exe.dir/CXX.includecache" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/single_file_exe.dir/CXX.includecache" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/single_file_exe.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/single_file_exe.dir/DependInfo.cmake" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/single_file_exe.dir/Logics/AsseblerPass1.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/single_file_exe.dir/Logics/AsseblerPass1.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/single_file_exe.dir/UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/single_file_exe.dir/UVA_online_judge/2.2.4/UVa_00230_-_Borrowers.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/507_-_Jill_Rides_Again.cpp.o" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/single_file_exe.dir/UVA_online_judge/3.5.2/507_-_Jill_Rides_Again.cpp.o" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/single_file_exe.dir/build.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/single_file_exe.dir/build.make" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/single_file_exe.dir/cmake_clean.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/single_file_exe.dir/cmake_clean.cmake" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/single_file_exe.dir/depend.internal" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/single_file_exe.dir/depend.internal" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/single_file_exe.dir/depend.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/single_file_exe.dir/depend.make" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/single_file_exe.dir/flags.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/single_file_exe.dir/flags.make" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/single_file_exe.dir/link.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/single_file_exe.dir/link.txt" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Code.cbp" afterPath="$PROJECT_DIR$/cmake-build-debug/Code.cbp" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" />
+      <change beforePath="$PROJECT_DIR$/pdfs/PS1.pdf" afterPath="$PROJECT_DIR$/pdfs/PS1.pdf" />
+      <change beforePath="$PROJECT_DIR$/pdfs/SatoNT.pdf" afterPath="$PROJECT_DIR$/pdfs/SatoNT.pdf" />
+      <change beforePath="$PROJECT_DIR$/pdfs/ch04.pdf" afterPath="$PROJECT_DIR$/pdfs/ch04.pdf" />
+      <change beforePath="$PROJECT_DIR$/pdfs/icpc.pdf" afterPath="$PROJECT_DIR$/pdfs/icpc.pdf" />
+      <change beforePath="$PROJECT_DIR$/pdfs/notebook.pdf" afterPath="$PROJECT_DIR$/pdfs/notebook.pdf" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,64 +376,6 @@
   <component name="FavoritesManager">
     <favorites_list name="Code" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1350">
-              <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Logics/test.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3600">
-              <caret line="200" column="5" lean-forward="false" selection-start-line="200" selection-start-column="5" selection-end-line="200" selection-end-column="5" />
-              <folding>
-                <element signature="e#1#21#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="assembler" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Logics/assembler">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="8" lean-forward="false" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="macro.cpp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Logics/macro.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="190" column="28" lean-forward="true" selection-start-line="190" selection-start-column="28" selection-end-line="190" selection-end-column="28" />
-              <folding>
-                <element signature="e#1#21#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="maccro.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Logics/maccro.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="13" column="7" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>[0]</find>
@@ -96,10 +384,16 @@
       <find>endl</find>
       <find>base</find>
       <find>end</find>
+      <find>int</find>
+      <find>coe</find>
+      <find>cjzj</find>
+      <find>startingProduction</find>
+      <find>productionNonTerminals</find>
     </findStrings>
     <replaceStrings>
       <replace />
       <replace>Tree</replace>
+      <replace>float</replace>
     </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/Cracking the Coding Interview/Stacks</dir>
@@ -111,15 +405,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Cracking the Coding Interview/Bit Manipulation/Q5-1.cpp" />
-        <option value="$PROJECT_DIR$/Hitchhiker's /LongestCommonSubsequence.cpp" />
-        <option value="$PROJECT_DIR$/Cracking the Coding Interview/Bit Manipulation/Q5-3.cpp" />
-        <option value="$PROJECT_DIR$/CodeForces/E. Bear and Forgotten Tree 2.cpp" />
-        <option value="$PROJECT_DIR$/CodeForces/VariationOne.cpp" />
-        <option value="$PROJECT_DIR$/CodeForces/Test.cpp" />
-        <option value="$PROJECT_DIR$/CodeForces/BFS/Cycle In Maze.cpp" />
-        <option value="$PROJECT_DIR$/CodeForces/BFS/Police Station.cpp" />
-        <option value="$PROJECT_DIR$/HackerRank/ Real Estate Broker .cpp" />
         <option value="$PROJECT_DIR$/Cracking the Coding Interview/Bit Manipulation/Q5-4.cpp" />
         <option value="$PROJECT_DIR$/Cracking the Coding Interview/Bit Manipulation/Q5-7.cpp" />
         <option value="$PROJECT_DIR$/Cracking the Coding Interview/Recursion and Dynamic/Q8-1.cpp" />
@@ -142,7 +427,6 @@
         <option value="$PROJECT_DIR$/UVA online judge/UVa 00272.cpp" />
         <option value="$PROJECT_DIR$/UVA online judge/1.3.3/UVa 00621.cpp" />
         <option value="$PROJECT_DIR$/Logics/EyantraScan1.cpp" />
-        <option value="$PROJECT_DIR$/Logics/trial.cpp" />
         <option value="$PROJECT_DIR$/UVA online judge/1.3.3/UVa 00119.cpp" />
         <option value="$PROJECT_DIR$/UVA online judge/1.3.3/UVa 00573.cpp" />
         <option value="$PROJECT_DIR$/ProjectEuler/13-Large sum.cpp" />
@@ -157,11 +441,21 @@
         <option value="$PROJECT_DIR$/UVA online judge/3.5.2/147 - Dollars.cpp" />
         <option value="$PROJECT_DIR$/HackerRank/EqualTest.cpp" />
         <option value="$PROJECT_DIR$/UVA online judge/3.5.2/562 - Dividing coins.cpp" />
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/UVA online judge/3.5.2/UVa 00990 - Diving For Gold.cpp" />
-        <option value="$PROJECT_DIR$/Logics/test.cpp" />
         <option value="$PROJECT_DIR$/Logics/maccro.txt" />
+        <option value="$PROJECT_DIR$/Logics/test.cpp" />
+        <option value="$PROJECT_DIR$/HackerRank/Height and total height of BST.cpp" />
+        <option value="$PROJECT_DIR$/Logics/infixToPostfix.cpp" />
+        <option value="$PROJECT_DIR$/CodeChef/FebruaryChallenge2018/ CHEFCHR.cpp" />
         <option value="$PROJECT_DIR$/Logics/macro.cpp" />
+        <option value="$PROJECT_DIR$/Logics/LexicalAnalyzer.cpp" />
+        <option value="$PROJECT_DIR$/Logics/BigM_Method.cpp" />
+        <option value="$PROJECT_DIR$/Logics/trial.cpp" />
+        <option value="$PROJECT_DIR$/Logics/LR-0 Parser.cpp" />
+        <option value="$PROJECT_DIR$/Logics/LR0#2.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/Logics/lrOParser.cpp" />
+        <option value="$PROJECT_DIR$/Logics/FirstAndFollow.cpp" />
       </list>
     </option>
   </component>
@@ -172,10 +466,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="77" />
-    <option name="y" value="149" />
-    <option name="width" value="1366" />
-    <option name="height" value="744" />
+    <option name="x" value="682" />
+    <option name="y" value="-4" />
+    <option name="width" value="685" />
+    <option name="height" value="773" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -216,7 +510,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///home/optimus/MEGA/Code/Logics/NewAdjMat.c" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///home/optimus/Projects/Code/Logics/macro.cpp" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -242,10 +536,10 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.single_file_exe">
-    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Code" RUN_TARGET_NAME="single_file_exe" EXPLICIT_BUILD_TARGET_NAME="all">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Code" RUN_TARGET_NAME="Code" EXPLICIT_BUILD_TARGET_NAME="all">
       <envs />
     </configuration>
-    <configuration name="Code" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Code" TARGET_NAME="Code" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Code" RUN_TARGET_NAME="single_file_exe">
+    <configuration name="Code" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Code" TARGET_NAME="Code" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Code" RUN_TARGET_NAME="Code">
       <envs />
     </configuration>
     <configuration name="single_file_exe" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Code" TARGET_NAME="single_file_exe" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Code" RUN_TARGET_NAME="single_file_exe">
@@ -387,7 +681,23 @@
       <workItem from="1518765360909" duration="74000" />
       <workItem from="1518766949680" duration="2162000" />
       <workItem from="1518772537127" duration="562000" />
-      <workItem from="1518794504777" duration="8000" />
+      <workItem from="1518794504777" duration="671000" />
+      <workItem from="1518795199498" duration="1682000" />
+      <workItem from="1518877078115" duration="2046000" />
+      <workItem from="1518884144542" duration="2715000" />
+      <workItem from="1518927641792" duration="10000" />
+      <workItem from="1518927773163" duration="1800000" />
+      <workItem from="1518963566813" duration="1048000" />
+      <workItem from="1519026880923" duration="1317000" />
+      <workItem from="1519135642353" duration="4763000" />
+      <workItem from="1520262176973" duration="6588000" />
+      <workItem from="1520341176617" duration="11827000" />
+      <workItem from="1520356082308" duration="1704000" />
+      <workItem from="1520438466882" duration="2055000" />
+      <workItem from="1523460323834" duration="5687000" />
+      <workItem from="1523503464382" duration="899000" />
+      <workItem from="1523504721900" duration="19985000" />
+      <workItem from="1523548883338" duration="306000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit from CLion">
       <created>1509817264792</created>
@@ -669,11 +979,18 @@
       <option name="project" value="LOCAL" />
       <updated>1518713276617</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="macroed !">
+      <created>1518794536338</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1518794536339</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="232976000" />
+    <option name="totallyTimeSpent" value="298071000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -685,22 +1002,21 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="77" y="149" width="1368" height="780" extended-state="6" />
-    <editor active="true" />
+    <frame x="682" y="-4" width="1368" height="780" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23409091" sideWeight="0.49156627" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34142396" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25757575" sideWeight="0.49156627" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34059098" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281493" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1415241" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.090202175" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38413686" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25833333" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281493" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3318182" sideWeight="0.50843376" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39813375" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.281493" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2882736" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="0" y="0" width="292" height="580" />
@@ -718,7 +1034,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="trees successfull !" />
     <MESSAGE value="Hmm ..." />
     <MESSAGE value="back to work !!" />
     <MESSAGE value="Code Chef" />
@@ -743,7 +1058,8 @@
     <MESSAGE value="all about IATs" />
     <MESSAGE value="working but not" />
     <MESSAGE value="macroed !" />
-    <option name="LAST_COMMIT_MESSAGE" value="macroed !" />
+    <MESSAGE value="Compilers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Compilers" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -752,365 +1068,14 @@
           <url>file://$PROJECT_DIR$/CodeChef/Novermber Challenge 2017/CLRL.cpp</url>
           <line>29</line>
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Logics/LR0#2.cpp</url>
+          <line>113</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="3" />
+      <option name="time" value="18" />
     </breakpoint-manager>
     <watches-manager />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Cracking the Coding Interview/Recursion and Dynamic/Q8-1.h" />
-    <entry file="file://$PROJECT_DIR$/Cracking the Coding Interview/Bit Manipulation/Q5-7.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cracking the Coding Interview/Recursion and Dynamic/Q8-1.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="13" column="16" lean-forward="false" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cracking the Coding Interview/Bit Manipulation/Q5-3.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/Djikstra/ Complete The Graph.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeForces/Djikstra/Test.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="106" column="21" lean-forward="false" selection-start-line="106" selection-start-column="21" selection-end-line="106" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hitchhiker's /MaxSumOnALine.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerEarth/Dynamic/Counting Number of Ways On^2 mem.h" />
-    <entry file="file://$PROJECT_DIR$/HackerEarth/Dynamic/On^2.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret line="30" column="19" lean-forward="false" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerEarth/Dynamic/Counting Number of Ways .cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="55" column="21" lean-forward="false" selection-start-line="54" selection-start-column="8" selection-end-line="55" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeChef/January Challenge 2018/MAXSC.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cracking the Coding Interview/Recursion and Dynamic/Q8-2.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeChef/ALTARAY.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="32" column="23" lean-forward="false" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Logics/Arduino's map.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeChef/January Challenge 2018/RECTANGL.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="27" lean-forward="false" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeChef/January Challenge 2018/STRMRG.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="882">
-          <caret line="49" column="10" lean-forward="false" selection-start-line="49" selection-start-column="10" selection-end-line="49" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeChef/January Challenge 2018/KCON2.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="31" column="39" lean-forward="true" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SPOJ/HOTELS - Hotels Along the Croatian Coast.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="26" column="31" lean-forward="false" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeChef/Practice/DBOY .cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="65" column="14" lean-forward="false" selection-start-line="65" selection-start-column="14" selection-end-line="65" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeChef/Practice/DELISH.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="44" column="53" lean-forward="false" selection-start-line="44" selection-start-column="53" selection-end-line="44" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeChef/January Challenge 2018/KCON.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Logics/Djikstra.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1368">
-          <caret line="77" column="16" lean-forward="false" selection-start-line="77" selection-start-column="16" selection-end-line="89" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Logics/NewAdjMat.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/include/c++/5/bits/stl_pair.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="179" column="13" lean-forward="false" selection-start-line="179" selection-start-column="13" selection-end-line="179" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UVA online judge/1.3.3/UVa 00621.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="20" column="10" lean-forward="false" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Logics/EyantraScan1.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1587">
-          <caret line="28" column="5" lean-forward="false" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UVA online judge/1.3.3/UVa 00573.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="26" lean-forward="false" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProjectEuler/13-Large sum.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="122" column="2" lean-forward="false" selection-start-line="122" selection-start-column="2" selection-end-line="122" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Cracking the Coding Interview/Trees and graphs/Q4-3.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="14" column="2" lean-forward="false" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Hitchhiker's /LIS.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="29" column="18" lean-forward="false" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Logics/trial.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-356">
-          <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeChef/December Challenge 2017/CPLAY.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="882">
-          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Logics/StructConstructor.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" column="31" lean-forward="false" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UVA online judge/3.5.2/507 - Jill Rides Again.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1574">
-          <caret line="94" column="1" lean-forward="false" selection-start-line="94" selection-start-column="1" selection-end-line="94" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UVA online judge/3.5.2/UVa 108 - Maximum Sum.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UVA online judge/2.2.4/UVa 00230 - Borrowers.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1113">
-          <caret line="107" column="38" lean-forward="false" selection-start-line="107" selection-start-column="38" selection-end-line="107" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UVA online judge/3.5.2/147 - Dollars.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/EqualTest.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UVA online judge/1.3.3/UVa 00119.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="773">
-          <caret line="65" column="1" lean-forward="false" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UVA online judge/1.3.3/UVa 00272.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UVA online judge/3.5.2/562 - Dividing coins.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="14" lean-forward="false" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UVA online judge/3.5.2/UVa 00990 - Diving For Gold.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UVA online judge/4.2/UVa 00118 - Mutant Flatworld Explorers.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/include/c++/5/bits/predefined_ops.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="193" column="19" lean-forward="false" selection-start-line="193" selection-start-column="19" selection-end-line="193" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/include/c++/5/iostream">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="61">
-          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1350">
-          <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Logics/AsseblerPass1.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Logics/assembler">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="8" lean-forward="false" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Logics/test.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3600">
-          <caret line="200" column="5" lean-forward="false" selection-start-line="200" selection-start-column="5" selection-end-line="200" selection-end-column="5" />
-          <folding>
-            <element signature="e#1#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Logics/maccro.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="7" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Logics/macro.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="190" column="28" lean-forward="true" selection-start-line="190" selection-start-column="28" selection-end-line="190" selection-end-column="28" />
-          <folding>
-            <element signature="e#1#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
