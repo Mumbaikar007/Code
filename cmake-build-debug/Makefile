@@ -2842,6 +2842,7 @@ Logics/FirstAndFollow.o: Logics/FirstAndFollow.cpp.o
 
 # target to build an object file
 Logics/FirstAndFollow.cpp.o:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Logics/FirstAndFollow.cpp.o
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Logics/FirstAndFollow.cpp.o
 .PHONY : Logics/FirstAndFollow.cpp.o
 
@@ -2851,6 +2852,7 @@ Logics/FirstAndFollow.i: Logics/FirstAndFollow.cpp.i
 
 # target to preprocess a source file
 Logics/FirstAndFollow.cpp.i:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Logics/FirstAndFollow.cpp.i
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Logics/FirstAndFollow.cpp.i
 .PHONY : Logics/FirstAndFollow.cpp.i
 
@@ -2860,6 +2862,7 @@ Logics/FirstAndFollow.s: Logics/FirstAndFollow.cpp.s
 
 # target to generate assembly for a file
 Logics/FirstAndFollow.cpp.s:
+	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Logics/FirstAndFollow.cpp.s
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Logics/FirstAndFollow.cpp.s
 .PHONY : Logics/FirstAndFollow.cpp.s
 
@@ -2943,33 +2946,6 @@ Logics/StructConstructor.s: Logics/StructConstructor.cpp.s
 Logics/StructConstructor.cpp.s:
 	$(MAKE) -f CMakeFiles/Code.dir/build.make CMakeFiles/Code.dir/Logics/StructConstructor.cpp.s
 .PHONY : Logics/StructConstructor.cpp.s
-
-Logics/lrOParser.o: Logics/lrOParser.cpp.o
-
-.PHONY : Logics/lrOParser.o
-
-# target to build an object file
-Logics/lrOParser.cpp.o:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Logics/lrOParser.cpp.o
-.PHONY : Logics/lrOParser.cpp.o
-
-Logics/lrOParser.i: Logics/lrOParser.cpp.i
-
-.PHONY : Logics/lrOParser.i
-
-# target to preprocess a source file
-Logics/lrOParser.cpp.i:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Logics/lrOParser.cpp.i
-.PHONY : Logics/lrOParser.cpp.i
-
-Logics/lrOParser.s: Logics/lrOParser.cpp.s
-
-.PHONY : Logics/lrOParser.s
-
-# target to generate assembly for a file
-Logics/lrOParser.cpp.s:
-	$(MAKE) -f CMakeFiles/single_file_exe.dir/build.make CMakeFiles/single_file_exe.dir/Logics/lrOParser.cpp.s
-.PHONY : Logics/lrOParser.cpp.s
 
 Logics/string.o: Logics/string.cpp.o
 
@@ -4265,9 +4241,6 @@ help:
 	@echo "... Logics/StructConstructor.o"
 	@echo "... Logics/StructConstructor.i"
 	@echo "... Logics/StructConstructor.s"
-	@echo "... Logics/lrOParser.o"
-	@echo "... Logics/lrOParser.i"
-	@echo "... Logics/lrOParser.s"
 	@echo "... Logics/string.o"
 	@echo "... Logics/string.i"
 	@echo "... Logics/string.s"

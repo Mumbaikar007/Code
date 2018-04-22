@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/single_file_exe.dir/Logics/lrOParser.cpp.o  -o ../Logics/single_file_exe 
+/usr/bin/c++  -g   CMakeFiles/single_file_exe.dir/Logics/FirstAndFollow.cpp.o  -o ../Logics/single_file_exe 

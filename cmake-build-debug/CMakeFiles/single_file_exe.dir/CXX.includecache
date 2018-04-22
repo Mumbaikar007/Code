@@ -6,15 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/home/optimus/Projects/Code/Logics/lrOParser.cpp
+/home/optimus/Projects/Code/Logics/FirstAndFollow.cpp
 iostream
 -
 vector
 -
 algorithm
--
-iomanip
--
-string
 -
 

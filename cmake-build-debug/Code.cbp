@@ -431,6 +431,7 @@
 			<Option target="Code"/>
 		</Unit>
 		<Unit filename="/home/optimus/Projects/Code/Logics/FirstAndFollow.cpp">
+			<Option target="single_file_exe"/>
 			<Option target="Code"/>
 		</Unit>
 		<Unit filename="/home/optimus/Projects/Code/Logics/HardCodeMatrix.cpp">
@@ -441,9 +442,6 @@
 		</Unit>
 		<Unit filename="/home/optimus/Projects/Code/Logics/StructConstructor.cpp">
 			<Option target="Code"/>
-		</Unit>
-		<Unit filename="/home/optimus/Projects/Code/Logics/lrOParser.cpp">
-			<Option target="single_file_exe"/>
 		</Unit>
 		<Unit filename="/home/optimus/Projects/Code/Logics/string.cpp">
 			<Option target="Code"/>

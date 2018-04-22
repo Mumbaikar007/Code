@@ -71,5 +71,5 @@ set(SOURCE_FILES
 
 add_executable(Code ${SOURCE_FILES})
 
-add_executable(single_file_exe Logics/lrOParser.cpp)
+add_executable(single_file_exe Logics/FirstAndFollow.cpp)
 set_target_properties(single_file_exe PROPERTIES RUNTIME_OUTPUT_DIRECTORY "${CMAKE_CURRENT_SOURCE_DIR}/Logics/")

@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/single_file_exe.dir/Logics/lrOParser.cpp.o"
+  "CMakeFiles/single_file_exe.dir/Logics/FirstAndFollow.cpp.o"
   "../Logics/single_file_exe.pdb"
   "../Logics/single_file_exe"
 )

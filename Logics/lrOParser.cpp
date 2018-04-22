@@ -164,10 +164,11 @@ int main(){
                     }
                 }
 
+
                 sort(begin(productionIndexes2), end(productionIndexes2));
                 sort(begin(startingProduction2), end(startingProduction2),
                      [](const pair<int, int> &a, const pair<int, int> &b) {
-                         return a.first < a.second;
+                         return a.first < b.first;
                 });
 
 
@@ -225,7 +226,7 @@ int main(){
         if ( i == 1){
             chart [i][terminals.size()] = "Accept";
         }
-        else {
+        
             States states1 = allPossibleStates[i];
             if ( states1.productions.size() == 1 && states1.toNextState[0].second == i){
                 for ( int k = 0 ; k <= terminals.size(); k ++){
@@ -248,7 +249,7 @@ int main(){
 
                 }
             }
-        }
+       
     }
 
     for ( int i = 0 ; i < allPossibleStates.size(); i ++){
