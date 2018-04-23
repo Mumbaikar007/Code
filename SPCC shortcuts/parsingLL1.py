@@ -19,7 +19,7 @@ try:
                 parsed = 0
                 break
         elif stack [-1] != '$' and stack [-1] == string[0]:
-            stack = stack [:len(stack)-1]
+            stack = stack [:-1]
             string = string [1:]
         else :
             print ('here')
