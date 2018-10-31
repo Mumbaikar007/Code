@@ -1,0 +1,14 @@
+ABC 	START
+	MACRO
+	ADD 	&Arg1, &Arg2
+	L	1, &Arg1
+	A	1, &Arg2
+	MEND
+	MACRO
+	SUB 	&Arg3, &Arg4
+	L 	1, &Arg3
+	S	1, &Arg4
+	MEND
+	ADD	DATA1, DATA2
+	SUB	DATA1, DATA2
+	END
