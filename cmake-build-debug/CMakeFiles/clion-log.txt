@@ -1,4 +1,4 @@
-/home/optimus/Softwares/clion-2017.3.2/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/optimus/Projects/Code
+/home/optimus/Softwares/clion-2018.2.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/optimus/Projects/The Starting of Code/Code"
 -- Configuring done
 -- Generating done
--- Build files have been written to: /home/optimus/Projects/Code/cmake-build-debug
+-- Build files have been written to: /home/optimus/Projects/The Starting of Code/Code/cmake-build-debug
